@@ -1,0 +1,7 @@
+family,n_tests,expected_n_tests,n_fdr_lt_0_05
+Hallmark combined across four axes,200,200,40
+Hallmark max-P conjunction across four axes,200,200,0
+Gene combined across four axes,39108,39108,8
+Gene max-P conjunction across four axes,39108,39108,0
+Hallmark secondary pair contrasts,100,100,9
+Gene secondary pair contrasts,19554,19554,0

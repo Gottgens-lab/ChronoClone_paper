@@ -1,0 +1,15 @@
+analysis,axis_id,axis_label,role,member_mc,target_levels,reference_levels,contrast_id,contrast_label
+primary_behavior_axis,baso_rich,Baso-rich,combined,,MC2|MC4,MC0|MC5|MC3|MC18|MC11,baso_rich__focal_pair_vs_other_five,Baso-rich: equal focal pair vs equal other five
+primary_behavior_axis,baso_rich,Baso-rich,member,2.0,MC2,MC0|MC5|MC3|MC18|MC11,baso_rich__MC2_vs_other_five,Baso-rich: MC2 vs equal other five
+primary_behavior_axis,baso_rich,Baso-rich,member,4.0,MC4,MC0|MC5|MC3|MC18|MC11,baso_rich__MC4_vs_other_five,Baso-rich: MC4 vs equal other five
+primary_behavior_axis,neu_rich,Neu-rich,combined,,MC0|MC5,MC2|MC3|MC18|MC4|MC11,neu_rich__focal_pair_vs_other_five,Neu-rich: equal focal pair vs equal other five
+primary_behavior_axis,neu_rich,Neu-rich,member,0.0,MC0,MC2|MC3|MC18|MC4|MC11,neu_rich__MC0_vs_other_five,Neu-rich: MC0 vs equal other five
+primary_behavior_axis,neu_rich,Neu-rich,member,5.0,MC5,MC2|MC3|MC18|MC4|MC11,neu_rich__MC5_vs_other_five,Neu-rich: MC5 vs equal other five
+primary_behavior_axis,mono_rich,Mono-rich,combined,,MC0|MC3,MC2|MC5|MC18|MC4|MC11,mono_rich__focal_pair_vs_other_five,Mono-rich: equal focal pair vs equal other five
+primary_behavior_axis,mono_rich,Mono-rich,member,0.0,MC0,MC2|MC5|MC18|MC4|MC11,mono_rich__MC0_vs_other_five,Mono-rich: MC0 vs equal other five
+primary_behavior_axis,mono_rich,Mono-rich,member,3.0,MC3,MC2|MC5|MC18|MC4|MC11,mono_rich__MC3_vs_other_five,Mono-rich: MC3 vs equal other five
+primary_behavior_axis,persistent_undifferentiated,Persistent-undifferentiated,combined,,MC11|MC18,MC0|MC2|MC5|MC3|MC4,persistent_undifferentiated__focal_pair_vs_other_five,Persistent-undifferentiated: equal focal pair vs equal other five
+primary_behavior_axis,persistent_undifferentiated,Persistent-undifferentiated,member,11.0,MC11,MC0|MC2|MC5|MC3|MC4,persistent_undifferentiated__MC11_vs_other_five,Persistent-undifferentiated: MC11 vs equal other five
+primary_behavior_axis,persistent_undifferentiated,Persistent-undifferentiated,member,18.0,MC18,MC0|MC2|MC5|MC3|MC4,persistent_undifferentiated__MC18_vs_other_five,Persistent-undifferentiated: MC18 vs equal other five
+secondary_pair,mc5_vs_mc3_divergence,MC5-MC3 divergence,secondary,,MC5,MC3,MC5_vs_MC3,MC5 vs MC3
+secondary_pair,mc3_vs_mc18_convergence,MC3-MC18 branch-compatibility convergence,secondary,,MC3,MC18,MC3_vs_MC18,MC3 vs MC18

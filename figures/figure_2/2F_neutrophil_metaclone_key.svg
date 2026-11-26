@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="304.334845825pt" height="26.864324087338503pt" viewBox="2.350481644999988 -4.7881657416020715 304.334845825 26.864324087338503" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-09-07T22:03:17.115127</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 20.835527  L 295.728047 20.835527  L 295.728047 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="legend_1">
+   <g id="line2d_1">
+    <defs>
+     <path id="me5bdce6dbf" d="M -4 4  L 4 4  L 4 -4  L -4 -4  z " style="stroke: #f7754f; stroke-linejoin: miter" />
+    </defs>
+    <g>
+     <use xlink:href="#me5bdce6dbf" x="15.46" y="9.55126" style="fill: #f7754f; stroke: #f7754f; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12.825px; font-family: 'Arial'; text-anchor: start; fill: #f7754f" x="29.235" y="12.87626" transform="rotate(-0 29.235 12.87626)">MC1</text>
+   </g>
+   <g id="line2d_2">
+    <defs>
+     <path id="m74c6333b99" d="M -4 4  L 4 4  L 4 -4  L -4 -4  z " style="stroke: #f565cc; stroke-linejoin: miter" />
+    </defs>
+    <g>
+     <use xlink:href="#m74c6333b99" x="71.616875" y="9.55126" style="fill: #f565cc; stroke: #f565cc; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12.825px; font-family: 'Arial'; text-anchor: start; fill: #f565cc" x="85.391875" y="12.87626" transform="rotate(-0 85.391875 12.87626)">MC22</text>
+   </g>
+   <g id="line2d_3">
+    <defs>
+     <path id="me58d28f21a" d="M -4 4  L 4 4  L 4 -4  L -4 -4  z " style="stroke: #35ae93; stroke-linejoin: miter" />
+    </defs>
+    <g>
+     <use xlink:href="#me58d28f21a" x="133.056641" y="9.55126" style="fill: #35ae93; stroke: #35ae93; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12.825px; font-family: 'Arial'; text-anchor: start; fill: #35ae93" x="146.831641" y="12.87626" transform="rotate(-0 146.831641 12.87626)">MC9</text>
+   </g>
+   <g id="line2d_4">
+    <defs>
+     <path id="m8f648e67b3" d="M -4 4  L 4 4  L 4 -4  L -4 -4  z " style="stroke: #a48cf4; stroke-linejoin: miter" />
+    </defs>
+    <g>
+     <use xlink:href="#m8f648e67b3" x="189.213516" y="9.55126" style="fill: #a48cf4; stroke: #a48cf4; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12.825px; font-family: 'Arial'; text-anchor: start; fill: #a48cf4" x="202.988516" y="12.87626" transform="rotate(-0 202.988516 12.87626)">MC16</text>
+   </g>
+   <g id="line2d_5">
+    <defs>
+     <path id="m60b46fe37d" d="M -4 4  L 4 4  L 4 -4  L -4 -4  z " style="stroke: #6e9bf4; stroke-linejoin: miter" />
+    </defs>
+    <g>
+     <use xlink:href="#m60b46fe37d" x="250.653281" y="9.55126" style="fill: #6e9bf4; stroke: #6e9bf4; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12.825px; font-family: 'Arial'; text-anchor: start; fill: #6e9bf4" x="264.428281" y="12.87626" transform="rotate(-0 264.428281 12.87626)">MC14</text>
+   </g>
+  </g>
+ </g>
+</svg>

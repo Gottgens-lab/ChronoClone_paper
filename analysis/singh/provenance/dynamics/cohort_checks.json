@@ -1,0 +1,50 @@
+{
+  "source_object": "/path/to/ChronoClone/reference_workspace/data/adata_valid_palantir_20260626.h5ad",
+  "cells_in_object": 14921,
+  "source_categories": [
+    "Basophil",
+    "Ery",
+    "GMP",
+    "HSC",
+    "MPP",
+    "Mk",
+    "Monocyte",
+    "Neutrophil"
+  ],
+  "mapped_to": [
+    "HSPC",
+    "GMP",
+    "Mk",
+    "Ery",
+    "Basophil",
+    "Monocyte",
+    "Neutrophil"
+  ],
+  "mapping_keys_with_no_cells": [],
+  "counts_by_analysis_category": {
+    "HSPC": 10013,
+    "GMP": 1904,
+    "Mk": 1803,
+    "Basophil": 388,
+    "Neutrophil": 336,
+    "Ery": 291,
+    "Monocyte": 186
+  },
+  "counts_by_source_category": {
+    "HSC": 5092,
+    "MPP": 4921,
+    "GMP": 1904,
+    "Mk": 1803,
+    "Basophil": 388,
+    "Neutrophil": 336,
+    "Ery": 291,
+    "Monocyte": 186
+  },
+  "basophil_cells_recovered": 388,
+  "hspc_cells_pooled": 10013,
+  "cells_with_unresolved_lineage_id": 25,
+  "distinct_resolved_lineage_families": 1516,
+  "distinct_if_nan_had_been_stringified": 1517,
+  "day7_resolved_cells": 2713,
+  "day7_resolved_families": 1514
+}

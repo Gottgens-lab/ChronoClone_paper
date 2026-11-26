@@ -1,0 +1,177 @@
+{
+  "retrieved": "2026-09-14",
+  "source_url": "https://api.figshare.com/v2/articles/27908142/versions/2",
+  "record": {
+    "url_public_html": "https://figshare.com/articles/dataset/CLADES/27908142/2",
+    "files": [
+      {
+        "id": 50811972,
+        "name": "CordBloodDynamicBoots.zip",
+        "size": 471594053,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/50811972",
+        "supplied_md5": "aa38135293d5fc188e764ced5557b46a",
+        "computed_md5": "aa38135293d5fc188e764ced5557b46a",
+        "mimetype": "application/zip"
+      },
+      {
+        "id": 50812002,
+        "name": "CordBlood_Refine.zip",
+        "size": 713764430,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/50812002",
+        "supplied_md5": "ca47b6375b974b255ab2b0e0499a0e03",
+        "computed_md5": "ca47b6375b974b255ab2b0e0499a0e03",
+        "mimetype": "application/zip"
+      },
+      {
+        "id": 50812011,
+        "name": "SimulationsConstNoise.tar.gz",
+        "size": 1107561,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/50812011",
+        "supplied_md5": "c3c6fff88a25fc897f047239d937a562",
+        "computed_md5": "c3c6fff88a25fc897f047239d937a562",
+        "mimetype": "application/x-gzip"
+      },
+      {
+        "id": 50812014,
+        "name": "SimulationsDynamicNoise.tar.gz",
+        "size": 76730029,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/50812014",
+        "supplied_md5": "48f68418d37b5fb2385bbf521a776114",
+        "computed_md5": "48f68418d37b5fb2385bbf521a776114",
+        "mimetype": "application/x-gzip"
+      },
+      {
+        "id": 50812005,
+        "name": "SimulationsDynamic.tar.gz",
+        "size": 5960769,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/50812005",
+        "supplied_md5": "33f9d5f70358327f8d127967988f573b",
+        "computed_md5": "33f9d5f70358327f8d127967988f573b",
+        "mimetype": "application/x-gzip"
+      },
+      {
+        "id": 50812008,
+        "name": "SimulationsConst.tar.gz",
+        "size": 2270545,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/50812008",
+        "supplied_md5": "0b0578d812437666e6f1744be5de7a39",
+        "computed_md5": "0b0578d812437666e6f1744be5de7a39",
+        "mimetype": "application/x-gzip"
+      },
+      {
+        "id": 50812044,
+        "name": "Weinreb.zip",
+        "size": 846198775,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/50812044",
+        "supplied_md5": "cbfa6a1442325300bc4ef257b2fb7d46",
+        "computed_md5": "cbfa6a1442325300bc4ef257b2fb7d46",
+        "mimetype": "application/zip"
+      },
+      {
+        "id": 50812086,
+        "name": "WeinrebDynamicBoots.zip",
+        "size": 1006918327,
+        "is_link_only": false,
+        "download_url": "https://ndownloader.figshare.com/files/50812086",
+        "supplied_md5": "5911dfa026f9409362a27515025dc2c0",
+        "computed_md5": "5911dfa026f9409362a27515025dc2c0",
+        "mimetype": "application/zip"
+      }
+    ],
+    "folder_structure": {},
+    "authors": [
+      {
+        "id": 20327175,
+        "full_name": "Mingze Gao",
+        "first_name": "Mingze",
+        "last_name": "Gao",
+        "is_active": true,
+        "url_name": "Mingze_Gao",
+        "orcid_id": ""
+      }
+    ],
+    "custom_fields": [],
+    "figshare_url": "https://figshare.com/articles/dataset/CLADES/27908142",
+    "download_disabled": false,
+    "description": "<p dir=\"ltr\">Synthetic and real-world datasets described and used in the <a href=\"https://www.biorxiv.org/content/10.1101/2024.07.08.602444v1\" rel=\"noreferrer\" target=\"_blank\">CLADES paper</a>, containing processed adata files and model outputs.</p>",
+    "funding": null,
+    "funding_list": [],
+    "version": 2,
+    "status": "public",
+    "size": 3124544489,
+    "created_date": "2024-11-27T05:48:02Z",
+    "modified_date": "2024-11-27T05:48:03Z",
+    "is_public": true,
+    "is_confidential": false,
+    "is_metadata_record": false,
+    "confidential_reason": "",
+    "metadata_reason": "",
+    "license": {
+      "value": 1,
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "tags": [
+      "Barcode",
+      "Hematopoiesis",
+      "LT-scSeq",
+      "NeuralODE",
+      "Markovian Chain",
+      "Lineage Tracing"
+    ],
+    "keywords": [
+      "Barcode",
+      "Hematopoiesis",
+      "LT-scSeq",
+      "NeuralODE",
+      "Markovian Chain",
+      "Lineage Tracing"
+    ],
+    "categories": [
+      {
+        "id": 24892,
+        "title": "Other biomedical and clinical sciences not elsewhere classified",
+        "parent_id": 24889,
+        "path": "/24457/24889/24892",
+        "source_id": "329999",
+        "taxonomy_id": 100
+      }
+    ],
+    "references": [],
+    "has_linked_file": false,
+    "citation": "Gao, Mingze (2024). Unveiling clonal cell fate and differentiation dynamics: A hybrid NeuralODE-Gillespie approach. figshare. Dataset. https://doi.org/10.6084/m9.figshare.27908142.v2",
+    "related_materials": [],
+    "is_embargoed": false,
+    "embargo_date": null,
+    "embargo_type": null,
+    "embargo_title": "",
+    "embargo_reason": "",
+    "embargo_options": [],
+    "id": 27908142,
+    "title": "Unveiling clonal cell fate and differentiation dynamics: A hybrid NeuralODE-Gillespie approach",
+    "doi": "10.6084/m9.figshare.27908142.v2",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/27908142",
+    "published_date": "2024-11-27T05:48:02Z",
+    "thumb": "",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": null,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/27908142",
+    "url_public_api": "https://api.figshare.com/v2/articles/27908142",
+    "url_private_html": "https://figshare.com/account/articles/27908142",
+    "timeline": {
+      "posted": "2024-11-27T05:48:02",
+      "firstOnline": "2024-11-26"
+    },
+    "resource_title": null,
+    "resource_doi": null
+  }
+}

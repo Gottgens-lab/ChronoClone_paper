@@ -1,0 +1,109 @@
+{
+  "status": "passed",
+  "check_count": 376,
+  "source_artifact_count": 347,
+  "environment": {
+    "name": "chronoclone",
+    "manager": "existing Conda-compatible installation",
+    "local_recorded_prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+    "actual_prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone-paper",
+    "Python": "3.11.15",
+    "versions": {
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "statsmodels": "0.14.6",
+      "nbformat": "5.10.4",
+      "nbclient": "0.11.0"
+    },
+    "command": "python -m jupyter nbconvert --execute --to notebook --inplace --ExecutePreprocessor.kernel_name=chronoclone-paper 0001_validate_published_evidence.ipynb"
+  },
+  "scope": "Frozen evidence integrity and selected numerical reconciliation; no source scientific notebook rerun or original partition refit",
+  "source_notebooks": [
+    {
+      "notebook": "source_notebooks/dynamics/0001_family_aware_responses.ipynb",
+      "code_cells": 11,
+      "executed_cells": 11,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/dynamics/0002_mc3_branch_responses.ipynb",
+      "code_cells": 7,
+      "executed_cells": 7,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/dynamics/0003_core_panel_visual_review.ipynb",
+      "code_cells": 2,
+      "executed_cells": 2,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/programs/0002_rna_normalized_day7_programs.ipynb",
+      "code_cells": 9,
+      "executed_cells": 9,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/lineage_responses/0001_lineage_state_responses.ipynb",
+      "code_cells": 14,
+      "executed_cells": 14,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/lineage_responses/0002_execution_validation.ipynb",
+      "code_cells": 1,
+      "executed_cells": 1,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/program_annotations/0001_gene_grounded_program_annotations.ipynb",
+      "code_cells": 15,
+      "executed_cells": 15,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/program_annotations/0002_annotation_delivery_checks.ipynb",
+      "code_cells": 1,
+      "executed_cells": 1,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/landscape/0001_reference_story_audit.ipynb",
+      "code_cells": 4,
+      "executed_cells": 4,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/landscape/0001_singh_landscape_and_reference.ipynb",
+      "code_cells": 8,
+      "executed_cells": 8,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/atlas/0001_singh_weinreb_style_umaps.ipynb",
+      "code_cells": 124,
+      "executed_cells": 124,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/atlas/0002_style_validation_and_browser.ipynb",
+      "code_cells": 3,
+      "executed_cells": 3,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/grid_layout/0001_figure2b_grid_layout.ipynb",
+      "code_cells": 20,
+      "executed_cells": 20,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "source_notebooks/clone_embedding/0001_saved_clone_umaps.ipynb",
+      "code_cells": 5,
+      "executed_cells": 5,
+      "stored_errors": 0
+    }
+  ]
+}

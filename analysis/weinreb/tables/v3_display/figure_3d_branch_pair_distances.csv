@@ -1,0 +1,3 @@
+cohort,example,metaclone_a,metaclone_b,estimator,day4_distance,day6_distance,distance_change,observed_direction,coordinate_system
+day2_hspc_linked,MC5–MC3 previously described divergence,5,3,clone_balanced_occupancy,0.3674992588354215,0.5225872640668132,0.1550880052313917,divergence,Euclidean distance in three overlapping Baso/Neu/Mono branch occupancies
+day2_hspc_linked,MC3–MC18 previously described convergence,3,18,clone_balanced_occupancy,0.4416304080745016,0.2596726933287187,-0.1819577147457829,convergence,Euclidean distance in three overlapping Baso/Neu/Mono branch occupancies

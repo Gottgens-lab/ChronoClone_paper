@@ -1,0 +1,25 @@
+check,passed,detail
+input_object_sha256,True,observed=4cb08c12dc70f5c3789a75a09a6399db06b3f6efe18147b9f2cca0908ba93911
+lineage_map_sha256,True,observed=b4d1af7b481a9b1a26d781feb449fb88d300d770c20633054e152f213fa18eb6
+population_removed,True,removed immediately after object read
+output_headers_population_free,True,checked=136 tables
+all_day2_prog1_plus_prog2_cells,True,observed=1041
+assigned_analysis_cells,True,observed=775
+clone_pseudobulks,True,observed=569
+current_metaclones,True,observed=20
+current_lineage_families,True,observed=5
+minimum_metaclone_clone_support,True,observed_min=17
+count_integer_lattice_error,True,observed=4.55e-13
+full_rank_metaclone_model,True,rank=26/26
+full_rank_lineage_model,True,rank=11/11
+contrast_registry_complete,True,"{""all_metaclones_ovr"": 20, ""lineage_bias_ovr"": 5, ""lineage_bias_pairwise"": 10, ""within_lineage_ovr"": 19, ""within_lineage_pairwise"": 40}"
+program_test_grid_complete,True,observed=4700 expected=4700
+gsea_test_grid_complete,True,contrasts=44 tests=2200
+finite_program_statistics,True,"effect, SE, t, and p checked"
+basophil_within_family_not_estimated,True,one Basophil metaclone
+legacy_rule_disagreement_audited,True,"expected current-vs-legacy disagreements: MC0, MC5"
+plot_cell_count,True,observed=9 expected=9
+plot_cell_inline_contract,True,one inline figure construction/save/display/close per plot cell
+svg_outputs,True,expected=9
+png_outputs,True,expected=9
+hallmark_resource_checkpoint,True,sha256=4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81

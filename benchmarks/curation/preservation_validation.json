@@ -1,0 +1,49 @@
+{
+  "status": "pass",
+  "figure_comparisons": 43,
+  "notebooks": [
+    {
+      "notebook": "0003_t1_locked_method_noise_results.ipynb",
+      "code_cells": 20,
+      "retained_output_cells": 20,
+      "pre_publication_execution_sha256": "650e4538109d5d888a2bbee447420bfcb9b771f3f0f0638492bb38499359b464",
+      "publication_sha256": "317148369f9f6af44b08082650fd15530ed6d37602da867f65ab8a60c62b6a3b"
+    },
+    {
+      "notebook": "0005_t1_locked_four_method_noise_results.ipynb",
+      "code_cells": 19,
+      "retained_output_cells": 19,
+      "pre_publication_execution_sha256": "e968e86f04a2424ed2a797f2ebb461c8dc95e22434a1cdd8d1b7623b8bb3aa9b",
+      "publication_sha256": "a7dc4f3ae963d1893c7bfb59998319df9135ce1087e9350e03f2c550f3eeb922"
+    },
+    {
+      "notebook": "0006_benchmark_evidence_and_smoke.ipynb",
+      "code_cells": 5,
+      "retained_output_cells": 5,
+      "pre_publication_execution_sha256": "eda61b342f1f485cf2a67591e02fa5cf0556d258d39fddd027375045fbb328cc",
+      "publication_sha256": "771c534fa36bec61c3a5efa339ee511a774ea781a1c42e5420741829a648315c"
+    }
+  ],
+  "smoke_help_independent_cwd": true,
+  "runtime": {
+    "manager": "existing micromamba-compatible environment, reused without modification",
+    "name": "chronoclone",
+    "absolute_macbook_path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "current_prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+    "current_executable": "/path/to/ChronoClone/.runtime/chronoclone/bin/python",
+    "python": "3.11.15",
+    "versions": {
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "scikit-learn": "1.9.0",
+      "scanpy": "1.11.5",
+      "matplotlib": "3.11.0",
+      "nbformat": "5.10.4",
+      "nbclient": "0.11.0"
+    },
+    "execution_command": "python benchmarks/run_notebook.py benchmarks/curation/0002_preservation_checks.ipynb --kernel chronoclone"
+  },
+  "record_status": "Historical figure comparison; path display labels normalized. Current checks are in publication_preservation_validation.json."
+}

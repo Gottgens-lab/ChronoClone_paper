@@ -1,0 +1,10 @@
+estimand,analysis_role,temporal_scope,n_tests,n_estimable,n_nominal_p_lt_0_05,n_endpoint_fdr_lt_0_05,n_analysis_wide_fdr_lt_0_05,n_lomo_sign_stable
+clone_balanced_all_observed_cells,primary,Day 4,500,450,5,0,0,99
+clone_balanced_all_observed_cells,primary,Day 6,500,500,12,0,0,206
+clone_balanced_all_observed_cells,primary,Day 6 minus Day 4,500,500,19,0,0,228
+clone_balanced_mature_only,sensitivity,Day 4,450,400,2,0,0,49
+clone_balanced_mature_only,sensitivity,Day 6,450,450,13,0,0,175
+clone_balanced_mature_only,sensitivity,Day 6 minus Day 4,450,450,13,0,0,183
+pooled_cells_all_observed_cells,sensitivity,Day 4,500,450,11,0,0,122
+pooled_cells_all_observed_cells,sensitivity,Day 6,500,500,15,0,0,213
+pooled_cells_all_observed_cells,sensitivity,Day 6 minus Day 4,500,500,11,0,0,227

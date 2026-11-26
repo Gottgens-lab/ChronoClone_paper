@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "path": "checkpoints/rna_input/cell_registry.csv",
+      "bytes": 135935,
+      "sha256": "75ee3ea5a44258dcc68d7bb00769ddeba6e5a8401e6f16624319f4c5778d24c7",
+      "historical_sha256": "75ee3ea5a44258dcc68d7bb00769ddeba6e5a8401e6f16624319f4c5778d24c7"
+    },
+    {
+      "path": "checkpoints/rna_input/extraction_receipt.json",
+      "bytes": 983,
+      "sha256": "1ada910fdeaef40aafbf25be2ebf0f3c9d54dab944efb3c6969cfd60b9416b44",
+      "historical_sha256": "7b176075015c56423443e28d01ffb5e2e52692295824840e1ce0507e7665bdce"
+    },
+    {
+      "path": "checkpoints/rna_input/nmf_input.npz",
+      "bytes": 2511441,
+      "sha256": "ff41b68e034de7808346b14884e587d5be4a0491c26a1ab1dbf14e9fd1877ba5",
+      "historical_sha256": "ff41b68e034de7808346b14884e587d5be4a0491c26a1ab1dbf14e9fd1877ba5"
+    },
+    {
+      "path": "checkpoints/rna_input/rna_genes.csv",
+      "bytes": 151436,
+      "sha256": "9dc2cf7010ef922c2cce9b71027b4c2ff19ad01b423890ea64f16db82053e50e",
+      "historical_sha256": "9dc2cf7010ef922c2cce9b71027b4c2ff19ad01b423890ea64f16db82053e50e"
+    },
+    {
+      "path": "checkpoints/rna_input/rna_log1p_matrix.npz",
+      "bytes": 23772216,
+      "sha256": "b19ea5e87bb998cc6dedc23742cd521ca10f3343b39442a43d1e9d5928d5302e",
+      "historical_sha256": "b19ea5e87bb998cc6dedc23742cd521ca10f3343b39442a43d1e9d5928d5302e"
+    }
+  ]
+}

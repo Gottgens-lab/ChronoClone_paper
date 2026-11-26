@@ -1,0 +1,39 @@
+check,passed,detail
+frozen_source_hashes_and_sizes,True,11
+one_primary_observation_per_LARRY_clone,True,569
+primary_hypothesis_keys_unique,True,3000
+independent_primary_BH_monocyte_pace_50,True,2.463307335887066e-16
+independent_primary_BH_within_lineage_ovr,True,3.999404973864529e-15
+independent_primary_BH_within_lineage_pairwise,True,3.6958283655685875e-15
+independent_sensitivity_BH_and_fixed_family_sizes,True,33 primary/sensitivity families
+all_original_2950_hypotheses_reconciled,True,2950
+original_effect_SE_p_q_reproduced,True,"[{'quantity': 'effect_sd', 'max_absolute_error': 6.6058269965196814e-15}, {'quantity': 'standard_error', 'max_absolute_error': 1.3877787807814457e-15}, {'quantity': 'pvalue', 'max_absolute_error': 1.9206858326015208e-14}, {'quantity': 'qvalue', 'max_absolute_error': 2.2426505097428162e-14}]"
+pace_effect_reconstructed_from_original_MC_means,True,1.5543122344752192e-15
+example_selection_reconstructed_without_p_or_q_input,True,"[{'example_id': 'mono_1', 'program': 'Inflammatory Response', 'selection_agrees': True}, {'example_id': 'mono_2', 'program': 'Myc Targets V2', 'selection_agrees': True}, {'example_id': 'multi_divergence', 'program': 'Interferon Alpha Response', 'selection_agrees': True}, {'example_id': 'multi_convergence', 'program': 'Interferon Alpha Response', 'selection_agrees': True}]"
+all_four_selected_examples_reconciled,True,4
+all_ten_sensitivity_variants_present,True,"['nonmito_poscounts', 'prog2_only', 'source_fraction_adjusted', 'without_library__LK_d2', 'without_library__LSK_d2_1', 'without_library__LSK_d2_2', 'without_library__LSK_d2_3', 'without_library__d2_1', 'without_library__d2_2', 'without_library__d2_3']"
+nonmitochondrial_normalization_gene_register,True,9053
+normalization_size_factor_support_per_clone,True,569
+executed_main_PyDESeq2_normalization_compatibility_audit,True,"[{'method': 'PyDESeq2 poscounts with nonmitochondrial control genes', 'control_rule': 'fixed 9777 genes excluding case-insensitive mt- prefix; no metaclone or program-effect selection', 'eligible_normalization_genes': 9053, 'size_factor_direct_vs_api_max_error': 0.0, 'score_genes_unchanged': 9777, 'clones_unchanged': 569}]"
+all_four_distributions_repeat_exact_same_clones,True,4
+frozen_scale_forest_CIs_and_NE_are_exact,True,"[{'plot_table': 'program_06_mono_1_sensitivity_forest_plot_data.csv', 'max_interval_error': 2.220446049250313e-16, 'support_display_matches': True, 'unsupported_rows_have_reason': True}, {'plot_table': 'program_07_multi_divergence_sensitivity_forest_plot_data.csv', 'max_interval_error': 2.220446049250313e-16, 'support_display_matches': True, 'unsupported_rows_have_reason': True}]"
+all_gene_contributions_sum_to_program_effect,True,2.3314683517128287e-15
+displayed_gene_contributions_mono_1,True,program_08_mono_1_leading_gene_contributions_plot_data.csv
+displayed_gene_contributions_multi_divergence,True,program_09_multi_divergence_leading_gene_contributions_plot_data.csv
+main_notebook_sequential_complete_execution,True,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]"
+main_notebook_no_error_outputs,True,[]
+main_notebook_no_stderr_outputs,True,[]
+twelve_plots_inline_runtime_and_visible_outputs,True,12
+all_SVGs_editable_and_matched_to_plot_cells,True,12
+main_own_validation_passes,True,32
+dynamics_own_validation_passes,True,11
+heatmap_population_zscores_and_clipping,True,200
+heatmap_blue_white_red_contract_retained,True,SVG palette endpoints and zero
+cNMF_recovery_gates_reproduced_without_reset,True,26
+cNMF_conservative_novelty_gate_reproduced,True,13
+cNMF_zero_conservative_candidates_preserved,True,0
+cNMF_computed_findings_verbatim,True,9548ec68826cfbce719e0614fcf0a97f1d6b8d6fc704b4538cb8dabda7d47c88
+completed_main_artifact_manifest_hashes,True,82
+manual_reviews_cover_exact_current_program_figures,True,9
+attributed_dynamics_reviews_cover_exact_current_figures,True,research /root/ancestry_dynamics agent; individual post-rerun approval communicated by /root on 2026-09-10
+manual_reviews_cover_each_executed_plot_once,True,12

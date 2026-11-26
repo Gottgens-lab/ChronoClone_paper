@@ -1,0 +1,6 @@
+audit_item,value,n
+input_cells,all Day-2 prog_1 + prog_2 HSPCs,1041
+expression_input,recovered counts only,25289
+metadata_used_in_discovery,day|cell_type (eligibility gate only),2
+forbidden_fields_used,,0
+unassigned_current_metaclone_cells_included,yes,266

@@ -1,0 +1,21 @@
+metaclone,current_family,legacy_threshold_family,top_output,top_fraction,classification_differs
+9,Neutrophil,Neutrophil,Neu,0.95,False
+14,Neutrophil,Neutrophil,Neu,0.975,False
+16,Neutrophil,Neutrophil,Neu,0.935,False
+22,Neutrophil,Neutrophil,Neu,0.983,False
+1,Neutrophil,Neutrophil,Neu,0.949,False
+12,Monocyte,Monocyte,Mono,0.938,False
+7,Monocyte,Monocyte,Mono,0.942,False
+8,Monocyte,Monocyte,Mono,0.901,False
+6,Monocyte,Monocyte,Mono,0.94,False
+10,Erythroid / Mk,Erythroid / Mk,Ery/Mk,0.795,False
+17,Erythroid / Mk,Erythroid / Mk,Ery/Mk,0.889,False
+23,Erythroid / Mk,Erythroid / Mk,Ery/Mk,0.8,False
+13,Basophil,Basophil,Baso,0.954,False
+0,Multi-lineage,Neutrophil,Neu,0.666,True
+2,Multi-lineage,Multi-lineage,Baso,0.456,False
+5,Multi-lineage,Neutrophil,Neu,0.714,True
+3,Multi-lineage,Multi-lineage,Neu,0.514,False
+18,Multi-lineage,Multi-lineage,Mono,0.517,False
+4,Multi-lineage,Multi-lineage,Neu,0.257,False
+11,Multi-lineage,Multi-lineage,Ery/Mk,0.381,False

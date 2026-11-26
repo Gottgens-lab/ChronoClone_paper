@@ -1,0 +1,9 @@
+check,value
+all_Day2_prog1_plus_prog2_cells,1041
+assigned_Day2_HSPC_cells_analyzed,775
+unassigned_Day2_HSPC_cells_excluded_no_metaclone,266
+analyzed_LARRY_clones,569
+analyzed_metaclones,20
+lineage_bias_families,5
+clones_spanning_both_source_sublabels,23
+minimum_clones_in_any_metaclone,17

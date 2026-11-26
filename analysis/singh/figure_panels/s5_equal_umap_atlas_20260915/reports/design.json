@@ -1,0 +1,97 @@
+{
+  "fullmap_cells": 96662,
+  "registry_cells": 14896,
+  "unique_families": 1516,
+  "metaclones": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    19
+  ],
+  "snapshots": [
+    [
+      "WT",
+      "D7"
+    ],
+    [
+      "WT",
+      "D14"
+    ],
+    [
+      "WT",
+      "D27"
+    ],
+    [
+      "Npm1c",
+      "D14"
+    ],
+    [
+      "Npm1c",
+      "D27"
+    ],
+    [
+      "Dnmt3a",
+      "D14"
+    ],
+    [
+      "Dnmt3a",
+      "D27"
+    ]
+  ],
+  "expected_maps": 119,
+  "plot_xlim": [
+    -5.9684041976928714,
+    7.454280757904053
+  ],
+  "plot_ylim": [
+    -9.033657455444336,
+    5.982400798797608
+  ],
+  "bandwidth_umap_units": 0.4,
+  "grid_size": [
+    256,
+    256
+  ],
+  "grid_dx": 0.06180736310780066,
+  "grid_dy": 0.06803147755563188,
+  "density_min_cells": 20,
+  "density_min_families": 3,
+  "density_weighting": "each observed cell equally weighted within its MC/arm/day snapshot",
+  "source_coordinate_identity": "exact float64 values from original X_umap in source row order",
+  "mc_label_palette": {
+    "0": "#f77189",
+    "1": "#f8763b",
+    "2": "#d28e32",
+    "3": "#b79932",
+    "4": "#9ea231",
+    "5": "#7caa31",
+    "6": "#31b345",
+    "7": "#34b081",
+    "9": "#35ae9a",
+    "10": "#36acad",
+    "11": "#38aac1",
+    "12": "#3aa6dd",
+    "13": "#7699f4",
+    "15": "#b087f4",
+    "16": "#df6df4",
+    "17": "#f563d8",
+    "19": "#f66ab2"
+  },
+  "font_family": "DejaVu Sans",
+  "expression_matrix_accessed": false,
+  "umap_refitted": false,
+  "background_rasterized_only": true
+}

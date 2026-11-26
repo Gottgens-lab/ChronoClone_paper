@@ -1,0 +1,44 @@
+{
+  "environment": {
+    "name": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "python": "3.11.15 | packaged by conda-forge | (main, Jun 11 2026, 03:29:05) [Clang 19.1.7 ]",
+    "versions": {
+      "pandas": "2.3.3",
+      "nbformat": "5.10.4",
+      "matplotlib": "3.11.0"
+    }
+  },
+  "annotation_notebook_sha256": "b7fa08fb2bfefbf943efcfb0e78b9a9e3fc7bb2ffc083729c454bbef7fc73cbf",
+  "code_cells": 15,
+  "dedicated_plot_cells": 3,
+  "errors": 0,
+  "stderr_outputs": 0,
+  "unchanged_source_files": 11,
+  "all_original_profile_values_exact": true,
+  "individual_visual_checks": [
+    {
+      "panel": "A",
+      "png": "panels/07a_day7_metaclone_program_usage.png",
+      "sha256": "95db50f2dd594e5afb345199d9a406268180cbb9746da3df8d533718b254a022",
+      "verdict": "pass",
+      "inspection": "Opened individually at original resolution; labels, markers and colorbar readable; no title/prose, clipping or overlap; one raw panel per file."
+    },
+    {
+      "panel": "B",
+      "png": "panels/07b_day7_representative_gene_loadings.png",
+      "sha256": "6f77ce6615ab4fe6ccbfadf3a58c90e0ec45fe9526b71f73f370ae3d74054a6e",
+      "verdict": "pass",
+      "inspection": "Opened individually at original resolution; labels, markers and colorbar readable; no title/prose, clipping or overlap; one raw panel per file."
+    },
+    {
+      "panel": "C",
+      "png": "panels/07c_day7_mc3_mc7_annotated_profiles.png",
+      "sha256": "e05f9f64390ef3d6f7134827b1f4a71d172b192ffd409fcc3f86ae6246112b98",
+      "verdict": "pass",
+      "inspection": "Opened individually at original resolution; labels, markers and colorbar readable; no title/prose, clipping or overlap; one raw panel per file."
+    }
+  ],
+  "historical_annotation_notebook_sha256": "8ef3ba11c8d9de23f8bb0250403640bae812c7200c16069917b6ddd3abb19fa4"
+}

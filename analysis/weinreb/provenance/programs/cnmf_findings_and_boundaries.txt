@@ -1,0 +1,26 @@
+INDEPENDENT DE NOVO cNMF PROGRAM FAMILY — COMPUTED FINDINGS
+
+DISCOVERY (LABEL-BLIND)
+- Frozen K=13; selection mode=protocol_amendment_fewer_than_3_eligible__stability_within_0.01_then_min_error; eligible K=11,13; stability=1.000; worst-cluster stability=1.000; consensus relative error=0.9093.
+- 30 distinct random restarts per K; selected-K convergence=100.0%; minimum restart coverage=46.7%.
+- Discovery used 1,041 cells / 784 clones and 2,000 audited genes; synthetic readout features found=0.
+
+CLONE-LEVEL METACLONE INFERENCE
+- Broad supported tier-FDR<0.05 effects: 8 of 1170 supported program-contrast tests.
+- Targeted combined global-FDR<0.05 effects: 1 of 52; full shared-signature gate: 0.
+- Post-freeze program recovery: library-removal gate 0/13; within-library prog_1/prog_2-balance gate 3/13.
+- Targeted combined hits:
+  - Neu-rich / Weinreb_D2_cNMF_K13_P07: effect=-0.517 SD, combined q=0.0263, conjunction q=0.447, shared=False, annotation=Flagged: library_associated, library-associated=True, library-recovery=False, source-balance-recovery=True, fully stable/unflagged=False.
+- Targeted hits passing shared behavior, both program-recovery gates, and no technical/context flag: 0.
+
+POST-FIT ANNOTATION AND REFERENCE CAPTURE
+- Programs with a technical/context flag: 3/13.
+- Conservative metaclone-associated not-captured candidates: 0/13.
+  - None pass the complete association, capture, technical, library, and source-composition gates.
+
+INTERPRETATION BOUNDARIES
+- cNMF discovery is cell-resolved, but every comparison and p-value uses one LARRY-clone usage value.
+- Program usage is compositional; increasing one fractional usage necessarily reduces others.
+- Metaclone and behavior-axis labels summarize later realized descendants; associations are retrospective.
+- No classifier or prediction model is fitted, and no result shows that a Day-2 program prospectively determines fate.
+- Novelty is assessed only against the fixed, hash-audited Hallmark/hematopoietic reference family.

@@ -1,0 +1,73 @@
+K,diagnostic,scaled_utility
+3,Consensus stability,0.0
+4,Consensus stability,0.9124762988378413
+5,Consensus stability,0.4670951729906003
+6,Consensus stability,0.9560900628814503
+7,Consensus stability,0.999749429328029
+8,Consensus stability,0.9992534189804508
+9,Consensus stability,0.9453363609845931
+10,Consensus stability,0.9999137233534636
+11,Consensus stability,0.9997432879432507
+12,Consensus stability,0.9999793605730795
+13,Consensus stability,1.0
+14,Consensus stability,0.9999876424941969
+15,Consensus stability,0.9366308205276915
+16,Consensus stability,0.8321254336606396
+17,Consensus stability,0.9815623845889188
+18,Consensus stability,0.9927409944557424
+19,Consensus stability,0.9132038805238102
+20,Consensus stability,0.9044188532837575
+3,1 - reconstruction error,0.3517078521351047
+4,1 - reconstruction error,0.468118883430045
+5,1 - reconstruction error,0.0029783453977881387
+6,1 - reconstruction error,0.0
+7,1 - reconstruction error,0.17552717321055447
+8,1 - reconstruction error,0.6384806137537142
+9,1 - reconstruction error,0.26350040341311726
+10,1 - reconstruction error,0.4218126407890688
+11,1 - reconstruction error,0.4997002554670505
+12,1 - reconstruction error,0.5682959080320403
+13,1 - reconstruction error,0.6426476020722284
+14,1 - reconstruction error,0.7273268891285976
+15,1 - reconstruction error,0.725308713207639
+16,1 - reconstruction error,0.7234361580462874
+17,1 - reconstruction error,0.8689260809186312
+18,1 - reconstruction error,0.897530312383469
+19,1 - reconstruction error,1.0
+20,1 - reconstruction error,0.9451516420537741
+3,Minimum mean usage,0.24991302864218445
+4,Minimum mean usage,0.22665451824399477
+5,Minimum mean usage,1.0
+6,Minimum mean usage,0.43885880937502314
+7,Minimum mean usage,0.7051383479072986
+8,Minimum mean usage,0.2579013576370953
+9,Minimum mean usage,0.2842022744717593
+10,Minimum mean usage,0.4827091645586949
+11,Minimum mean usage,0.42781236548450313
+12,Minimum mean usage,0.39214284006932393
+13,Minimum mean usage,0.36504204428292575
+14,Minimum mean usage,0.3195823872818067
+15,Minimum mean usage,0.05906521283166615
+16,Minimum mean usage,0.07284210635365537
+17,Minimum mean usage,0.10873957009987549
+18,Minimum mean usage,0.0
+19,Minimum mean usage,0.24081327801473743
+20,Minimum mean usage,0.0023850753634512257
+3,Program distinctness,0.12046931130813585
+4,Program distinctness,0.8660713124517954
+5,Program distinctness,1.0
+6,Program distinctness,0.0006152071709922648
+7,Program distinctness,0.998289543120039
+8,Program distinctness,0.8769683875467584
+9,Program distinctness,0.0005065039444801978
+10,Program distinctness,0.993229929965343
+11,Program distinctness,0.9855499672647535
+12,Program distinctness,0.9862347278683585
+13,Program distinctness,0.9837639799479002
+14,Program distinctness,0.9741394211555578
+15,Program distinctness,1.933996747482394e-05
+16,Program distinctness,2.5843062875440765e-05
+17,Program distinctness,0.2674340711938286
+18,Program distinctness,0.0014088375184675215
+19,Program distinctness,0.9447890830478473
+20,Program distinctness,0.0

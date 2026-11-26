@@ -1,0 +1,4 @@
+model,n_clone_units,n_columns,rank,condition_number
+broad_metaclone,569,27,27,29.47297305398076
+broad_lineage_family,569,12,12,7.0311928906131
+targeted_seven_MC,217,14,14,27.333442039392654

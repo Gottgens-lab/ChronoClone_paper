@@ -1,0 +1,13 @@
+{
+  "planned_comparisons": 68,
+  "point_estimable": 33,
+  "state_testable": 29,
+  "composition_testable": 29,
+  "state_q_lt_005": 12,
+  "composition_q_lt_005": 17,
+  "old_point_estimates_reproduced": 33,
+  "bootstrap_method": "joint lineage-family resampling; fixed sample weights",
+  "inference": "conditional family-cluster influence multiplier; not randomized-label or biological-replicate inference",
+  "retired": "row-wise arm permutation and independent-arm family bootstrap",
+  "old_checkpoint_unchanged": true
+}

@@ -1,0 +1,6 @@
+tier,n_contrasts,n_gene_tests,n_contrast_fdr_lt_0_05,n_tier_fdr_lt_0_05,n_tier_fdr_and_abs_lfc_ge_0_5
+all_metaclones_ovr,20,195540,181,120,116
+lineage_bias_ovr,5,48885,63,48,37
+lineage_bias_pairwise,10,97770,158,132,108
+within_lineage_ovr,19,185763,37,15,14
+within_lineage_pairwise,40,391080,85,28,28

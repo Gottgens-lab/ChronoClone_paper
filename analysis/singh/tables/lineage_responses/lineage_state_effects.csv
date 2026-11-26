@@ -1,0 +1,341 @@
+mc,day,mutant,branch,seed,point_estimable,inference_estimable,dpsi,se,ci_low,ci_high,p,reason,cells_wt,cells_mut,rows_wt,rows_mut,n_samples,families_wt,families_mut,families_union,families_shared,raw_families_wt,raw_families_mut,q_340,minimum_arm_families,point_only
+0,D14,Dnmt3a,Mk,20263000,True,True,0.24257322570797146,0.0323706989202449,0.17859010935871095,0.306556342057232,0.0001,,112,94,98,72,2.0,95.0,66.0,145.0,16.0,95,66,0.0017894736842105263,66.0,False
+0,D14,Dnmt3a,Ery,20263001,True,True,0.14482835248618608,0.0353581733155654,0.07496394934119378,0.2146927556311784,0.0001,,130,65,113,57,2.0,109.0,54.0,151.0,12.0,109,54,0.0017894736842105263,54.0,False
+0,D14,Dnmt3a,Baso,20263002,True,True,0.07693818633983392,0.032713105375500415,0.012293082971350844,0.141583289708317,0.0164,,133,56,116,50,2.0,112.0,48.0,149.0,11.0,112,48,0.168969696969697,48.0,False
+0,D14,Dnmt3a,Neu,20263003,True,True,0.17273121761397253,0.02308006960934676,0.12736247985574428,0.21809995537220078,0.0001,,589,208,446,116,2.0,389.0,107.0,415.0,81.0,389,107,0.0017894736842105263,107.0,False
+0,D14,Dnmt3a,Mono,20263004,True,True,0.16863742319995634,0.023437290678955586,0.12256314856446837,0.2147116978354443,0.0001,,575,200,437,113,2.0,382.0,105.0,405.0,82.0,382,105,0.0017894736842105263,105.0,False
+0,D14,Npm1c,Mk,20263005,True,True,0.24979824497857758,0.05324223719640718,0.14439119314241425,0.3552052968147409,0.0001,,112,53,98,42,2.0,95.0,37.0,122.0,10.0,95,37,0.0017894736842105263,37.0,False
+0,D14,Npm1c,Ery,20263006,True,True,0.1635767382972141,0.05077691049884099,0.06312069351716991,0.2640327830772583,0.0014,,130,40,113,35,2.0,109.0,28.0,131.0,6.0,109,28,0.018307692307692306,28.0,False
+0,D14,Npm1c,Baso,20263007,True,True,0.0006851306741605043,0.051882759926745445,-0.10197377400202526,0.10334403535034628,0.9897,,133,27,116,23,2.0,112.0,20.0,129.0,3.0,112,20,1.0,20.0,False
+0,D14,Npm1c,Neu,20263008,True,True,0.14546230970450982,0.031052550286947,0.08441478682799937,0.2065098325810203,0.0001,,589,73,446,49,2.0,389.0,43.0,399.0,33.0,389,43,0.0017894736842105263,43.0,False
+0,D14,Npm1c,Mono,20263009,True,True,0.1709858166697204,0.03213416321013817,0.10780795243189631,0.2341636809075445,0.0001,,575,74,437,49,2.0,382.0,43.0,391.0,34.0,382,43,0.0017894736842105263,43.0,False
+0,D27,Dnmt3a,Mk,20263010,False,False,,,,,,insufficient observed cells or family/sample rows,0,29,0,16,,,,,,0,13,,,False
+0,D27,Dnmt3a,Ery,20263011,False,False,,,,,,insufficient observed cells or family/sample rows,0,40,0,19,,,,,,0,14,,,False
+0,D27,Dnmt3a,Baso,20263012,False,False,,,,,,insufficient observed cells or family/sample rows,0,21,0,12,,,,,,0,11,,,False
+0,D27,Dnmt3a,Neu,20263013,False,False,,,,,,insufficient observed cells or family/sample rows,0,44,0,20,,,,,,0,16,,,False
+0,D27,Dnmt3a,Mono,20263014,False,False,,,,,,insufficient observed cells or family/sample rows,0,39,0,16,,,,,,0,12,,,False
+0,D27,Npm1c,Mk,20263015,False,False,,,,,,insufficient observed cells or family/sample rows,0,346,0,37,,,,,,0,23,,,False
+0,D27,Npm1c,Ery,20263016,False,False,,,,,,insufficient observed cells or family/sample rows,0,337,0,37,,,,,,0,23,,,False
+0,D27,Npm1c,Baso,20263017,False,False,,,,,,insufficient observed cells or family/sample rows,0,336,0,34,,,,,,0,22,,,False
+0,D27,Npm1c,Neu,20263018,False,False,,,,,,insufficient observed cells or family/sample rows,0,119,0,20,,,,,,0,15,,,False
+0,D27,Npm1c,Mono,20263019,False,False,,,,,,insufficient observed cells or family/sample rows,0,109,0,20,,,,,,0,15,,,False
+1,D14,Dnmt3a,Mk,20263020,True,True,0.02601594236686995,0.06655371875725415,-0.11239009257882802,0.1644219773125679,0.7111,,30,20,21,13,2.0,17.0,11.0,22.0,6.0,17,11,1.0,11.0,False
+1,D14,Dnmt3a,Ery,20263021,True,True,-0.09561957244785264,0.06789034665254216,-0.23468664338987494,0.04344749849416964,0.158,,32,23,29,12,2.0,25.0,11.0,29.0,7.0,25,11,1.0,11.0,False
+1,D14,Dnmt3a,Baso,20263022,True,True,0.000844032537037312,0.05312550546101742,-0.10905444864225511,0.11074251371632973,0.9879,,26,19,23,14,2.0,20.0,13.0,24.0,9.0,20,13,1.0,13.0,False
+1,D14,Dnmt3a,Neu,20263023,True,True,0.09124669827657593,0.03156174646949292,0.028194861412413175,0.15429853514073869,0.0029,,184,63,90,34,2.0,64.0,25.0,65.0,24.0,64,25,0.03521428571428571,25.0,False
+1,D14,Dnmt3a,Mono,20263024,True,True,0.11588943690790737,0.030975854974916475,0.053884526418269886,0.17789434739754487,0.0003,,183,61,85,32,2.0,58.0,24.0,59.0,23.0,58,24,0.0046363636363636355,24.0,False
+1,D14,Npm1c,Mk,20263025,False,False,,,,,,insufficient observed cells or family/sample rows,30,8,21,6,,,,,,17,6,,,False
+1,D14,Npm1c,Ery,20263026,True,True,-0.06916368376763415,0.07796996701331832,-0.22887792104325508,0.09055055350798677,0.3943,,32,10,29,8,2.0,25.0,8.0,29.0,4.0,25,8,1.0,8.0,False
+1,D14,Npm1c,Baso,20263027,False,False,,,,,,insufficient observed cells or family/sample rows,26,7,23,5,,,,,,20,5,,,False
+1,D14,Npm1c,Neu,20263028,True,True,-0.014567221828258925,0.07104967536587349,-0.15650526523630967,0.12737082157979182,0.8413,,184,16,90,14,2.0,64.0,10.0,65.0,9.0,64,10,1.0,10.0,False
+1,D14,Npm1c,Mono,20263029,True,True,9.317741168934912e-05,0.06668530065929323,-0.13344183380098115,0.13362818862435985,0.9988,,183,14,85,12,2.0,58.0,9.0,58.0,9.0,58,9,1.0,9.0,False
+1,D27,Dnmt3a,Mk,20263030,False,False,,,,,,insufficient observed cells or family/sample rows,1,0,1,0,,,,,,1,0,,,False
+1,D27,Dnmt3a,Ery,20263031,False,False,,,,,,insufficient observed cells or family/sample rows,3,0,2,0,,,,,,1,0,,,False
+1,D27,Dnmt3a,Baso,20263032,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+1,D27,Dnmt3a,Neu,20263033,False,False,,,,,,insufficient observed cells or family/sample rows,1,0,1,0,,,,,,1,0,,,False
+1,D27,Dnmt3a,Mono,20263034,False,False,,,,,,insufficient observed cells or family/sample rows,3,3,2,1,,,,,,2,1,,,False
+1,D27,Npm1c,Mk,20263035,False,False,,,,,,insufficient observed cells or family/sample rows,1,704,1,9,,,,,,1,4,,,False
+1,D27,Npm1c,Ery,20263036,False,False,,,,,,insufficient observed cells or family/sample rows,3,664,2,9,,,,,,1,4,,,False
+1,D27,Npm1c,Baso,20263037,False,False,,,,,,insufficient observed cells or family/sample rows,0,649,0,9,,,,,,0,4,,,False
+1,D27,Npm1c,Neu,20263038,False,False,,,,,,insufficient observed cells or family/sample rows,1,159,1,9,,,,,,1,4,,,False
+1,D27,Npm1c,Mono,20263039,False,False,,,,,,insufficient observed cells or family/sample rows,3,152,2,7,,,,,,2,4,,,False
+2,D14,Dnmt3a,Mk,20263040,False,False,,,,,,insufficient observed cells or family/sample rows,24,9,20,5,,,,,,19,4,,,False
+2,D14,Dnmt3a,Ery,20263041,False,False,,,,,,insufficient observed cells or family/sample rows,17,4,15,4,,,,,,14,4,,,False
+2,D14,Dnmt3a,Baso,20263042,False,False,,,,,,insufficient observed cells or family/sample rows,7,6,7,5,,,,,,7,4,,,False
+2,D14,Dnmt3a,Neu,20263043,True,True,-0.09948487404452083,0.035910323111406746,-0.1749296633414524,-0.024040084747589258,0.0005,,24,10,19,7,2.0,18.0,7.0,19.0,6.0,18,7,0.007083333333333334,7.0,False
+2,D14,Dnmt3a,Mono,20263044,True,True,-0.11256337176899012,0.030774317166059988,-0.17721781297653366,-0.04790893056144656,0.0001,,24,10,20,7,2.0,18.0,7.0,19.0,6.0,18,7,0.0017894736842105263,7.0,False
+2,D14,Npm1c,Mk,20263045,False,False,,,,,,insufficient observed cells or family/sample rows,24,4,20,3,,,,,,19,2,,,False
+2,D14,Npm1c,Ery,20263046,False,False,,,,,,insufficient observed cells or family/sample rows,17,2,15,2,,,,,,14,2,,,False
+2,D14,Npm1c,Baso,20263047,False,False,,,,,,insufficient observed cells or family/sample rows,7,0,7,0,,,,,,7,0,,,False
+2,D14,Npm1c,Neu,20263048,False,False,,,,,,insufficient observed cells or family/sample rows,24,2,19,2,,,,,,18,2,,,False
+2,D14,Npm1c,Mono,20263049,False,False,,,,,,insufficient observed cells or family/sample rows,24,2,20,2,,,,,,18,2,,,False
+2,D27,Dnmt3a,Mk,20263050,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Dnmt3a,Ery,20263051,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Dnmt3a,Baso,20263052,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Dnmt3a,Neu,20263053,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Dnmt3a,Mono,20263054,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Npm1c,Mk,20263055,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Npm1c,Ery,20263056,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Npm1c,Baso,20263057,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Npm1c,Neu,20263058,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+2,D27,Npm1c,Mono,20263059,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+3,D14,Dnmt3a,Mk,20261100,True,True,-0.08044217749525653,0.0879647371321167,-0.258090568087672,0.09720621309715893,0.3735,,95,29,48,18,2.0,38.0,14.0,42.0,10.0,38,14,1.0,14.0,False
+3,D14,Dnmt3a,Ery,20261101,True,True,0.030029316704920078,0.0772039343687089,-0.12600565508249814,0.18606428849233828,0.7134,,66,29,39,18,2.0,33.0,14.0,41.0,6.0,33,14,1.0,14.0,False
+3,D14,Dnmt3a,Baso,20261102,True,True,0.04465246962924738,0.07144039527052114,-0.10009952082370296,0.18940446008219772,0.554,,55,22,35,17,2.0,30.0,14.0,38.0,6.0,30,14,1.0,14.0,False
+3,D14,Dnmt3a,Neu,20261103,True,True,0.06407673386448773,0.03442136508755774,-0.004267693417906879,0.13242116114688235,0.0606,,202,65,123,34,2.0,94.0,32.0,95.0,31.0,94,32,0.5568648648648649,32.0,False
+3,D14,Dnmt3a,Mono,20261104,True,True,0.04686798418992196,0.034694735080335125,-0.02201922562143504,0.11575519400127895,0.1802,,199,64,123,33,2.0,94.0,31.0,95.0,30.0,94,31,1.0,31.0,False
+3,D14,Npm1c,Mk,20261105,True,True,-0.3601019358627235,0.07343152721487518,-0.508190723974348,-0.21201314775109906,0.0001,,95,24,48,15,2.0,38.0,11.0,44.0,5.0,38,11,0.0017894736842105263,11.0,False
+3,D14,Npm1c,Ery,20261106,True,True,-0.3091519851255307,0.061425952019485905,-0.4333977005299586,-0.18490626972110286,0.0001,,66,22,39,14,2.0,33.0,11.0,40.0,4.0,33,11,0.0017894736842105263,11.0,False
+3,D14,Npm1c,Baso,20261107,True,True,-0.2624491547981781,0.06336925875894,-0.3909679683337622,-0.133930341262594,0.0001,,55,22,35,14,2.0,30.0,11.0,37.0,4.0,30,11,0.0017894736842105263,11.0,False
+3,D14,Npm1c,Neu,20261108,True,True,-0.026508060661612612,0.03248371731654375,-0.09101428544550201,0.03799816412227679,0.4236,,202,27,123,19,2.0,94.0,17.0,94.0,17.0,94,17,1.0,17.0,False
+3,D14,Npm1c,Mono,20261109,True,True,-0.02732153200335457,0.032635841942756205,-0.09212984614598335,0.037486782139274206,0.4149,,199,27,123,19,2.0,94.0,17.0,94.0,17.0,94,17,1.0,17.0,False
+3,D27,Dnmt3a,Mk,20261110,True,True,0.008458909608950628,0.02652482940788014,-0.044767054577178354,0.06168487379507961,0.7506,,128,66,73,27,4.0,47.0,15.0,53.0,9.0,47,15,1.0,15.0,False
+3,D27,Dnmt3a,Ery,20261111,True,True,0.012206029732848787,0.020592204915238194,-0.028885075405145934,0.05329713487084351,0.5527,,202,93,103,34,4.0,67.0,19.0,69.0,17.0,67,19,1.0,19.0,False
+3,D27,Dnmt3a,Baso,20261112,True,True,-0.01172823942123652,0.0241094671081691,-0.060153529269243146,0.03669705042677011,0.6459,,97,49,65,23,3.0,45.0,14.0,51.0,8.0,47,14,1.0,14.0,False
+3,D27,Dnmt3a,Neu,20261113,True,True,-0.07646390018931712,0.021167491463280685,-0.11867067940645454,-0.0342571209721797,0.0003,,276,260,93,40,3.0,69.0,20.0,72.0,17.0,69,23,0.0046363636363636355,20.0,False
+3,D27,Dnmt3a,Mono,20261114,True,True,-0.08467193946045987,0.027585357051506474,-0.13991066413831119,-0.02943321478260854,0.0008,,214,224,74,34,4.0,55.0,18.0,58.0,15.0,55,18,0.01088,18.0,False
+3,D27,Npm1c,Mk,20261115,True,True,-0.5133788452238045,0.07139594937455299,-0.6563467677796362,-0.37041092266797276,0.0001,,128,356,73,31,4.0,47.0,17.0,58.0,6.0,47,17,0.0017894736842105263,17.0,False
+3,D27,Npm1c,Ery,20261116,True,True,-0.5490569394142152,0.0694332980603037,-0.6874058058132322,-0.4107080730151982,0.0001,,202,363,103,32,4.0,67.0,17.0,75.0,9.0,67,17,0.0017894736842105263,17.0,False
+3,D27,Npm1c,Baso,20261117,True,True,-0.4809727898812799,0.06685430096956037,-0.6149518029797698,-0.34699377678279,0.0001,,97,308,65,31,4.0,47.0,17.0,56.0,8.0,47,17,0.0017894736842105263,17.0,False
+3,D27,Npm1c,Neu,20261118,True,True,-0.6541386719170186,0.06427043268998989,-0.7823220080635265,-0.5259553357705107,0.0001,,276,83,93,15,3.0,69.0,12.0,71.0,10.0,69,12,0.0017894736842105263,12.0,False
+3,D27,Npm1c,Mono,20261119,True,True,-0.6920763936654393,0.05286990798614605,-0.7979070128664576,-0.5862457744644209,0.0001,,214,77,74,14,3.0,55.0,12.0,59.0,8.0,55,12,0.0017894736842105263,12.0,False
+4,D14,Dnmt3a,Mk,20263080,False,False,,,,,,insufficient observed cells or family/sample rows,5,2,3,2,,,,,,3,2,,,False
+4,D14,Dnmt3a,Ery,20263081,False,False,,,,,,insufficient observed cells or family/sample rows,6,2,4,2,,,,,,4,2,,,False
+4,D14,Dnmt3a,Baso,20263082,False,False,,,,,,insufficient observed cells or family/sample rows,5,2,3,2,,,,,,3,2,,,False
+4,D14,Dnmt3a,Neu,20263083,True,True,0.01954419180617398,0.048856544056993384,-0.08353410592437036,0.12262248953671831,0.702,,63,37,27,14,2.0,18.0,13.0,18.0,13.0,18,13,1.0,13.0,False
+4,D14,Dnmt3a,Mono,20263084,True,True,0.018149492049242884,0.04900857058512418,-0.08524955361859574,0.12154853771708149,0.7264,,64,37,27,14,2.0,18.0,13.0,18.0,13.0,18,13,1.0,13.0,False
+4,D14,Npm1c,Mk,20263085,False,False,,,,,,insufficient observed cells or family/sample rows,5,2,3,2,,,,,,3,2,,,False
+4,D14,Npm1c,Ery,20263086,False,False,,,,,,insufficient observed cells or family/sample rows,6,1,4,1,,,,,,4,1,,,False
+4,D14,Npm1c,Baso,20263087,False,False,,,,,,insufficient observed cells or family/sample rows,5,2,3,2,,,,,,3,2,,,False
+4,D14,Npm1c,Neu,20263088,False,False,,,,,,insufficient observed cells or family/sample rows,63,5,27,5,,,,,,18,4,,,False
+4,D14,Npm1c,Mono,20263089,False,False,,,,,,insufficient observed cells or family/sample rows,64,5,27,5,,,,,,18,4,,,False
+4,D27,Dnmt3a,Mk,20263090,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+4,D27,Dnmt3a,Ery,20263091,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+4,D27,Dnmt3a,Baso,20263092,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+4,D27,Dnmt3a,Neu,20263093,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+4,D27,Dnmt3a,Mono,20263094,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+4,D27,Npm1c,Mk,20263095,False,False,,,,,,insufficient observed cells or family/sample rows,0,3,0,1,,,,,,0,1,,,False
+4,D27,Npm1c,Ery,20263096,False,False,,,,,,insufficient observed cells or family/sample rows,0,3,0,1,,,,,,0,1,,,False
+4,D27,Npm1c,Baso,20263097,False,False,,,,,,insufficient observed cells or family/sample rows,0,3,0,1,,,,,,0,1,,,False
+4,D27,Npm1c,Neu,20263098,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+4,D27,Npm1c,Mono,20263099,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+5,D14,Dnmt3a,Mk,20263100,False,False,,,,,,insufficient observed cells or family/sample rows,4,1,4,1,,,,,,4,1,,,False
+5,D14,Dnmt3a,Ery,20263101,False,False,,,,,,insufficient observed cells or family/sample rows,4,2,4,2,,,,,,4,2,,,False
+5,D14,Dnmt3a,Baso,20263102,False,False,,,,,,insufficient observed cells or family/sample rows,3,1,3,1,,,,,,3,1,,,False
+5,D14,Dnmt3a,Neu,20263103,True,True,0.009821298078057906,0.057716130291683834,-0.11319772160362043,0.13284031775973623,0.8849,,49,14,24,6,2.0,15.0,5.0,16.0,4.0,15,5,1.0,5.0,False
+5,D14,Dnmt3a,Mono,20263104,True,True,0.03350525872306244,0.057720975507149726,-0.08885774313076451,0.1558682605768894,0.5853,,50,15,25,7,2.0,16.0,5.0,17.0,4.0,16,5,1.0,5.0,False
+5,D14,Npm1c,Mk,20263105,False,False,,,,,,insufficient observed cells or family/sample rows,4,0,4,0,,,,,,4,0,,,False
+5,D14,Npm1c,Ery,20263106,False,False,,,,,,insufficient observed cells or family/sample rows,4,0,4,0,,,,,,4,0,,,False
+5,D14,Npm1c,Baso,20263107,False,False,,,,,,insufficient observed cells or family/sample rows,3,0,3,0,,,,,,3,0,,,False
+5,D14,Npm1c,Neu,20263108,False,False,,,,,,insufficient observed cells or family/sample rows,49,3,24,1,,,,,,15,1,,,False
+5,D14,Npm1c,Mono,20263109,False,False,,,,,,insufficient observed cells or family/sample rows,50,4,25,2,,,,,,16,2,,,False
+5,D27,Dnmt3a,Mk,20263110,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Dnmt3a,Ery,20263111,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Dnmt3a,Baso,20263112,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Dnmt3a,Neu,20263113,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Dnmt3a,Mono,20263114,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Npm1c,Mk,20263115,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Npm1c,Ery,20263116,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Npm1c,Baso,20263117,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Npm1c,Neu,20263118,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+5,D27,Npm1c,Mono,20263119,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+6,D14,Dnmt3a,Mk,20263120,True,True,-0.08528893935642064,0.06377051754668939,-0.21518523287697972,0.044607354164138455,0.2026,,63,11,37,6,2.0,32.0,5.0,33.0,4.0,32,5,1.0,5.0,False
+6,D14,Dnmt3a,Ery,20263121,False,False,,,,,,insufficient observed cells or family/sample rows,35,7,24,4,,,,,,20,4,,,False
+6,D14,Dnmt3a,Baso,20263122,False,False,,,,,,insufficient observed cells or family/sample rows,22,6,17,4,,,,,,15,4,,,False
+6,D14,Dnmt3a,Neu,20263123,True,False,0.39220029283085506,,,,,fewer than five families in an arm or ten in union,18,14,12,7,1.0,6.0,6.0,9.0,3.0,11,7,,6.0,True
+6,D14,Dnmt3a,Mono,20263124,True,False,0.29585295699652014,,,,,fewer than five families in an arm or ten in union,19,12,13,6,1.0,7.0,5.0,9.0,3.0,12,6,,5.0,True
+6,D14,Npm1c,Mk,20263125,False,False,,,,,,insufficient observed cells or family/sample rows,63,8,37,7,,,,,,32,6,,,False
+6,D14,Npm1c,Ery,20263126,False,False,,,,,,insufficient observed cells or family/sample rows,35,5,24,3,,,,,,20,3,,,False
+6,D14,Npm1c,Baso,20263127,False,False,,,,,,insufficient observed cells or family/sample rows,22,2,17,1,,,,,,15,1,,,False
+6,D14,Npm1c,Neu,20263128,True,True,0.04127001987521871,0.09522137868377474,-0.16295952553092147,0.2454995652813589,0.707,,18,11,12,6,2.0,11.0,5.0,15.0,1.0,11,5,1.0,5.0,False
+6,D14,Npm1c,Mono,20263129,True,False,0.006856266494093821,,,,,fewer than five families in an arm or ten in union,19,10,13,5,2.0,12.0,4.0,15.0,1.0,12,4,,4.0,True
+6,D27,Dnmt3a,Mk,20263130,False,False,,,,,,insufficient observed cells or family/sample rows,0,3,0,2,,,,,,0,2,,,False
+6,D27,Dnmt3a,Ery,20263131,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+6,D27,Dnmt3a,Baso,20263132,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+6,D27,Dnmt3a,Neu,20263133,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+6,D27,Dnmt3a,Mono,20263134,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+6,D27,Npm1c,Mk,20263135,False,False,,,,,,insufficient observed cells or family/sample rows,0,18,0,3,,,,,,0,2,,,False
+6,D27,Npm1c,Ery,20263136,False,False,,,,,,insufficient observed cells or family/sample rows,0,17,0,3,,,,,,0,2,,,False
+6,D27,Npm1c,Baso,20263137,False,False,,,,,,insufficient observed cells or family/sample rows,0,17,0,3,,,,,,0,2,,,False
+6,D27,Npm1c,Neu,20263138,False,False,,,,,,insufficient observed cells or family/sample rows,0,6,0,2,,,,,,0,2,,,False
+6,D27,Npm1c,Mono,20263139,False,False,,,,,,insufficient observed cells or family/sample rows,0,6,0,2,,,,,,0,2,,,False
+7,D14,Dnmt3a,Mk,20263140,False,False,,,,,,insufficient observed cells or family/sample rows,1,14,1,11,,,,,,1,11,,,False
+7,D14,Dnmt3a,Ery,20263141,False,False,,,,,,insufficient observed cells or family/sample rows,1,13,1,11,,,,,,1,10,,,False
+7,D14,Dnmt3a,Baso,20263142,False,False,,,,,,insufficient observed cells or family/sample rows,1,9,1,8,,,,,,1,8,,,False
+7,D14,Dnmt3a,Neu,20263143,True,True,-0.05939892125293912,0.027088420351497673,-0.11277582770145307,-0.0060220148044251715,0.02,,274,68,246,45,2.0,227.0,41.0,228.0,40.0,227,41,0.1942857142857143,41.0,False
+7,D14,Dnmt3a,Mono,20263144,True,True,-0.05018503471661995,0.026736463491734676,-0.10286353205078608,0.0024934626175461827,0.0539,,276,66,248,48,2.0,229.0,43.0,232.0,40.0,229,43,0.5090555555555556,43.0,False
+7,D14,Npm1c,Mk,20263145,False,False,,,,,,insufficient observed cells or family/sample rows,1,10,1,7,,,,,,1,6,,,False
+7,D14,Npm1c,Ery,20263146,False,False,,,,,,insufficient observed cells or family/sample rows,1,7,1,7,,,,,,1,6,,,False
+7,D14,Npm1c,Baso,20263147,False,False,,,,,,insufficient observed cells or family/sample rows,1,6,1,5,,,,,,1,5,,,False
+7,D14,Npm1c,Neu,20263148,True,True,-0.08393700789792026,0.02963134204721403,-0.142326048694456,-0.025547967101384524,0.0034,,274,35,246,29,2.0,227.0,24.0,227.0,24.0,227,24,0.039862068965517236,24.0,False
+7,D14,Npm1c,Mono,20263149,True,True,-0.07660625111933773,0.029540599713167023,-0.1348137339787576,-0.018398768259917868,0.0082,,276,37,248,30,2.0,229.0,26.0,229.0,26.0,229,26,0.08993548387096775,26.0,False
+7,D27,Dnmt3a,Mk,20263150,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,1,,,,,,0,1,,,False
+7,D27,Dnmt3a,Ery,20263151,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,1,,,,,,0,1,,,False
+7,D27,Dnmt3a,Baso,20263152,False,False,,,,,,insufficient observed cells or family/sample rows,1,1,1,1,,,,,,1,1,,,False
+7,D27,Dnmt3a,Neu,20263153,False,False,,,,,,insufficient observed cells or family/sample rows,5,0,3,0,,,,,,3,0,,,False
+7,D27,Dnmt3a,Mono,20263154,False,False,,,,,,insufficient observed cells or family/sample rows,2,0,1,0,,,,,,1,0,,,False
+7,D27,Npm1c,Mk,20263155,False,False,,,,,,insufficient observed cells or family/sample rows,0,336,0,5,,,,,,0,2,,,False
+7,D27,Npm1c,Ery,20263156,False,False,,,,,,insufficient observed cells or family/sample rows,0,323,0,5,,,,,,0,2,,,False
+7,D27,Npm1c,Baso,20263157,False,False,,,,,,insufficient observed cells or family/sample rows,1,311,1,5,,,,,,1,2,,,False
+7,D27,Npm1c,Neu,20263158,False,False,,,,,,insufficient observed cells or family/sample rows,5,27,3,4,,,,,,3,3,,,False
+7,D27,Npm1c,Mono,20263159,False,False,,,,,,insufficient observed cells or family/sample rows,2,25,1,4,,,,,,1,3,,,False
+9,D14,Dnmt3a,Mk,20263160,True,True,-0.06207551549123627,0.04594489009889454,-0.1579148768261776,0.033763845843705065,0.1959,,46,14,28,8,2.0,21.0,6.0,21.0,6.0,21,6,1.0,6.0,False
+9,D14,Dnmt3a,Ery,20263161,True,True,0.058488088459837106,0.07671716415982315,-0.11505819395387254,0.23203437087354675,0.466,,23,11,18,6,1.0,8.0,5.0,10.0,3.0,16,5,1.0,5.0,False
+9,D14,Dnmt3a,Baso,20263162,False,False,,,,,,insufficient observed cells or family/sample rows,17,8,13,6,,,,,,11,5,,,False
+9,D14,Dnmt3a,Neu,20263163,True,True,0.22586020128952977,0.04433493314733185,0.12926268014568426,0.3224577224333753,0.0001,,22,11,13,5,2.0,12.0,5.0,13.0,4.0,12,5,0.0017894736842105263,5.0,False
+9,D14,Dnmt3a,Mono,20263164,True,True,0.22976779285822732,0.04503924000276319,0.1316357189017454,0.32789986681470923,0.0001,,20,11,13,5,2.0,12.0,5.0,13.0,4.0,12,5,0.0017894736842105263,5.0,False
+9,D14,Npm1c,Mk,20263165,False,False,,,,,,insufficient observed cells or family/sample rows,46,3,28,3,,,,,,21,2,,,False
+9,D14,Npm1c,Ery,20263166,False,False,,,,,,insufficient observed cells or family/sample rows,23,5,18,4,,,,,,16,4,,,False
+9,D14,Npm1c,Baso,20263167,False,False,,,,,,insufficient observed cells or family/sample rows,17,2,13,2,,,,,,11,2,,,False
+9,D14,Npm1c,Neu,20263168,False,False,,,,,,insufficient observed cells or family/sample rows,22,1,13,1,,,,,,12,1,,,False
+9,D14,Npm1c,Mono,20263169,False,False,,,,,,insufficient observed cells or family/sample rows,20,0,13,0,,,,,,12,0,,,False
+9,D27,Dnmt3a,Mk,20263170,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,2,,,,,,0,2,,,False
+9,D27,Dnmt3a,Ery,20263171,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+9,D27,Dnmt3a,Baso,20263172,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+9,D27,Dnmt3a,Neu,20263173,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,2,,,,,,0,2,,,False
+9,D27,Dnmt3a,Mono,20263174,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,2,,,,,,0,2,,,False
+9,D27,Npm1c,Mk,20263175,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,1,,,,,,0,1,,,False
+9,D27,Npm1c,Ery,20263176,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,1,,,,,,0,1,,,False
+9,D27,Npm1c,Baso,20263177,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,1,,,,,,0,1,,,False
+9,D27,Npm1c,Neu,20263178,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+9,D27,Npm1c,Mono,20263179,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+10,D14,Dnmt3a,Mk,20263180,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+10,D14,Dnmt3a,Ery,20263181,False,False,,,,,,insufficient observed cells or family/sample rows,16,4,16,3,,,,,,16,3,,,False
+10,D14,Dnmt3a,Baso,20263182,False,False,,,,,,insufficient observed cells or family/sample rows,12,4,12,4,,,,,,12,3,,,False
+10,D14,Dnmt3a,Neu,20263183,False,False,,,,,,insufficient observed cells or family/sample rows,0,9,0,7,,,,,,0,6,,,False
+10,D14,Dnmt3a,Mono,20263184,False,False,,,,,,insufficient observed cells or family/sample rows,0,6,0,5,,,,,,0,5,,,False
+10,D14,Npm1c,Mk,20263185,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,2,,,,,,0,2,,,False
+10,D14,Npm1c,Ery,20263186,False,False,,,,,,insufficient observed cells or family/sample rows,16,1,16,1,,,,,,16,1,,,False
+10,D14,Npm1c,Baso,20263187,False,False,,,,,,insufficient observed cells or family/sample rows,12,2,12,2,,,,,,12,2,,,False
+10,D14,Npm1c,Neu,20263188,False,False,,,,,,insufficient observed cells or family/sample rows,0,3,0,3,,,,,,0,2,,,False
+10,D14,Npm1c,Mono,20263189,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+10,D27,Dnmt3a,Mk,20263190,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Dnmt3a,Ery,20263191,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Dnmt3a,Baso,20263192,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Dnmt3a,Neu,20263193,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Dnmt3a,Mono,20263194,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Npm1c,Mk,20263195,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Npm1c,Ery,20263196,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Npm1c,Baso,20263197,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Npm1c,Neu,20263198,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+10,D27,Npm1c,Mono,20263199,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D14,Dnmt3a,Mk,20263200,False,False,,,,,,insufficient observed cells or family/sample rows,3,1,3,1,,,,,,3,1,,,False
+11,D14,Dnmt3a,Ery,20263201,False,False,,,,,,insufficient observed cells or family/sample rows,5,1,5,1,,,,,,5,1,,,False
+11,D14,Dnmt3a,Baso,20263202,False,False,,,,,,insufficient observed cells or family/sample rows,4,1,4,1,,,,,,4,1,,,False
+11,D14,Dnmt3a,Neu,20263203,True,True,0.06213484755313914,0.05646696432768331,-0.0519891444148438,0.1762588395211221,0.2839,,80,24,56,15,2.0,41.0,12.0,41.0,12.0,41,12,1.0,12.0,False
+11,D14,Dnmt3a,Mono,20263204,True,True,0.045968129992492286,0.05723887320302527,-0.06980841910840241,0.16174467909338697,0.4427,,79,23,54,14,2.0,40.0,11.0,40.0,11.0,40,11,1.0,11.0,False
+11,D14,Npm1c,Mk,20263205,False,False,,,,,,insufficient observed cells or family/sample rows,3,3,3,3,,,,,,3,3,,,False
+11,D14,Npm1c,Ery,20263206,False,False,,,,,,insufficient observed cells or family/sample rows,5,3,5,2,,,,,,5,2,,,False
+11,D14,Npm1c,Baso,20263207,False,False,,,,,,insufficient observed cells or family/sample rows,4,3,4,2,,,,,,4,2,,,False
+11,D14,Npm1c,Neu,20263208,False,False,,,,,,insufficient observed cells or family/sample rows,80,3,56,2,,,,,,41,2,,,False
+11,D14,Npm1c,Mono,20263209,False,False,,,,,,insufficient observed cells or family/sample rows,79,4,54,3,,,,,,40,3,,,False
+11,D27,Dnmt3a,Mk,20263210,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Dnmt3a,Ery,20263211,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Dnmt3a,Baso,20263212,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Dnmt3a,Neu,20263213,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Dnmt3a,Mono,20263214,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Npm1c,Mk,20263215,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Npm1c,Ery,20263216,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Npm1c,Baso,20263217,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Npm1c,Neu,20263218,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+11,D27,Npm1c,Mono,20263219,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+12,D14,Dnmt3a,Mk,20263220,True,True,-0.12119228438230564,0.041495287640408884,-0.20343459546286013,-0.03894997330175115,0.0005,,145,29,118,19,2.0,108.0,14.0,110.0,12.0,108,14,0.007083333333333334,14.0,False
+12,D14,Dnmt3a,Ery,20263221,True,True,-0.10730425322428357,0.04614303866129709,-0.20024110376526194,-0.014367402683305192,0.0178,,64,21,42,16,2.0,37.0,14.0,46.0,5.0,37,14,0.178,14.0,False
+12,D14,Dnmt3a,Baso,20263222,True,True,-0.07261749427932995,0.045663378692972274,-0.1664799134506322,0.0212449248919723,0.1146,,24,21,17,16,2.0,15.0,15.0,27.0,3.0,15,15,0.9990769230769231,15.0,False
+12,D14,Dnmt3a,Neu,20263223,False,False,,,,,,insufficient observed cells or family/sample rows,0,22,0,14,,,,,,0,13,,,False
+12,D14,Dnmt3a,Mono,20263224,False,False,,,,,,insufficient observed cells or family/sample rows,0,19,0,12,,,,,,0,11,,,False
+12,D14,Npm1c,Mk,20263225,True,True,-0.027079925231817223,0.034558118561586026,-0.09556600481298272,0.04140615434934827,0.4614,,145,48,118,13,2.0,108.0,11.0,111.0,8.0,108,11,1.0,11.0,False
+12,D14,Npm1c,Ery,20263226,True,True,-0.07491155700463617,0.06011621793977461,-0.19661047775837592,0.04678736374910358,0.2454,,64,40,42,8,2.0,37.0,7.0,39.0,5.0,37,7,1.0,7.0,False
+12,D14,Npm1c,Baso,20263227,True,True,-0.08550984422699703,0.0633222921749331,-0.21910820268178355,0.04808851422778948,0.223,,24,16,17,6,2.0,15.0,5.0,18.0,2.0,15,5,1.0,5.0,False
+12,D14,Npm1c,Neu,20263228,False,False,,,,,,insufficient observed cells or family/sample rows,0,10,0,7,,,,,,0,7,,,False
+12,D14,Npm1c,Mono,20263229,False,False,,,,,,insufficient observed cells or family/sample rows,0,10,0,7,,,,,,0,7,,,False
+12,D27,Dnmt3a,Mk,20263230,False,False,,,,,,insufficient observed cells or family/sample rows,2,5,1,3,,,,,,1,2,,,False
+12,D27,Dnmt3a,Ery,20263231,False,False,,,,,,insufficient observed cells or family/sample rows,2,3,2,2,,,,,,2,2,,,False
+12,D27,Dnmt3a,Baso,20263232,False,False,,,,,,insufficient observed cells or family/sample rows,1,3,1,3,,,,,,1,2,,,False
+12,D27,Dnmt3a,Neu,20263233,False,False,,,,,,insufficient observed cells or family/sample rows,11,12,2,4,,,,,,1,3,,,False
+12,D27,Dnmt3a,Mono,20263234,False,False,,,,,,insufficient observed cells or family/sample rows,9,10,2,2,,,,,,1,1,,,False
+12,D27,Npm1c,Mk,20263235,False,False,,,,,,insufficient observed cells or family/sample rows,2,5,1,1,,,,,,1,1,,,False
+12,D27,Npm1c,Ery,20263236,False,False,,,,,,insufficient observed cells or family/sample rows,2,9,2,2,,,,,,2,1,,,False
+12,D27,Npm1c,Baso,20263237,False,False,,,,,,insufficient observed cells or family/sample rows,1,5,1,1,,,,,,1,1,,,False
+12,D27,Npm1c,Neu,20263238,False,False,,,,,,insufficient observed cells or family/sample rows,11,1,2,1,,,,,,1,1,,,False
+12,D27,Npm1c,Mono,20263239,False,False,,,,,,insufficient observed cells or family/sample rows,9,1,2,1,,,,,,1,1,,,False
+13,D14,Dnmt3a,Mk,20263240,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+13,D14,Dnmt3a,Ery,20263241,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+13,D14,Dnmt3a,Baso,20263242,False,False,,,,,,insufficient observed cells or family/sample rows,0,1,0,1,,,,,,0,1,,,False
+13,D14,Dnmt3a,Neu,20263243,False,False,,,,,,insufficient observed cells or family/sample rows,5,33,5,14,,,,,,5,11,,,False
+13,D14,Dnmt3a,Mono,20263244,True,True,-0.13144822962587002,0.04658525296266495,-0.22533463789408523,-0.03756182135765482,0.0003,,50,35,45,16,2.0,45.0,13.0,45.0,13.0,45,13,0.0046363636363636355,13.0,False
+13,D14,Npm1c,Mk,20263245,False,False,,,,,,insufficient observed cells or family/sample rows,0,4,0,4,,,,,,0,3,,,False
+13,D14,Npm1c,Ery,20263246,False,False,,,,,,insufficient observed cells or family/sample rows,0,3,0,3,,,,,,0,2,,,False
+13,D14,Npm1c,Baso,20263247,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,2,,,,,,0,1,,,False
+13,D14,Npm1c,Neu,20263248,False,False,,,,,,insufficient observed cells or family/sample rows,5,2,5,2,,,,,,5,2,,,False
+13,D14,Npm1c,Mono,20263249,False,False,,,,,,insufficient observed cells or family/sample rows,50,6,45,4,,,,,,45,3,,,False
+13,D27,Dnmt3a,Mk,20263250,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Dnmt3a,Ery,20263251,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Dnmt3a,Baso,20263252,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Dnmt3a,Neu,20263253,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Dnmt3a,Mono,20263254,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Npm1c,Mk,20263255,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Npm1c,Ery,20263256,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Npm1c,Baso,20263257,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Npm1c,Neu,20263258,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+13,D27,Npm1c,Mono,20263259,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D14,Dnmt3a,Mk,20263260,True,True,-0.046605063702368214,0.03189450863180337,-0.11117212083743089,0.017961993432694452,0.165,,75,28,49,18,2.0,36.0,16.0,39.0,13.0,36,16,1.0,16.0,False
+15,D14,Dnmt3a,Ery,20263261,True,True,-0.10496633542471545,0.0447877551394708,-0.19598600489157142,-0.013946665957859483,0.0125,,52,18,39,14,2.0,31.0,13.0,35.0,9.0,31,13,0.1328125,13.0,False
+15,D14,Dnmt3a,Baso,20263262,True,True,-0.15706663391924516,0.04009039143679782,-0.23999992726965563,-0.0741333405688347,0.0001,,28,12,21,9,2.0,20.0,8.0,24.0,4.0,20,8,0.0017894736842105263,8.0,False
+15,D14,Dnmt3a,Neu,20263263,True,True,0.06717823997861261,0.06498162282943819,-0.06724648862488489,0.2016029685821101,0.313,,20,16,17,12,2.0,16.0,11.0,24.0,3.0,16,11,1.0,11.0,False
+15,D14,Dnmt3a,Mono,20263264,True,True,0.0568053907344325,0.05959828402639704,-0.06593957289587324,0.17955035436473823,0.3588,,23,15,21,11,2.0,20.0,10.0,26.0,4.0,20,10,1.0,10.0,False
+15,D14,Npm1c,Mk,20263265,True,True,-0.009752544236383142,0.01902045615814615,-0.048291649147394484,0.028786560674628196,0.6228,,75,12,49,10,2.0,36.0,9.0,38.0,7.0,36,9,1.0,9.0,False
+15,D14,Npm1c,Ery,20263266,False,False,,,,,,insufficient observed cells or family/sample rows,52,7,39,6,,,,,,31,6,,,False
+15,D14,Npm1c,Baso,20263267,False,False,,,,,,insufficient observed cells or family/sample rows,28,7,21,6,,,,,,20,5,,,False
+15,D14,Npm1c,Neu,20263268,False,False,,,,,,insufficient observed cells or family/sample rows,20,5,17,4,,,,,,16,4,,,False
+15,D14,Npm1c,Mono,20263269,False,False,,,,,,insufficient observed cells or family/sample rows,23,6,21,5,,,,,,20,5,,,False
+15,D27,Dnmt3a,Mk,20263270,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Dnmt3a,Ery,20263271,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Dnmt3a,Baso,20263272,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Dnmt3a,Neu,20263273,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Dnmt3a,Mono,20263274,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Npm1c,Mk,20263275,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Npm1c,Ery,20263276,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Npm1c,Baso,20263277,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Npm1c,Neu,20263278,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+15,D27,Npm1c,Mono,20263279,False,False,,,,,,insufficient observed cells or family/sample rows,0,0,0,0,,,,,,0,0,,,False
+16,D14,Dnmt3a,Mk,20263280,True,True,-0.09785911667376487,0.054050920512879665,-0.20679158924425983,0.011073355896730086,0.0711,,88,36,54,18,2.0,45.0,13.0,45.0,13.0,45,13,0.636157894736842,13.0,False
+16,D14,Dnmt3a,Ery,20263281,True,True,-0.011904223626548117,0.04689016178935954,-0.10766670952046586,0.08385826226736964,0.7984,,57,29,34,17,2.0,26.0,13.0,31.0,8.0,26,13,1.0,13.0,False
+16,D14,Dnmt3a,Baso,20263282,True,True,-0.029575595256756855,0.05018352586026027,-0.1320640278812473,0.07291283736773357,0.5663,,49,27,31,17,2.0,25.0,13.0,31.0,7.0,25,13,1.0,13.0,False
+16,D14,Dnmt3a,Neu,20263283,True,True,0.09816922607025927,0.03697496007292979,0.023496779322543515,0.17284167281797502,0.0071,,107,33,59,18,2.0,41.0,15.0,42.0,14.0,41,15,0.08046666666666667,15.0,False
+16,D14,Dnmt3a,Mono,20263284,True,True,0.11095974210982867,0.03727452304062836,0.03568231567561865,0.1862371685440387,0.0016,,104,32,56,17,2.0,40.0,14.0,42.0,12.0,40,14,0.02014814814814815,14.0,False
+16,D14,Npm1c,Mk,20263285,True,True,-0.05189878328683195,0.0786708946766407,-0.21044955347061411,0.10665198689695021,0.565,,88,30,54,13,2.0,45.0,10.0,45.0,10.0,45,10,1.0,10.0,False
+16,D14,Npm1c,Ery,20263286,True,True,0.02276903758159604,0.08106558875239872,-0.14302870749174934,0.18856678265494142,0.8297,,57,28,34,12,2.0,26.0,10.0,30.0,6.0,26,10,1.0,10.0,False
+16,D14,Npm1c,Baso,20263287,True,True,0.001765886862865662,0.08824358581798662,-0.1796214015574146,0.18315317528314592,0.9893,,49,23,31,10,2.0,25.0,8.0,27.0,6.0,25,8,1.0,8.0,False
+16,D14,Npm1c,Neu,20263288,True,True,0.037943432723285334,0.046490489866915084,-0.0560173522300199,0.13190421767659055,0.4337,,107,34,59,13,2.0,41.0,9.0,41.0,9.0,41,9,1.0,9.0,False
+16,D14,Npm1c,Mono,20263289,True,True,0.047675709472488496,0.04634684432247083,-0.04606963171093056,0.14142105065590754,0.3242,,104,33,56,13,2.0,40.0,9.0,40.0,9.0,40,9,1.0,9.0,False
+16,D27,Dnmt3a,Mk,20263290,False,False,,,,,,insufficient observed cells or family/sample rows,0,48,0,5,,,,,,0,4,,,False
+16,D27,Dnmt3a,Ery,20263291,False,False,,,,,,insufficient observed cells or family/sample rows,0,107,0,3,,,,,,0,1,,,False
+16,D27,Dnmt3a,Baso,20263292,False,False,,,,,,insufficient observed cells or family/sample rows,0,36,0,2,,,,,,0,1,,,False
+16,D27,Dnmt3a,Neu,20263293,False,False,,,,,,insufficient observed cells or family/sample rows,0,30,0,6,,,,,,0,2,,,False
+16,D27,Dnmt3a,Mono,20263294,False,False,,,,,,insufficient observed cells or family/sample rows,0,21,0,6,,,,,,0,2,,,False
+16,D27,Npm1c,Mk,20263295,False,False,,,,,,insufficient observed cells or family/sample rows,0,436,0,13,,,,,,0,6,,,False
+16,D27,Npm1c,Ery,20263296,False,False,,,,,,insufficient observed cells or family/sample rows,0,446,0,14,,,,,,0,6,,,False
+16,D27,Npm1c,Baso,20263297,False,False,,,,,,insufficient observed cells or family/sample rows,0,430,0,14,,,,,,0,6,,,False
+16,D27,Npm1c,Neu,20263298,False,False,,,,,,insufficient observed cells or family/sample rows,0,46,0,9,,,,,,0,6,,,False
+16,D27,Npm1c,Mono,20263299,False,False,,,,,,insufficient observed cells or family/sample rows,0,35,0,5,,,,,,0,4,,,False
+17,D14,Dnmt3a,Mk,20263300,True,True,-0.13941681739518663,0.09468000347223389,-0.35359786542365945,0.07476423063328616,0.1507,,12,25,8,9,2.0,6.0,6.0,10.0,2.0,6,6,1.0,6.0,False
+17,D14,Dnmt3a,Ery,20263301,False,False,,,,,,insufficient observed cells or family/sample rows,7,22,5,6,,,,,,5,5,,,False
+17,D14,Dnmt3a,Baso,20263302,False,False,,,,,,insufficient observed cells or family/sample rows,6,23,4,6,,,,,,4,5,,,False
+17,D14,Dnmt3a,Neu,20263303,True,True,-0.04041290460707133,0.07473232872626188,-0.2094691773277747,0.12864336811363203,0.5983,,37,17,14,10,2.0,10.0,7.0,10.0,7.0,10,7,1.0,7.0,False
+17,D14,Dnmt3a,Mono,20263304,True,True,-0.06576922524064463,0.08723946174271256,-0.26311859850058184,0.13158014801929255,0.472,,38,16,14,9,2.0,10.0,6.0,10.0,6.0,10,6,1.0,6.0,False
+17,D14,Npm1c,Mk,20263305,False,False,,,,,,insufficient observed cells or family/sample rows,12,0,8,0,,,,,,6,0,,,False
+17,D14,Npm1c,Ery,20263306,False,False,,,,,,insufficient observed cells or family/sample rows,7,0,5,0,,,,,,5,0,,,False
+17,D14,Npm1c,Baso,20263307,False,False,,,,,,insufficient observed cells or family/sample rows,6,0,4,0,,,,,,4,0,,,False
+17,D14,Npm1c,Neu,20263308,False,False,,,,,,insufficient observed cells or family/sample rows,37,2,14,2,,,,,,10,2,,,False
+17,D14,Npm1c,Mono,20263309,False,False,,,,,,insufficient observed cells or family/sample rows,38,2,14,2,,,,,,10,2,,,False
+17,D27,Dnmt3a,Mk,20263310,False,False,,,,,,insufficient observed cells or family/sample rows,0,16,0,2,,,,,,0,1,,,False
+17,D27,Dnmt3a,Ery,20263311,False,False,,,,,,insufficient observed cells or family/sample rows,0,29,0,2,,,,,,0,1,,,False
+17,D27,Dnmt3a,Baso,20263312,False,False,,,,,,insufficient observed cells or family/sample rows,0,18,0,2,,,,,,0,1,,,False
+17,D27,Dnmt3a,Neu,20263313,False,False,,,,,,insufficient observed cells or family/sample rows,2,134,2,4,,,,,,2,2,,,False
+17,D27,Dnmt3a,Mono,20263314,True,False,-0.0818808233242393,,,,,fewer than five families in an arm or ten in union,17,63,16,5,1.0,7.0,2.0,9.0,0.0,13,3,,2.0,True
+17,D27,Npm1c,Mk,20263315,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,1,,,,,,0,1,,,False
+17,D27,Npm1c,Ery,20263316,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,1,,,,,,0,1,,,False
+17,D27,Npm1c,Baso,20263317,False,False,,,,,,insufficient observed cells or family/sample rows,0,2,0,1,,,,,,0,1,,,False
+17,D27,Npm1c,Neu,20263318,False,False,,,,,,insufficient observed cells or family/sample rows,2,5,2,2,,,,,,2,2,,,False
+17,D27,Npm1c,Mono,20263319,False,False,,,,,,insufficient observed cells or family/sample rows,17,4,16,1,,,,,,13,1,,,False
+19,D14,Dnmt3a,Mk,20263320,False,False,,,,,,insufficient observed cells or family/sample rows,2,0,2,0,,,,,,2,0,,,False
+19,D14,Dnmt3a,Ery,20263321,False,False,,,,,,insufficient observed cells or family/sample rows,1,0,1,0,,,,,,1,0,,,False
+19,D14,Dnmt3a,Baso,20263322,False,False,,,,,,insufficient observed cells or family/sample rows,1,0,1,0,,,,,,1,0,,,False
+19,D14,Dnmt3a,Neu,20263323,False,False,,,,,,insufficient observed cells or family/sample rows,23,4,13,3,,,,,,12,3,,,False
+19,D14,Dnmt3a,Mono,20263324,False,False,,,,,,insufficient observed cells or family/sample rows,22,4,13,3,,,,,,12,3,,,False
+19,D14,Npm1c,Mk,20263325,False,False,,,,,,insufficient observed cells or family/sample rows,2,0,2,0,,,,,,2,0,,,False
+19,D14,Npm1c,Ery,20263326,False,False,,,,,,insufficient observed cells or family/sample rows,1,0,1,0,,,,,,1,0,,,False
+19,D14,Npm1c,Baso,20263327,False,False,,,,,,insufficient observed cells or family/sample rows,1,0,1,0,,,,,,1,0,,,False
+19,D14,Npm1c,Neu,20263328,False,False,,,,,,insufficient observed cells or family/sample rows,23,0,13,0,,,,,,12,0,,,False
+19,D14,Npm1c,Mono,20263329,False,False,,,,,,insufficient observed cells or family/sample rows,22,0,13,0,,,,,,12,0,,,False
+19,D27,Dnmt3a,Mk,20263330,False,False,,,,,,insufficient observed cells or family/sample rows,7,112,6,4,,,,,,5,3,,,False
+19,D27,Dnmt3a,Ery,20263331,False,False,,,,,,insufficient observed cells or family/sample rows,6,102,6,4,,,,,,6,3,,,False
+19,D27,Dnmt3a,Baso,20263332,False,False,,,,,,insufficient observed cells or family/sample rows,5,86,4,2,,,,,,4,1,,,False
+19,D27,Dnmt3a,Neu,20263333,False,False,,,,,,no sample with both arms,53,104,15,12,,,,,,10,6,,,False
+19,D27,Dnmt3a,Mono,20263334,False,False,,,,,,no sample with both arms,54,89,15,11,,,,,,10,6,,,False
+19,D27,Npm1c,Mk,20263335,False,False,,,,,,insufficient observed cells or family/sample rows,7,16,6,4,,,,,,5,2,,,False
+19,D27,Npm1c,Ery,20263336,False,False,,,,,,insufficient observed cells or family/sample rows,6,18,6,4,,,,,,6,2,,,False
+19,D27,Npm1c,Baso,20263337,False,False,,,,,,insufficient observed cells or family/sample rows,5,13,4,3,,,,,,4,2,,,False
+19,D27,Npm1c,Neu,20263338,False,False,,,,,,no sample with both arms,53,30,15,3,,,,,,10,2,,,False
+19,D27,Npm1c,Mono,20263339,False,False,,,,,,no sample with both arms,54,30,15,3,,,,,,10,2,,,False

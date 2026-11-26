@@ -1,0 +1,28 @@
+OBSERVED METACLONE-LEVEL EVIDENCE
+- Seven current Multi-lineage metaclones were tested with 50 library-adjusted Day-2 clone-pseudobulk Hallmark scores.
+- Primary D4/D6 and D6-minus-D4 output correlations: 1500 rows; 1450 estimable; 0 passed analysis-wide FDR < 0.05; 0 passed cell-type/time endpoint FDR < 0.05; 0 also retained LOMO sign and pooled-output direction.
+- Observed-clone support per metaclone/day ranged from 10 to 50; mature-informative clone support ranged from 1 to 43.
+- Global clone_balanced_all_observed_cells, Day 4: distance rho=+0.44, exact P=0.151, within-estimand q=0.277.
+- Global clone_balanced_all_observed_cells, Day 6: distance rho=+0.25, exact P=0.277, within-estimand q=0.277.
+- Global clone_balanced_mature_only, Day 4: distance rho=-0.36, exact P=0.208, within-estimand q=0.417.
+- Global clone_balanced_mature_only, Day 6: distance rho=-0.04, exact P=0.915, within-estimand q=0.915.
+- Highest-ranked individual correlations:
+  - Androgen Response vs Baso (Day 6): rho=-0.96, exact P=0.00278, endpoint q=0.139, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Androgen Response vs Baso (Day 6 minus Day 4): rho=-0.96, exact P=0.00278, endpoint q=0.139, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Androgen Response vs Mast (Day 6 minus Day 4): rho=-0.91, exact P=0.00952, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Bile Acid Metabolism vs Mast (Day 6 minus Day 4): rho=-0.87, exact P=0.019, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Adipogenesis vs Mast (Day 6 minus Day 4): rho=-0.81, exact P=0.0381, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Myc Targets V2 vs Mast (Day 6 minus Day 4): rho=-0.81, exact P=0.0381, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Pperoxisome vs Mast (Day 6 minus Day 4): rho=-0.81, exact P=0.0381, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Glycolysis vs Mast (Day 6 minus Day 4): rho=-0.73, exact P=0.0571, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Cholesterol Homeostasis vs Mast (Day 6 minus Day 4): rho=-0.71, exact P=0.0857, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - Fatty Acid Metabolism vs Mast (Day 6 minus Day 4): rho=-0.71, exact P=0.0857, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - P53 Pathway vs Mast (Day 6 minus Day 4): rho=-0.71, exact P=0.0857, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+  - G2-M Checkpoint vs Mast (Day 6 minus Day 4): rho=-0.67, exact P=0.105, endpoint q=0.295, analysis-wide q=0.941, LOMO-sign-stable=True.
+
+INTERPRETATION BOUNDARIES
+- The independent sample size is seven metaclones; exact permutation P-values are discrete and effect sizes are more informative than asymptotic precision.
+- Output fractions are compositional, so enrichment of one cell type necessarily reduces at least one other fraction.
+- The Multi-lineage family was defined retrospectively from later output; correlations are descriptive associations, not prospective validation.
+- Mature-only composition omits clones without a mature sister at that day and is a sensitivity, not the primary estimand.
+- Day-6-minus-Day-4 differences compare destructive snapshots with partially different observed-clone cohorts and cannot establish within-clone temporal change.

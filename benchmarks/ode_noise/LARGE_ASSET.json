@@ -1,0 +1,13 @@
+{
+  "asset_name": "ode_noise_repeat_level_20260812.csv.gz",
+  "restore_relative_path": "benchmarks/ode_noise/results/aggregate/native_method_noise_runs.csv.gz",
+  "bytes": 153477867,
+  "sha256": "e206600a20219a4b8bf11f8213e13ad0909c8ade96c31b33b9c45451d06a984a",
+  "role": "Complete historical five-method repeat-level aggregate",
+  "rows": 1300500,
+  "location_record": "data/assets.json",
+  "required_for_summary_plotting": false,
+  "required_for_repeat_level_inspection": true,
+  "url": "https://github.com/hiromitsuhari/ChronoClone_paper/releases/download/untagged-657e915dc7563f3461c6/ode_noise_repeat_level_20260812.csv.gz",
+  "tag": "manuscript-v5-20260914"
+}

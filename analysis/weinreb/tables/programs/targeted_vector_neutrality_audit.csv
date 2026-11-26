@@ -1,0 +1,15 @@
+axis_id,role,contrast_id,intercept_and_library_max_abs_weight,target_minus_reference_vector_verified
+baso_rich,combined,baso_rich__focal_pair_vs_other_five,0.0,True
+baso_rich,member,baso_rich__MC2_vs_other_five,0.0,True
+baso_rich,member,baso_rich__MC4_vs_other_five,0.0,True
+neu_rich,combined,neu_rich__focal_pair_vs_other_five,0.0,True
+neu_rich,member,neu_rich__MC0_vs_other_five,0.0,True
+neu_rich,member,neu_rich__MC5_vs_other_five,0.0,True
+mono_rich,combined,mono_rich__focal_pair_vs_other_five,0.0,True
+mono_rich,member,mono_rich__MC0_vs_other_five,0.0,True
+mono_rich,member,mono_rich__MC3_vs_other_five,0.0,True
+persistent_undifferentiated,combined,persistent_undifferentiated__focal_pair_vs_other_five,0.0,True
+persistent_undifferentiated,member,persistent_undifferentiated__MC11_vs_other_five,0.0,True
+persistent_undifferentiated,member,persistent_undifferentiated__MC18_vs_other_five,0.0,True
+mc5_vs_mc3_divergence,secondary,MC5_vs_MC3,0.0,True
+mc3_vs_mc18_convergence,secondary,MC3_vs_MC18,0.0,True

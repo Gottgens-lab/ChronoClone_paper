@@ -1,0 +1,122 @@
+{
+  "status": "passed",
+  "environment": {
+    "name": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone-paper",
+    "python": "3.11.15",
+    "versions": {
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "matplotlib": "3.11.0",
+      "nbformat": "5.10.4",
+      "nbconvert": "7.17.1"
+    },
+    "RK45_defaults": {
+      "rtol": 0.001,
+      "atol": 1e-06
+    }
+  },
+  "programs": 12,
+  "shape": [
+    12,
+    4,
+    13
+  ],
+  "clone_count": 517,
+  "exact_reference_agreement": true,
+  "maximum_absolute_difference": 0.0,
+  "profile_sha256": "e4275d94c1513026dc684bcca44703135bba4af4694ec55cd714d3c0fa21bf6f",
+  "manifest_sha256": "ba890ce14f052113d203904aa158cab79c36794c4edaf638ee0afd5b85063d11",
+  "parameter_rows": 396,
+  "figures": [
+    {
+      "program": "MC01",
+      "svg": "results/reproduced_reference/figures/mc01_deterministic_profile.svg",
+      "svg_sha256": "5fd2196c177dbe5d85c2850240ce53ae5c508f51dccd7ffedde8e1cfa711fba3",
+      "png": "results/reproduced_reference/figures/mc01_deterministic_profile.png",
+      "png_sha256": "ca06a68f2ee5376984c1f300bea9cabe6db252f2eb31752d8e691d08a7eb62cf"
+    },
+    {
+      "program": "MC02",
+      "svg": "results/reproduced_reference/figures/mc02_deterministic_profile.svg",
+      "svg_sha256": "c0a7b3d85829830e0dc7f2c1dcd9a9991f08650ae22171e3325c9bae96cb2a82",
+      "png": "results/reproduced_reference/figures/mc02_deterministic_profile.png",
+      "png_sha256": "993e2c3e4dd4ae21e9cc0e1806a3b57e18f551d0d0413cd6003e2a5ebaa0a9f2"
+    },
+    {
+      "program": "MC03",
+      "svg": "results/reproduced_reference/figures/mc03_deterministic_profile.svg",
+      "svg_sha256": "b81a6f1e1559f187189dcd8bba3e5726064a68d2954ac47a361a562e95796f37",
+      "png": "results/reproduced_reference/figures/mc03_deterministic_profile.png",
+      "png_sha256": "6c1f42557c92bd8e011250d0a8147e00045209a8e49c31b36503029c5bda3b0f"
+    },
+    {
+      "program": "MC04",
+      "svg": "results/reproduced_reference/figures/mc04_deterministic_profile.svg",
+      "svg_sha256": "8d2c5ac101bc4f8d3b38526d175c3b4f0863a87c39a6c760f80c29bbaf70f7ab",
+      "png": "results/reproduced_reference/figures/mc04_deterministic_profile.png",
+      "png_sha256": "8ec367ce2fc85d026515e33eabcabbaef6b3f91715c25f9b78810d12aa415b62"
+    },
+    {
+      "program": "MC05",
+      "svg": "results/reproduced_reference/figures/mc05_deterministic_profile.svg",
+      "svg_sha256": "007864878d75b893385115c79380e92574a181d172465c711687dab77b04f256",
+      "png": "results/reproduced_reference/figures/mc05_deterministic_profile.png",
+      "png_sha256": "07d4dc22366dfd55a52c73c86405e039bee157f17a7f59e33f2313afec001e3a"
+    },
+    {
+      "program": "MC06",
+      "svg": "results/reproduced_reference/figures/mc06_deterministic_profile.svg",
+      "svg_sha256": "6f7a577a0ac1d4d4576f332fd3a18b2b641cd712bf77571426d5b98a671563d8",
+      "png": "results/reproduced_reference/figures/mc06_deterministic_profile.png",
+      "png_sha256": "50091502e4a6a077c03670c1b8d763c5e1697adcc642947228b7cdeb9843ee12"
+    },
+    {
+      "program": "MC07",
+      "svg": "results/reproduced_reference/figures/mc07_deterministic_profile.svg",
+      "svg_sha256": "11c85ad49333cfcd6fc0b98effd854f4e405ff5f530aa3ae3f02fa4f7c0cf292",
+      "png": "results/reproduced_reference/figures/mc07_deterministic_profile.png",
+      "png_sha256": "b99f140eed71251de00d293579de121a801238d24be967b1963f640e929e3070"
+    },
+    {
+      "program": "MC08",
+      "svg": "results/reproduced_reference/figures/mc08_deterministic_profile.svg",
+      "svg_sha256": "27cf88ac2490c082ab1a0bd492384b783609e790102ecb942bcbbc867f0cb7cb",
+      "png": "results/reproduced_reference/figures/mc08_deterministic_profile.png",
+      "png_sha256": "27cf269868899cdc0f99aaa853a4f5e62c4c9551a8b127e45374d712c6f601e9"
+    },
+    {
+      "program": "MC09",
+      "svg": "results/reproduced_reference/figures/mc09_deterministic_profile.svg",
+      "svg_sha256": "0b9879899fcb56cb7ad694c34aeb02e112f6693118f8157f019c6d7a4e7d1105",
+      "png": "results/reproduced_reference/figures/mc09_deterministic_profile.png",
+      "png_sha256": "62f21a831d66d071ed9d883cdec68253587147798b70464bb62911700df7cc16"
+    },
+    {
+      "program": "MC10",
+      "svg": "results/reproduced_reference/figures/mc10_deterministic_profile.svg",
+      "svg_sha256": "3800c3cb2a1bfabf9361ce9618e3d5ebbc4423c6546e4492cf797b522620fb9a",
+      "png": "results/reproduced_reference/figures/mc10_deterministic_profile.png",
+      "png_sha256": "ac9918fcd17e25aa97cb5637c32786c550b8c269949aeb392f82370510bc6789"
+    },
+    {
+      "program": "MC11",
+      "svg": "results/reproduced_reference/figures/mc11_deterministic_profile.svg",
+      "svg_sha256": "b742549221953ee3faa2ba1ad1fb909cf3712a71a8216885554947eaf2f0e634",
+      "png": "results/reproduced_reference/figures/mc11_deterministic_profile.png",
+      "png_sha256": "678a690b5fa937f4cce39d9e96e1b01b2480da357767acce238f7a8b32e2f13f"
+    },
+    {
+      "program": "MC12",
+      "svg": "results/reproduced_reference/figures/mc12_deterministic_profile.svg",
+      "svg_sha256": "da6f9b86e6e16525fb05ba0cde75e9e347dec580121d09f444279b3d32174e9d",
+      "png": "results/reproduced_reference/figures/mc12_deterministic_profile.png",
+      "png_sha256": "8091e1763dae17550dfc63c8c4f301e38b4d1ae3d3184cff5e6fe211497286e4"
+    }
+  ],
+  "reference_inputs_unchanged": true,
+  "historical_noise_suffix_executed": false,
+  "noise_contract": "The separate corrected noise generator perturbs t2-t4 only; the complete rounded t1 vector remains fixed."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "chronoclone",
+  "path": "/path/to/ChronoClone/.runtime/chronoclone",
+  "kernel": "chronoclone",
+  "executable": "/path/to/ChronoClone/.runtime/chronoclone/bin/python",
+  "python": "3.11.15",
+  "versions": {
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.0",
+    "nbformat": "5.10.4",
+    "nbclient": "0.11.0"
+  }
+}

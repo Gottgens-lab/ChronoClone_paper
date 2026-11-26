@@ -1,0 +1,3 @@
+panel,png_sha256,verdict,observed
+weinreb_clone_trajectory_umap,6f0ece8999f726a0eafc8a9c3bc638c2b35246c17f6a1b021398b88e35f1b83c,pass,"Individually viewed at full panel size: 20 readable MC labels, clear leader lines, no clipped circles or overlapping label text. Saved asymmetric geometry retained."
+singh_clone_trajectory_umap,47873c10b5a8ef248c0914923260504a09eba07e91f6d50eafaaebfad814c474,pass,"Individually viewed at full panel size: 17 readable MC labels, no clipping or label collisions. Dense MC0 marks overlap as expected from unchanged coordinates; no points were removed."

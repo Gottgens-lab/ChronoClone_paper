@@ -1,0 +1,65 @@
+OBSERVED TARGETED METACLONAL-SIGNATURE EVIDENCE
+- Primary cohort: 217 Day-2 pooled-HSPC LARRY-clone pseudobulks in seven Multi-lineage metaclones.
+- Locked analysis-defined axes: Baso-rich MC2/MC4; Neu-rich MC0/MC5; Mono-rich MC0/MC3; persistent-undifferentiated MC11/MC18.
+- Hallmark combined/global FDR hits: 40/200; full shared-signature hits: 0/200.
+- Gene combined/global FDR hits: 8/39108; full shared-signature hits: 0/39108.
+- Combined-significant Hallmark results:
+  - Neu-rich / Adipogenesis: combined effect=+0.586 SD, combined global q=0.000113, member effects=+0.754/+0.418 SD, conjunction global q=0.246, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Myc Targets V1: combined effect=+0.558 SD, combined global q=0.000113, member effects=+0.735/+0.380 SD, conjunction global q=0.403, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Myc Targets V2: combined effect=+0.601 SD, combined global q=0.00021, member effects=+0.759/+0.442 SD, conjunction global q=0.246, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Unfolded Protein Response: combined effect=+0.612 SD, combined global q=0.000745, member effects=+0.721/+0.504 SD, conjunction global q=0.221, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Oxidative Phosphorylation: combined effect=+0.584 SD, combined global q=0.000827, member effects=+0.716/+0.452 SD, conjunction global q=0.372, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Fatty Acid Metabolism: combined effect=+0.524 SD, combined global q=0.00161, member effects=+0.759/+0.289 SD, conjunction global q=0.617, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Mtorc1 Signaling: combined effect=+0.492 SD, combined global q=0.00161, member effects=+0.797/+0.188 SD, conjunction global q=0.927, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / G2-M Checkpoint: combined effect=+0.469 SD, combined global q=0.00217, member effects=+0.658/+0.280 SD, conjunction global q=0.633, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / E2F Targets: combined effect=+0.458 SD, combined global q=0.00274, member effects=+0.609/+0.306 SD, conjunction global q=0.617, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Mono-rich / Tnf-Alpha Signaling Via Nf-Kb: combined effect=+0.532 SD, combined global q=0.00765, member effects=+0.500/+0.564 SD, conjunction global q=0.481, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Persistent-undifferentiated / Mtorc1 Signaling: combined effect=-0.333 SD, combined global q=0.00916, member effects=-0.485/-0.182 SD, conjunction global q=0.878, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / Pperoxisome: combined effect=+0.391 SD, combined global q=0.0107, member effects=+0.572/+0.211 SD, conjunction global q=0.878, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / Glycolysis: combined effect=+0.453 SD, combined global q=0.0148, member effects=+0.704/+0.202 SD, conjunction global q=0.927, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / Xenobiotic Metabolism: combined effect=+0.500 SD, combined global q=0.0168, member effects=+0.725/+0.274 SD, conjunction global q=0.878, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Reactive Oxygen Species Pathway: combined effect=-0.372 SD, combined global q=0.0174, member effects=-0.485/-0.259 SD, conjunction global q=0.762, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Oxidative Phosphorylation: combined effect=-0.337 SD, combined global q=0.0182, member effects=-0.506/-0.168 SD, conjunction global q=0.925, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / Reactive Oxygen Species Pathway: combined effect=+0.443 SD, combined global q=0.0198, member effects=+0.594/+0.293 SD, conjunction global q=0.768, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Adipogenesis: combined effect=-0.332 SD, combined global q=0.0201, member effects=-0.347/-0.316 SD, conjunction global q=0.617, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Persistent-undifferentiated / Unfolded Protein Response: combined effect=-0.335 SD, combined global q=0.0213, member effects=-0.425/-0.245 SD, conjunction global q=0.762, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Fatty Acid Metabolism: combined effect=-0.338 SD, combined global q=0.0249, member effects=-0.326/-0.350 SD, conjunction global q=0.481, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Mono-rich / Fatty Acid Metabolism: combined effect=+0.372 SD, combined global q=0.0294, member effects=+0.716/+0.028 SD, conjunction global q=0.979, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Myc Targets V1: combined effect=-0.288 SD, combined global q=0.0294, member effects=-0.477/-0.099 SD, conjunction global q=0.979, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / Mitotic Spindle: combined effect=+0.380 SD, combined global q=0.0294, member effects=+0.512/+0.249 SD, conjunction global q=0.768, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Mono-rich / Il-2/Stat5 Signaling: combined effect=+0.365 SD, combined global q=0.0331, member effects=+0.473/+0.257 SD, conjunction global q=0.738, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Mono-rich / Mtorc1 Signaling: combined effect=+0.321 SD, combined global q=0.0346, member effects=+0.748/-0.105 SD, conjunction global q=0.966, shared=False, reason=member_direction_disagreement.
+  - Baso-rich / Notch Signaling: combined effect=-0.421 SD, combined global q=0.0351, member effects=-0.396/-0.446 SD, conjunction global q=0.714, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Dna Repair: combined effect=-0.308 SD, combined global q=0.0371, member effects=-0.463/-0.153 SD, conjunction global q=0.927, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / Dna Repair: combined effect=+0.369 SD, combined global q=0.0426, member effects=+0.520/+0.217 SD, conjunction global q=0.927, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Mono-rich / Interferon Alpha Response: combined effect=+0.399 SD, combined global q=0.0481, member effects=+0.164/+0.634 SD, conjunction global q=0.966, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Uv Response Up: combined effect=-0.313 SD, combined global q=0.0481, member effects=-0.401/-0.226 SD, conjunction global q=0.878, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / Uv Response Up: combined effect=+0.356 SD, combined global q=0.0481, member effects=+0.527/+0.185 SD, conjunction global q=0.925, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Glycolysis: combined effect=-0.286 SD, combined global q=0.0481, member effects=-0.378/-0.194 SD, conjunction global q=0.878, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Neu-rich / Protein Secretion: combined effect=+0.349 SD, combined global q=0.0481, member effects=+0.466/+0.232 SD, conjunction global q=0.878, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Mono-rich / Interferon Gamma Response: combined effect=+0.414 SD, combined global q=0.0481, member effects=+0.214/+0.613 SD, conjunction global q=0.927, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Baso-rich / Tnf-Alpha Signaling Via Nf-Kb: combined effect=-0.386 SD, combined global q=0.0481, member effects=-0.435/-0.338 SD, conjunction global q=0.617, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Persistent-undifferentiated / G2-M Checkpoint: combined effect=-0.289 SD, combined global q=0.0481, member effects=-0.428/-0.150 SD, conjunction global q=0.927, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Mono-rich / Adipogenesis: combined effect=+0.297 SD, combined global q=0.0481, member effects=+0.671/-0.078 SD, conjunction global q=0.979, shared=False, reason=member_direction_disagreement.
+  - Persistent-undifferentiated / E2F Targets: combined effect=-0.304 SD, combined global q=0.0497, member effects=-0.461/-0.147 SD, conjunction global q=0.966, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Persistent-undifferentiated / Xenobiotic Metabolism: combined effect=-0.330 SD, combined global q=0.0497, member effects=-0.373/-0.286 SD, conjunction global q=0.714, shared=False, reason=exactly_one_member_nominal_same_direction.
+  - Mono-rich / Apoptosis: combined effect=+0.367 SD, combined global q=0.0497, member effects=+0.445/+0.289 SD, conjunction global q=0.617, shared=False, reason=global_max_p_conjunction_not_supported.
+- Combined-significant gene results:
+  - Persistent-undifferentiated / Ly6a: combined log2FC=+1.794, combined global q=0.000245, member log2FC=+2.061/+1.526, conjunction global q=1, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Ly6a: combined log2FC=-2.222, combined global q=0.000386, member log2FC=-3.032/-1.412, conjunction global q=1, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Plac8: combined log2FC=+1.112, combined global q=0.000631, member log2FC=+1.238/+0.985, conjunction global q=1, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Atp5g3: combined log2FC=+0.875, combined global q=0.000875, member log2FC=+1.005/+0.745, conjunction global q=1, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Dlk1: combined log2FC=-2.638, combined global q=0.00386, member log2FC=-3.578/-1.697, conjunction global q=1, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Lyar: combined log2FC=+1.011, combined global q=0.0169, member log2FC=+0.898/+1.124, conjunction global q=1, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Ms4a3: combined log2FC=+1.536, combined global q=0.0326, member log2FC=+1.810/+1.262, conjunction global q=1, shared=False, reason=global_max_p_conjunction_not_supported.
+  - Neu-rich / Gm10053: combined log2FC=+0.879, combined global q=0.0367, member log2FC=+0.966/+0.793, conjunction global q=1, shared=False, reason=global_max_p_conjunction_not_supported.
+- Secondary contrasts:
+  - MC5 vs MC3 divergence: Hallmarks global q<0.05=4; genes global q<0.05=0.
+  - MC3 vs MC18 branch-compatibility convergence: Hallmarks global q<0.05=5; genes global q<0.05=0.
+
+INTERPRETATION BOUNDARIES
+- A combined-only result is a pooled candidate and is not a shared behavioral signature.
+- One-metaclone-driven is reserved for exactly one nominal same-direction member; lack of global max-P support alone is not assigned that label.
+- The four groups were defined retrospectively from later sampled output. Day-2 differences are associations, not causal or prospective predictors.
+- Persistent undifferentiated output is an observed compartment fraction, not proof of self-renewal.
+- Destructive sampling, incomplete clone recovery, source-sublabel imbalance, and absence of independent biological replicates remain limitations.

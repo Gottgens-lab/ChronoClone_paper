@@ -1,0 +1,5 @@
+example_id,independently_selected_program,selection_source,program,selection_agrees
+mono_1,Inflammatory Response,"four original adjusted-mean cross-pair directions, then absolute equal-MC effect; no p/q input",Inflammatory Response,True
+mono_2,Myc Targets V2,"four original adjusted-mean cross-pair directions, then absolute equal-MC effect; no p/q input",Myc Targets V2,True
+multi_divergence,Interferon Alpha Response,largest absolute original adjusted-mean pair effect; no p/q input,Interferon Alpha Response,True
+multi_convergence,Interferon Alpha Response,largest absolute original adjusted-mean pair effect; no p/q input,Interferon Alpha Response,True

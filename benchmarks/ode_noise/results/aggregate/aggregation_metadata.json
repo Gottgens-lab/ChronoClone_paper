@@ -1,0 +1,63 @@
+{
+  "aggregation_completed_at_utc": "2026-08-13T20:48:04.342186+00:00",
+  "artifact_sha256": {
+    "chronoclone_selective_summary.csv": "612d54914476844a85f49e558a4b9a1dab4d521d916eef20e3a5aa42c7a225c8",
+    "chunk_manifest.csv": "709cbd26535ec327d70c4fe2e8ce09115c184a60e3c8d4f9e6c03a45c7d09f85",
+    "eligibility_summary.csv": "0512da40a10716b6fccd40c21d278e5eca70c6334bd7ca4844b76ce966275a7e",
+    "method_failure_counts.csv": "0450900b202e41606e095185fb7e4a113b2a22c40107dde1278c8dede1fb9e48",
+    "native_method_noise_summary.csv": "bed979ac8abfe1d2623cee76370b8501aafb80e55a1f53197bc352019c181bcd",
+    "result_completeness.csv": "9f3d2d1e7fce68f77bbe5202d1e2d3049a81a752f12a00b0225bec2b21619d48",
+    "same_retained_subset_summary.csv": "5e00602869e52ea518bd36928aa5a1b7a6d930229ab2c47d92500ce14d6a3c47"
+  },
+  "chronoclone_selective_summary_rows": 2601,
+  "cyclone_uniform_invariance_validated": true,
+  "deterministic_clean_baseline_validated": true,
+  "eligibility_summary_rows": 2601,
+  "expected_chunks": 600,
+  "expected_rows": 1300500,
+  "five_method_common_cohort_validated": true,
+  "hash_contract": {
+    "chronoclone_package_tree_sha256": "3a5bbeb6a6a6dd863165bcd418116bd63719faa1b71c085ecc07fede5c729e4b",
+    "conda_records_sha256": "00675c9a542dfb97ab57108658bde75aa7c75c35ef6d398928e8899bdeb7ec25",
+    "config_sha256": "cb1d87ff5e0f0e6a280335449623a0808987185342ab1df05efaf65d0a2a0f96",
+    "corrected_core_sha256": "52c6925233945d0b450d123453141ab6583cb1d789576e6d7e81687eb2f237a4",
+    "cyclone_adapter_sha256": "907525a8e9261686290e4d25829a5c1af52840d491e987cae43eefa4497a7cf6",
+    "environment_manifest_sha256": "9c642ec81219966897cdf2015f2eff3288668900d70c6f031461aad5ae87febd",
+    "manifest_sha256": "ba890ce14f052113d203904aa158cab79c36794c4edaf638ee0afd5b85063d11",
+    "profile_sha256": "e4275d94c1513026dc684bcca44703135bba4af4694ec55cd714d3c0fa21bf6f",
+    "result_schema_sha256": "660d1df7434b38359e8616275ae227c28c72c0352cd8195d482cec7546959f1e",
+    "runner_sha256": "deb3c49e78b7f72056e4f166da243233b2ebb0b2bddcf6b0d2f5015a3771a12e",
+    "runtime_versions_sha256": "5fcbec1bbbe5a354b4696c539695df439aeb7d07c80f7edb71bbb0516367343c",
+    "source_core_sha256": "4641e28b317308473a65472fbf2ebf533db41e37f2954d9702991c110bdb5ca1",
+    "source_runtime_sha256": "465d13ff96eed018e88691b484a6c55631e4a5959ed15143ec70f72363370c8d"
+  },
+  "method_failure_rows": 248166,
+  "observed_chunks": 600,
+  "observed_rows": 1300500,
+  "omitted_large_artifacts": {
+    "native_method_noise_runs.csv.gz": {
+      "bytes": 153477867,
+      "reason": "Exceeds GitHub's 100 MB per-file limit; regenerate from the supplied runner or retrieve from the versioned archive when deposited.",
+      "sha256": "e206600a20219a4b8bf11f8213e13ad0909c8ade96c31b33b9c45451d06a984a"
+    }
+  },
+  "postfilter_payload_validated": true,
+  "postprocessor_manifest_sha256": "2b0a01383d99e1361a02e1167a2654064ee3ebeeb089c963b2bb4f09a1b5a5a2",
+  "postprocessor_sha256": {
+    "scripts/aggregate_results.py": "772ed693a0a899ea5304c91663d2f848353775c43c76c10ffac12889120ee63a",
+    "scripts/build_notebooks.py": "312a6171673bbc8b239d5199eb976b1a77d3873222ba583522f413b43ac6d79a",
+    "scripts/execute_notebook.py": "9de9c330fc425b0f33030d686f756154818112b7ad17cb18a047daaf749018da",
+    "scripts/validate_postprocessing.py": "c7b04f9828d799429432ccd328f4153de5914e10d2812093dfd7e1cc13940c84"
+  },
+  "quantiles": [
+    0.025,
+    0.975
+  ],
+  "same_retained_subset_summary_rows": 13005,
+  "schema": "chronoclone_t1_locked_public_aggregation_v1",
+  "silhouette_cutoff": -0.1,
+  "status": "pass",
+  "summary_rows": 13005,
+  "t1_lock_validated": true,
+  "uniform_total_and_eligibility_invariance_validated": true
+}

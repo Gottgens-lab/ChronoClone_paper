@@ -1,0 +1,57 @@
+check,passed,detail
+discovery_all_1041_cells,True,1041
+discovery_all_784_clones,True,784
+inference_569_current_MC_clones,True,569
+targeted_217_multilineage_clones,True,217
+no_forbidden_discovery_metadata,True,"['cell_type', 'day']"
+zero_synthetic_features_entered,True,0
+zero_mitochondrial_features_entered,True,0
+zero_KEGG_ribosome_features_entered,True,0
+zero_Malat1_features_entered,True,0
+Malat1_absent_from_recovery_HVGs,True,0
+Hbegf_not_misclassified_as_hemoglobin,True,0
+K_grid_complete,True,"[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]"
+random_restart_init_only,True,{'random'}
+restart_seeds_unique_within_fit,True,18
+selected_K_passes_all_gates,True,13
+one_selected_K,True,1
+K_selection_rule_reproduced,True,"{'audit': 13, 'selected': 13, 'candidates': [11, 13]}"
+frozen_HVG_spectra_complete,True,"(13, 2000)"
+frozen_all_gene_spectra_complete,True,"(13, 16139)"
+top100_every_program,True,100
+fractional_usage_sums_one,True,4.440892098500626e-16
+broad_94_registry_mirror,True,1222
+targeted_14_registry_mirror,True,182
+novelty_search_global_BH_exact,True,975
+manual_design_equivalent,True,0.0
+seven_library_program_refits,True,"{'leave_one_library_out': 7, 'within_library_prog1_prog2_balance': 10}"
+ten_source_balance_refits,True,"{'leave_one_library_out': 7, 'within_library_prog1_prog2_balance': 10}"
+sensitivity_HVGs_reselected,True,34000
+sensitivity_common_HVG_support,True,1084
+seven_library_inference_refits_audited,True,"{'refits': 7, 'fully_estimable': 7}"
+library_LOO_support_recomputed,True,4
+targeted_LOO_library_candidates_canonical,True,generated standardized columns excluded
+source_covariate_models_full_rank,True,27|12|14
+annotation_flags_explicit,True,"['cell_cycle_flag', 'library_associated_flag', 'mitochondrial_flag', 'nuclear_qc_malat1_flag', 'ribosomal_flag', 'sex_associated_flag']"
+annotation_reference_labels_resolved,True,fixed Hallmark/AP1/technical labels present
+cell_cycle_flags_match_fixed_Hallmark_rule,True,['Weinreb_D2_cNMF_K13_P11']
+targeted_hit_interpretation_complete,True,1
+curated_membership_loaded_postfreeze,True,160
+all_inferential_models_use_unique_clone_units,True,17/17 model contexts
+all_metaclone_heatmap_rows_zscored,True,"(13, 2)"
+lineage_bias_heatmap_rows_zscored,True,"(13, 2)"
+within_lineage_heatmap_rows_zscored,True,"(52, 2)"
+within_lineage_singleton_is_NE,True,13
+zscore_heatmap_dimensions_and_keys,True,"{'all_mc': 260, 'families': 65, 'within_family': 260}"
+zscore_heatmap_adjusted_means_exact,True,plot sources reconstruct fitted clone-level adjusted means
+zscore_heatmap_shared_display_clip_exact,True,"{'limit': 2.5, 'all_mc_clipped': 4, 'families_clipped': 0, 'within_family_clipped': 0}"
+zscore_heatmap_palette_declared,True,custom blue-white-red with zero-centered normalization
+zscore_heatmap_palette_exact,True,negative=#2166AC; zero=#FFFFFF; positive=#B2182B
+zscore_heatmaps_clone_level_only,True,no per-cell usage object accessed by heatmap cells
+targeted_manifest_refreshed_and_exact,True,147
+targeted_manifest_excludes_cnmf_scope,True,no cnmf_* artifact in targeted-only manifest
+cnmf_plot_cell_count,True,8/8
+cnmf_inline_plot_contract,True,one plot/save/display/close per cell
+cnmf_plot_triplets_complete,True,8
+cnmf_SVGs_editable,True,no embedded raster images
+input_landing_zone_empty,True,Input/ empty

@@ -1,0 +1,14 @@
+program,selected_K,mean_cell_usage_fraction,active_cell_fraction_usage_ge_0_05,top_gene_preannotation,program_order_rule
+Weinreb_D2_cNMF_K13_P01,13,0.08793910732338031,0.9394812680115274,Zcchc6,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P02,13,0.08539412668673275,0.9212295869356388,Ascc2,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P03,13,0.08103587267570567,0.8972142170989433,Eci2,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P04,13,0.0800460651723296,0.9010566762728146,Eml2,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P05,13,0.07650372193637663,0.8645533141210374,Vps4b,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P06,13,0.07608507370118417,0.8587896253602305,Ccdc122,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P07,13,0.07594780678719035,0.8568683957732949,Vat1,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P08,13,0.07568109257553483,0.8270893371757925,Mapk8,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P09,13,0.07533523207848761,0.8568683957732949,Ccdc90b,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P10,13,0.07338491493780715,0.8472622478386167,Ralgds,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P11,13,0.07189995377807996,0.8021133525456292,Ankrd50,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P12,13,0.07126435967615012,0.8376560999039385,Fbxl20,descending mean fractional usage; stable sort
+Weinreb_D2_cNMF_K13_P13,13,0.06948267267104084,0.7934678194044188,Ahsa2,descending mean fractional usage; stable sort

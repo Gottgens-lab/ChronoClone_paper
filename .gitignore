@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+generated/
+.reproduction/
+data/external/
+/benchmarks/ode_noise/results/aggregate/native_method_noise_runs.csv.gz
+*.log
+/benchmarks/ode_noise/reproductions/
+
+# Manuscript drafts are not part of this repository
+manuscript/
+ChronoClone_v*.docx
+ChronoClone_v*.pdf

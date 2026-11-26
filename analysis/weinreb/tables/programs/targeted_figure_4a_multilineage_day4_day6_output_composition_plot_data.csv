@@ -1,0 +1,99 @@
+metaclone,day,output_class,fraction
+0,4,Basophil,0.009523809523809523
+0,4,Erythroid / Mk,0.0
+0,4,Mast,0.002857142857142857
+0,4,Monocyte,0.13814626083533646
+0,4,Neutrophil,0.42710223925173063
+0,4,Other mature,0.0
+0,4,Undifferentiated,0.42237054753198056
+0,6,Basophil,0.0006429844665138783
+0,6,Erythroid / Mk,0.0047619047619047615
+0,6,Mast,0.001963006161538613
+0,6,Monocyte,0.23561066928807464
+0,6,Neutrophil,0.735350727127382
+0,6,Other mature,0.004514533085961657
+0,6,Undifferentiated,0.01715617510862438
+2,4,Basophil,0.12250000000000001
+2,4,Erythroid / Mk,0.0
+2,4,Mast,0.0
+2,4,Monocyte,0.1
+2,4,Neutrophil,0.0125
+2,4,Other mature,0.0
+2,4,Undifferentiated,0.765
+2,6,Basophil,0.3371212121212121
+2,6,Erythroid / Mk,0.0
+2,6,Mast,0.05555555555555555
+2,6,Monocyte,0.0
+2,6,Neutrophil,0.35479797979797983
+2,6,Other mature,0.0
+2,6,Undifferentiated,0.25252525252525254
+3,4,Basophil,0.0
+3,4,Erythroid / Mk,0.0
+3,4,Mast,0.0
+3,4,Monocyte,0.05932051282051282
+3,4,Neutrophil,0.07016849816849817
+3,4,Other mature,0.0
+3,4,Undifferentiated,0.870510989010989
+3,6,Basophil,0.03267329597116831
+3,6,Erythroid / Mk,0.0010638297872340426
+3,6,Mast,0.0004091653027823241
+3,6,Monocyte,0.29072732751877317
+3,6,Neutrophil,0.3664730230830146
+3,6,Other mature,0.0
+3,6,Undifferentiated,0.3086533583370275
+4,4,Basophil,0.005952380952380952
+4,4,Erythroid / Mk,0.03968253968253969
+4,4,Mast,0.0
+4,4,Monocyte,0.015873015873015872
+4,4,Neutrophil,0.08174603174603175
+4,4,Other mature,0.16269841269841268
+4,4,Undifferentiated,0.694047619047619
+4,6,Basophil,0.13857142857142857
+4,6,Erythroid / Mk,0.025
+4,6,Mast,0.0
+4,6,Monocyte,0.0125
+4,6,Neutrophil,0.14720238095238095
+4,6,Other mature,0.24523809523809523
+4,6,Undifferentiated,0.4314880952380952
+5,4,Basophil,0.01
+5,4,Erythroid / Mk,0.0
+5,4,Mast,0.0
+5,4,Monocyte,0.05575091575091575
+5,4,Neutrophil,0.0573992673992674
+5,4,Other mature,0.04
+5,4,Undifferentiated,0.8368498168498167
+5,6,Basophil,0.02
+5,6,Erythroid / Mk,0.0
+5,6,Mast,0.0
+5,6,Monocyte,0.0707842617152962
+5,6,Neutrophil,0.6893462208289795
+5,6,Other mature,0.0
+5,6,Undifferentiated,0.21986951745572433
+11,4,Basophil,0.0
+11,4,Erythroid / Mk,0.0
+11,4,Mast,0.0
+11,4,Monocyte,0.0
+11,4,Neutrophil,0.011904761904761904
+11,4,Other mature,0.0
+11,4,Undifferentiated,0.9880952380952381
+11,6,Basophil,0.0016233766233766235
+11,6,Erythroid / Mk,0.0014285714285714286
+11,6,Mast,0.0
+11,6,Monocyte,0.004175824175824176
+11,6,Neutrophil,0.025012732365673546
+11,6,Other mature,0.0
+11,6,Undifferentiated,0.9677594954065543
+18,4,Basophil,0.0
+18,4,Erythroid / Mk,0.0
+18,4,Mast,0.0
+18,4,Monocyte,0.0
+18,4,Neutrophil,0.0023923444976076554
+18,4,Other mature,0.0
+18,4,Undifferentiated,0.9976076555023923
+18,6,Basophil,0.0228128054740958
+18,6,Erythroid / Mk,0.0
+18,6,Mast,0.0
+18,6,Monocyte,0.11074790038984413
+18,6,Neutrophil,0.08151458920372376
+18,6,Other mature,0.0
+18,6,Undifferentiated,0.7849247049323363

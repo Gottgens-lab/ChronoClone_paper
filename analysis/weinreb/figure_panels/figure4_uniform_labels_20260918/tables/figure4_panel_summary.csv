@@ -1,0 +1,5 @@
+panel,stem,program,contrast,q,mark,groups,svg_sha256
+4A,figure_4a_monocyte_inflammatory,Inflammatory Response,Mean MC7/MC12 minus mean MC6/MC8,0.0022910399433316,**,"Monocyte pooled (n=135), MC6 (n=33), MC8 (n=38), MC7 (n=23), MC12 (n=41)",92e312fb144ae00d7ca4a7e80635ae391ca98fa3db3ed408f0cc6e92bf9fd23f
+4B,figure_4b_monocyte_myc_targets_v2,Myc Targets V2,Mean MC7/MC12 minus mean MC6/MC8,0.0010825451800993,**,"Monocyte pooled (n=135), MC6 (n=33), MC8 (n=38), MC7 (n=23), MC12 (n=41)",fc51bf0defe7d614160d1c020aea2afc4b1f99ab63482270a608f3ab7ea0f46d
+4C,figure_4c_multilineage_ifn_mc5_mc3,Interferon Alpha Response,MC5 vs MC3 within Multi-lineage,0.0314542850034611,**,"Multi-lineage pooled (n=217), MC0 (n=35), MC2 (n=20), MC5 (n=25), MC3 (n=50), MC18 (n=38), MC4 (n=21), MC11 (n=28)",d4387476f0a1899c4c4d8713a259017518556d1465ceddaceca07b0ff6fe0505
+4D,figure_4d_multilineage_ifn_mc3_mc18,Interferon Alpha Response,MC3 vs MC18 within Multi-lineage,0.0040476873044874,**,"Multi-lineage pooled (n=217), MC0 (n=35), MC2 (n=20), MC5 (n=25), MC3 (n=50), MC18 (n=38), MC4 (n=21), MC11 (n=28)",507b6349aa85aa471707f8deac5ff33e66b1aad3092876879d2d51785cef07ce

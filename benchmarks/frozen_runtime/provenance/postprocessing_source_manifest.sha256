@@ -1,0 +1,5 @@
+# Historical experiment source hashes. Path labels normalized; current-file hashes are in ../../curation/publication_frozen_source_manifest.sha256.
+772ed693a0a899ea5304c91663d2f848353775c43c76c10ffac12889120ee63a  scripts/aggregate_results.py
+312a6171673bbc8b239d5199eb976b1a77d3873222ba583522f413b43ac6d79a  scripts/build_notebooks.py
+9de9c330fc425b0f33030d686f756154818112b7ad17cb18a047daaf749018da  scripts/execute_notebook.py
+c7b04f9828d799429432ccd328f4153de5914e10d2812093dfd7e1cc13940c84  scripts/validate_postprocessing.py

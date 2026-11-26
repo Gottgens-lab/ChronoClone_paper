@@ -1,0 +1,95 @@
+model,tier,contrast_id,contrast_label,target,reference,lineage_bias,target_mc,reference_mc,support_gate,target_levels,reference_levels
+metaclone,all_metaclones_ovr,MC9_vs_equal_mean_other_19,MC9 vs equal-MC mean of other 19,MC9,equal_mean_other_19,Neutrophil,9.0,,True,MC9,MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC14_vs_equal_mean_other_19,MC14 vs equal-MC mean of other 19,MC14,equal_mean_other_19,Neutrophil,14.0,,True,MC14,MC9|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC16_vs_equal_mean_other_19,MC16 vs equal-MC mean of other 19,MC16,equal_mean_other_19,Neutrophil,16.0,,True,MC16,MC9|MC14|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC22_vs_equal_mean_other_19,MC22 vs equal-MC mean of other 19,MC22,equal_mean_other_19,Neutrophil,22.0,,True,MC22,MC9|MC14|MC16|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC1_vs_equal_mean_other_19,MC1 vs equal-MC mean of other 19,MC1,equal_mean_other_19,Neutrophil,1.0,,True,MC1,MC9|MC14|MC16|MC22|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC12_vs_equal_mean_other_19,MC12 vs equal-MC mean of other 19,MC12,equal_mean_other_19,Monocyte,12.0,,True,MC12,MC9|MC14|MC16|MC22|MC1|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC7_vs_equal_mean_other_19,MC7 vs equal-MC mean of other 19,MC7,equal_mean_other_19,Monocyte,7.0,,True,MC7,MC9|MC14|MC16|MC22|MC1|MC12|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC8_vs_equal_mean_other_19,MC8 vs equal-MC mean of other 19,MC8,equal_mean_other_19,Monocyte,8.0,,True,MC8,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC6_vs_equal_mean_other_19,MC6 vs equal-MC mean of other 19,MC6,equal_mean_other_19,Monocyte,6.0,,True,MC6,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC10_vs_equal_mean_other_19,MC10 vs equal-MC mean of other 19,MC10,equal_mean_other_19,Erythroid / Mk,10.0,,True,MC10,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC17_vs_equal_mean_other_19,MC17 vs equal-MC mean of other 19,MC17,equal_mean_other_19,Erythroid / Mk,17.0,,True,MC17,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC23_vs_equal_mean_other_19,MC23 vs equal-MC mean of other 19,MC23,equal_mean_other_19,Erythroid / Mk,23.0,,True,MC23,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC13|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC13_vs_equal_mean_other_19,MC13 vs equal-MC mean of other 19,MC13,equal_mean_other_19,Basophil,13.0,,True,MC13,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC0|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC0_vs_equal_mean_other_19,MC0 vs equal-MC mean of other 19,MC0,equal_mean_other_19,Multi-lineage,0.0,,True,MC0,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC2_vs_equal_mean_other_19,MC2 vs equal-MC mean of other 19,MC2,equal_mean_other_19,Multi-lineage,2.0,,True,MC2,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC5|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC5_vs_equal_mean_other_19,MC5 vs equal-MC mean of other 19,MC5,equal_mean_other_19,Multi-lineage,5.0,,True,MC5,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC3|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC3_vs_equal_mean_other_19,MC3 vs equal-MC mean of other 19,MC3,equal_mean_other_19,Multi-lineage,3.0,,True,MC3,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC18|MC4|MC11
+metaclone,all_metaclones_ovr,MC18_vs_equal_mean_other_19,MC18 vs equal-MC mean of other 19,MC18,equal_mean_other_19,Multi-lineage,18.0,,True,MC18,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC4|MC11
+metaclone,all_metaclones_ovr,MC4_vs_equal_mean_other_19,MC4 vs equal-MC mean of other 19,MC4,equal_mean_other_19,Multi-lineage,4.0,,True,MC4,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC11
+metaclone,all_metaclones_ovr,MC11_vs_equal_mean_other_19,MC11 vs equal-MC mean of other 19,MC11,equal_mean_other_19,Multi-lineage,11.0,,True,MC11,MC9|MC14|MC16|MC22|MC1|MC12|MC7|MC8|MC6|MC10|MC17|MC23|MC13|MC0|MC2|MC5|MC3|MC18|MC4
+family,lineage_bias_ovr,Neutrophil_vs_equal_mean_other_4,Neutrophil vs equal-family mean of other 4,Neutrophil,equal_mean_other_4,Neutrophil,,,True,Neutrophil,Monocyte|Erythroid_Mk|Basophil|Multi_lineage
+family,lineage_bias_ovr,Monocyte_vs_equal_mean_other_4,Monocyte vs equal-family mean of other 4,Monocyte,equal_mean_other_4,Monocyte,,,True,Monocyte,Neutrophil|Erythroid_Mk|Basophil|Multi_lineage
+family,lineage_bias_ovr,Erythroid_Mk_vs_equal_mean_other_4,Erythroid / Mk vs equal-family mean of other 4,Erythroid_Mk,equal_mean_other_4,Erythroid / Mk,,,True,Erythroid_Mk,Neutrophil|Monocyte|Basophil|Multi_lineage
+family,lineage_bias_ovr,Basophil_vs_equal_mean_other_4,Basophil vs equal-family mean of other 4,Basophil,equal_mean_other_4,Basophil,,,True,Basophil,Neutrophil|Monocyte|Erythroid_Mk|Multi_lineage
+family,lineage_bias_ovr,Multi_lineage_vs_equal_mean_other_4,Multi-lineage vs equal-family mean of other 4,Multi_lineage,equal_mean_other_4,Multi-lineage,,,True,Multi_lineage,Neutrophil|Monocyte|Erythroid_Mk|Basophil
+family,lineage_bias_pairwise,Neutrophil_vs_Monocyte,Neutrophil vs Monocyte,Neutrophil,Monocyte,between_families,,,True,Neutrophil,Monocyte
+family,lineage_bias_pairwise,Neutrophil_vs_Erythroid_Mk,Neutrophil vs Erythroid / Mk,Neutrophil,Erythroid_Mk,between_families,,,True,Neutrophil,Erythroid_Mk
+family,lineage_bias_pairwise,Neutrophil_vs_Basophil,Neutrophil vs Basophil,Neutrophil,Basophil,between_families,,,True,Neutrophil,Basophil
+family,lineage_bias_pairwise,Neutrophil_vs_Multi_lineage,Neutrophil vs Multi-lineage,Neutrophil,Multi_lineage,between_families,,,True,Neutrophil,Multi_lineage
+family,lineage_bias_pairwise,Monocyte_vs_Erythroid_Mk,Monocyte vs Erythroid / Mk,Monocyte,Erythroid_Mk,between_families,,,True,Monocyte,Erythroid_Mk
+family,lineage_bias_pairwise,Monocyte_vs_Basophil,Monocyte vs Basophil,Monocyte,Basophil,between_families,,,True,Monocyte,Basophil
+family,lineage_bias_pairwise,Monocyte_vs_Multi_lineage,Monocyte vs Multi-lineage,Monocyte,Multi_lineage,between_families,,,True,Monocyte,Multi_lineage
+family,lineage_bias_pairwise,Erythroid_Mk_vs_Basophil,Erythroid / Mk vs Basophil,Erythroid_Mk,Basophil,between_families,,,True,Erythroid_Mk,Basophil
+family,lineage_bias_pairwise,Erythroid_Mk_vs_Multi_lineage,Erythroid / Mk vs Multi-lineage,Erythroid_Mk,Multi_lineage,between_families,,,True,Erythroid_Mk,Multi_lineage
+family,lineage_bias_pairwise,Basophil_vs_Multi_lineage,Basophil vs Multi-lineage,Basophil,Multi_lineage,between_families,,,True,Basophil,Multi_lineage
+metaclone,within_lineage_ovr,MC9_vs_equal_mean_Neutrophil_peers,MC9 vs equal-MC mean of Neutrophil peers,MC9,equal_mean_Neutrophil_peers,Neutrophil,9.0,,True,MC9,MC14|MC16|MC22|MC1
+metaclone,within_lineage_ovr,MC14_vs_equal_mean_Neutrophil_peers,MC14 vs equal-MC mean of Neutrophil peers,MC14,equal_mean_Neutrophil_peers,Neutrophil,14.0,,True,MC14,MC9|MC16|MC22|MC1
+metaclone,within_lineage_ovr,MC16_vs_equal_mean_Neutrophil_peers,MC16 vs equal-MC mean of Neutrophil peers,MC16,equal_mean_Neutrophil_peers,Neutrophil,16.0,,True,MC16,MC9|MC14|MC22|MC1
+metaclone,within_lineage_ovr,MC22_vs_equal_mean_Neutrophil_peers,MC22 vs equal-MC mean of Neutrophil peers,MC22,equal_mean_Neutrophil_peers,Neutrophil,22.0,,True,MC22,MC9|MC14|MC16|MC1
+metaclone,within_lineage_ovr,MC1_vs_equal_mean_Neutrophil_peers,MC1 vs equal-MC mean of Neutrophil peers,MC1,equal_mean_Neutrophil_peers,Neutrophil,1.0,,True,MC1,MC9|MC14|MC16|MC22
+metaclone,within_lineage_pairwise,MC9_vs_MC14,MC9 vs MC14 within Neutrophil,MC9,MC14,Neutrophil,9.0,14.0,True,MC9,MC14
+metaclone,within_lineage_pairwise,MC9_vs_MC16,MC9 vs MC16 within Neutrophil,MC9,MC16,Neutrophil,9.0,16.0,True,MC9,MC16
+metaclone,within_lineage_pairwise,MC9_vs_MC22,MC9 vs MC22 within Neutrophil,MC9,MC22,Neutrophil,9.0,22.0,True,MC9,MC22
+metaclone,within_lineage_pairwise,MC9_vs_MC1,MC9 vs MC1 within Neutrophil,MC9,MC1,Neutrophil,9.0,1.0,True,MC9,MC1
+metaclone,within_lineage_pairwise,MC14_vs_MC16,MC14 vs MC16 within Neutrophil,MC14,MC16,Neutrophil,14.0,16.0,False,MC14,MC16
+metaclone,within_lineage_pairwise,MC14_vs_MC22,MC14 vs MC22 within Neutrophil,MC14,MC22,Neutrophil,14.0,22.0,False,MC14,MC22
+metaclone,within_lineage_pairwise,MC14_vs_MC1,MC14 vs MC1 within Neutrophil,MC14,MC1,Neutrophil,14.0,1.0,False,MC14,MC1
+metaclone,within_lineage_pairwise,MC16_vs_MC22,MC16 vs MC22 within Neutrophil,MC16,MC22,Neutrophil,16.0,22.0,True,MC16,MC22
+metaclone,within_lineage_pairwise,MC16_vs_MC1,MC16 vs MC1 within Neutrophil,MC16,MC1,Neutrophil,16.0,1.0,True,MC16,MC1
+metaclone,within_lineage_pairwise,MC22_vs_MC1,MC22 vs MC1 within Neutrophil,MC22,MC1,Neutrophil,22.0,1.0,True,MC22,MC1
+metaclone,within_lineage_ovr,MC12_vs_equal_mean_Monocyte_peers,MC12 vs equal-MC mean of Monocyte peers,MC12,equal_mean_Monocyte_peers,Monocyte,12.0,,True,MC12,MC7|MC8|MC6
+metaclone,within_lineage_ovr,MC7_vs_equal_mean_Monocyte_peers,MC7 vs equal-MC mean of Monocyte peers,MC7,equal_mean_Monocyte_peers,Monocyte,7.0,,True,MC7,MC12|MC8|MC6
+metaclone,within_lineage_ovr,MC8_vs_equal_mean_Monocyte_peers,MC8 vs equal-MC mean of Monocyte peers,MC8,equal_mean_Monocyte_peers,Monocyte,8.0,,True,MC8,MC12|MC7|MC6
+metaclone,within_lineage_ovr,MC6_vs_equal_mean_Monocyte_peers,MC6 vs equal-MC mean of Monocyte peers,MC6,equal_mean_Monocyte_peers,Monocyte,6.0,,True,MC6,MC12|MC7|MC8
+metaclone,within_lineage_pairwise,MC12_vs_MC7,MC12 vs MC7 within Monocyte,MC12,MC7,Monocyte,12.0,7.0,True,MC12,MC7
+metaclone,within_lineage_pairwise,MC12_vs_MC8,MC12 vs MC8 within Monocyte,MC12,MC8,Monocyte,12.0,8.0,True,MC12,MC8
+metaclone,within_lineage_pairwise,MC12_vs_MC6,MC12 vs MC6 within Monocyte,MC12,MC6,Monocyte,12.0,6.0,True,MC12,MC6
+metaclone,within_lineage_pairwise,MC7_vs_MC8,MC7 vs MC8 within Monocyte,MC7,MC8,Monocyte,7.0,8.0,True,MC7,MC8
+metaclone,within_lineage_pairwise,MC7_vs_MC6,MC7 vs MC6 within Monocyte,MC7,MC6,Monocyte,7.0,6.0,True,MC7,MC6
+metaclone,within_lineage_pairwise,MC8_vs_MC6,MC8 vs MC6 within Monocyte,MC8,MC6,Monocyte,8.0,6.0,True,MC8,MC6
+metaclone,within_lineage_ovr,MC10_vs_equal_mean_Erythroid___Mk_peers,MC10 vs equal-MC mean of Erythroid / Mk peers,MC10,equal_mean_Erythroid___Mk_peers,Erythroid / Mk,10.0,,True,MC10,MC17|MC23
+metaclone,within_lineage_ovr,MC17_vs_equal_mean_Erythroid___Mk_peers,MC17 vs equal-MC mean of Erythroid / Mk peers,MC17,equal_mean_Erythroid___Mk_peers,Erythroid / Mk,17.0,,True,MC17,MC10|MC23
+metaclone,within_lineage_ovr,MC23_vs_equal_mean_Erythroid___Mk_peers,MC23 vs equal-MC mean of Erythroid / Mk peers,MC23,equal_mean_Erythroid___Mk_peers,Erythroid / Mk,23.0,,True,MC23,MC10|MC17
+metaclone,within_lineage_pairwise,MC10_vs_MC17,MC10 vs MC17 within Erythroid / Mk,MC10,MC17,Erythroid / Mk,10.0,17.0,True,MC10,MC17
+metaclone,within_lineage_pairwise,MC10_vs_MC23,MC10 vs MC23 within Erythroid / Mk,MC10,MC23,Erythroid / Mk,10.0,23.0,True,MC10,MC23
+metaclone,within_lineage_pairwise,MC17_vs_MC23,MC17 vs MC23 within Erythroid / Mk,MC17,MC23,Erythroid / Mk,17.0,23.0,True,MC17,MC23
+metaclone,within_lineage_ovr,MC0_vs_equal_mean_Multi_lineage_peers,MC0 vs equal-MC mean of Multi-lineage peers,MC0,equal_mean_Multi_lineage_peers,Multi-lineage,0.0,,True,MC0,MC2|MC5|MC3|MC18|MC4|MC11
+metaclone,within_lineage_ovr,MC2_vs_equal_mean_Multi_lineage_peers,MC2 vs equal-MC mean of Multi-lineage peers,MC2,equal_mean_Multi_lineage_peers,Multi-lineage,2.0,,True,MC2,MC0|MC5|MC3|MC18|MC4|MC11
+metaclone,within_lineage_ovr,MC5_vs_equal_mean_Multi_lineage_peers,MC5 vs equal-MC mean of Multi-lineage peers,MC5,equal_mean_Multi_lineage_peers,Multi-lineage,5.0,,True,MC5,MC0|MC2|MC3|MC18|MC4|MC11
+metaclone,within_lineage_ovr,MC3_vs_equal_mean_Multi_lineage_peers,MC3 vs equal-MC mean of Multi-lineage peers,MC3,equal_mean_Multi_lineage_peers,Multi-lineage,3.0,,True,MC3,MC0|MC2|MC5|MC18|MC4|MC11
+metaclone,within_lineage_ovr,MC18_vs_equal_mean_Multi_lineage_peers,MC18 vs equal-MC mean of Multi-lineage peers,MC18,equal_mean_Multi_lineage_peers,Multi-lineage,18.0,,True,MC18,MC0|MC2|MC5|MC3|MC4|MC11
+metaclone,within_lineage_ovr,MC4_vs_equal_mean_Multi_lineage_peers,MC4 vs equal-MC mean of Multi-lineage peers,MC4,equal_mean_Multi_lineage_peers,Multi-lineage,4.0,,True,MC4,MC0|MC2|MC5|MC3|MC18|MC11
+metaclone,within_lineage_ovr,MC11_vs_equal_mean_Multi_lineage_peers,MC11 vs equal-MC mean of Multi-lineage peers,MC11,equal_mean_Multi_lineage_peers,Multi-lineage,11.0,,True,MC11,MC0|MC2|MC5|MC3|MC18|MC4
+metaclone,within_lineage_pairwise,MC0_vs_MC2,MC0 vs MC2 within Multi-lineage,MC0,MC2,Multi-lineage,0.0,2.0,False,MC0,MC2
+metaclone,within_lineage_pairwise,MC0_vs_MC5,MC0 vs MC5 within Multi-lineage,MC0,MC5,Multi-lineage,0.0,5.0,True,MC0,MC5
+metaclone,within_lineage_pairwise,MC0_vs_MC3,MC0 vs MC3 within Multi-lineage,MC0,MC3,Multi-lineage,0.0,3.0,True,MC0,MC3
+metaclone,within_lineage_pairwise,MC0_vs_MC18,MC0 vs MC18 within Multi-lineage,MC0,MC18,Multi-lineage,0.0,18.0,True,MC0,MC18
+metaclone,within_lineage_pairwise,MC0_vs_MC4,MC0 vs MC4 within Multi-lineage,MC0,MC4,Multi-lineage,0.0,4.0,True,MC0,MC4
+metaclone,within_lineage_pairwise,MC0_vs_MC11,MC0 vs MC11 within Multi-lineage,MC0,MC11,Multi-lineage,0.0,11.0,True,MC0,MC11
+metaclone,within_lineage_pairwise,MC2_vs_MC5,MC2 vs MC5 within Multi-lineage,MC2,MC5,Multi-lineage,2.0,5.0,True,MC2,MC5
+metaclone,within_lineage_pairwise,MC2_vs_MC3,MC2 vs MC3 within Multi-lineage,MC2,MC3,Multi-lineage,2.0,3.0,True,MC2,MC3
+metaclone,within_lineage_pairwise,MC2_vs_MC18,MC2 vs MC18 within Multi-lineage,MC2,MC18,Multi-lineage,2.0,18.0,True,MC2,MC18
+metaclone,within_lineage_pairwise,MC2_vs_MC4,MC2 vs MC4 within Multi-lineage,MC2,MC4,Multi-lineage,2.0,4.0,True,MC2,MC4
+metaclone,within_lineage_pairwise,MC2_vs_MC11,MC2 vs MC11 within Multi-lineage,MC2,MC11,Multi-lineage,2.0,11.0,True,MC2,MC11
+metaclone,within_lineage_pairwise,MC5_vs_MC3,MC5 vs MC3 within Multi-lineage,MC5,MC3,Multi-lineage,5.0,3.0,True,MC5,MC3
+metaclone,within_lineage_pairwise,MC5_vs_MC18,MC5 vs MC18 within Multi-lineage,MC5,MC18,Multi-lineage,5.0,18.0,True,MC5,MC18
+metaclone,within_lineage_pairwise,MC5_vs_MC4,MC5 vs MC4 within Multi-lineage,MC5,MC4,Multi-lineage,5.0,4.0,True,MC5,MC4
+metaclone,within_lineage_pairwise,MC5_vs_MC11,MC5 vs MC11 within Multi-lineage,MC5,MC11,Multi-lineage,5.0,11.0,True,MC5,MC11
+metaclone,within_lineage_pairwise,MC3_vs_MC18,MC3 vs MC18 within Multi-lineage,MC3,MC18,Multi-lineage,3.0,18.0,True,MC3,MC18
+metaclone,within_lineage_pairwise,MC3_vs_MC4,MC3 vs MC4 within Multi-lineage,MC3,MC4,Multi-lineage,3.0,4.0,True,MC3,MC4
+metaclone,within_lineage_pairwise,MC3_vs_MC11,MC3 vs MC11 within Multi-lineage,MC3,MC11,Multi-lineage,3.0,11.0,True,MC3,MC11
+metaclone,within_lineage_pairwise,MC18_vs_MC4,MC18 vs MC4 within Multi-lineage,MC18,MC4,Multi-lineage,18.0,4.0,True,MC18,MC4
+metaclone,within_lineage_pairwise,MC18_vs_MC11,MC18 vs MC11 within Multi-lineage,MC18,MC11,Multi-lineage,18.0,11.0,True,MC18,MC11
+metaclone,within_lineage_pairwise,MC4_vs_MC11,MC4 vs MC11 within Multi-lineage,MC4,MC11,Multi-lineage,4.0,11.0,True,MC4,MC11

@@ -1,0 +1,30 @@
+{
+  "planned_branch_tests": 20,
+  "point_estimable": 20,
+  "inference_estimable": 20,
+  "q_lt_005": 10,
+  "q_lt_010": 10,
+  "source_hashes_unchanged": true,
+  "core_points_reproduced": 33,
+  "core_inferences_reproduced": 29,
+  "environment": {
+    "environment": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "Python": "3.11.15",
+    "versions": {
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "statsmodels": "0.14.6",
+      "matplotlib": "3.11.0",
+      "nbformat": "5.10.4"
+    },
+    "execution_command": "/path/to/ChronoClone/.runtime/chronoclone/bin/python /path/to/ChronoClone/analysis_workspace/manuscript/chronoclone_panel_revision_20260910/execute_notebook.py /path/to/ChronoClone/analysis_workspace/singh/singh_reference_response_20260911/dynamics/0002_mc3_branch_responses.ipynb"
+  },
+  "panel_stems": [
+    "figure_5f_mc3_day27_branch_state",
+    "figure_s6b_mc3_day14_branch_state",
+    "figure_s6c_mc3_branch_support"
+  ]
+}

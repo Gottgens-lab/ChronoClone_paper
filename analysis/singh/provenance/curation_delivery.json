@@ -1,0 +1,82 @@
+{
+  "status": "passed",
+  "environment": {
+    "name": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "Python": "3.11.15",
+    "versions": {
+      "nbformat": "5.10.4",
+      "nbclient": "0.11.0",
+      "pandas": "2.3.3"
+    }
+  },
+  "source_artifacts": 348,
+  "source_bytes": 68159555,
+  "study_files": 362,
+  "study_logical_bytes": 94904567,
+  "source_preparation": {
+    "missing_inputs_refused": true,
+    "exact_available_inputs_check_passed": true,
+    "fresh_clone_preparation": {
+      "portable_evidence_notebooks_executed": [
+        "0001_validate_published_evidence.ipynb",
+        "0002_prepare_compact_rna_input.ipynb"
+      ],
+      "copied_repository_files": 451,
+      "prepared_source_files": 352,
+      "adapted_source_files": 39,
+      "external_storage": "symlinks",
+      "scientific_execution": false,
+      "temporary_workspace_removed_on_completion": true
+    },
+    "scientific_sources_rerun": false,
+    "weinreb_only_preparation": {
+      "prepared_source_files": 342,
+      "h5ad_inputs": [
+        "reference_workspace/data/klein_metaclone_palantir_trajectories.h5ad"
+      ],
+      "missing_corrected_input_refused": true,
+      "default_singh_inputs_required": false,
+      "historical_upstream_inputs_required": false,
+      "scientific_execution": false,
+      "temporary_workspace_removed": true
+    }
+  },
+  "source_inspection": {
+    "path": "reference_workspace/notebooks/Figure3_wt_trajectories.ipynb",
+    "sha256": "c74721cb3853361f5efa9a730eb3f928772c42388d6048f5be177a6ee8326a0c",
+    "loads_existing_metaclone_labels": true,
+    "leiden_or_louvain_call_count": 0,
+    "conclusion": "This inspected author display notebook consumes stored assignments; it does not recover the original retained 17-metaclone fit recipe. The bounded prior source audit remains unresolved."
+  },
+  "compact_checkpoint": {
+    "source_sha256": "c96a765b7697e7927b3e957e2a2240fcc49fdace1403e239240a994e4cb520b6",
+    "source_path": "/path/to/ChronoClone/reference_workspace/data/adata_valid_palantir_20260626.h5ad",
+    "normalization": "RNA-only total10000 thenlog1p before feature exclusions",
+    "rows": 2713,
+    "rna_features": 20994,
+    "selected_features": 2000,
+    "selected_gene_order_exact": true,
+    "cell_order_exact": true,
+    "reconstruction_error": 798.0099695372952,
+    "original_retained_reconstruction_error": 798.0099695372952,
+    "model_refitted": false,
+    "environment": {
+      "name": "chronoclone",
+      "prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+      "kernel": "chronoclone",
+      "Python": "3.11.15",
+      "versions": {
+        "anndata": "0.12.18",
+        "scanpy": "1.11.5",
+        "numpy": "2.4.6",
+        "pandas": "2.3.3",
+        "scipy": "1.17.1",
+        "scikit-learn": "1.9.0"
+      },
+      "source": "/path/to/ChronoClone/reference_workspace/data/adata_valid_palantir_20260626.h5ad"
+    }
+  },
+  "evidence_checks": 377
+}

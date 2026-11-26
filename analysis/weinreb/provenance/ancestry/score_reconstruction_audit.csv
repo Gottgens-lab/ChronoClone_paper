@@ -1,0 +1,6 @@
+check,value
+integer_lattice_error,4.547473508864641e-13
+reconstructed_score_max_error,3.1086244689504383e-15
+normalization_genes,9.0
+fixed_filtered_genes,9777.0
+fixed_programs,50.0

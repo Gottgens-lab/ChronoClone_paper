@@ -1,0 +1,1174 @@
+table,data_table,csv_field,worksheet_label,definition,type,display_format
+Key_Resources,Key_resources,category,Resource category,Resource category,text,
+Key_Resources,Key_resources,resource,Resource,Resource,text,
+Key_Resources,Key_resources,source,Source,Source,text,
+Key_Resources,Key_resources,identifier,Identifier,Identifier,text,
+Table_S1,Generating_programs,truth_metaclone,Generating program,Simulation generating-program identifier; unrelated to experimental metaclone numbers.,text,
+Table_S1,Generating_programs,n_clones,Simulated clones,Number of simulated clones assigned to this generating program.,integer,"#,##0"
+Table_S1,Generating_programs,description,Description,Description,text,
+Table_S1,Simulation_design,setting,Setting,Setting,text,
+Table_S1,Simulation_design,value,Value,Value,text,
+Table_S1,Simulation_design,definition,Definition,Definition,text,
+Table_S1,Primary_recovery,method,Method,Method,text,
+Table_S1,Primary_recovery,gaussian_pct,Gaussian count variation (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Primary_recovery,uniform_pct,Uniform state redistribution (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Primary_recovery,n_expected,Scheduled repeats,Number of scheduled simulation repeats.,integer,"#,##0"
+Table_S1,Primary_recovery,n_success,Successful repeats,Number of successful runs included in metric summaries.,integer,"#,##0"
+Table_S1,Primary_recovery,ari_mean,Mean ARI,Mean adjusted Rand index over successful repeats; 1 denotes exact agreement with generating labels.,number,0.0000
+Table_S1,Primary_recovery,ari_sd,ARI standard deviation,Standard deviation of adjusted Rand index across repeats.,number,0.0000
+Table_S1,Primary_recovery,ari_q025,ARI 2.5th percentile,"Empirical 2.5th percentile across repeats, not a confidence bound.",number,0.0000
+Table_S1,Primary_recovery,ari_q975,ARI 97.5th percentile,"Empirical 97.5th percentile across repeats, not a confidence bound.",number,0.0000
+Table_S1,Primary_recovery,recovered_k_mean,Mean selected groups,Mean number of selected groups across repeats.,number,0.0000
+Table_S1,Primary_recovery,recovered_k_q025,Selected groups 2.5th percentile,Empirical 2.5th percentile of selected group number across repeats.,number,0.0000
+Table_S1,Primary_recovery,recovered_k_q975,Selected groups 97.5th percentile,Empirical 97.5th percentile of selected group number across repeats.,number,0.0000
+Table_S1,Single_noise_slices,method,Method,Method,text,
+Table_S1,Single_noise_slices,gaussian_pct,Gaussian count variation (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Single_noise_slices,uniform_pct,Uniform state redistribution (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Single_noise_slices,n_expected,Scheduled repeats,Number of scheduled simulation repeats.,integer,"#,##0"
+Table_S1,Single_noise_slices,n_success,Successful repeats,Number of successful runs included in metric summaries.,integer,"#,##0"
+Table_S1,Single_noise_slices,ari_mean,Mean ARI,Mean adjusted Rand index over successful repeats; 1 denotes exact agreement with generating labels.,number,0.0000
+Table_S1,Single_noise_slices,ari_sd,ARI standard deviation,Standard deviation of adjusted Rand index across repeats.,number,0.0000
+Table_S1,Single_noise_slices,ari_q025,ARI 2.5th percentile,"Empirical 2.5th percentile across repeats, not a confidence bound.",number,0.0000
+Table_S1,Single_noise_slices,ari_q975,ARI 97.5th percentile,"Empirical 97.5th percentile across repeats, not a confidence bound.",number,0.0000
+Table_S1,Single_noise_slices,recovered_k_mean,Mean selected groups,Mean number of selected groups across repeats.,number,0.0000
+Table_S1,Single_noise_slices,recovered_k_q025,Selected groups 2.5th percentile,Empirical 2.5th percentile of selected group number across repeats.,number,0.0000
+Table_S1,Single_noise_slices,recovered_k_q975,Selected groups 97.5th percentile,Empirical 97.5th percentile of selected group number across repeats.,number,0.0000
+Table_S1,Single_noise_slices,noise_slice,Noise condition,Noise condition,text,
+Table_S1,All_primary_metrics,method,Method,Method,text,
+Table_S1,All_primary_metrics,selection_track,Selection track,Selection track,text,
+Table_S1,All_primary_metrics,scenario,ScenARIo,ScenARIo,text,
+Table_S1,All_primary_metrics,gaussian_pct,Gaussian count variation (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,All_primary_metrics,uniform_pct,Uniform state redistribution (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,All_primary_metrics,n_expected,Scheduled repeats,Number of scheduled simulation repeats.,integer,"#,##0"
+Table_S1,All_primary_metrics,n_success,Successful repeats,Number of successful runs included in metric summaries.,integer,"#,##0"
+Table_S1,All_primary_metrics,n_method_failure,N method failure,N method failure,integer,"#,##0"
+Table_S1,All_primary_metrics,success_fraction,Success fraction,Success fraction,integer,0.0000
+Table_S1,All_primary_metrics,method_failure_fraction,Method failure fraction,Method failure fraction,integer,0.0000
+Table_S1,All_primary_metrics,ari_n_finite,ARI n finite,"Number of simulation repeats with a finite value of ARI. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,All_primary_metrics,ari_mean,Mean ARI,Mean adjusted Rand index over successful repeats; 1 denotes exact agreement with generating labels.,number,0.0000
+Table_S1,All_primary_metrics,ari_sd,ARI standard deviation,Standard deviation of adjusted Rand index across repeats.,number,0.0000
+Table_S1,All_primary_metrics,ari_median,ARI median,"Median across simulation repeats of ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,ari_q025,ARI 2.5th percentile,"Empirical 2.5th percentile across repeats, not a confidence bound.",number,0.0000
+Table_S1,All_primary_metrics,ari_q975,ARI 97.5th percentile,"Empirical 97.5th percentile across repeats, not a confidence bound.",number,0.0000
+Table_S1,All_primary_metrics,nmi_n_finite,NMI n finite,"Number of simulation repeats with a finite value of NMI. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,All_primary_metrics,nmi_mean,NMI mean,"Arithmetic mean across simulation repeats of NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,nmi_sd,NMI sd,"Standard deviation across simulation repeats of NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,nmi_median,NMI median,"Median across simulation repeats of NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,nmi_q025,NMI q025,"2.5th percentile across simulation repeats of NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,nmi_q975,NMI q975,"97.5th percentile across simulation repeats of NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,hungarian_macro_f1_n_finite,HungARIan macro f1 n finite,"Number of simulation repeats with a finite value of hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,All_primary_metrics,hungarian_macro_f1_mean,HungARIan macro f1 mean,"Arithmetic mean across simulation repeats of hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,hungarian_macro_f1_sd,HungARIan macro f1 sd,"Standard deviation across simulation repeats of hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,hungarian_macro_f1_median,HungARIan macro f1 median,"Median across simulation repeats of hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,hungarian_macro_f1_q025,HungARIan macro f1 q025,"2.5th percentile across simulation repeats of hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,hungarian_macro_f1_q975,HungARIan macro f1 q975,"97.5th percentile across simulation repeats of hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,recovered_k_n_finite,Recovered k n finite,"Number of simulation repeats with a finite value of recovered k. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,All_primary_metrics,recovered_k_mean,Mean selected groups,Mean number of selected groups across repeats.,number,0.0000
+Table_S1,All_primary_metrics,recovered_k_sd,Recovered k sd,"Standard deviation across simulation repeats of recovered k. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,recovered_k_median,Recovered k median,"Median across simulation repeats of recovered k. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,recovered_k_q025,Selected groups 2.5th percentile,Empirical 2.5th percentile of selected group number across repeats.,number,0.0000
+Table_S1,All_primary_metrics,recovered_k_q975,Selected groups 97.5th percentile,Empirical 97.5th percentile of selected group number across repeats.,number,0.0000
+Table_S1,All_primary_metrics,selection_parameter_n_finite,Selection parameter n finite,"Number of simulation repeats with a finite value of selection parameter. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,All_primary_metrics,selection_parameter_mean,Selection parameter mean,"Arithmetic mean across simulation repeats of selection parameter. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selection_parameter_sd,Selection parameter sd,"Standard deviation across simulation repeats of selection parameter. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selection_parameter_median,Selection parameter median,"Median across simulation repeats of selection parameter. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selection_parameter_q025,Selection parameter q025,"2.5th percentile across simulation repeats of selection parameter. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selection_parameter_q975,Selection parameter q975,"97.5th percentile across simulation repeats of selection parameter. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selected_silhouette_n_finite,Selected silhouette n finite,"Number of simulation repeats with a finite value of selected silhouette. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,All_primary_metrics,selected_silhouette_mean,Selected silhouette mean,"Arithmetic mean across simulation repeats of selected silhouette. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selected_silhouette_sd,Selected silhouette sd,"Standard deviation across simulation repeats of selected silhouette. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selected_silhouette_median,Selected silhouette median,"Median across simulation repeats of selected silhouette. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selected_silhouette_q025,Selected silhouette q025,"2.5th percentile across simulation repeats of selected silhouette. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,selected_silhouette_q975,Selected silhouette q975,"97.5th percentile across simulation repeats of selected silhouette. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,runtime_seconds_n_finite,Runtime seconds n finite,"Number of simulation repeats with a finite value of runtime seconds. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,All_primary_metrics,runtime_seconds_mean,Runtime seconds mean,"Arithmetic mean across simulation repeats of runtime seconds. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,runtime_seconds_sd,Runtime seconds sd,"Standard deviation across simulation repeats of runtime seconds. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,runtime_seconds_median,Runtime seconds median,"Median across simulation repeats of runtime seconds. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,runtime_seconds_q025,Runtime seconds q025,"2.5th percentile across simulation repeats of runtime seconds. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,All_primary_metrics,runtime_seconds_q975,Runtime seconds q975,"97.5th percentile across simulation repeats of runtime seconds. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility,gaussian_pct,Gaussian count variation (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Eligibility,uniform_pct,Uniform state redistribution (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Eligibility,n_expected,Scheduled repeats,Scheduled repeats,integer,"#,##0"
+Table_S1,Eligibility,n_eligible_clones_mean,Mean eligible clones,"Arithmetic mean across simulation repeats of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility,n_eligible_clones_q025,Eligible clones 2.5th percentile,"2.5th percentile across simulation repeats of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility,n_eligible_clones_q975,Eligible clones 97.5th percentile,"97.5th percentile across simulation repeats of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility,eligible_fraction_mean,Mean eligible fraction,"Arithmetic mean across simulation repeats of eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility,n_clean_fixed_eligible_clones_mean,Mean clean-reference eligible clones,"Arithmetic mean across simulation repeats of n clean fixed eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility,n_eligibility_mask_disagreements_mean,Mean eligibility disagreements,"Arithmetic mean across simulation repeats of n eligibility mask disagreements. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,scenario,ScenARIo,ScenARIo,text,
+Table_S1,Eligibility_full,gaussian_pct,Gaussian count variation (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Eligibility_full,uniform_pct,Uniform state redistribution (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Eligibility_full,n_expected,Scheduled repeats,Scheduled repeats,integer,"#,##0"
+Table_S1,Eligibility_full,n_eligible_clones_n_finite,N eligible clones n finite,"Number of simulation repeats with a finite value of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,n_eligible_clones_mean,Mean eligible clones,"Arithmetic mean across simulation repeats of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_eligible_clones_sd,N eligible clones sd,"Standard deviation across simulation repeats of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_eligible_clones_median,N eligible clones median,"Median across simulation repeats of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_eligible_clones_q025,Eligible clones 2.5th percentile,"2.5th percentile across simulation repeats of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_eligible_clones_q975,Eligible clones 97.5th percentile,"97.5th percentile across simulation repeats of n eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,eligible_fraction_n_finite,Eligible fraction n finite,"Number of simulation repeats with a finite value of eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,eligible_fraction_mean,Mean eligible fraction,"Arithmetic mean across simulation repeats of eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,eligible_fraction_sd,Eligible fraction sd,"Standard deviation across simulation repeats of eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,eligible_fraction_median,Eligible fraction median,"Median across simulation repeats of eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,eligible_fraction_q025,Eligible fraction q025,"2.5th percentile across simulation repeats of eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,eligible_fraction_q975,Eligible fraction q975,"97.5th percentile across simulation repeats of eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_clean_fixed_eligible_clones_n_finite,N clean fixed eligible clones n finite,"Number of simulation repeats with a finite value of n clean fixed eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,n_clean_fixed_eligible_clones_mean,Mean clean-reference eligible clones,"Arithmetic mean across simulation repeats of n clean fixed eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,n_clean_fixed_eligible_clones_sd,N clean fixed eligible clones sd,"Standard deviation across simulation repeats of n clean fixed eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,n_clean_fixed_eligible_clones_median,N clean fixed eligible clones median,"Median across simulation repeats of n clean fixed eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,n_clean_fixed_eligible_clones_q025,N clean fixed eligible clones q025,"2.5th percentile across simulation repeats of n clean fixed eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,n_clean_fixed_eligible_clones_q975,N clean fixed eligible clones q975,"97.5th percentile across simulation repeats of n clean fixed eligible clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,clean_fixed_eligible_fraction_n_finite,Clean fixed eligible fraction n finite,"Number of simulation repeats with a finite value of clean fixed eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,clean_fixed_eligible_fraction_mean,Clean fixed eligible fraction mean,"Arithmetic mean across simulation repeats of clean fixed eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,clean_fixed_eligible_fraction_sd,Clean fixed eligible fraction sd,"Standard deviation across simulation repeats of clean fixed eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,clean_fixed_eligible_fraction_median,Clean fixed eligible fraction median,"Median across simulation repeats of clean fixed eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,clean_fixed_eligible_fraction_q025,Clean fixed eligible fraction q025,"2.5th percentile across simulation repeats of clean fixed eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,clean_fixed_eligible_fraction_q975,Clean fixed eligible fraction q975,"97.5th percentile across simulation repeats of clean fixed eligible fraction. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,n_eligibility_mask_disagreements_n_finite,N eligibility mask disagreements n finite,"Number of simulation repeats with a finite value of n eligibility mask disagreements. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,n_eligibility_mask_disagreements_mean,Mean eligibility disagreements,"Arithmetic mean across simulation repeats of n eligibility mask disagreements. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_eligibility_mask_disagreements_sd,N eligibility mask disagreements sd,"Standard deviation across simulation repeats of n eligibility mask disagreements. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_eligibility_mask_disagreements_median,N eligibility mask disagreements median,"Median across simulation repeats of n eligibility mask disagreements. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_eligibility_mask_disagreements_q025,N eligibility mask disagreements q025,"2.5th percentile across simulation repeats of n eligibility mask disagreements. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,n_eligibility_mask_disagreements_q975,N eligibility mask disagreements q975,"97.5th percentile across simulation repeats of n eligibility mask disagreements. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_total_count_n_finite,Input total count n finite,"Number of simulation repeats with a finite value of input total count. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,input_total_count_mean,Input total count mean,"Arithmetic mean across simulation repeats of input total count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_total_count_sd,Input total count sd,"Standard deviation across simulation repeats of input total count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_total_count_median,Input total count median,"Median across simulation repeats of input total count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_total_count_q025,Input total count q025,"2.5th percentile across simulation repeats of input total count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_total_count_q975,Input total count q975,"97.5th percentile across simulation repeats of input total count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_zero_fraction_n_finite,Input zero fraction n finite,"Number of simulation repeats with a finite value of input zero fraction. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,input_zero_fraction_mean,Input zero fraction mean,"Arithmetic mean across simulation repeats of input zero fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_zero_fraction_sd,Input zero fraction sd,"Standard deviation across simulation repeats of input zero fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_zero_fraction_median,Input zero fraction median,"Median across simulation repeats of input zero fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_zero_fraction_q025,Input zero fraction q025,"2.5th percentile across simulation repeats of input zero fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,input_zero_fraction_q975,Input zero fraction q975,"97.5th percentile across simulation repeats of input zero fraction. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,gaussian_changed_later_entries_n_finite,Gaussian changed later entries n finite,"Number of simulation repeats with a finite value of gaussian changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,gaussian_changed_later_entries_mean,Gaussian changed later entries mean,"Arithmetic mean across simulation repeats of gaussian changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,gaussian_changed_later_entries_sd,Gaussian changed later entries sd,"Standard deviation across simulation repeats of gaussian changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,gaussian_changed_later_entries_median,Gaussian changed later entries median,"Median across simulation repeats of gaussian changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,gaussian_changed_later_entries_q025,Gaussian changed later entries q025,"2.5th percentile across simulation repeats of gaussian changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,gaussian_changed_later_entries_q975,Gaussian changed later entries q975,"97.5th percentile across simulation repeats of gaussian changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_changed_later_entries_n_finite,Uniform changed later entries n finite,"Number of simulation repeats with a finite value of uniform changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,uniform_changed_later_entries_mean,Uniform changed later entries mean,"Arithmetic mean across simulation repeats of uniform changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_changed_later_entries_sd,Uniform changed later entries sd,"Standard deviation across simulation repeats of uniform changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_changed_later_entries_median,Uniform changed later entries median,"Median across simulation repeats of uniform changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_changed_later_entries_q025,Uniform changed later entries q025,"2.5th percentile across simulation repeats of uniform changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_changed_later_entries_q975,Uniform changed later entries q975,"97.5th percentile across simulation repeats of uniform changed later entries. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_requested_move_count_n_finite,Uniform requested move count n finite,"Number of simulation repeats with a finite value of uniform requested move count. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,uniform_requested_move_count_mean,Uniform requested move count mean,"Arithmetic mean across simulation repeats of uniform requested move count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_requested_move_count_sd,Uniform requested move count sd,"Standard deviation across simulation repeats of uniform requested move count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_requested_move_count_median,Uniform requested move count median,"Median across simulation repeats of uniform requested move count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_requested_move_count_q025,Uniform requested move count q025,"2.5th percentile across simulation repeats of uniform requested move count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_requested_move_count_q975,Uniform requested move count q975,"97.5th percentile across simulation repeats of uniform requested move count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_l1_half_count_n_finite,Uniform l1 half count n finite,"Number of simulation repeats with a finite value of uniform l1 half count. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Eligibility_full,uniform_l1_half_count_mean,Uniform l1 half count mean,"Arithmetic mean across simulation repeats of uniform l1 half count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_l1_half_count_sd,Uniform l1 half count sd,"Standard deviation across simulation repeats of uniform l1 half count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_l1_half_count_median,Uniform l1 half count median,"Median across simulation repeats of uniform l1 half count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_l1_half_count_q025,Uniform l1 half count q025,"2.5th percentile across simulation repeats of uniform l1 half count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Eligibility_full,uniform_l1_half_count_q975,Uniform l1 half count q975,"97.5th percentile across simulation repeats of uniform l1 half count. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,scenario,ScenARIo,ScenARIo,text,
+Table_S1,Postfit_retention,gaussian_pct,Gaussian count variation (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Postfit_retention,uniform_pct,Uniform state redistribution (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Postfit_retention,n_expected,Scheduled repeats,Scheduled repeats,integer,"#,##0"
+Table_S1,Postfit_retention,n_postfilter_ok,N postfilter ok,N postfilter ok,integer,"#,##0"
+Table_S1,Postfit_retention,n_postfilter_all_abstained,N postfilter all abstained,N postfilter all abstained,integer,"#,##0"
+Table_S1,Postfit_retention,n_postfilter_insufficient,N postfilter insufficient,N postfilter insufficient,integer,"#,##0"
+Table_S1,Postfit_retention,n_postfilter_other,N postfilter other,N postfilter other,integer,"#,##0"
+Table_S1,Postfit_retention,n_postfit_retained_clones_n_finite,N postfit retained clones n finite,"Number of simulation repeats with a finite value of n postfit retained clones. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,n_postfit_retained_clones_mean,N postfit retained clones mean,"Arithmetic mean across simulation repeats of n postfit retained clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,n_postfit_retained_clones_sd,N postfit retained clones sd,"Standard deviation across simulation repeats of n postfit retained clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,n_postfit_retained_clones_median,N postfit retained clones median,"Median across simulation repeats of n postfit retained clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,n_postfit_retained_clones_q025,N postfit retained clones q025,"2.5th percentile across simulation repeats of n postfit retained clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,n_postfit_retained_clones_q975,N postfit retained clones q975,"97.5th percentile across simulation repeats of n postfit retained clones. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_eligible_n_finite,Postfit retained fraction of eligible n finite,"Number of simulation repeats with a finite value of postfit retained fraction of eligible. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_retained_fraction_of_eligible_mean,Postfit retained fraction of eligible mean,"Arithmetic mean across simulation repeats of postfit retained fraction of eligible. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_eligible_sd,Postfit retained fraction of eligible sd,"Standard deviation across simulation repeats of postfit retained fraction of eligible. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_eligible_median,Postfit retained fraction of eligible median,"Median across simulation repeats of postfit retained fraction of eligible. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_eligible_q025,Postfit retained fraction of eligible q025,"2.5th percentile across simulation repeats of postfit retained fraction of eligible. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_eligible_q975,Postfit retained fraction of eligible q975,"97.5th percentile across simulation repeats of postfit retained fraction of eligible. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_all_input_n_finite,Postfit retained fraction of all input n finite,"Number of simulation repeats with a finite value of postfit retained fraction of all input. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_retained_fraction_of_all_input_mean,Postfit retained fraction of all input mean,"Arithmetic mean across simulation repeats of postfit retained fraction of all input. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_all_input_sd,Postfit retained fraction of all input sd,"Standard deviation across simulation repeats of postfit retained fraction of all input. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_all_input_median,Postfit retained fraction of all input median,"Median across simulation repeats of postfit retained fraction of all input. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_all_input_q025,Postfit retained fraction of all input q025,"2.5th percentile across simulation repeats of postfit retained fraction of all input. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_fraction_of_all_input_q975,Postfit retained fraction of all input q975,"97.5th percentile across simulation repeats of postfit retained fraction of all input. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_k_n_finite,Postfit retained k n finite,"Number of simulation repeats with a finite value of postfit retained k. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_retained_k_mean,Postfit retained k mean,"Arithmetic mean across simulation repeats of postfit retained k. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_k_sd,Postfit retained k sd,"Standard deviation across simulation repeats of postfit retained k. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_k_median,Postfit retained k median,"Median across simulation repeats of postfit retained k. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_k_q025,Postfit retained k q025,"2.5th percentile across simulation repeats of postfit retained k. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_retained_k_q975,Postfit retained k q975,"97.5th percentile across simulation repeats of postfit retained k. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_clusters_lost_n_finite,Postfit clusters lost n finite,"Number of simulation repeats with a finite value of postfit clusters lost. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_clusters_lost_mean,Postfit clusters lost mean,"Arithmetic mean across simulation repeats of postfit clusters lost. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_clusters_lost_sd,Postfit clusters lost sd,"Standard deviation across simulation repeats of postfit clusters lost. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_clusters_lost_median,Postfit clusters lost median,"Median across simulation repeats of postfit clusters lost. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_clusters_lost_q025,Postfit clusters lost q025,"2.5th percentile across simulation repeats of postfit clusters lost. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_clusters_lost_q975,Postfit clusters lost q975,"97.5th percentile across simulation repeats of postfit clusters lost. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_silhouette_min_n_finite,Postfit silhouette min n finite,"Number of simulation repeats with a finite value of postfit silhouette min. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_silhouette_min_mean,Postfit silhouette min mean,"Arithmetic mean across simulation repeats of postfit silhouette min. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_min_sd,Postfit silhouette min sd,"Standard deviation across simulation repeats of postfit silhouette min. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_min_median,Postfit silhouette min median,"Median across simulation repeats of postfit silhouette min. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_min_q025,Postfit silhouette min q025,"2.5th percentile across simulation repeats of postfit silhouette min. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_min_q975,Postfit silhouette min q975,"97.5th percentile across simulation repeats of postfit silhouette min. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_mean_n_finite,Postfit silhouette mean n finite,"Number of simulation repeats with a finite value of postfit silhouette mean. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_silhouette_mean_mean,Postfit silhouette mean mean,"Arithmetic mean across simulation repeats of postfit silhouette mean. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_mean_sd,Postfit silhouette mean sd,"Standard deviation across simulation repeats of postfit silhouette mean. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_mean_median,Postfit silhouette mean median,"Median across simulation repeats of postfit silhouette mean. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_mean_q025,Postfit silhouette mean q025,"2.5th percentile across simulation repeats of postfit silhouette mean. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_mean_q975,Postfit silhouette mean q975,"97.5th percentile across simulation repeats of postfit silhouette mean. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_median_n_finite,Postfit silhouette median n finite,"Number of simulation repeats with a finite value of postfit silhouette median. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_silhouette_median_mean,Postfit silhouette median mean,"Arithmetic mean across simulation repeats of postfit silhouette median. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_median_sd,Postfit silhouette median sd,"Standard deviation across simulation repeats of postfit silhouette median. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_median_median,Postfit silhouette median median,"Median across simulation repeats of postfit silhouette median. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_median_q025,Postfit silhouette median q025,"2.5th percentile across simulation repeats of postfit silhouette median. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_median_q975,Postfit silhouette median q975,"97.5th percentile across simulation repeats of postfit silhouette median. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_max_n_finite,Postfit silhouette max n finite,"Number of simulation repeats with a finite value of postfit silhouette max. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,postfit_silhouette_max_mean,Postfit silhouette max mean,"Arithmetic mean across simulation repeats of postfit silhouette max. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_max_sd,Postfit silhouette max sd,"Standard deviation across simulation repeats of postfit silhouette max. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_max_median,Postfit silhouette max median,"Median across simulation repeats of postfit silhouette max. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_max_q025,Postfit silhouette max q025,"2.5th percentile across simulation repeats of postfit silhouette max. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,postfit_silhouette_max_q975,Postfit silhouette max q975,"97.5th percentile across simulation repeats of postfit silhouette max. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_ari_n_finite,Shared retained subset ARI n finite,"Number of simulation repeats with a finite value of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,shared_retained_subset_ari_mean,Shared retained subset ARI mean,"Arithmetic mean across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_ari_sd,Shared retained subset ARI sd,"Standard deviation across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_ari_median,Shared retained subset ARI median,"Median across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_ari_q025,Shared retained subset ARI q025,"2.5th percentile across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_ari_q975,Shared retained subset ARI q975,"97.5th percentile across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_nmi_n_finite,Shared retained subset NMI n finite,"Number of simulation repeats with a finite value of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,shared_retained_subset_nmi_mean,Shared retained subset NMI mean,"Arithmetic mean across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_nmi_sd,Shared retained subset NMI sd,"Standard deviation across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_nmi_median,Shared retained subset NMI median,"Median across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_nmi_q025,Shared retained subset NMI q025,"2.5th percentile across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_nmi_q975,Shared retained subset NMI q975,"97.5th percentile across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_hungarian_macro_f1_n_finite,Shared retained subset hungARIan macro f1 n finite,"Number of simulation repeats with a finite value of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,shared_retained_subset_hungarian_macro_f1_mean,Shared retained subset hungARIan macro f1 mean,"Arithmetic mean across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_hungarian_macro_f1_sd,Shared retained subset hungARIan macro f1 sd,"Standard deviation across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_hungarian_macro_f1_median,Shared retained subset hungARIan macro f1 median,"Median across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_hungarian_macro_f1_q025,Shared retained subset hungARIan macro f1 q025,"2.5th percentile across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_hungarian_macro_f1_q975,Shared retained subset hungARIan macro f1 q975,"97.5th percentile across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_abstention_aware_hungarian_macro_f1_n_finite,Shared retained subset abstention aware hungARIan macro f1 n finite,"Number of simulation repeats with a finite value of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Postfit_retention,shared_retained_subset_abstention_aware_hungarian_macro_f1_mean,Shared retained subset abstention aware hungARIan macro f1 mean,"Arithmetic mean across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_abstention_aware_hungarian_macro_f1_sd,Shared retained subset abstention aware hungARIan macro f1 sd,"Standard deviation across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_abstention_aware_hungarian_macro_f1_median,Shared retained subset abstention aware hungARIan macro f1 median,"Median across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_abstention_aware_hungarian_macro_f1_q025,Shared retained subset abstention aware hungARIan macro f1 q025,"2.5th percentile across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Postfit_retention,shared_retained_subset_abstention_aware_hungarian_macro_f1_q975,Shared retained subset abstention aware hungARIan macro f1 q975,"97.5th percentile across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,method,Method,Method,text,
+Table_S1,Shared_subset_sensitivity,selection_track,Selection track,Selection track,text,
+Table_S1,Shared_subset_sensitivity,scenario,ScenARIo,ScenARIo,text,
+Table_S1,Shared_subset_sensitivity,gaussian_pct,Gaussian count variation (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Shared_subset_sensitivity,uniform_pct,Uniform state redistribution (%),"Noise parameter in percent, not a fraction; counts/state assignments are altered only at t2–t4.",integer,"0.0""%"""
+Table_S1,Shared_subset_sensitivity,n_expected,Scheduled repeats,Scheduled repeats,integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,n_success,Successful repeats,Successful repeats,integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,n_method_failure,N method failure,N method failure,integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,success_fraction,Success fraction,Success fraction,integer,0.0000
+Table_S1,Shared_subset_sensitivity,method_failure_fraction,Method failure fraction,Method failure fraction,integer,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_ari_n_finite,Shared retained subset ARI n finite,"Number of simulation repeats with a finite value of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_ari_mean,Shared retained subset ARI mean,"Arithmetic mean across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_ari_sd,Shared retained subset ARI sd,"Standard deviation across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_ari_median,Shared retained subset ARI median,"Median across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_ari_q025,Shared retained subset ARI q025,"2.5th percentile across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_ari_q975,Shared retained subset ARI q975,"97.5th percentile across simulation repeats of shared retained subset ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_nmi_n_finite,Shared retained subset NMI n finite,"Number of simulation repeats with a finite value of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_nmi_mean,Shared retained subset NMI mean,"Arithmetic mean across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_nmi_sd,Shared retained subset NMI sd,"Standard deviation across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_nmi_median,Shared retained subset NMI median,"Median across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_nmi_q025,Shared retained subset NMI q025,"2.5th percentile across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_nmi_q975,Shared retained subset NMI q975,"97.5th percentile across simulation repeats of shared retained subset NMI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_hungarian_macro_f1_n_finite,Shared retained subset hungARIan macro f1 n finite,"Number of simulation repeats with a finite value of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_hungarian_macro_f1_mean,Shared retained subset hungARIan macro f1 mean,"Arithmetic mean across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_hungarian_macro_f1_sd,Shared retained subset hungARIan macro f1 sd,"Standard deviation across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_hungarian_macro_f1_median,Shared retained subset hungARIan macro f1 median,"Median across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_hungarian_macro_f1_q025,Shared retained subset hungARIan macro f1 q025,"2.5th percentile across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_hungarian_macro_f1_q975,Shared retained subset hungARIan macro f1 q975,"97.5th percentile across simulation repeats of shared retained subset hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_abstention_aware_hungarian_macro_f1_n_finite,Shared retained subset abstention aware hungARIan macro f1 n finite,"Number of simulation repeats with a finite value of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_abstention_aware_hungarian_macro_f1_mean,Shared retained subset abstention aware hungARIan macro f1 mean,"Arithmetic mean across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_abstention_aware_hungarian_macro_f1_sd,Shared retained subset abstention aware hungARIan macro f1 sd,"Standard deviation across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_abstention_aware_hungarian_macro_f1_median,Shared retained subset abstention aware hungARIan macro f1 median,"Median across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_abstention_aware_hungarian_macro_f1_q025,Shared retained subset abstention aware hungARIan macro f1 q025,"2.5th percentile across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_subset_abstention_aware_hungarian_macro_f1_q975,Shared retained subset abstention aware hungARIan macro f1 q975,"97.5th percentile across simulation repeats of shared retained subset abstention aware hungARIan macro f1. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,full_cohort_ari_n_finite,Full cohort ARI n finite,"Number of simulation repeats with a finite value of full cohort ARI. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,full_cohort_ari_mean,Full cohort ARI mean,"Arithmetic mean across simulation repeats of full cohort ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,full_cohort_ari_sd,Full cohort ARI sd,"Standard deviation across simulation repeats of full cohort ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,full_cohort_ari_median,Full cohort ARI median,"Median across simulation repeats of full cohort ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,full_cohort_ari_q025,Full cohort ARI q025,"2.5th percentile across simulation repeats of full cohort ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,full_cohort_ari_q975,Full cohort ARI q975,"97.5th percentile across simulation repeats of full cohort ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_minus_full_ari_n_finite,Shared retained minus full ARI n finite,"Number of simulation repeats with a finite value of shared retained minus full ARI. Percentiles are empirical repeat variation, not confidence intervals.",integer,"#,##0"
+Table_S1,Shared_subset_sensitivity,shared_retained_minus_full_ari_mean,Shared retained minus full ARI mean,"Arithmetic mean across simulation repeats of shared retained minus full ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_minus_full_ari_sd,Shared retained minus full ARI sd,"Standard deviation across simulation repeats of shared retained minus full ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_minus_full_ari_median,Shared retained minus full ARI median,"Median across simulation repeats of shared retained minus full ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_minus_full_ari_q025,Shared retained minus full ARI q025,"2.5th percentile across simulation repeats of shared retained minus full ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S1,Shared_subset_sensitivity,shared_retained_minus_full_ari_q975,Shared retained minus full ARI q975,"97.5th percentile across simulation repeats of shared retained minus full ARI. Percentiles are empirical repeat variation, not confidence intervals.",number,0.0000
+Table_S2,Metaclone_registry,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Metaclone_registry,output_class,Output class,Broad lineage-output class of the metaclone; not a statistical testing family.,text,@
+Table_S2,Metaclone_registry,n_all_assigned_clones,Assigned clones,Distinct LARRY clones assigned to this metaclone across the registered experiment.,integer,0
+Table_S2,Metaclone_registry,n_day2_hspc_clones,Day-2 HSPC clones,Distinct LARRY clones with at least one observed Day-2 HSPC in this metaclone.,integer,0
+Table_S2,Metaclone_registry,n_day2_hspc_cells,Day-2 HSPC cells,Observed Day-2 HSPCs in this metaclone; the two source starting-state annotations are pooled.,integer,0
+Table_S2,Metaclone_registry,n_linked_clones_at_both_day4_and_day6,Linked clones at Days 4 and 6,Day-2 HSPC-linked LARRY clones with at least one observed descendant at each of Days 4 and 6.,integer,0
+Table_S2,Metaclone_registry,n_all_observed_clones_day2,Day-2 observed clones,Distinct LARRY clones with one or more observed cells at Day 2 in this metaclone.,integer,0
+Table_S2,Metaclone_registry,n_linked_observed_clones_day2,Day-2 linked clones,Day-2 HSPC-linked clones with one or more observed descendants at Day 2.,integer,0
+Table_S2,Metaclone_registry,n_linked_observed_cells_day2,Day-2 linked cells,Observed Day-2 cells belonging to the fixed Day-2 HSPC-linked clone cohort.,integer,0
+Table_S2,Metaclone_registry,fraction_day2_clones_recovered_day2,Day-2 observed fraction,Fraction of the fixed Day-2 HSPC-linked clone cohort recovered at this snapshot; not survival.,number,0.0%
+Table_S2,Metaclone_registry,n_all_observed_clones_day4,Day-4 observed clones,Distinct LARRY clones with one or more observed cells at Day 4 in this metaclone.,integer,0
+Table_S2,Metaclone_registry,n_linked_observed_clones_day4,Day-4 linked clones,Day-2 HSPC-linked clones with one or more observed descendants at Day 4.,integer,0
+Table_S2,Metaclone_registry,n_linked_observed_cells_day4,Day-4 linked cells,Observed Day-4 cells belonging to the fixed Day-2 HSPC-linked clone cohort.,integer,0
+Table_S2,Metaclone_registry,fraction_day2_clones_recovered_day4,Day-4 observed fraction,Fraction of the fixed Day-2 HSPC-linked clone cohort recovered at this snapshot; not survival.,number,0.0%
+Table_S2,Metaclone_registry,n_all_observed_clones_day6,Day-6 observed clones,Distinct LARRY clones with one or more observed cells at Day 6 in this metaclone.,integer,0
+Table_S2,Metaclone_registry,n_linked_observed_clones_day6,Day-6 linked clones,Day-2 HSPC-linked clones with one or more observed descendants at Day 6.,integer,0
+Table_S2,Metaclone_registry,n_linked_observed_cells_day6,Day-6 linked cells,Observed Day-6 cells belonging to the fixed Day-2 HSPC-linked clone cohort.,integer,0
+Table_S2,Metaclone_registry,fraction_day2_clones_recovered_day6,Day-6 observed fraction,Fraction of the fixed Day-2 HSPC-linked clone cohort recovered at this snapshot; not survival.,number,0.0%
+Table_S2,Snapshot_support,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Snapshot_support,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Snapshot_support,n_cells,Observed cells,Number of sampled cells in the stated cohort and record.,integer,0
+Table_S2,Snapshot_support,n_clones,Observed clones,Number of distinct observed LARRY clones in the stated cohort and record.,integer,0
+Table_S2,Snapshot_support,output_class,Output class,Broad lineage-output class of the metaclone; not a statistical testing family.,text,@
+Table_S2,Clone_day_registry,clone_id,Clone ID,LARRY barcode-defined clone identifier.,text,@
+Table_S2,Clone_day_registry,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Clone_day_registry,n_cells,Observed cells,Number of sampled cells in the stated cohort and record.,integer,0
+Table_S2,Clone_day_registry,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Clone_day_registry,output_class,Output class,Broad lineage-output class of the metaclone; not a statistical testing family.,text,@
+Table_S2,Clone_day_registry,day2_hspc_cells,Day-2 HSPCs,Number of observed Day-2 HSPCs belonging to the clone.,integer,0
+Table_S2,Clone_day_registry,day2_hspc_linked,Linked to Day-2 HSPCs,True when the clone has an observed Day-2 HSPC.,number,@
+Table_S2,Clone_day_registry,observed,Observed at snapshot,True when at least one cell from the clone was sampled at the indicated day.,number,@
+Table_S2,Clone_day_registry,observed_day4_and_day6,Observed at Days 4 and 6,Barcode recovered at both later snapshots; no survival inference.,number,@
+Table_S2,Clone_day_registry,missing_snapshot_semantics,Missing-snapshot interpretation,Source description distinguishing no recovered cells from biological zero.,text,@
+Table_S2,Clone_day_registry,observed_libraries,Observed sequencing libraries,Source sequencing-library identifiers for the clone and day; blank if not observed.,text,@
+Table_S2,Clone_trajectory_coordinates,point_order,Point order,Preserved draw order from the existing saved clone embedding.,integer,0
+Table_S2,Clone_trajectory_coordinates,clone_id,Clone ID,LARRY barcode-defined clone identifier.,text,@
+Table_S2,Clone_trajectory_coordinates,UMAP1,Clone UMAP 1,First coordinate of the locked retrospective clone-trajectory embedding; no refitting.,number,0.000
+Table_S2,Clone_trajectory_coordinates,UMAP2,Clone UMAP 2,Second coordinate of the locked retrospective clone-trajectory embedding; no refitting.,number,0.000
+Table_S2,Clone_trajectory_coordinates,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Clone_trajectory_coordinates,point_color,Metaclone display color,Preserved color of the clone point in the source panel.,text,@
+Table_S2,Multilineage_composition,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Multilineage_composition,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Multilineage_composition,HSPCs,HSPCs,Hematopoietic stem and progenitor cells. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Prog 3,Prog 3,CLADES progenitor state 3. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Prog 4,Prog 4,CLADES progenitor state 4. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Baso/Mk/Ery/Mast prog,Baso/Mk/Ery/Mast prog,Basophil/megakaryocyte/erythroid/mast-associated progenitor. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Ly/pDC prog,Ly/pDC prog,Lymphoid/plasmacytoid-dendritic-cell-associated progenitor. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,DC/Mono prog,DC/Mono prog,Dendritic-cell/monocyte-associated progenitor. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Mk/Ery prog,Mk/Ery prog,Megakaryocyte/erythroid-associated progenitor. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Baso/Eos prog,Baso/Eos prog,Basophil/eosinophil-associated progenitor. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Early Neu prog,Early Neu prog,Early neutrophil progenitor. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Neu prog,Neu prog,Neutrophil progenitor. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Mono prog,Mono prog,Monocyte progenitor. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Baso,Baso,Basophil. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,DC,DC,Dendritic cell. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Eos,Eos,Eosinophil. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Ery,Ery,Erythroid. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Ly,Ly,Lymphoid. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Mast,Mast,Mast cell. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Mk,Mk,Megakaryocyte. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Mono,Mono,Monocyte. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Multilineage_composition,Neu,Neu,Neutrophil. Clone-balanced cell-state fraction at the indicated snapshot; mean of within-clone proportions.,number,0.00%
+Table_S2,Differentiated_output,cohort,Cohort,Exact source cohort; definitions are supplied in the workbook notes.,text,@
+Table_S2,Differentiated_output,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Differentiated_output,time_scope,Time scope,"all_sampling_days pools differentiated cells across Days 2, 4 and 6; day-specific scopes are separate.",text,@
+Table_S2,Differentiated_output,state,Cell category,Category under the stated annotation and denominator.,text,@
+Table_S2,Differentiated_output,n_state_cells,Cells in category,Sampled cells in the specified state under the stated scope.,integer,0
+Table_S2,Differentiated_output,n_differentiated_cells,Differentiated-cell denominator,Cells assigned to the mapped differentiated output classes; broad undifferentiated compartment excluded.,integer,0
+Table_S2,Differentiated_output,n_all_cells,All observed cells,"All sampled cells in the stated cohort/metaclone/time scope, before differentiated-output restriction.",integer,0
+Table_S2,Differentiated_output,n_observed_clones,Observed clones,Clones with at least one sampled cell at the stated scope.,integer,0
+Table_S2,Differentiated_output,n_differentiated_informative_clones,Clones with differentiated cells,Clones contributing at least one mapped differentiated cell.,integer,0
+Table_S2,Differentiated_output,pooled_differentiated_fraction,Differentiated-output fraction,Category cell count divided by all mapped differentiated cells; not clone-balanced and not complete endpoint composition.,number,0.0%
+Table_S2,Differentiated_output,differentiated_fraction_of_all_cells,Differentiated fraction of all cells,Mapped differentiated cells divided by all observed cells at the stated scope.,number,0.0%
+Table_S2,Differentiated_output,denominator,Denominator definition,Exact source denominator for differentiated output.,text,@
+Table_S2,Cell_state_key,display_order,Display order,"Reader-facing order, from HSPCs and early progenitors to differentiated categories.",integer,0
+Table_S2,Cell_state_key,cell_state,Cell state,Reader-facing CLADES-derived state label; source starting-state labels are pooled as HSPCs.,text,@
+Table_S2,Cell_state_key,stage,Display grouping,Qualitative grouping used for display order; not an inferred trajectory.,text,@
+Table_S2,Cell_state_key,color,Display color,Hexadecimal color used for the cell-state label.,text,@
+Table_S2,Pseudotime_tests,context,Comparison context,Declared output-class or multilineage-branch omnibus comparison.,text,@
+Table_S2,Pseudotime_tests,branch,Compatible branch,Overlapping Palantir branch-compatibility mask; not an exclusive committed fate.,text,@
+Table_S2,Pseudotime_tests,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Pseudotime_tests,metaclones_declared,Declared metaclones,Complete metaclone membership of the intended test; includes groups below support.,text,@
+Table_S2,Pseudotime_tests,metaclones_tested,Tested metaclones,Metaclones meeting the minimum of three informative clones.,text,@
+Table_S2,Pseudotime_tests,metaclones_below_support,Excluded from test only,Displayed metaclones below the three-informative-clone minimum.,text,@
+Table_S2,Pseudotime_tests,n_clones_by_metaclone,Informative clone counts,Exact source JSON mapping from metaclone identifier to informative-clone count.,text,@
+Table_S2,Pseudotime_tests,estimable,Estimable,Source indicator that the omnibus comparison can be calculated.,number,@
+Table_S2,Pseudotime_tests,kruskal_H,Kruskal–Wallis H,Existing omnibus Kruskal–Wallis statistic on within-clone medians.,number,0.000
+Table_S2,Pseudotime_tests,p_value,P value,Unadjusted omnibus P value copied from the existing analysis.,number,0.000E+00
+Table_S2,Pseudotime_tests,q_value,BH q value,BH-adjusted P value across the complete declared twelve-test family.,number,0.000E+00
+Table_S2,Pseudotime_tests,symbol,Figure symbol,Original display symbol: double asterisk for q < 0.05; single for 0.05 ≤ q < 0.10.,text,@
+Table_S2,Pseudotime_tests,test_family,Testing family,Declared multiplicity family; preserved from the current executed source.,text,@
+Table_S2,Pseudotime_tests,interpretation,Interpretation,"Conditional omnibus comparison, not evidence for every pairwise difference.",text,@
+Table_S2,Pseudotime_test_support,context,Comparison context,Declared output-class or multilineage-branch omnibus comparison.,text,@
+Table_S2,Pseudotime_test_support,branch,Compatible branch,Overlapping Palantir branch-compatibility mask; not an exclusive committed fate.,text,@
+Table_S2,Pseudotime_test_support,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Pseudotime_test_support,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Pseudotime_test_support,informative_clones,Informative clones,Clones with finite median pseudotime in the specified branch and snapshot.,integer,0
+Table_S2,Pseudotime_test_support,included_in_test,Included in test,True if informative-clone support meets the existing minimum.,number,@
+Table_S2,Pseudotime_test_support,minimum_informative_clones,Minimum clone support,Existing threshold for including a metaclone in the omnibus test.,integer,0
+Table_S2,Clone_pseudotime,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Clone_pseudotime,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Clone_pseudotime,clone_id,Clone ID,LARRY barcode-defined clone identifier.,text,@
+Table_S2,Clone_pseudotime,pseudotime,Clone-median pseudotime,Median global Palantir pseudotime among branch-compatible cells of a clone at that day.,number,0.000
+Table_S2,Clone_pseudotime,context,Comparison context,Declared output-class or multilineage-branch omnibus comparison.,text,@
+Table_S2,Clone_pseudotime,branch,Compatible branch,Overlapping Palantir branch-compatibility mask; not an exclusive committed fate.,text,@
+Table_S2,Lineage_position_summary,cohort,Cohort,Exact source cohort; definitions are supplied in the workbook notes.,text,@
+Table_S2,Lineage_position_summary,branch,Compatible branch,Overlapping Palantir branch-compatibility mask; not an exclusive committed fate.,text,@
+Table_S2,Lineage_position_summary,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Lineage_position_summary,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Lineage_position_summary,n_observed_clones,Observed clones,Clones with at least one sampled cell at the stated scope.,integer,0
+Table_S2,Lineage_position_summary,n_branch_informative_clones,Informative branch clones,Observed clones with finite pseudotime among compatible cells.,integer,0
+Table_S2,Lineage_position_summary,median_of_clone_medians,Median of clone medians,Median across informative clones of within-clone branch-compatible pseudotime medians.,number,0.000
+Table_S2,Lineage_position_summary,lower_quartile,Lower quartile,25th percentile across the within-clone pseudotime medians; not a confidence bound.,number,0.000
+Table_S2,Lineage_position_summary,upper_quartile,Upper quartile,75th percentile across the within-clone pseudotime medians; not a confidence bound.,number,0.000
+Table_S2,Branch_occupancy,cohort,Cohort,Exact source cohort; definitions are supplied in the workbook notes.,text,@
+Table_S2,Branch_occupancy,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Branch_occupancy,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Branch_occupancy,branch,Compatible branch,Overlapping Palantir branch-compatibility mask; not an exclusive committed fate.,text,@
+Table_S2,Branch_occupancy,n_observed_clones,Observed clones,Clones with at least one sampled cell at the stated scope.,integer,0
+Table_S2,Branch_occupancy,n_observed_cells,Observed cells,Sampled cells in the cohort/metaclone/day.,integer,0
+Table_S2,Branch_occupancy,n_branch_cells,Branch-compatible cells,Cells satisfying the named compatibility mask; branches may overlap.,integer,0
+Table_S2,Branch_occupancy,n_branch_informative_clones,Informative branch clones,Observed clones with finite pseudotime among compatible cells.,integer,0
+Table_S2,Branch_occupancy,clone_balanced_occupancy,Clone-balanced branch occupancy,Mean of each observed clone’s fraction of cells satisfying the branch mask.,number,0.0%
+Table_S2,Branch_occupancy,median_of_clone_branch_medians,Median of clone medians,Median across informative clones of their branch-compatible pseudotime medians.,number,0.000
+Table_S2,Branch_occupancy,mean_of_clone_branch_medians,Mean of clone medians,Arithmetic mean across informative clones of their branch-compatible pseudotime medians.,number,0.000
+Table_S2,Branch_occupancy,pooled_cell_occupancy,Pooled-cell branch occupancy,Compatible cells divided by all observed cells; different estimator from clone-balanced occupancy.,number,0.0%
+Table_S2,Branch_occupancy_change,cohort,Cohort,Exact source cohort; definitions are supplied in the workbook notes.,text,@
+Table_S2,Branch_occupancy_change,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Branch_occupancy_change,branch,Compatible branch,Overlapping Palantir branch-compatibility mask; not an exclusive committed fate.,text,@
+Table_S2,Branch_occupancy_change,day4_fraction,Day-4 branch occupancy,Clone-balanced fraction under the indicated cohort and branch.,number,0.0%
+Table_S2,Branch_occupancy_change,day6_fraction,Day-6 branch occupancy,Clone-balanced fraction under the indicated cohort and branch.,number,0.0%
+Table_S2,Branch_occupancy_change,day6_minus_day4_percentage_points,Day 6 minus Day 4 (percentage points),"Existing signed change in branch occupancy, in percentage points, not relative percent change.",number,0.00
+Table_S2,Branch_occupancy_change,n_day4_observed_clones,Day-4 observed clones,Distinct observed clones used as the denominator for mean branch occupancy at Day 4.,integer,0
+Table_S2,Branch_occupancy_change,n_day6_observed_clones,Day-6 observed clones,Distinct observed clones used as the denominator for mean branch occupancy at Day 6.,integer,0
+Table_S2,Branch_occupancy_change,n_day4_branch_cells,Day-4 branch-compatible cells,Observed cells satisfying the specified branch-compatibility mask at Day 4.,integer,0
+Table_S2,Branch_occupancy_change,n_day6_branch_cells,Day-6 branch-compatible cells,Observed cells satisfying the specified branch-compatibility mask at Day 6.,integer,0
+Table_S2,Branch_occupancy_change,n_day4_total_cells,Day-4 observed cells,"All observed cells in the stated cohort and metaclone at Day 4, before branch restriction.",integer,0
+Table_S2,Branch_occupancy_change,n_day6_total_cells,Day-6 observed cells,"All observed cells in the stated cohort and metaclone at Day 6, before branch restriction.",integer,0
+Table_S2,Branch_pair_distances,cohort,Cohort,Exact source cohort; definitions are supplied in the workbook notes.,text,@
+Table_S2,Branch_pair_distances,example,Comparison description,Source description of the selected metaclone pair.,text,@
+Table_S2,Branch_pair_distances,metaclone_a,Metaclone A,First metaclone in the stated comparison.,integer,0
+Table_S2,Branch_pair_distances,metaclone_b,Metaclone B,Second metaclone in the stated comparison.,integer,0
+Table_S2,Branch_pair_distances,estimator,Estimator,Defines clone-balanced versus pooled-cell branch occupancy coordinates.,text,@
+Table_S2,Branch_pair_distances,day4_distance,Day-4 distance,Existing Euclidean distance in the explicitly stated coordinate system.,number,0.000
+Table_S2,Branch_pair_distances,day6_distance,Day-6 distance,Existing Euclidean distance in the explicitly stated coordinate system.,number,0.000
+Table_S2,Branch_pair_distances,distance_change,Day 6 minus Day 4 distance,Signed difference of existing distances; positive is greater separation.,number,0.000
+Table_S2,Branch_pair_distances,observed_direction,Direction of change,Descriptive increase or decrease in distance; no inferential test.,text,@
+Table_S2,Branch_pair_distances,coordinate_system,Coordinate system,Exact coordinate definition; branch occupancies overlap and are not a composition simplex.,text,@
+Table_S2,Cell_registry,cell_id,Cell ID,Source cell identifier.,text,@
+Table_S2,Cell_registry,clone_id,Clone ID,LARRY barcode-defined clone identifier.,text,@
+Table_S2,Cell_registry,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Cell_registry,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Cell_registry,cell_state,Cell state,Reader-facing CLADES-derived state label; source starting-state labels are pooled as HSPCs.,text,@
+Table_S2,Cell_registry,library,Sequencing library,Original sequencing-library identifier.,text,@
+Table_S2,Cell_registry,cell_type_author,Author broad annotation,Original Weinreb broad annotation; Undifferentiated is broader than pooled HSPCs.,text,@
+Table_S2,Cell_registry,palantir_pseudotime,Global Palantir pseudotime,Inherited transcriptome-based developmental coordinate; not elapsed time or measured rate.,number,0.000
+Table_S2,Cell_registry,mask_Baso,Baso compatibility,Inherited overlapping branch-compatibility Boolean mask.,number,@
+Table_S2,Cell_registry,mask_Neu,Neu compatibility,Inherited overlapping branch-compatibility Boolean mask.,number,@
+Table_S2,Cell_registry,mask_Mono,Mono compatibility,Inherited overlapping branch-compatibility Boolean mask.,number,@
+Table_S2,Cell_registry,day2_hspc_linked,Linked to Day-2 HSPCs,True when the clone has an observed Day-2 HSPC.,number,@
+Table_S2,Cell_registry,output_class,Output class,Broad lineage-output class of the metaclone; not a statistical testing family.,text,@
+Table_S2,Cell_registry,differentiated_output_class,Mapped differentiated output,Original output-class mapping; undiff is excluded from differentiated-output denominators.,text,@
+Table_S2,Clone_branch_measurements,cohort,Cohort,Exact source cohort; definitions are supplied in the workbook notes.,text,@
+Table_S2,Clone_branch_measurements,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Clone_branch_measurements,clone_id,Clone ID,LARRY barcode-defined clone identifier.,text,@
+Table_S2,Clone_branch_measurements,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Clone_branch_measurements,branch,Compatible branch,Overlapping Palantir branch-compatibility mask; not an exclusive committed fate.,text,@
+Table_S2,Clone_branch_measurements,n_total_cells,Observed-cell denominator,"All observed cells in the clone/day, or summed corresponding source group.",integer,0
+Table_S2,Clone_branch_measurements,n_branch_cells,Branch-compatible cells,Cells satisfying the named compatibility mask; branches may overlap.,integer,0
+Table_S2,Clone_branch_measurements,n_finite_branch_pseudotime,Finite branch pseudotimes,Compatible cells with nonmissing global Palantir pseudotime.,integer,0
+Table_S2,Clone_branch_measurements,branch_fraction,Within-clone branch fraction,Compatible cells divided by all observed cells in this clone/day.,number,0.0%
+Table_S2,Clone_branch_measurements,branch_pseudotime_median,Clone-median pseudotime,Median global Palantir pseudotime among branch-compatible cells; blank when absent.,number,0.000
+Table_S2,Clone_branch_measurements,day2_hspc_cells,Day-2 HSPCs,Number of observed Day-2 HSPCs belonging to the clone.,integer,0
+Table_S2,Full_composition_pooled,cohort,Cohort,Exact source cohort; definitions are supplied in the workbook notes.,text,@
+Table_S2,Full_composition_pooled,annotation,Annotation,"The original source annotation system, or the explicit pooled display mapping.",text,@
+Table_S2,Full_composition_pooled,metaclone,Metaclone,Dataset-specific integer metaclone identifier; not matched to Singh identifiers.,integer,0
+Table_S2,Full_composition_pooled,day,Sampling day,Observed sampling day in the Weinreb culture experiment.,integer,0
+Table_S2,Full_composition_pooled,state,Cell category,Category under the stated annotation and denominator.,text,@
+Table_S2,Full_composition_pooled,fraction,Clone-balanced fraction,"Mean of within-clone cell fractions in the stated cohort, annotation and snapshot.",number,0.0%
+Table_S2,Full_composition_pooled,n_clones,Observed clones,Number of distinct observed LARRY clones in the stated cohort and record.,integer,0
+Table_S2,Full_composition_pooled,n_state_cells,Cells in category,Sampled cells in the specified state under the stated scope.,integer,0
+Table_S2,Full_composition_pooled,n_total_cells,Observed-cell denominator,"All observed cells in the clone/day, or summed corresponding source group.",integer,0
+Table_S2,Full_composition_pooled,pooled_cell_fraction,Pooled-cell fraction,Cell count in the state divided by all sampled cells in the corresponding cohort/metaclone/day.,number,0.0%
+Table_S2,Original_coordinate_distances,cohort,Cohort,Exact source cohort; definitions are supplied in the workbook notes.,text,@
+Table_S2,Original_coordinate_distances,annotation,Annotation,"The original source annotation system, or the explicit pooled display mapping.",text,@
+Table_S2,Original_coordinate_distances,metaclone_a,Metaclone A,First metaclone in the stated comparison.,integer,0
+Table_S2,Original_coordinate_distances,metaclone_b,Metaclone B,Second metaclone in the stated comparison.,integer,0
+Table_S2,Original_coordinate_distances,day4_distance,Day-4 distance,Existing Euclidean distance in the explicitly stated coordinate system.,number,0.000
+Table_S2,Original_coordinate_distances,day6_distance,Day-6 distance,Existing Euclidean distance in the explicitly stated coordinate system.,number,0.000
+Table_S2,Original_coordinate_distances,distance_change,Day 6 minus Day 4 distance,Signed difference of existing distances; positive is greater separation.,number,0.000
+Table_S2,Original_coordinate_distances,coordinate_system,Coordinate system,Exact coordinate definition; branch occupancies overlap and are not a composition simplex.,text,@
+Table_S2,Original_coordinate_distances,annotation_coordinate_status,Coordinate provenance,Existing distance retained in original unpooled coordinates; not a pooled HSPC result.,text,@
+Table_S2,Embedding_source_features,dataset,Dataset,Dataset to which the archival feature identifier applies.,text,@
+Table_S2,Embedding_source_features,source_feature,Archival source feature,Original time-by-state feature identifier used for the saved embedding; not a separate biological variable in the manuscript.,text,@
+Table_S2,Embedding_source_features,role,Source role,"Historical feature-coordinate provenance, not a new subgroup analysis.",text,@
+Table_S3,S3_Cohorts,cohort,Cohort,Source-defined Day-2 HSPC cohort.,text,
+Table_S3,S3_Cohorts,cells,HSPCs,Number of Day-2 HSPCs in this cohort.,integer,0
+Table_S3,S3_Cohorts,clones,Clones,Number of distinct LARRY clones.,integer,0
+Table_S3,S3_MC_support,lineage_bias,Output class,"Broad lineage-output class, not a cell annotation.",text,
+Table_S3,S3_MC_support,metaclone,Metaclone,Dataset-specific Weinreb metaclone identifier.,integer,0
+Table_S3,S3_MC_support,n_hspcs,Day-2 HSPCs,Number of pooled Day-2 HSPCs contributing to the row.,integer,0
+Table_S3,S3_MC_support,n_clones,Clones,Number of distinct LARRY clones.,integer,0
+Table_S3,S3_MC_support,n_libraries,Libraries,Number of represented sequencing libraries.,integer,0
+Table_S3,S3_Contrast_registry,contrast_id,Source contrast ID,"Immutable contrast identifier; historical fast/slow wording is an ID, not a rate estimate.",text,
+Table_S3,S3_Contrast_registry,contrast_label,Contrast,Target-minus-reference contrast; focal groups are weighted as defined in the original model.,text,
+Table_S3,S3_Contrast_registry,tier,Source family code,Original analysis tier defining the multiple-testing family.,text,
+Table_S3,S3_Contrast_registry,lineage_bias,Output class,"Broad lineage-output class, not a cell annotation.",text,
+Table_S3,S3_Contrast_registry,target_levels,Target metaclones,Target metaclones separated by |; group means weight metaclones equally.,text,
+Table_S3,S3_Contrast_registry,reference_levels,Reference metaclones,Reference metaclones separated by |; group means weight metaclones equally.,text,
+Table_S3,S3_Contrast_registry,support_gate,Support sufficient,"Source-defined support gate; True denotes sufficient support, not statistical significance.",number,0.0000
+Table_S3,S3_Hallmark_effects,contrast_id,Source contrast ID,"Immutable contrast identifier; historical fast/slow wording is an ID, not a rate estimate.",text,
+Table_S3,S3_Hallmark_effects,contrast_label,Contrast,Target-minus-reference contrast; focal groups are weighted as defined in the original model.,text,
+Table_S3,S3_Hallmark_effects,tier,Source family code,Original analysis tier defining the multiple-testing family.,text,
+Table_S3,S3_Hallmark_effects,lineage_bias,Output class,"Broad lineage-output class, not a cell annotation.",text,
+Table_S3,S3_Hallmark_effects,target_levels,Target metaclones,Target metaclones separated by |; group means weight metaclones equally.,text,
+Table_S3,S3_Hallmark_effects,reference_levels,Reference metaclones,Reference metaclones separated by |; group means weight metaclones equally.,text,
+Table_S3,S3_Hallmark_effects,support_gate,Support sufficient,"Source-defined support gate; True denotes sufficient support, not statistical significance.",number,0.0000
+Table_S3,S3_Hallmark_effects,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_Hallmark_effects,shared_libraries,Shared libraries,Sequencing libraries contributing to both sides of the source contrast.,text,
+Table_S3,S3_Hallmark_effects,estimable,Estimable,Whether the source model could estimate this contrast.,number,0.0000
+Table_S3,S3_Hallmark_effects,effect_sd,Effect (SD),Target-minus-reference Hallmark effect in the source variant standardized-score units.,number,0.0000
+Table_S3,S3_Hallmark_effects,standard_error,Standard error,HC3 standard error in the same units as effect_sd.,number,0.0000
+Table_S3,S3_Hallmark_effects,pvalue,P value,Unadjusted two-sided source-model p value.,number,0.0000E+00
+Table_S3,S3_Hallmark_effects,ci_low,95% CI lower,"Pointwise 95% HC3 interval lower bound, source variant standardized-score units.",number,0.0000
+Table_S3,S3_Hallmark_effects,ci_high,95% CI upper,"Pointwise 95% HC3 interval upper bound, source variant standardized-score units.",number,0.0000
+Table_S3,S3_Hallmark_effects,fit_tier_fdr,Variant BH q value,BH-adjusted source-model p value for this tier and variant; not correction across variants.,number,0.0000E+00
+Table_S3,S3_Hallmark_effects,qvalue,BH q value,Source BH-adjusted p value across the complete declared family.,number,0.0000E+00
+Table_S3,S3_Hallmark_effects,bh_family,BH family,Benjamini–Hochberg correction family; corrected separately from other families.,text,
+Table_S3,S3_Hallmark_effects,bh_family_size,Tests in BH family,"Complete number of hypotheses in the correction family, not the number displayed as significant.",integer,0
+Table_S3,S3_Hallmark_effects,effect_definition,Effect definition,Explicit signed effect orientation and units.,text,
+Table_S3,S3_Hallmark_sensitivities,contrast_id,Source contrast ID,"Immutable contrast identifier; historical fast/slow wording is an ID, not a rate estimate.",text,
+Table_S3,S3_Hallmark_sensitivities,contrast_label,Contrast,Target-minus-reference contrast; focal groups are weighted as defined in the original model.,text,
+Table_S3,S3_Hallmark_sensitivities,tier,Source family code,Original analysis tier defining the multiple-testing family.,text,
+Table_S3,S3_Hallmark_sensitivities,lineage_bias,Output class,"Broad lineage-output class, not a cell annotation.",text,
+Table_S3,S3_Hallmark_sensitivities,target_levels,Target metaclones,Target metaclones separated by |; group means weight metaclones equally.,text,
+Table_S3,S3_Hallmark_sensitivities,reference_levels,Reference metaclones,Reference metaclones separated by |; group means weight metaclones equally.,text,
+Table_S3,S3_Hallmark_sensitivities,support_gate,Support sufficient,"Source-defined support gate; True denotes sufficient support, not statistical significance.",number,0.0000
+Table_S3,S3_Hallmark_sensitivities,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_Hallmark_sensitivities,shared_libraries,Shared libraries,Sequencing libraries contributing to both sides of the source contrast.,text,
+Table_S3,S3_Hallmark_sensitivities,estimable,Estimable,Whether the source model could estimate this contrast.,number,0.0000
+Table_S3,S3_Hallmark_sensitivities,effect_sd,Effect (SD),Target-minus-reference Hallmark effect in the source variant standardized-score units.,number,0.0000
+Table_S3,S3_Hallmark_sensitivities,standard_error,Standard error,HC3 standard error in the same units as effect_sd.,number,0.0000
+Table_S3,S3_Hallmark_sensitivities,pvalue,P value,Unadjusted two-sided source-model p value.,number,0.0000E+00
+Table_S3,S3_Hallmark_sensitivities,ci_low,95% CI lower,"Pointwise 95% HC3 interval lower bound, source variant standardized-score units.",number,0.0000
+Table_S3,S3_Hallmark_sensitivities,ci_high,95% CI upper,"Pointwise 95% HC3 interval upper bound, source variant standardized-score units.",number,0.0000
+Table_S3,S3_Hallmark_sensitivities,fit_tier_fdr,Variant BH q value,BH-adjusted source-model p value for this tier and variant; not correction across variants.,number,0.0000E+00
+Table_S3,S3_Hallmark_sensitivities,variant,Source variant code,Immutable sensitivity code; primary is the main library-adjusted analysis.,text,
+Table_S3,S3_Hallmark_sensitivities,effect_primary_scale,Effect on primary SD scale,Sensitivity effect rescaled to the primary Hallmark standard deviation; its uncertainty is primary_scale_se.,number,0.0000
+Table_S3,S3_Hallmark_sensitivities,primary_scale_se,SE on primary SD scale,Sensitivity standard error rescaled to the primary Hallmark standard deviation.,number,0.0000
+Table_S3,S3_Hallmark_sensitivities,removed_library,Omitted library,Library left out in this sensitivity; blank when no library is omitted.,text,
+Table_S3,S3_Hallmark_sensitivities,bh_family,BH family,Benjamini–Hochberg correction family; corrected separately from other families.,text,
+Table_S3,S3_Hallmark_sensitivities,bh_family_size,Tests in BH family,"Complete number of hypotheses in the correction family, not the number displayed as significant.",integer,0
+Table_S3,S3_Hallmark_sensitivities,variant_label,Analysis variant,Reader-facing sensitivity label; HSPC composition adjustment does not introduce separate biological HSPC classes.,text,
+Table_S3,S3_Figure4_effects,figure_panel,Figure panel,Current manuscript panel linked to this selected effect.,text,
+Table_S3,S3_Figure4_effects,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_Figure4_effects,contrast_label,Contrast,Target-minus-reference contrast; focal groups are weighted as defined in the original model.,text,
+Table_S3,S3_Figure4_effects,target_levels,Target metaclones,Target metaclones separated by |; group means weight metaclones equally.,text,
+Table_S3,S3_Figure4_effects,reference_levels,Reference metaclones,Reference metaclones separated by |; group means weight metaclones equally.,text,
+Table_S3,S3_Figure4_effects,variant_label,Analysis variant,Reader-facing sensitivity label; HSPC composition adjustment does not introduce separate biological HSPC classes.,text,
+Table_S3,S3_Figure4_effects,effect_sd,Effect (SD),Target-minus-reference Hallmark effect in the source variant standardized-score units.,number,0.0000
+Table_S3,S3_Figure4_effects,standard_error,Standard error,HC3 standard error in the same units as effect_sd.,number,0.0000
+Table_S3,S3_Figure4_effects,ci_low,95% CI lower,"Pointwise 95% HC3 interval lower bound, source variant standardized-score units.",number,0.0000
+Table_S3,S3_Figure4_effects,ci_high,95% CI upper,"Pointwise 95% HC3 interval upper bound, source variant standardized-score units.",number,0.0000
+Table_S3,S3_Figure4_effects,effect_primary_scale,Effect on primary SD scale,Sensitivity effect rescaled to the primary Hallmark standard deviation; its uncertainty is primary_scale_se.,number,0.0000
+Table_S3,S3_Figure4_effects,primary_scale_se,SE on primary SD scale,Sensitivity standard error rescaled to the primary Hallmark standard deviation.,number,0.0000
+Table_S3,S3_Figure4_effects,pvalue,P value,Unadjusted two-sided source-model p value.,number,0.0000E+00
+Table_S3,S3_Figure4_effects,qvalue,BH q value,Source BH-adjusted p value across the complete declared family.,number,0.0000E+00
+Table_S3,S3_Figure4_effects,bh_family,BH family,Benjamini–Hochberg correction family; corrected separately from other families.,text,
+Table_S3,S3_Figure4_effects,bh_family_size,Tests in BH family,"Complete number of hypotheses in the correction family, not the number displayed as significant.",integer,0
+Table_S3,S3_Figure4_effects,support_gate,Support sufficient,"Source-defined support gate; True denotes sufficient support, not statistical significance.",number,0.0000
+Table_S3,S3_Figure4_effects,estimable,Estimable,Whether the source model could estimate this contrast.,number,0.0000
+Table_S3,S3_Figure4_effects,removed_library,Omitted library,Library left out in this sensitivity; blank when no library is omitted.,text,
+Table_S3,S3_Figure4_effects,shared_libraries,Shared libraries,Sequencing libraries contributing to both sides of the source contrast.,text,
+Table_S3,S3_Figure4_effects,contrast_id,Source contrast ID,"Immutable contrast identifier; historical fast/slow wording is an ID, not a rate estimate.",text,
+Table_S3,S3_Figure4_effects,variant,Source variant code,Immutable sensitivity code; primary is the main library-adjusted analysis.,text,
+Table_S3,S3_Monocyte_landscape,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_Monocyte_landscape,metaclone,Metaclone,Dataset-specific Weinreb metaclone identifier.,integer,0
+Table_S3,S3_Monocyte_landscape,row_order,Display row order,Zero-based program order in the source heatmap.,integer,0
+Table_S3,S3_Monocyte_landscape,column_order,Display column order,Zero-based metaclone order in the source heatmap.,integer,0
+Table_S3,S3_Monocyte_landscape,adjusted_program_mean_sd,Adjusted mean (SD),Library-adjusted metaclone Hallmark mean in score SD units.,number,0.0000
+Table_S3,S3_Monocyte_landscape,row_center,Row center,Mean across displayed adjusted metaclone means used for row standardization.,number,0.0000
+Table_S3,S3_Monocyte_landscape,row_scale,Row scale,Population standard deviation across displayed adjusted metaclone means.,number,0.0000
+Table_S3,S3_Monocyte_landscape,zscore_ddof,Z-score degrees of freedom,Degrees-of-freedom correction used for display z-score scaling.,integer,0
+Table_S3,S3_Monocyte_landscape,raw_zscore,Row z-score,"Unclipped within-row display z-score, not a statistical test.",number,0.0000
+Table_S3,S3_Monocyte_landscape,display_zscore,Displayed z-score,"Display-clipped within-row z-score, not statistical significance.",number,0.0000
+Table_S3,S3_Monocyte_landscape,was_clipped,Display clipped,Whether the display value was clipped to the color-scale range.,number,0.0000
+Table_S3,S3_Monocyte_landscape,zscore_estimable,Z-score available,Whether the source could calculate the row z-score.,number,0.0000
+Table_S3,S3_Monocyte_landscape,undefined_reason,Unavailable reason,Source reason for an undefined z-score; blank when available.,number,0.0000
+Table_S3,S3_Monocyte_landscape,contrast_id,Source contrast ID,"Immutable contrast identifier; historical fast/slow wording is an ID, not a rate estimate.",text,
+Table_S3,S3_Monocyte_landscape,original_950_test_OVR_qvalue,Original OVR BH q,Original within-class one-versus-rest q value corrected across 950 tests.,number,0.0000E+00
+Table_S3,S3_Monocyte_landscape,contrast_support_gate,Contrast support sufficient,Source support gate for the displayed one-versus-rest comparison.,number,0.0000
+Table_S3,S3_Monocyte_landscape,effect_sd,Effect (SD),Target-minus-reference Hallmark effect in the source variant standardized-score units.,number,0.0000
+Table_S3,S3_Monocyte_landscape,significance_symbol,Significance symbol,**: q < 0.05; *: 0.05 <= q < 0.10; blank: q >= 0.10 or unavailable.,text,
+Table_S3,S3_Hallmark_gene_sets,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_Hallmark_gene_sets,n_library_genes,Gene-set size,Number of genes in the source Hallmark library set.,integer,0
+Table_S3,S3_Hallmark_gene_sets,n_mapped_filtered_genes,Mapped genes,Number of Hallmark genes retained in the filtered expression universe.,integer,0
+Table_S3,S3_Hallmark_gene_sets,mapped_fraction,Mapped fraction,Mapped filtered genes divided by source gene-set size.,number,0.0000
+Table_S3,S3_Hallmark_gene_sets,mapped_genes,Mapped gene symbols,Complete source gene symbols separated by |.,text,
+Table_S3,S3_Clone_Hallmark_scores,clone,Clone ID,"LARRY clone identifier; text, never a numeric measurement.",text,
+Table_S3,S3_Clone_Hallmark_scores,metaclone,Metaclone,Dataset-specific Weinreb metaclone identifier.,integer,0
+Table_S3,S3_Clone_Hallmark_scores,lineage_bias,Output class,"Broad lineage-output class, not a cell annotation.",text,
+Table_S3,S3_Clone_Hallmark_scores,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_Clone_Hallmark_scores,hallmark_score_sd,Clone Hallmark score (SD),Source clone-level standardized Hallmark score before metaclone modeling.,number,0.0000
+Table_S3,S3_Clone_metadata,clone,Clone ID,"LARRY clone identifier; text, never a numeric measurement.",text,
+Table_S3,S3_Clone_metadata,metaclone,Metaclone,Dataset-specific Weinreb metaclone identifier.,integer,0
+Table_S3,S3_Clone_metadata,n_hspcs,Day-2 HSPCs,Number of pooled Day-2 HSPCs contributing to the row.,integer,0
+Table_S3,S3_Clone_metadata,lineage_bias,Output class,"Broad lineage-output class, not a cell annotation.",text,
+Table_S3,S3_Clone_metadata,libfrac__LK_d2,Library fraction: LK_d2,Fraction of the clone pooled Day-2 HSPCs from this sequencing library; model covariate.,number,0.0000
+Table_S3,S3_Clone_metadata,libfrac__LSK_d2_1,Library fraction: LSK_d2_1,Fraction of the clone pooled Day-2 HSPCs from this sequencing library; model covariate.,number,0.0000
+Table_S3,S3_Clone_metadata,libfrac__LSK_d2_2,Library fraction: LSK_d2_2,Fraction of the clone pooled Day-2 HSPCs from this sequencing library; model covariate.,number,0.0000
+Table_S3,S3_Clone_metadata,libfrac__LSK_d2_3,Library fraction: LSK_d2_3,Fraction of the clone pooled Day-2 HSPCs from this sequencing library; model covariate.,number,0.0000
+Table_S3,S3_Clone_metadata,libfrac__d2_1,Library fraction: d2_1,Fraction of the clone pooled Day-2 HSPCs from this sequencing library; model covariate.,number,0.0000
+Table_S3,S3_Clone_metadata,libfrac__d2_2,Library fraction: d2_2,Fraction of the clone pooled Day-2 HSPCs from this sequencing library; model covariate.,number,0.0000
+Table_S3,S3_Clone_metadata,libfrac__d2_3,Library fraction: d2_3,Fraction of the clone pooled Day-2 HSPCs from this sequencing library; model covariate.,number,0.0000
+Table_S3,S3_cNMF_within_class,output_class,Output class,Broad lineage-output class.,text,
+Table_S3,S3_cNMF_within_class,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_cNMF_within_class,metaclone,Metaclone,Dataset-specific Weinreb metaclone identifier.,integer,0
+Table_S3,S3_cNMF_within_class,n_clones_mc,Target clones,Number of clones in the focal metaclone.,integer,0
+Table_S3,S3_cNMF_within_class,n_clones_rest,Reference clones,Number of clones in the pooled comparison group.,integer,0
+Table_S3,S3_cNMF_within_class,mean_usage_mc,Target mean usage,Mean fractional program usage among focal-metaclone clones.,number,0.0000
+Table_S3,S3_cNMF_within_class,mean_usage_rest,Reference mean usage,Mean fractional program usage among pooled reference clones.,number,0.0000
+Table_S3,S3_cNMF_within_class,effect_z,Mean z-score difference,Mean clone usage z-score in the focal metaclone minus the pooled reference; the Mann–Whitney test is on usage distributions.,number,0.0000
+Table_S3,S3_cNMF_within_class,U,Mann–Whitney U,Two-sided Mann–Whitney U statistic from the source clone-level test.,number,0.0000
+Table_S3,S3_cNMF_within_class,p,P value,Unadjusted source rank-test p value.,number,0.0000E+00
+Table_S3,S3_cNMF_within_class,q,BH q value,BH-adjusted rank-test p value for the complete declared family.,number,0.0000E+00
+Table_S3,S3_cNMF_within_class,direction,Effect direction,Direction of the mean standardized usage difference; higher or lower in target.,text,
+Table_S3,S3_cNMF_within_class,flagged_program,Program context flag,True if the source program has any technical or biological-context flag.,number,0.0000
+Table_S3,S3_cNMF_within_class,library_associated_flag,Library association,Source annotation of a library-associated program; not a newly fitted covariate test.,number,0.0000
+Table_S3,S3_cNMF_within_class,cell_cycle_flag,Cell-cycle association,Source annotation of a cell-cycle-associated program.,number,0.0000
+Table_S3,S3_cNMF_within_class,any_technical_or_context_flag,Any context flag,Any source-declared technical or biological-context flag.,number,0.0000
+Table_S3,S3_cNMF_within_class,bh_family,BH family,Benjamini–Hochberg correction family; corrected separately from other families.,text,
+Table_S3,S3_cNMF_within_class,bh_family_size,Tests in BH family,"Complete number of hypotheses in the correction family, not the number displayed as significant.",integer,0
+Table_S3,S3_cNMF_omnibus,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_cNMF_omnibus,H,Kruskal–Wallis H,Kruskal–Wallis statistic across the 20 metaclones.,number,0.0000
+Table_S3,S3_cNMF_omnibus,p,P value,Unadjusted source rank-test p value.,number,0.0000E+00
+Table_S3,S3_cNMF_omnibus,q,BH q value,BH-adjusted rank-test p value for the complete declared family.,number,0.0000E+00
+Table_S3,S3_cNMF_omnibus,library_associated_flag,Library association,Source annotation of a library-associated program; not a newly fitted covariate test.,number,0.0000
+Table_S3,S3_cNMF_omnibus,cell_cycle_flag,Cell-cycle association,Source annotation of a cell-cycle-associated program.,number,0.0000
+Table_S3,S3_cNMF_omnibus,any_technical_or_context_flag,Any context flag,Any source-declared technical or biological-context flag.,number,0.0000
+Table_S3,S3_cNMF_omnibus,bh_family,BH family,Benjamini–Hochberg correction family; corrected separately from other families.,text,
+Table_S3,S3_cNMF_omnibus,bh_family_size,Tests in BH family,"Complete number of hypotheses in the correction family, not the number displayed as significant.",integer,0
+Table_S3,S3_cNMF_one_vs_all,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_cNMF_one_vs_all,metaclone,Metaclone,Dataset-specific Weinreb metaclone identifier.,integer,0
+Table_S3,S3_cNMF_one_vs_all,n_clones_mc,Target clones,Number of clones in the focal metaclone.,integer,0
+Table_S3,S3_cNMF_one_vs_all,effect_z,Mean z-score difference,Mean clone usage z-score in the focal metaclone minus the pooled reference; the Mann–Whitney test is on usage distributions.,number,0.0000
+Table_S3,S3_cNMF_one_vs_all,p,P value,Unadjusted source rank-test p value.,number,0.0000E+00
+Table_S3,S3_cNMF_one_vs_all,q,BH q value,BH-adjusted rank-test p value for the complete declared family.,number,0.0000E+00
+Table_S3,S3_cNMF_one_vs_all,direction,Effect direction,Direction of the mean standardized usage difference; higher or lower in target.,text,
+Table_S3,S3_cNMF_one_vs_all,library_associated_flag,Library association,Source annotation of a library-associated program; not a newly fitted covariate test.,number,0.0000
+Table_S3,S3_cNMF_one_vs_all,cell_cycle_flag,Cell-cycle association,Source annotation of a cell-cycle-associated program.,number,0.0000
+Table_S3,S3_cNMF_one_vs_all,any_technical_or_context_flag,Any context flag,Any source-declared technical or biological-context flag.,number,0.0000
+Table_S3,S3_cNMF_one_vs_all,n_clones_rest,Reference clones,Number of clones in the pooled comparison group.,integer,0
+Table_S3,S3_cNMF_one_vs_all,bh_family,BH family,Benjamini–Hochberg correction family; corrected separately from other families.,text,
+Table_S3,S3_cNMF_one_vs_all,bh_family_size,Tests in BH family,"Complete number of hypotheses in the correction family, not the number displayed as significant.",integer,0
+Table_S3,S3_cNMF_programs,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_cNMF_programs,selected_K,Selected K,Number of frozen cNMF programs.,integer,0
+Table_S3,S3_cNMF_programs,mean_cell_usage_fraction,Mean discovery-cell usage,Mean fractional usage across the cNMF discovery cells.,number,0.0000
+Table_S3,S3_cNMF_programs,active_cell_fraction_usage_ge_0_05,Cells with usage >= 0.05,Fraction of discovery cells with program usage at least 0.05.,number,0.0000
+Table_S3,S3_cNMF_programs,top_gene_preannotation,Leading gene before annotation,Source leading gene determined before postfit program annotation.,text,
+Table_S3,S3_cNMF_programs,program_order_rule,Program ordering rule,Original frozen rule for assigning program order.,text,
+Table_S3,S3_cNMF_programs,cell_cycle_flag,Cell-cycle association,Source annotation of a cell-cycle-associated program.,number,0.0000
+Table_S3,S3_cNMF_programs,mitochondrial_flag,Mitochondrial program annotation,Stored source annotation: mitochondrial program annotation.,number,0.0000
+Table_S3,S3_cNMF_programs,ribosomal_flag,Ribosomal program annotation,Stored source annotation: ribosomal program annotation.,number,0.0000
+Table_S3,S3_cNMF_programs,sex_associated_flag,Sex-associated program annotation,Stored source annotation: sex-associated program annotation.,number,0.0000
+Table_S3,S3_cNMF_programs,hemoglobin_context_flag,Hemoglobin-context program annotation,Stored source annotation: hemoglobin-context program annotation.,number,0.0000
+Table_S3,S3_cNMF_programs,nuclear_qc_malat1_flag,Nuclear/QC Malat1 program annotation,Stored source annotation: nuclear/qc malat1 program annotation.,number,0.0000
+Table_S3,S3_cNMF_programs,stress_immediate_early_flag,Stress/immediate-early program annotation,Stored source annotation: stress/immediate-early program annotation.,number,0.0000
+Table_S3,S3_cNMF_programs,library_associated_flag,Library association,Source annotation of a library-associated program; not a newly fitted covariate test.,number,0.0000
+Table_S3,S3_cNMF_programs,qc_associated_flag,QC-associated program annotation,Stored source annotation: qc-associated program annotation.,number,0.0000
+Table_S3,S3_cNMF_programs,any_technical_or_context_flag,Any context flag,Any source-declared technical or biological-context flag.,number,0.0000
+Table_S3,S3_cNMF_programs,best_reference_type,Best reference type,Reference collection with the strongest stored overlap; not necessarily statistically supported.,text,
+Table_S3,S3_cNMF_programs,best_reference_program,Best reference set,Best stored reference-set match; inspect its q value before interpretation.,text,
+Table_S3,S3_cNMF_programs,best_reference_overlap_n,Reference overlap genes,Number of genes shared with the best reference set.,integer,0
+Table_S3,S3_cNMF_programs,best_reference_global_fdr,Reference overlap BH q,Stored global overlap-test q value.,number,0.0000E+00
+Table_S3,S3_cNMF_programs,postfit_annotation,Postfit annotation,Source program annotation assigned after label-blind fitting.,text,
+Table_S3,S3_cNMF_programs,program_id,Short program ID,Display identifier for a frozen cNMF program.,text,
+Table_S3,S3_cNMF_top_genes,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_cNMF_top_genes,gene,Gene,Source mouse gene symbol.,text,
+Table_S3,S3_cNMF_top_genes,spectrum_coefficient,Spectrum coefficient,Frozen cNMF gene coefficient in the source spectrum.,number,0.0000
+Table_S3,S3_cNMF_top_genes,normalized_loading,Normalized loading,Gene coefficient divided by the source program spectrum total.,number,0.0000
+Table_S3,S3_cNMF_top_genes,specificity_z_across_programs,Specificity z-score,Gene loading specificity across the frozen programs.,number,0.0000
+Table_S3,S3_cNMF_top_genes,loading_rank,Loading rank,Descending source rank by gene loading within the program.,integer,0
+Table_S3,S3_cNMF_top_genes,specificity_rank_all_genes,Specificity rank,Specificity rank across all source genes.,integer,0
+Table_S3,S3_cNMF_top_genes,passes_program_loading_floor,Loading floor passed,Whether the gene passes the source program loading floor.,number,0.0000
+Table_S3,S3_cNMF_top_genes,specificity_rank_with_loading_floor,Specificity rank after floor,Specificity rank after source loading-floor eligibility.,number,0.0000
+Table_S3,S3_cNMF_top_genes,synthetic_barcode_or_readout,Synthetic barcode or experimental-readout feature,Stored source annotation: synthetic barcode or experimental-readout feature.,number,0.0000
+Table_S3,S3_cNMF_top_genes,mitochondrial,Mitochondrial gene,Stored source annotation: mitochondrial gene.,number,0.0000
+Table_S3,S3_cNMF_top_genes,KEGG_ribosome,KEGG ribosome gene,Stored source annotation: kegg ribosome gene.,number,0.0000
+Table_S3,S3_cNMF_top_genes,nuclear_QC_Malat1,Malat1 nuclear/QC gene,Stored source annotation: malat1 nuclear/qc gene.,number,0.0000
+Table_S3,S3_cNMF_top_genes,sex_associated_audit,Sex-associated gene flag,Stored source annotation: sex-associated gene flag.,number,0.0000
+Table_S3,S3_cNMF_top_genes,hemoglobin_audit,Hemoglobin gene flag,Stored source annotation: hemoglobin gene flag.,number,0.0000
+Table_S3,S3_cNMF_top_genes,selected_for_cNMF,Fitting feature,Whether the source gene was selected for cNMF fitting.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_cNMF_all_gene_ranks,gene,Gene,Source mouse gene symbol.,text,
+Table_S3,S3_cNMF_all_gene_ranks,spectrum_coefficient,Spectrum coefficient,Frozen cNMF gene coefficient in the source spectrum.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,normalized_loading,Normalized loading,Gene coefficient divided by the source program spectrum total.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,specificity_z_across_programs,Specificity z-score,Gene loading specificity across the frozen programs.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,loading_rank,Loading rank,Descending source rank by gene loading within the program.,integer,0
+Table_S3,S3_cNMF_all_gene_ranks,specificity_rank_all_genes,Specificity rank,Specificity rank across all source genes.,integer,0
+Table_S3,S3_cNMF_all_gene_ranks,passes_program_loading_floor,Loading floor passed,Whether the gene passes the source program loading floor.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,specificity_rank_with_loading_floor,Specificity rank after floor,Specificity rank after source loading-floor eligibility.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,synthetic_barcode_or_readout,Synthetic barcode or experimental-readout feature,Stored source annotation: synthetic barcode or experimental-readout feature.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,mitochondrial,Mitochondrial gene,Stored source annotation: mitochondrial gene.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,KEGG_ribosome,KEGG ribosome gene,Stored source annotation: kegg ribosome gene.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,nuclear_QC_Malat1,Malat1 nuclear/QC gene,Stored source annotation: malat1 nuclear/qc gene.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,sex_associated_audit,Sex-associated gene flag,Stored source annotation: sex-associated gene flag.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,hemoglobin_audit,Hemoglobin gene flag,Stored source annotation: hemoglobin gene flag.,number,0.0000
+Table_S3,S3_cNMF_all_gene_ranks,selected_for_cNMF,Fitting feature,Whether the source gene was selected for cNMF fitting.,number,0.0000
+Table_S3,S3_cNMF_clone_usage,clone,Clone ID,"LARRY clone identifier; text, never a numeric measurement.",text,
+Table_S3,S3_cNMF_clone_usage,metaclone,Metaclone,Dataset-specific Weinreb metaclone identifier.,integer,0
+Table_S3,S3_cNMF_clone_usage,lineage_bias,Output class,"Broad lineage-output class, not a cell annotation.",text,
+Table_S3,S3_cNMF_clone_usage,n_hspcs,Day-2 HSPCs,Number of pooled Day-2 HSPCs contributing to the row.,integer,0
+Table_S3,S3_cNMF_clone_usage,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_cNMF_clone_usage,usage_fraction,Clone program usage,Mean per-cell fractional usage within the clone; sums to one over frozen programs.,number,0.0000
+Table_S3,S3_Program_gene_contributions,example_id,Example ID,Immutable selected ancestry-example identifier.,text,
+Table_S3,S3_Program_gene_contributions,program,Program,"Hallmark name or frozen cNMF program identifier, as stored in the analysis.",text,
+Table_S3,S3_Program_gene_contributions,contrast_id,Source contrast ID,"Immutable contrast identifier; historical fast/slow wording is an ID, not a rate estimate.",text,
+Table_S3,S3_Program_gene_contributions,gene,Gene,Source mouse gene symbol.,text,
+Table_S3,S3_Program_gene_contributions,rank_abs_contribution,Absolute contribution rank,Rank by absolute contribution to the selected program effect; not a gene-level test.,integer,0
+Table_S3,S3_Program_gene_contributions,gene_z_effect,Gene z-score effect,Signed source gene-score difference contributing to the program effect.,number,0.0000
+Table_S3,S3_Program_gene_contributions,program_sd_contribution,Contribution to program effect,Signed contribution to the program effect in program SD units.,number,0.0000
+Table_S3,S3_Program_gene_contributions,program_effect_sd,Program effect (SD),Complete program effect to which the gene contributes.,number,0.0000
+Table_S3,S3_Program_gene_contributions,program_mapped_genes,Genes in program score,Number of genes contributing to the mapped program score.,integer,0
+Table_S3,S3_Program_gene_contributions,selection,Selection rule,Source rule selecting displayed gene contributions; no gene-level significance implied.,text,
+Table_S4,State_responses,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,State_responses,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,State_responses,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,State_responses,dpsi,Pseudotime difference (mutant minus WT),"Weighted mutant-minus-WT difference in mean stored pseudotime. Positive denotes a more advanced transcriptomic position, not a measured maturation rate.",number,0.0000
+Table_S4,State_responses,se,Standard error,Standard error. Source field: se.,number,0.0000
+Table_S4,State_responses,ci_low,95% interval lower,Lower limit of the pointwise 95% conditional t interval using clone-cluster sandwich variance; not independent biological-replicate uncertainty.,number,0.0000
+Table_S4,State_responses,ci_high,95% interval upper,Upper limit of the pointwise 95% conditional t interval using clone-cluster sandwich variance; not independent biological-replicate uncertainty.,number,0.0000
+Table_S4,State_responses,p_state,State P value,Two-sided conditional clone-cluster influence multiplier P value. Blank when unsupported; missing tests enter the fixed BH denominator internally as P=1 only.,number,0.00E+00
+Table_S4,State_responses,q_state,State BH q (68 tests),Benjamini–Hochberg correction over all 68 planned state comparisons; reported unsupported values remain blank.,number,0.00E+00
+Table_S4,State_responses,point_estimable,Point estimate supported,"Whether the prespecified observed-cell, clone/sample-row, and common-sample requirements support a point estimate.",number,0.0000
+Table_S4,State_responses,inference_estimable,Inference supported,Whether distinct-clone support and nonzero influence variance additionally support conditional inference.,number,0.0000
+Table_S4,State_responses,cells_wt,WT cells,WT cells. Source field: cells_wt.,integer,"#,##0"
+Table_S4,State_responses,cells_mut,Mutant cells,Mutant cells. Source field: cells_mut.,integer,"#,##0"
+Table_S4,State_responses,rows_wt,WT clone/sample rows,WT clone/sample rows. Source field: rows_wt.,integer,"#,##0"
+Table_S4,State_responses,rows_mut,Mutant clone/sample rows,Mutant clone/sample rows. Source field: rows_mut.,integer,"#,##0"
+Table_S4,State_responses,n_samples,Contributing samples,Contributing samples. Source field: n_samples.,number,"#,##0"
+Table_S4,State_responses,families_wt,WT contributing clones,WT contributing clones. Source field: families_wt.,number,"#,##0"
+Table_S4,State_responses,families_mut,Mutant contributing clones,Mutant contributing clones. Source field: families_mut.,number,"#,##0"
+Table_S4,State_responses,families_union,Contributing clone union,Number of distinct original clones across both contributing conditions; uncertainty unit includes all linked records.,number,"#,##0"
+Table_S4,State_responses,families_shared,Shared contributing clones,Number of original clones represented in both conditions among contributing samples. A match is not required for every clone.,number,"#,##0"
+Table_S4,State_responses,reason,Support limitation,Support limitation. Source field: reason.,text,
+Table_S4,Composition_responses,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Composition_responses,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Composition_responses,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,Composition_responses,tvd,Composition distance (TVD),"Weighted mean of sample-specific total-variation distances: half the sum of absolute cell-type proportion differences. The composition P value tests the sample-by-cell-type contrast vector, not a scalar TVD null.",number,0.0000
+Table_S4,Composition_responses,p_composition,Composition P value,Conditional clone-cluster multiplier P for the maximum absolute standardized sample-by-cell-type contrast; not a test of the scalar TVD.,number,0.00E+00
+Table_S4,Composition_responses,q_composition,Composition BH q (68 tests),Benjamini–Hochberg correction over the separate family of 68 planned composition comparisons.,number,0.00E+00
+Table_S4,Composition_responses,point_estimable,Point estimate supported,"Whether the prespecified observed-cell, clone/sample-row, and common-sample requirements support a point estimate.",number,0.0000
+Table_S4,Composition_responses,inference_estimable,Inference supported,Whether distinct-clone support and nonzero influence variance additionally support conditional inference.,number,0.0000
+Table_S4,Composition_responses,cells_wt,WT cells,WT cells. Source field: cells_wt.,integer,"#,##0"
+Table_S4,Composition_responses,cells_mut,Mutant cells,Mutant cells. Source field: cells_mut.,integer,"#,##0"
+Table_S4,Composition_responses,rows_wt,WT clone/sample rows,WT clone/sample rows. Source field: rows_wt.,integer,"#,##0"
+Table_S4,Composition_responses,rows_mut,Mutant clone/sample rows,Mutant clone/sample rows. Source field: rows_mut.,integer,"#,##0"
+Table_S4,Composition_responses,n_samples,Contributing samples,Contributing samples. Source field: n_samples.,number,"#,##0"
+Table_S4,Composition_responses,families_wt,WT contributing clones,WT contributing clones. Source field: families_wt.,number,"#,##0"
+Table_S4,Composition_responses,families_mut,Mutant contributing clones,Mutant contributing clones. Source field: families_mut.,number,"#,##0"
+Table_S4,Composition_responses,families_union,Contributing clone union,Number of distinct original clones across both contributing conditions; uncertainty unit includes all linked records.,number,"#,##0"
+Table_S4,Composition_responses,families_shared,Shared contributing clones,Number of original clones represented in both conditions among contributing samples. A match is not required for every clone.,number,"#,##0"
+Table_S4,Composition_responses,reason,Support limitation,Support limitation. Source field: reason.,text,
+Table_S4,Branch_responses,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Branch_responses,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Branch_responses,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,Branch_responses,branch,Lineage-compatibility branch,Stored overlapping lineage-compatibility mask. Masks are not mutually exclusive fates; supports cannot be added across branches.,text,
+Table_S4,Branch_responses,dpsi,Pseudotime difference (mutant minus WT),"Weighted mutant-minus-WT difference in mean stored pseudotime. Positive denotes a more advanced transcriptomic position, not a measured maturation rate.",number,0.0000
+Table_S4,Branch_responses,se,Standard error,Standard error. Source field: se.,number,0.0000
+Table_S4,Branch_responses,ci_low,95% interval lower,Lower limit of the pointwise 95% conditional t interval using clone-cluster sandwich variance; not independent biological-replicate uncertainty.,number,0.0000
+Table_S4,Branch_responses,ci_high,95% interval upper,Upper limit of the pointwise 95% conditional t interval using clone-cluster sandwich variance; not independent biological-replicate uncertainty.,number,0.0000
+Table_S4,Branch_responses,p,P value,Two-sided conditional clone-cluster multiplier P value for the lineage-restricted state contrast.,number,0.00E+00
+Table_S4,Branch_responses,q_340,Branch BH q (340 tests),"Benjamini–Hochberg correction over all 340 planned lineage-restricted state comparisons, not the obsolete 20-test MC3 family.",number,0.00E+00
+Table_S4,Branch_responses,point_estimable,Point estimate supported,"Whether the prespecified observed-cell, clone/sample-row, and common-sample requirements support a point estimate.",number,0.0000
+Table_S4,Branch_responses,inference_estimable,Inference supported,Whether distinct-clone support and nonzero influence variance additionally support conditional inference.,number,0.0000
+Table_S4,Branch_responses,reason,Support limitation,Support limitation. Source field: reason.,text,
+Table_S4,Branch_responses,cells_wt,WT cells,WT cells. Source field: cells_wt.,integer,"#,##0"
+Table_S4,Branch_responses,cells_mut,Mutant cells,Mutant cells. Source field: cells_mut.,integer,"#,##0"
+Table_S4,Branch_responses,rows_wt,WT clone/sample rows,WT clone/sample rows. Source field: rows_wt.,integer,"#,##0"
+Table_S4,Branch_responses,rows_mut,Mutant clone/sample rows,Mutant clone/sample rows. Source field: rows_mut.,integer,"#,##0"
+Table_S4,Branch_responses,n_samples,Contributing samples,Contributing samples. Source field: n_samples.,number,"#,##0"
+Table_S4,Branch_responses,families_wt,WT contributing clones,WT contributing clones. Source field: families_wt.,number,"#,##0"
+Table_S4,Branch_responses,families_mut,Mutant contributing clones,Mutant contributing clones. Source field: families_mut.,number,"#,##0"
+Table_S4,Branch_responses,families_union,Contributing clone union,Number of distinct original clones across both contributing conditions; uncertainty unit includes all linked records.,number,"#,##0"
+Table_S4,Branch_responses,families_shared,Shared contributing clones,Number of original clones represented in both conditions among contributing samples. A match is not required for every clone.,number,"#,##0"
+Table_S4,Branch_responses,raw_families_wt,WT observed branch clones,WT observed branch clones. Source field: raw_families_wt.,integer,"#,##0"
+Table_S4,Branch_responses,raw_families_mut,Mutant observed branch clones,Mutant observed branch clones. Source field: raw_families_mut.,integer,"#,##0"
+Table_S4,Branch_responses,minimum_arm_families,Minimum contributing arm clones,Minimum contributing arm clones. Source field: minimum_arm_families.,number,"#,##0"
+Table_S4,Branch_responses,point_only,Point estimate only,"True when a point estimate is retained without reported uncertainty, P or q.",number,0.0000
+Table_S4,Branch_responses,seed,Recorded random seed,Recorded random seed. Source field: seed.,integer,0
+Table_S4,Clone_registry,clone,Clone ID,Resolved original barcoded lineage. All records of its WT and mutant sister-clones remain linked for uncertainty estimation.,text,
+Table_S4,Clone_registry,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Clone_registry,n_cells,Observed cells,Observed cells. Source field: n_cells.,integer,"#,##0"
+Table_S4,Clone_registry,n_days,Observed days,Observed days. Source field: n_days.,integer,"#,##0"
+Table_S4,Clone_registry,n_samples,Observed sequencing samples,"Number of distinct sequencing samples with observations of this clone, across the recorded conditions and days; not independent biological replication.",integer,"#,##0"
+Table_S4,Clone_registry,n_arms,Observed conditions,Observed conditions. Source field: n_arms.,integer,"#,##0"
+Table_S4,Cohort,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Cohort,arm,Condition,Condition. Source field: arm.,text,
+Table_S4,Cohort,cells,Observed cells,Observed cells. Source field: cells.,integer,"#,##0"
+Table_S4,Cohort,families,Observed clones,Observed clones. Source field: families.,integer,"#,##0"
+Table_S4,Cohort,samples,Samples,Samples. Source field: samples.,integer,"#,##0"
+Table_S4,Observed_support,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Observed_support,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Observed_support,arm,Condition,Condition. Source field: arm.,text,
+Table_S4,Observed_support,cells,Observed cells,Observed cells. Source field: cells.,integer,"#,##0"
+Table_S4,Observed_support,families,Observed clones,Observed clones. Source field: families.,integer,"#,##0"
+Table_S4,Sample_composition,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Sample_composition,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Sample_composition,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,Sample_composition,stratum,Sequencing sample,Sequencing sample. Source field: stratum.,text,
+Table_S4,Sample_composition,cell_type,Pooled cell type,Cell type used in the composition contrast; source HSC and MPP annotations are pooled as HSPC.,text,
+Table_S4,Sample_composition,difference,Proportion difference (mutant minus WT),Proportion difference (mutant minus WT). Source field: difference.,number,0.0000
+Table_S4,Sample_composition,weight,Fixed sample weight,"Within this contrast, weight proportional to the smaller arm clone count in each contributing sample; normalized to sum to one.",number,0.0000
+Table_S4,Sample_composition,n_wt,WT clone/sample rows,WT clone/sample rows. Source field: n_wt.,integer,"#,##0"
+Table_S4,Sample_composition,n_mut,Mutant clone/sample rows,Mutant clone/sample rows. Source field: n_mut.,integer,"#,##0"
+Table_S4,Branch_sample_support,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Branch_sample_support,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Branch_sample_support,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,Branch_sample_support,branch,Lineage-compatibility branch,Stored overlapping lineage-compatibility mask. Masks are not mutually exclusive fates; supports cannot be added across branches.,text,
+Table_S4,Branch_sample_support,sample,Sequencing sample,Sequencing sample. Source field: sample.,text,
+Table_S4,Branch_sample_support,weight,Fixed sample weight,"Within this contrast, weight proportional to the smaller arm clone count in each contributing sample; normalized to sum to one.",number,0.0000
+Table_S4,Branch_sample_support,dpsi,Pseudotime difference (mutant minus WT),"Weighted mutant-minus-WT difference in mean stored pseudotime. Positive denotes a more advanced transcriptomic position, not a measured maturation rate.",number,0.0000
+Table_S4,Branch_sample_support,families_wt,WT contributing clones,WT contributing clones. Source field: families_wt.,integer,"#,##0"
+Table_S4,Branch_sample_support,families_mut,Mutant contributing clones,Mutant contributing clones. Source field: families_mut.,integer,"#,##0"
+Table_S4,Branch_sample_support,cells_wt,WT cells,WT cells. Source field: cells_wt.,integer,"#,##0"
+Table_S4,Branch_sample_support,cells_mut,Mutant cells,Mutant cells. Source field: cells_mut.,integer,"#,##0"
+Table_S4,MC3_linked_bootstrap,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,MC3_linked_bootstrap,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,MC3_linked_bootstrap,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,MC3_linked_bootstrap,dpsi,Pseudotime difference (mutant minus WT),"Weighted mutant-minus-WT difference in mean stored pseudotime. Positive denotes a more advanced transcriptomic position, not a measured maturation rate.",number,0.0000
+Table_S4,MC3_linked_bootstrap,bootstrap_low,Linked-clone bootstrap lower,2.5th percentile of linked-clone nonparametric resamples with fixed sample weights; separate sensitivity from the primary multiplier interval.,number,0.0000
+Table_S4,MC3_linked_bootstrap,bootstrap_high,Linked-clone bootstrap upper,97.5th percentile of linked-clone nonparametric resamples with fixed sample weights; separate sensitivity from the primary multiplier interval.,number,0.0000
+Table_S4,MC3_linked_bootstrap,valid_draws,Valid bootstrap draws,Valid bootstrap draws. Source field: valid_draws.,integer,"#,##0"
+Table_S4,MC3_linked_bootstrap,requested_draws,Requested bootstrap draws,Requested bootstrap draws. Source field: requested_draws.,integer,"#,##0"
+Table_S4,MC3_matched_clones,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,MC3_matched_clones,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,MC3_matched_clones,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,MC3_matched_clones,matched_sample_rows,Matched clone/sample rows,Matched clone/sample rows. Source field: matched_sample_rows.,integer,"#,##0"
+Table_S4,MC3_matched_clones,families,Observed clones,Observed clones. Source field: families.,integer,"#,##0"
+Table_S4,MC3_matched_clones,mean,Mean paired pseudotime difference,Mean paired pseudotime difference. Source field: mean.,number,0.0000
+Table_S4,MC3_matched_clones,median,Median paired pseudotime difference,Median paired pseudotime difference. Source field: median.,number,0.0000
+Table_S4,MC3_matched_clones,negative,Clones with negative difference,Clones with negative difference. Source field: negative.,integer,"#,##0"
+Table_S4,MC3_matched_clones,p_wilcoxon,Paired-clone Wilcoxon P,Paired-clone Wilcoxon P. Source field: p_wilcoxon.,number,0.00E+00
+Table_S4,MC3_matched_clones,q_wilcoxon_4,Paired-clone BH q (4 tests),"BH-adjusted P across the four MC3 matched-clone sensitivity comparisons, separate from primary 68-test families.",number,0.00E+00
+Table_S4,Clone_arm_profiles,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Clone_arm_profiles,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Clone_arm_profiles,arm,Condition,Condition. Source field: arm.,text,
+Table_S4,Clone_arm_profiles,stratum,Sequencing sample,Sequencing sample. Source field: stratum.,text,
+Table_S4,Clone_arm_profiles,clone,Clone ID,Resolved original barcoded lineage. All records of its WT and mutant sister-clones remain linked for uncertainty estimation.,text,
+Table_S4,Clone_arm_profiles,n,Cells in clone/sample/condition,Cells in clone/sample/condition. Source field: n.,integer,"#,##0"
+Table_S4,Clone_arm_profiles,psi,Mean pseudotime,Mean stored pseudotime at the stated aggregation level; not elapsed time or differentiation speed.,number,0.0000
+Table_S4,Clone_arm_profiles,HSPC,HSPC fraction,HSPC fraction. Source field: HSPC.,number,0.0%
+Table_S4,Clone_arm_profiles,GMP,GMP fraction,GMP fraction. Source field: GMP.,number,0.0%
+Table_S4,Clone_arm_profiles,Mk,Megakaryocyte fraction,Megakaryocyte fraction. Source field: Mk.,number,0.0%
+Table_S4,Clone_arm_profiles,Ery,Erythroid fraction,Erythroid fraction. Source field: Ery.,number,0.0%
+Table_S4,Clone_arm_profiles,Basophil,Basophil fraction,Basophil fraction. Source field: Basophil.,number,0.0%
+Table_S4,Clone_arm_profiles,Monocyte,Monocyte fraction,Monocyte fraction. Source field: Monocyte.,number,0.0%
+Table_S4,Clone_arm_profiles,Neutrophil,Neutrophil fraction,Neutrophil fraction. Source field: Neutrophil.,number,0.0%
+Table_S4,Point_reconciliation,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Point_reconciliation,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Point_reconciliation,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,Point_reconciliation,cells_wt,WT cells,WT cells. Source field: cells_wt.,integer,"#,##0"
+Table_S4,Point_reconciliation,cells_mut,Mutant cells,Mutant cells. Source field: cells_mut.,integer,"#,##0"
+Table_S4,Point_reconciliation,rows_wt,WT clone/sample rows,WT clone/sample rows. Source field: rows_wt.,integer,"#,##0"
+Table_S4,Point_reconciliation,rows_mut,Mutant clone/sample rows,Mutant clone/sample rows. Source field: rows_mut.,integer,"#,##0"
+Table_S4,Point_reconciliation,point_estimable,Point estimate supported,"Whether the prespecified observed-cell, clone/sample-row, and common-sample requirements support a point estimate.",number,0.0000
+Table_S4,Point_reconciliation,inference_estimable,Inference supported,Whether distinct-clone support and nonzero influence variance additionally support conditional inference.,number,0.0000
+Table_S4,Point_reconciliation,dpsi_current,Dpsi current,Dpsi current. Source field: dpsi_current.,number,0.0000
+Table_S4,Point_reconciliation,tvd_current,Tvd current,Tvd current. Source field: tvd_current.,number,0.0000
+Table_S4,Point_reconciliation,se,Standard error,Standard error. Source field: se.,number,0.0000
+Table_S4,Point_reconciliation,ci_low,95% interval lower,Lower limit of the pointwise 95% conditional t interval using clone-cluster sandwich variance; not independent biological-replicate uncertainty.,number,0.0000
+Table_S4,Point_reconciliation,ci_high,95% interval upper,Upper limit of the pointwise 95% conditional t interval using clone-cluster sandwich variance; not independent biological-replicate uncertainty.,number,0.0000
+Table_S4,Point_reconciliation,p_state,State P value,Two-sided conditional clone-cluster influence multiplier P value. Blank when unsupported; missing tests enter the fixed BH denominator internally as P=1 only.,number,0.00E+00
+Table_S4,Point_reconciliation,p_composition,Composition P value,Conditional clone-cluster multiplier P for the maximum absolute standardized sample-by-cell-type contrast; not a test of the scalar TVD.,number,0.00E+00
+Table_S4,Point_reconciliation,reason,Support limitation,Support limitation. Source field: reason.,text,
+Table_S4,Point_reconciliation,n_samples,Contributing samples,Contributing samples. Source field: n_samples.,number,"#,##0"
+Table_S4,Point_reconciliation,families_wt,WT contributing clones,WT contributing clones. Source field: families_wt.,number,"#,##0"
+Table_S4,Point_reconciliation,families_mut,Mutant contributing clones,Mutant contributing clones. Source field: families_mut.,number,"#,##0"
+Table_S4,Point_reconciliation,families_union,Contributing clone union,Number of distinct original clones across both contributing conditions; uncertainty unit includes all linked records.,number,"#,##0"
+Table_S4,Point_reconciliation,families_shared,Shared contributing clones,Number of original clones represented in both conditions among contributing samples. A match is not required for every clone.,number,"#,##0"
+Table_S4,Point_reconciliation,q_state,State BH q (68 tests),Benjamini–Hochberg correction over all 68 planned state comparisons; reported unsupported values remain blank.,number,0.00E+00
+Table_S4,Point_reconciliation,q_composition,Composition BH q (68 tests),Benjamini–Hochberg correction over the separate family of 68 planned composition comparisons.,number,0.00E+00
+Table_S4,Point_reconciliation,dpsi_checkpoint,Dpsi checkpoint,Dpsi checkpoint. Source field: dpsi_checkpoint.,number,0.0000
+Table_S4,Point_reconciliation,tvd_checkpoint,Tvd checkpoint,Tvd checkpoint. Source field: tvd_checkpoint.,number,0.0000
+Table_S4,Resolved_cells,cell_id,Cell ID,Cell ID. Source field: cell_id.,text,
+Table_S4,Resolved_cells,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Resolved_cells,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Resolved_cells,arm,Condition,Condition. Source field: arm.,text,
+Table_S4,Resolved_cells,rep,Rep,Rep. Source field: rep.,text,
+Table_S4,Resolved_cells,sample,Sequencing sample,Sequencing sample. Source field: sample.,text,
+Table_S4,Resolved_cells,ct_source,Original cell annotation,Unmodified source annotation retained solely for provenance; HSC and MPP are pooled as HSPCs in reported comparisons.,text,
+Table_S4,Resolved_cells,ct,Pooled cell annotation,HSC and MPP source annotations pooled as HSPC; other source annotations retained.,text,
+Table_S4,Resolved_cells,psi,Mean pseudotime,Mean stored pseudotime at the stated aggregation level; not elapsed time or differentiation speed.,number,0.0000
+Table_S4,Resolved_cells,entropy,Entropy,Entropy. Source field: entropy.,number,0.0000
+Table_S4,Resolved_cells,clone,Clone ID,Resolved original barcoded lineage. All records of its WT and mutant sister-clones remain linked for uncertainty estimation.,text,
+Table_S4,Resolved_cells,clone_resolved,Clone resolved,Clone resolved. Source field: clone_resolved.,number,0.0000
+Table_S4,Resolved_cells,gate,Gate,Gate. Source field: gate.,text,
+Table_S4,Resolved_cells,stratum,Sequencing sample,Sequencing sample. Source field: stratum.,text,
+Table_S4,Resolved_cells,mask_Mk,Mask mk,Mask mk. Source field: mask_Mk.,number,0.0000
+Table_S4,Resolved_cells,p_Mk,P mk,P mk. Source field: p_Mk.,number,0.0000
+Table_S4,Resolved_cells,mask_Neu,Mask neu,Mask neu. Source field: mask_Neu.,number,0.0000
+Table_S4,Resolved_cells,p_Neu,P neu,P neu. Source field: p_Neu.,number,0.0000
+Table_S4,Resolved_cells,mask_Mono,Mask mono,Mask mono. Source field: mask_Mono.,number,0.0000
+Table_S4,Resolved_cells,p_Mono,P mono,P mono. Source field: p_Mono.,number,0.0000
+Table_S4,Resolved_cells,mask_Ery,Mask ery,Mask ery. Source field: mask_Ery.,number,0.0000
+Table_S4,Resolved_cells,p_Ery,P ery,P ery. Source field: p_Ery.,number,0.0000
+Table_S4,Resolved_cells,mask_Baso,Mask baso,Mask baso. Source field: mask_Baso.,number,0.0000
+Table_S4,Resolved_cells,p_Baso,P baso,P baso. Source field: p_Baso.,number,0.0000
+Table_S4,Resolved_cells,larry_gfp,Larry gfp,Larry gfp. Source field: larry_gfp.,text,
+Table_S4,Resolved_cells,larry_scarlet,Larry scarlet,Larry scarlet. Source field: larry_scarlet.,text,
+Table_S4,Resolved_cells,larry_Flp,Larry flp,Larry flp. Source field: larry_Flp.,text,
+Table_S4,Resolved_cells,larry_Cre,Larry cre,Larry cre. Source field: larry_Cre.,text,
+Table_S4,Branch_clone_rows,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Branch_clone_rows,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Branch_clone_rows,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,Branch_clone_rows,branch,Lineage-compatibility branch,Stored overlapping lineage-compatibility mask. Masks are not mutually exclusive fates; supports cannot be added across branches.,text,
+Table_S4,Branch_clone_rows,arm,Condition,Condition. Source field: arm.,text,
+Table_S4,Branch_clone_rows,stratum,Sequencing sample,Sequencing sample. Source field: stratum.,text,
+Table_S4,Branch_clone_rows,clone,Clone ID,Resolved original barcoded lineage. All records of its WT and mutant sister-clones remain linked for uncertainty estimation.,text,
+Table_S4,Branch_clone_rows,n,Cells in clone/sample/condition,Cells in clone/sample/condition. Source field: n.,integer,"#,##0"
+Table_S4,Branch_clone_rows,psi,Mean pseudotime,Mean stored pseudotime at the stated aggregation level; not elapsed time or differentiation speed.,number,0.0000
+Table_S4,Branch_influences,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,Branch_influences,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,Branch_influences,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,Branch_influences,branch,Lineage-compatibility branch,Stored overlapping lineage-compatibility mask. Masks are not mutually exclusive fates; supports cannot be added across branches.,text,
+Table_S4,Branch_influences,clone,Clone ID,Resolved original barcoded lineage. All records of its WT and mutant sister-clones remain linked for uncertainty estimation.,text,
+Table_S4,Branch_influences,influence,Influence,Influence. Source field: influence.,number,0.0000
+Table_S4,MC3_matched_values,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S4,MC3_matched_values,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S4,MC3_matched_values,mutant,Mutant condition,Mutant condition. Source field: mutant.,text,
+Table_S4,MC3_matched_values,clone,Clone ID,Resolved original barcoded lineage. All records of its WT and mutant sister-clones remain linked for uncertainty estimation.,text,
+Table_S4,MC3_matched_values,dpsi,Pseudotime difference (mutant minus WT),"Weighted mutant-minus-WT difference in mean stored pseudotime. Positive denotes a more advanced transcriptomic position, not a measured maturation rate.",number,0.0000
+Table_S5,All_snapshot_support,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S5,All_snapshot_support,arm,Condition,Condition. Source field: arm.,text,
+Table_S5,All_snapshot_support,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S5,All_snapshot_support,cells,Observed cells,Observed cells. Source field: cells.,integer,"#,##0"
+Table_S5,All_snapshot_support,families,Observed clones,Observed clones. Source field: families.,integer,"#,##0"
+Table_S5,All_snapshot_support,representation,Display representation,Existing display choice for the corresponding atlas snapshot; missing recovery is not interpreted as extinction.,text,
+Table_S5,All_snapshot_support,density_peak,Normalized density peak,Peak of within-snapshot normalized spatial density; not absolute cell abundance or growth.,number,0.0000
+Table_S5,All_snapshot_support,density_integrated_mass,Integrated normalized density,Integral of the normalized density display when estimable; absent for snapshots without a density estimate.,number,0.0000
+Table_S5,WT_reference_profiles,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S5,WT_reference_profiles,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S5,WT_reference_profiles,psi,Mean pseudotime,Mean stored pseudotime at the stated aggregation level; not elapsed time or differentiation speed.,number,0.0000
+Table_S5,WT_reference_profiles,HSPC,HSPC fraction,HSPC fraction. Source field: HSPC.,number,0.0%
+Table_S5,WT_reference_profiles,GMP,GMP fraction,GMP fraction. Source field: GMP.,number,0.0%
+Table_S5,WT_reference_profiles,Mk,Megakaryocyte fraction,Megakaryocyte fraction. Source field: Mk.,number,0.0%
+Table_S5,WT_reference_profiles,Ery,Erythroid fraction,Erythroid fraction. Source field: Ery.,number,0.0%
+Table_S5,WT_reference_profiles,Basophil,Basophil fraction,Basophil fraction. Source field: Basophil.,number,0.0%
+Table_S5,WT_reference_profiles,Monocyte,Monocyte fraction,Monocyte fraction. Source field: Monocyte.,number,0.0%
+Table_S5,WT_reference_profiles,Neutrophil,Neutrophil fraction,Neutrophil fraction. Source field: Neutrophil.,number,0.0%
+Table_S5,WT_reference_profiles,cells,Observed cells,Observed cells. Source field: cells.,integer,"#,##0"
+Table_S5,WT_reference_profiles,families,Observed clones,Observed clones. Source field: families.,integer,"#,##0"
+Table_S5,WT_reference_profiles,observed_samples,Observed sequencing samples,Observed sequencing samples. Source field: observed_samples.,integer,"#,##0"
+Table_S5,WT_reference_profiles,top_three,Three largest cell-type fractions,Three largest cell-type fractions. Source field: top_three.,text,
+Table_S5,WT_sample_profiles,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S5,WT_sample_profiles,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S5,WT_sample_profiles,stratum,Sequencing sample,Sequencing sample. Source field: stratum.,text,
+Table_S5,WT_sample_profiles,psi,Mean pseudotime,Mean stored pseudotime at the stated aggregation level; not elapsed time or differentiation speed.,number,0.0000
+Table_S5,WT_sample_profiles,HSPC,HSPC fraction,HSPC fraction. Source field: HSPC.,number,0.0%
+Table_S5,WT_sample_profiles,GMP,GMP fraction,GMP fraction. Source field: GMP.,number,0.0%
+Table_S5,WT_sample_profiles,Mk,Megakaryocyte fraction,Megakaryocyte fraction. Source field: Mk.,number,0.0%
+Table_S5,WT_sample_profiles,Ery,Erythroid fraction,Erythroid fraction. Source field: Ery.,number,0.0%
+Table_S5,WT_sample_profiles,Basophil,Basophil fraction,Basophil fraction. Source field: Basophil.,number,0.0%
+Table_S5,WT_sample_profiles,Monocyte,Monocyte fraction,Monocyte fraction. Source field: Monocyte.,number,0.0%
+Table_S5,WT_sample_profiles,Neutrophil,Neutrophil fraction,Neutrophil fraction. Source field: Neutrophil.,number,0.0%
+Table_S5,Representative_profiles,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S5,Representative_profiles,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S5,Representative_profiles,arm,Condition,Condition. Source field: arm.,text,
+Table_S5,Representative_profiles,psi,Mean pseudotime,Mean stored pseudotime at the stated aggregation level; not elapsed time or differentiation speed.,number,0.0000
+Table_S5,Representative_profiles,HSPC,HSPC fraction,HSPC fraction. Source field: HSPC.,number,0.0%
+Table_S5,Representative_profiles,GMP,GMP fraction,GMP fraction. Source field: GMP.,number,0.0%
+Table_S5,Representative_profiles,Mk,Megakaryocyte fraction,Megakaryocyte fraction. Source field: Mk.,number,0.0%
+Table_S5,Representative_profiles,Ery,Erythroid fraction,Erythroid fraction. Source field: Ery.,number,0.0%
+Table_S5,Representative_profiles,Basophil,Basophil fraction,Basophil fraction. Source field: Basophil.,number,0.0%
+Table_S5,Representative_profiles,Monocyte,Monocyte fraction,Monocyte fraction. Source field: Monocyte.,number,0.0%
+Table_S5,Representative_profiles,Neutrophil,Neutrophil fraction,Neutrophil fraction. Source field: Neutrophil.,number,0.0%
+Table_S5,Representative_profiles,cells,Observed cells,Observed cells. Source field: cells.,integer,"#,##0"
+Table_S5,Representative_profiles,families,Observed clones,Observed clones. Source field: families.,integer,"#,##0"
+Table_S5,Representative_profiles,top_three,Three largest cell-type fractions,Three largest cell-type fractions. Source field: top_three.,text,
+Table_S5,Clone_coordinates,clone_id,Clone ID,Clone ID. Source field: clone_id.,text,
+Table_S5,Clone_coordinates,metaclone,Metaclone,Metaclone. Source field: metaclone.,integer,"#,##0"
+Table_S5,Clone_coordinates,UMAP1,Clone UMAP 1,Clone UMAP 1. Source field: UMAP1.,number,0.0000
+Table_S5,Clone_coordinates,UMAP2,Clone UMAP 2,Clone UMAP 2. Source field: UMAP2.,number,0.0000
+Table_S5,Clone_coordinates,feature_scope,Embedding input scope,Recorded WT temporal composition input used for the frozen clone-trajectory embedding; no embedding was refitted.,text,
+Table_S5,Full_cell_coordinates,cell_id,Cell ID,Cell ID. Source field: cell_id.,text,
+Table_S5,Full_cell_coordinates,cell_type,Original cell annotation,Unmodified source annotation retained solely for provenance; see pooled annotation for analysis.,text,
+Table_S5,Full_cell_coordinates,ct,Pooled cell annotation,HSC and MPP source annotations pooled as HSPC; other source annotations retained.,text,
+Table_S5,Full_cell_coordinates,x,Cell UMAP 1,Cell UMAP 1. Source field: x.,number,0.0000
+Table_S5,Full_cell_coordinates,y,Cell UMAP 2,Cell UMAP 2. Source field: y.,number,0.0000
+Table_S5,Resolved_cell_coordinates,cell_id,Cell ID,Cell ID. Source field: cell_id.,text,
+Table_S5,Resolved_cell_coordinates,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S5,Resolved_cell_coordinates,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S5,Resolved_cell_coordinates,arm,Condition,Condition. Source field: arm.,text,
+Table_S5,Resolved_cell_coordinates,rep,Rep,Rep. Source field: rep.,text,
+Table_S5,Resolved_cell_coordinates,sample,Sequencing sample,Sequencing sample. Source field: sample.,text,
+Table_S5,Resolved_cell_coordinates,ct_source,Original cell annotation,Unmodified source annotation retained solely for provenance; HSC and MPP are pooled as HSPCs in reported comparisons.,text,
+Table_S5,Resolved_cell_coordinates,ct,Pooled cell annotation,HSC and MPP source annotations pooled as HSPC; other source annotations retained.,text,
+Table_S5,Resolved_cell_coordinates,psi,Mean pseudotime,Mean stored pseudotime at the stated aggregation level; not elapsed time or differentiation speed.,number,0.0000
+Table_S5,Resolved_cell_coordinates,entropy,Entropy,Entropy. Source field: entropy.,number,0.0000
+Table_S5,Resolved_cell_coordinates,clone,Clone ID,Resolved original barcoded lineage. All records of its WT and mutant sister-clones remain linked for uncertainty estimation.,text,
+Table_S5,Resolved_cell_coordinates,clone_resolved,Clone resolved,Clone resolved. Source field: clone_resolved.,number,0.0000
+Table_S5,Resolved_cell_coordinates,gate,Gate,Gate. Source field: gate.,text,
+Table_S5,Resolved_cell_coordinates,stratum,Sequencing sample,Sequencing sample. Source field: stratum.,text,
+Table_S5,Resolved_cell_coordinates,mask_Mk,Mask mk,Mask mk. Source field: mask_Mk.,number,0.0000
+Table_S5,Resolved_cell_coordinates,p_Mk,P mk,P mk. Source field: p_Mk.,number,0.0000
+Table_S5,Resolved_cell_coordinates,mask_Neu,Mask neu,Mask neu. Source field: mask_Neu.,number,0.0000
+Table_S5,Resolved_cell_coordinates,p_Neu,P neu,P neu. Source field: p_Neu.,number,0.0000
+Table_S5,Resolved_cell_coordinates,mask_Mono,Mask mono,Mask mono. Source field: mask_Mono.,number,0.0000
+Table_S5,Resolved_cell_coordinates,p_Mono,P mono,P mono. Source field: p_Mono.,number,0.0000
+Table_S5,Resolved_cell_coordinates,mask_Ery,Mask ery,Mask ery. Source field: mask_Ery.,number,0.0000
+Table_S5,Resolved_cell_coordinates,p_Ery,P ery,P ery. Source field: p_Ery.,number,0.0000
+Table_S5,Resolved_cell_coordinates,mask_Baso,Mask baso,Mask baso. Source field: mask_Baso.,number,0.0000
+Table_S5,Resolved_cell_coordinates,p_Baso,P baso,P baso. Source field: p_Baso.,number,0.0000
+Table_S5,Resolved_cell_coordinates,larry_gfp,Larry gfp,Larry gfp. Source field: larry_gfp.,text,
+Table_S5,Resolved_cell_coordinates,larry_scarlet,Larry scarlet,Larry scarlet. Source field: larry_scarlet.,text,
+Table_S5,Resolved_cell_coordinates,larry_Flp,Larry flp,Larry flp. Source field: larry_Flp.,text,
+Table_S5,Resolved_cell_coordinates,larry_Cre,Larry cre,Larry cre. Source field: larry_Cre.,text,
+Table_S5,Resolved_cell_coordinates,x,Cell UMAP 1,Cell UMAP 1. Source field: x.,number,0.0000
+Table_S5,Resolved_cell_coordinates,y,Cell UMAP 2,Cell UMAP 2. Source field: y.,number,0.0000
+Table_S5,Atlas_source_manifest,source,Source,Source. Source field: source.,text,
+Table_S5,Atlas_source_manifest,bytes,Bytes,Bytes. Source field: bytes.,integer,"#,##0"
+Table_S5,Atlas_source_manifest,sha256,Sha256,Sha256. Source field: sha256.,text,
+Table_S5,Atlas_source_manifest,historical_sha256,Historical sha256,Historical sha256. Source field: historical_sha256.,text,
+Table_S5,Atlas_source_manifest,checksum_scope,Checksum scope,Checksum scope. Source field: checksum_scope.,text,
+Table_S5,Atlas_source_manifest,historical_bytes,Historical bytes,Historical bytes. Source field: historical_bytes.,integer,"#,##0"
+Table_S5,Atlas_style_manifest,source,Source,Source. Source field: source.,text,
+Table_S5,Atlas_style_manifest,bytes,Bytes,Bytes. Source field: bytes.,integer,"#,##0"
+Table_S5,Atlas_style_manifest,sha256,Sha256,Sha256. Source field: sha256.,text,
+Table_S5,Atlas_style_manifest,historical_sha256,Historical sha256,Historical sha256. Source field: historical_sha256.,text,
+Table_S5,Atlas_style_manifest,checksum_scope,Checksum scope,Checksum scope. Source field: checksum_scope.,text,
+Table_S5,Atlas_style_manifest,historical_bytes,Historical bytes,Historical bytes. Source field: historical_bytes.,integer,"#,##0"
+Table_S5,Grid_source_manifest,source,Source,Source. Source field: source.,text,
+Table_S5,Grid_source_manifest,bytes,Bytes,Bytes. Source field: bytes.,integer,"#,##0"
+Table_S5,Grid_source_manifest,sha256,Sha256,Sha256. Source field: sha256.,text,
+Table_S5,Grid_source_manifest,historical_sha256,Historical sha256,Historical sha256. Source field: historical_sha256.,text,
+Table_S5,Grid_source_manifest,checksum_scope,Checksum scope,Checksum scope. Source field: checksum_scope.,text,
+Table_S5,Grid_source_manifest,historical_bytes,Historical bytes,Historical bytes. Source field: historical_bytes.,integer,"#,##0"
+Table_S5,Grid_snapshot_manifest,stem,Stem,Stem. Source field: stem.,text,
+Table_S5,Grid_snapshot_manifest,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S5,Grid_snapshot_manifest,arm,Condition,Condition. Source field: arm.,text,
+Table_S5,Grid_snapshot_manifest,day,Sampling day,"Actual experimental sampling day (D7, D14 or D27).",text,
+Table_S5,Grid_snapshot_manifest,cells,Observed cells,Observed cells. Source field: cells.,integer,"#,##0"
+Table_S5,Grid_snapshot_manifest,families,Observed clones,Observed clones. Source field: families.,integer,"#,##0"
+Table_S5,Grid_snapshot_manifest,representation,Display representation,Existing display choice for the corresponding atlas snapshot; missing recovery is not interpreted as extinction.,text,
+Table_S5,Grid_snapshot_manifest,marker_ratio,Marker ratio,Marker ratio. Source field: marker_ratio.,number,0.0000
+Table_S5,Grid_snapshot_manifest,density_peak,Normalized density peak,Peak of within-snapshot normalized spatial density; not absolute cell abundance or growth.,number,0.0000
+Table_S5,Grid_style_manifest,source,Source,Source. Source field: source.,text,
+Table_S5,Grid_style_manifest,bytes,Bytes,Bytes. Source field: bytes.,integer,"#,##0"
+Table_S5,Grid_style_manifest,sha256,Sha256,Sha256. Source field: sha256.,text,
+Table_S5,Grid_style_manifest,historical_sha256,Historical sha256,Historical sha256. Source field: historical_sha256.,text,
+Table_S5,Grid_style_manifest,checksum_scope,Checksum scope,Checksum scope. Source field: checksum_scope.,text,
+Table_S5,Grid_style_manifest,historical_bytes,Historical bytes,Historical bytes. Source field: historical_bytes.,integer,"#,##0"
+Table_S5,Colour_panel_manifest,source_svg,Source svg,Source svg. Source field: source_svg.,text,
+Table_S5,Colour_panel_manifest,destination_svg,Destination svg,Destination svg. Source field: destination_svg.,text,
+Table_S5,Colour_panel_manifest,source_png,Source png,Source png. Source field: source_png.,text,
+Table_S5,Colour_panel_manifest,destination_png,Destination png,Destination png. Source field: destination_png.,text,
+Table_S5,Colour_panel_manifest,source_svg_sha256,Source svg sha256,Source svg sha256. Source field: source_svg_sha256.,text,
+Table_S5,Colour_panel_manifest,destination_svg_sha256,Destination svg sha256,Destination svg sha256. Source field: destination_svg_sha256.,text,
+Table_S5,Colour_panel_manifest,source_png_sha256,Source png sha256,Source png sha256. Source field: source_png_sha256.,text,
+Table_S5,Colour_panel_manifest,destination_png_sha256,Destination png sha256,Destination png sha256. Source field: destination_png_sha256.,text,
+Table_S5,Colour_panel_manifest,operation,Operation,Operation. Source field: operation.,text,
+Table_S5,Colour_panel_manifest,changed_labels,Changed labels,Changed labels. Source field: changed_labels.,integer,"#,##0"
+Table_S5,Colour_panel_manifest,png_width,Png width,Png width. Source field: png_width.,integer,"#,##0"
+Table_S5,Colour_panel_manifest,png_height,Png height,Png height. Source field: png_height.,integer,"#,##0"
+Table_S5,Colour_panel_manifest,text_and_values_unchanged,Text and values unchanged,Text and values unchanged. Source field: text_and_values_unchanged.,number,0.0000
+Table_S5,Colour_panel_manifest,all_nonfill_geometry_attributes_unchanged,All nonfill geometry attributes unchanged,All nonfill geometry attributes unchanged. Source field: all_nonfill_geometry_attributes_unchanged.,number,0.0000
+Table_S5,Colour_panel_manifest,source_unchanged,Source unchanged,Source unchanged. Source field: source_unchanged.,number,0.0000
+Table_S5,Colour_panel_manifest,exact_inverse_byte_check,Exact inverse byte check,Exact inverse byte check. Source field: exact_inverse_byte_check.,number,0.0000
+Table_S5,Colour_text_audit,source_svg,Source svg,Source svg. Source field: source_svg.,text,
+Table_S5,Colour_text_audit,destination_svg,Destination svg,Destination svg. Source field: destination_svg.,text,
+Table_S5,Colour_text_audit,label,Label,Label. Source field: label.,text,
+Table_S5,Colour_text_audit,mc,Metaclone,Dataset-specific fixed WT metaclone identifier; not comparable with Weinreb metaclone numbers.,integer,"#,##0"
+Table_S5,Colour_text_audit,prior_style,Prior style,Prior style. Source field: prior_style.,text,
+Table_S5,Colour_text_audit,new_style,New style,New style. Source field: new_style.,text,
+Table_S5,Colour_text_audit,new_fill,New fill,New fill. Source field: new_fill.,text,
+Table_S5,Colour_text_audit,original_opening,Original opening,Original opening. Source field: original_opening.,text,
+Table_S5,Colour_text_audit,updated_opening,Updated opening,Updated opening. Source field: updated_opening.,text,
+Table_S5,Grid_display_settings,key,Key,Original JSON key.,text,
+Table_S5,Grid_display_settings,value_json,Value json,Exact JSON-encoded value; parse to restore the original nested object or scalar.,text,
+Table_S5,Colour_integrity,key,Key,Original JSON key.,text,
+Table_S5,Colour_integrity,value_json,Value json,Exact JSON-encoded value; parse to restore the original nested object or scalar.,text,
+Table_S6,S6_Model_configuration,source_section,Configuration source,"Existing provenance JSON: fitted model, enrichment family, or resolved cohort.",text,
+Table_S6,S6_Model_configuration,parameter,Source parameter,Unmodified provenance parameter name for traceability; families in cohort metadata denote resolved clones.,text,
+Table_S6,S6_Model_configuration,numeric_value,Numeric value,Stored numeric configuration or audit value; blank for text/list/Boolean parameters.,number,General
+Table_S6,S6_Model_configuration,text_value,Text or logical value,"Stored text, Boolean, or JSON list; blank for numeric parameters.",text,
+Table_S6,S6_MC_support,metaclone,Metaclone,ChronoClone metaclone identifier; fixed grouping in the source analysis.,integer,0
+Table_S6,S6_MC_support,n_hspcs,Day-7 HSPCs,Number of resolved Day-7 HSPCs assigned to the metaclone.,integer,0
+Table_S6,S6_MC_support,n_clones,Resolved clones,"Number of resolved biological clones, called families in the source.",integer,0
+Table_S6,S6_Program_annotations,program,NMF program,Program identity from the fixed-rank ordinary NMF model; not cNMF.,text,
+Table_S6,S6_Program_annotations,label,Gene-grounded annotation,Postfit biological annotation supported by source genes and primary literature.,text,
+Table_S6,S6_Program_annotations,plot_label,Figure label,Short program annotation used for manuscript figures.,text,
+Table_S6,S6_Program_annotations,anchors,Anchor genes,Source-selected genes supporting the program annotation; not a differential-expression list.,text,
+Table_S6,S6_Program_annotations,additional_genes,Additional supporting genes,Additional source gene evidence for the annotation.,text,
+Table_S6,S6_Program_annotations,interpretation,Interpretation,Source gene-grounded interpretation of the fitted program.,text,
+Table_S6,S6_Program_annotations,boundary,Interpretive boundary,Limits on biological interpretation; no causal or prospective claim.,text,
+Table_S6,S6_Program_annotations,references,Reference keys,Semicolon-separated keys linking to the literature table.,text,
+Table_S6,S6_Representative_genes,program,NMF program,Program identity from the fixed-rank ordinary NMF model; not cNMF.,text,
+Table_S6,S6_Representative_genes,gene,Gene,Source mouse gene symbol.,text,
+Table_S6,S6_Representative_genes,display_order,Representative-gene order,Source order of the three representative genes per program.,integer,0
+Table_S6,S6_Representative_genes,loading,NMF loading,Stored nonnegative gene loading in the fitted program.,number,0.0000
+Table_S6,S6_Representative_genes,normalized_loading,Normalized gene loading,Gene loading divided by the sum of loadings in its program; not cellular expression fraction.,number,0.0000
+Table_S6,S6_Representative_genes,loading_rank,Loading rank,Descending source rank by loading within the program.,integer,0
+Table_S6,S6_Representative_genes,specificity,Gene specificity,"Normalized loading squared, divided by the sum of normalized loadings for that gene across programs; source specificity weighting, not a statistical test.",number,0.0000
+Table_S6,S6_Representative_genes,specificity_rank,Specificity rank,Descending source rank by gene specificity in the program.,integer,0
+Table_S6,S6_MC_usage_intervals,metaclone,Metaclone,ChronoClone metaclone identifier; fixed grouping in the source analysis.,integer,0
+Table_S6,S6_MC_usage_intervals,program,NMF program,Program identity from the fixed-rank ordinary NMF model; not cNMF.,text,
+Table_S6,S6_MC_usage_intervals,n_clones,Resolved clones,"Number of resolved biological clones, called families in the source.",integer,0
+Table_S6,S6_MC_usage_intervals,mean_clone_usage,Mean clone-relative usage,"Mean of per-clone average coefficient fractions; equal weight per clone, not expression percentage.",number,0.0000
+Table_S6,S6_MC_usage_intervals,ci_low,Conditional 95% CI lower,"Lower 2.5th percentile of 2,000 whole-clone resamples within the fixed metaclone; conditional on fitted spectra and observed experiment.",number,0.0000
+Table_S6,S6_MC_usage_intervals,ci_high,Conditional 95% CI upper,"Upper 97.5th percentile of 2,000 whole-clone resamples within the fixed metaclone; not biological-replicate uncertainty.",number,0.0000
+Table_S6,S6_MC_usage_intervals,max_leave_one_clone_change,Maximum omit-one-clone change,"Largest absolute change in mean relative usage after leaving out one clone; source sensitivity, not a p value.",number,0.0000
+Table_S6,S6_MC_usage_intervals,cell_weighted_mean,Cell-weighted usage sensitivity,Mean per-cell relative usage without equal-clone balancing; sensitivity only.,number,0.0000
+Table_S6,S6_MC_usage_intervals,label,Gene-grounded annotation,Postfit biological annotation supported by source genes and primary literature.,text,
+Table_S6,S6_MC3_MC7_usage,program,NMF program,Program identity from the fixed-rank ordinary NMF model; not cNMF.,text,
+Table_S6,S6_MC3_MC7_usage,MC3,MC3 mean relative usage,Equal-clone average relative program usage in MC3.,number,0.0000
+Table_S6,S6_MC3_MC7_usage,MC7,MC7 mean relative usage,Equal-clone average relative program usage in MC7.,number,0.0000
+Table_S6,S6_MC3_MC7_usage,MC3_minus_MC7,MC3 minus MC7 usage,Signed difference in equal-clone mean relative usage; no hypothesis-test p or q value is attached.,number,0.0000
+Table_S6,S6_MC3_MC7_usage,MC3_z,MC3 display z-score,"MC3 program usage centered and scaled using metaclones with at least 32 Day-7 cells (population SD); display value, not a statistical test.",number,0.0000
+Table_S6,S6_MC3_MC7_usage,MC7_z,MC7 display z-score,"MC7 program usage centered and scaled using metaclones with at least 32 Day-7 cells (population SD); display value, not a statistical test.",number,0.0000
+Table_S6,S6_MC3_MC7_usage,label,Gene-grounded annotation,Postfit biological annotation supported by source genes and primary literature.,text,
+Table_S6,S6_Clone_usage,metaclone,Metaclone,ChronoClone metaclone identifier; fixed grouping in the source analysis.,integer,0
+Table_S6,S6_Clone_usage,clone,Clone identifier,Resolved biological clone identifier; retained as text.,text,
+Table_S6,S6_Clone_usage,P1,P1 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Clone_usage,P2,P2 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Clone_usage,P3,P3 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Clone_usage,P4,P4 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Clone_usage,P5,P5 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Clone_usage,P6,P6 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Clone_usage,P7,P7 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Clone_usage,P8,P8 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Query_genes,query,Gene query type,Source top-loading or specificity-ranked gene query; each program/query contains 100 genes.,text,
+Table_S6,S6_Query_genes,program,NMF program,Program identity from the fixed-rank ordinary NMF model; not cNMF.,text,
+Table_S6,S6_Query_genes,rank,Query rank,One-based rank in the source query selection.,integer,0
+Table_S6,S6_Query_genes,gene,Gene,Source mouse gene symbol.,text,
+Table_S6,S6_Model_sensitivities,program,NMF program,Program identity from the fixed-rank ordinary NMF model; not cNMF.,text,
+Table_S6,S6_Model_sensitivities,refit_component,Matched fitted component,Component in the current RNA-only refit matched to the frozen program identity.,integer,0
+Table_S6,S6_Model_sensitivities,cosine_union,Identity cosine similarity,Cosine similarity across the union of fitted features for identity alignment.,number,0.0000
+Table_S6,S6_Model_sensitivities,passes_identity_threshold,Identity threshold passed,Whether cosine similarity passes the stored identity-alignment threshold.,number,0.0000
+Table_S6,S6_Model_sensitivities,profile_spearman,Normalization profile correlation,Spearman correlation of metaclone usage profiles with the RNA-normalization sensitivity.,number,0.0000
+Table_S6,S6_Model_sensitivities,largest_absolute_profile_change,Largest normalization profile change,Maximum absolute metaclone relative-usage change under the stored normalization sensitivity.,number,0.0000
+Table_S6,S6_Primary_literature,key,Reference key,Stable source reference identifier used by program annotations.,text,
+Table_S6,S6_Primary_literature,citation,Primary citation,Source citation text for primary literature supporting annotation context.,text,
+Table_S6,S6_Primary_literature,doi,DOI,Digital object identifier retained as source text.,text,
+Table_S6,S6_Primary_literature,url,Source URL,Direct source URL supplied in the annotation reference table.,text,
+Table_S6,S6_Primary_literature,support,Annotation support and boundary,Specific evidence supported by the reference and what is not established in these cells.,text,
+Table_S6,S6_All_gene_evidence,program,NMF program,Program identity from the fixed-rank ordinary NMF model; not cNMF.,text,
+Table_S6,S6_All_gene_evidence,gene,Gene,Source mouse gene symbol.,text,
+Table_S6,S6_All_gene_evidence,loading,NMF loading,Stored nonnegative gene loading in the fitted program.,number,0.0000
+Table_S6,S6_All_gene_evidence,normalized_loading,Normalized gene loading,Gene loading divided by the sum of loadings in its program; not cellular expression fraction.,number,0.0000
+Table_S6,S6_All_gene_evidence,loading_rank,Loading rank,Descending source rank by loading within the program.,integer,0
+Table_S6,S6_All_gene_evidence,specificity,Gene specificity,"Normalized loading squared, divided by the sum of normalized loadings for that gene across programs; source specificity weighting, not a statistical test.",number,0.0000
+Table_S6,S6_All_gene_evidence,specificity_rank,Specificity rank,Descending source rank by gene specificity in the program.,integer,0
+Table_S6,S6_Complete_enrichment,query,Gene query type,Source top-loading or specificity-ranked gene query; each program/query contains 100 genes.,text,
+Table_S6,S6_Complete_enrichment,program,NMF program,Program identity from the fixed-rank ordinary NMF model; not cNMF.,text,
+Table_S6,S6_Complete_enrichment,library,Gene-set library,Source collection supplying the enrichment term.,text,
+Table_S6,S6_Complete_enrichment,term,Gene-set term,Source gene-set term tested for overlap; retained even with zero or one overlap.,text,
+Table_S6,S6_Complete_enrichment,n_background,Background genes,Number of unique upper-case RNA HVG symbols in the fitted expression background.,integer,0
+Table_S6,S6_Complete_enrichment,n_query,Query genes,Number of genes in the tested program/query list.,integer,0
+Table_S6,S6_Complete_enrichment,n_term_in_background,Term genes in background,Number of term genes represented in the fitted background.,integer,0
+Table_S6,S6_Complete_enrichment,overlap,Overlapping genes,Count of query genes belonging to the tested term; zero/one rows retained.,integer,0
+Table_S6,S6_Complete_enrichment,fold_enrichment,Gene-set fold enrichment,Observed query overlap divided by background-expected overlap.,number,0.0000
+Table_S6,S6_Complete_enrichment,enrichment_p,Gene-set enrichment P,Unadjusted source gene-set-overlap p value; not a metaclone-usage p value.,number,0.0000E+00
+Table_S6,S6_Complete_enrichment,overlap_genes,Overlapping gene symbols,Source overlap gene symbols; blank when no overlap.,text,
+Table_S6,S6_Complete_enrichment,enrichment_q_global_BH,Gene-set enrichment BH q,"Gene-set-overlap q value corrected across all 30,624 tests (8 programs x 2 query types x 1,914 terms); not usage-difference significance.",number,0.0000E+00
+Table_S6,S6_Cell_usage_source,cell_id,Cell identifier,Day-7 cell barcode identifier; retained as text.,text,
+Table_S6,S6_Cell_usage_source,P1,P1 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Cell_usage_source,P2,P2 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Cell_usage_source,P3,P3 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Cell_usage_source,P4,P4 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Cell_usage_source,P5,P5 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Cell_usage_source,P6,P6 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Cell_usage_source,P7,P7 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Cell_usage_source,P8,P8 clone-relative usage,"Per-cell coefficient fraction averaged within this clone; fractions sum to one across eight ordinary NMF programs, not percent gene expression.",number,0.0000
+Table_S6,S6_Cell_usage_source,clone,Clone identifier,Resolved biological clone identifier; retained as text.,text,
+Table_S6,S6_Cell_usage_source,metaclone,Metaclone,ChronoClone metaclone identifier; fixed grouping in the source analysis.,integer,0

@@ -1,0 +1,200 @@
+[
+  {
+    "program":"P1",
+    "label":"HSC-associated regulation",
+    "plot_label":"HSC-associated regulation",
+    "anchors":[
+      "Hlf",
+      "Mecom",
+      "Procr"
+    ],
+    "additional_genes":[
+      "Ly6a",
+      "Prdm16",
+      "Rora",
+      "Sox4"
+    ],
+    "interpretation":"Hlf, Mecom, Procr and Ly6a support an HSC-associated regulatory\/marker mixture within the pooled HSPC compartment.",
+    "boundary":"Not a purified HSC identity, measured quiescence, self-renewal assay, or a new HSC\/MPP subdivision. Adgrl4 and Nrxn1 contribute strongly and the spectrum is mixed.",
+    "references":[
+      "Komorowska2017",
+      "Yokomizo2019"
+    ]
+  },
+  {
+    "program":"P2",
+    "label":"Biosynthesis \/ metabolism",
+    "plot_label":"Biosynthesis \/ metabolism",
+    "anchors":[
+      "Nop10",
+      "Fdps",
+      "Ndufa4"
+    ],
+    "additional_genes":[
+      "Fabp5",
+      "Dbi",
+      "Nme1",
+      "Cycs",
+      "Srm",
+      "Rpl11",
+      "Rps15a"
+    ],
+    "interpretation":"Ribosomal\/RNA-processing genes occur together with lipid\/isoprenoid and respiratory-metabolic machinery; this is a broad biosynthetic\/metabolic component.",
+    "boundary":"Not a lineage-specific program or evidence of greater translation, respiration, or metabolic flux. Ndufa4 is assigned to respiratory complex IV, not complex I.",
+    "references":[
+      "Khanna2006",
+      "Balsa2012"
+    ]
+  },
+  {
+    "program":"P3",
+    "label":"G2\/M mitosis",
+    "plot_label":"G2\/M mitosis",
+    "anchors":[
+      "Ube2c",
+      "Ccnb1",
+      "Cenpf"
+    ],
+    "additional_genes":[
+      "Nusap1",
+      "Cenpa",
+      "Tpx2",
+      "Birc5",
+      "Cdc20",
+      "Plk1",
+      "Aurka"
+    ],
+    "interpretation":"A coherent mitotic\/spindle\/chromosome-segregation component, consistent with the existing G2-M Checkpoint annotation.",
+    "boundary":"Program usage is not a measured division rate and does not identify lineage output or self-renewal.",
+    "references":[
+      "Passegue2005"
+    ]
+  },
+  {
+    "program":"P4",
+    "label":"Integrated stress response",
+    "plot_label":"Integrated stress response",
+    "anchors":[
+      "Atf4",
+      "Trib3",
+      "Asns"
+    ],
+    "additional_genes":[
+      "Atf5",
+      "Nupr1",
+      "Ddit3",
+      "Chac1",
+      "Slc7a11",
+      "Ppp1r15a",
+      "Herpud1"
+    ],
+    "interpretation":"ATF4-associated amino-acid, redox and proteostasis response genes provide a more specific description than the generic cellular-stimuli term.",
+    "boundary":"A transcriptional stress-associated mixture, not a direct assay of eIF2alpha phosphorylation, ATF4 protein activity, stress cause, injury, or inferior stem-cell function; ISR can support HSC persistence.",
+    "references":[
+      "vanGalen2018"
+    ]
+  },
+  {
+    "program":"P5",
+    "label":"CDK6 \/ immune-associated",
+    "plot_label":"CDK6 \/ immune-associated",
+    "anchors":[
+      "Cdk6",
+      "Cd48",
+      "Nkg7"
+    ],
+    "additional_genes":[
+      "Tespa1",
+      "Lat2",
+      "Fcer1g",
+      "Clec4e",
+      "Cpa3",
+      "Gzmb",
+      "Itga2b"
+    ],
+    "interpretation":"Cdk6 and Cd48 place the component in a progenitor-activation context, accompanied by immune-signaling\/granule genes spanning more than one mature lineage.",
+    "boundary":"Mixed program: not platelet identity, NK-cell identity, proven quiescence exit, or a specific commitment route. Cdk6 RNA does not establish CDK6 protein or kinase activity.",
+    "references":[
+      "Laurenti2015",
+      "Boles2011",
+      "Ng2020",
+      "Wang2014"
+    ]
+  },
+  {
+    "program":"P6",
+    "label":"DNA replication \/ repair",
+    "plot_label":"DNA replication \/ repair",
+    "anchors":[
+      "Pola1",
+      "Mcm4",
+      "Rad51b"
+    ],
+    "additional_genes":[
+      "Pcna",
+      "Tk1",
+      "Rrm2",
+      "Lig1",
+      "Rad51ap1",
+      "Hells",
+      "Gmnn",
+      "Tyms"
+    ],
+    "interpretation":"Replication licensing\/synthesis and homologous-recombination-associated genes distinguish this component from the predominantly mitotic P3 program; consistent with existing E2F Targets annotation.",
+    "boundary":"Not evidence of DNA damage, mutation burden, measured repair activity, or greater cell-division rate.",
+    "references":[
+      "Passegue2005"
+    ]
+  },
+  {
+    "program":"P7",
+    "label":"Glycolysis \/ hypoxia-associated",
+    "plot_label":"Glycolysis \/ hypoxia-associated",
+    "anchors":[
+      "Pgk1",
+      "Bnip3",
+      "Egln3"
+    ],
+    "additional_genes":[
+      "Eno1",
+      "Tpi1",
+      "Aldoa",
+      "Aldoc",
+      "Bhlhe40",
+      "Ankrd37",
+      "Csf3r",
+      "Prtn3"
+    ],
+    "interpretation":"A coherent glycolytic and hypoxia-response-associated core occurs with immediate-early and some myeloid-associated genes.",
+    "boundary":"Not measured oxygen tension, glycolytic flux, or a causal driver of faster differentiation. Glycolysis can also support HSC quiescence; the myeloid genes do not establish a pure granulocytic program.",
+    "references":[
+      "Takubo2013"
+    ]
+  },
+  {
+    "program":"P8",
+    "label":"HSPC regulation \/ adhesion",
+    "plot_label":"HSPC regulation \/ adhesion",
+    "anchors":[
+      "Pbx1",
+      "Zeb2",
+      "Tgfbr3"
+    ],
+    "additional_genes":[
+      "Med12l",
+      "Runx1",
+      "Mecom",
+      "Ncam2",
+      "Enah",
+      "Itga6",
+      "Slamf1",
+      "Palld"
+    ],
+    "interpretation":"Hematopoietic regulatory genes coexist with receptors, adhesion and cytoskeletal genes; this provides an HSPC-relevant description of a mixed component.",
+    "boundary":"Not neuronal fate, a pure HSC identity, proven TGF-beta pathway activity, measured adhesion, or self-renewal. MED12L is not MED12; Ncam2 alone does not establish a hematopoietic mechanism.",
+    "references":[
+      "Ficara2008",
+      "Goossens2011"
+    ]
+  }
+]

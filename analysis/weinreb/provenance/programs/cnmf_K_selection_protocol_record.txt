@@ -1,0 +1,8 @@
+cNMF K-selection protocol record
+selection_mode=protocol_amendment_fewer_than_3_eligible__stability_within_0.01_then_min_error
+eligible_K=11,13
+best_eligible_stability=0.99995211206
+fallback_stability_cutoff=0.98995211206
+selection_candidate_K=11,13
+selected_K=13
+No biological annotations, metaclone labels, lineage outputs, or pseudotime entered selection.

@@ -1,0 +1,41 @@
+lineage_bias,target_mc,reference_mc,target_clones,reference_clones,qualifying_shared_libraries_ge3_per_arm,n_qualifying_shared_libraries,support_gate
+Neutrophil,9,14,29,26,d2_1|d2_2|d2_3,3,True
+Neutrophil,9,16,29,20,LSK_d2_1,1,True
+Neutrophil,9,22,29,17,LSK_d2_1,1,True
+Neutrophil,9,1,29,17,LSK_d2_1,1,True
+Neutrophil,14,16,26,20,,0,False
+Neutrophil,14,22,26,17,,0,False
+Neutrophil,14,1,26,17,,0,False
+Neutrophil,16,22,20,17,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Neutrophil,16,1,20,17,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Neutrophil,22,1,17,17,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Monocyte,12,7,41,23,LSK_d2_1|LSK_d2_2|LSK_d2_3|d2_1|d2_2|d2_3,6,True
+Monocyte,12,8,41,38,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Monocyte,12,6,41,33,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Monocyte,7,8,23,38,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Monocyte,7,6,23,33,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Monocyte,8,6,38,33,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Erythroid / Mk,10,17,29,21,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Erythroid / Mk,10,23,29,23,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Erythroid / Mk,17,23,21,23,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Multi-lineage,0,2,35,20,,0,False
+Multi-lineage,0,5,35,25,LSK_d2_2|d2_1,2,True
+Multi-lineage,0,3,35,50,LSK_d2_2|d2_1|d2_2|d2_3,4,True
+Multi-lineage,0,18,35,38,LSK_d2_2|d2_2,2,True
+Multi-lineage,0,4,35,21,LSK_d2_2,1,True
+Multi-lineage,0,11,35,28,LSK_d2_2|d2_2,2,True
+Multi-lineage,2,5,20,25,LSK_d2_1|LSK_d2_3,2,True
+Multi-lineage,2,3,20,50,LSK_d2_1|LSK_d2_3,2,True
+Multi-lineage,2,18,20,38,LSK_d2_1|LSK_d2_3,2,True
+Multi-lineage,2,4,20,21,LSK_d2_1|LSK_d2_3,2,True
+Multi-lineage,2,11,20,28,LSK_d2_1|LSK_d2_3,2,True
+Multi-lineage,5,3,25,50,LSK_d2_1|LSK_d2_2|LSK_d2_3|d2_1,4,True
+Multi-lineage,5,18,25,38,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Multi-lineage,5,4,25,21,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Multi-lineage,5,11,25,28,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Multi-lineage,3,18,50,38,LSK_d2_1|LSK_d2_2|LSK_d2_3|d2_2,4,True
+Multi-lineage,3,4,50,21,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Multi-lineage,3,11,50,28,LSK_d2_1|LSK_d2_2|LSK_d2_3|d2_2,4,True
+Multi-lineage,18,4,38,21,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True
+Multi-lineage,18,11,38,28,LSK_d2_1|LSK_d2_2|LSK_d2_3|d2_2,4,True
+Multi-lineage,4,11,21,28,LSK_d2_1|LSK_d2_2|LSK_d2_3,3,True

@@ -1,0 +1,21 @@
+enriched_in,relative_to,n_programs_tier_fdr_lt_0_05
+Basophil,Multi-lineage,0
+Multi-lineage,Basophil,0
+Erythroid / Mk,Basophil,0
+Basophil,Erythroid / Mk,0
+Erythroid / Mk,Multi-lineage,1
+Multi-lineage,Erythroid / Mk,0
+Monocyte,Basophil,0
+Basophil,Monocyte,0
+Monocyte,Erythroid / Mk,8
+Erythroid / Mk,Monocyte,3
+Monocyte,Multi-lineage,11
+Multi-lineage,Monocyte,2
+Neutrophil,Basophil,2
+Basophil,Neutrophil,0
+Neutrophil,Erythroid / Mk,16
+Erythroid / Mk,Neutrophil,1
+Neutrophil,Monocyte,4
+Monocyte,Neutrophil,0
+Neutrophil,Multi-lineage,22
+Multi-lineage,Neutrophil,0

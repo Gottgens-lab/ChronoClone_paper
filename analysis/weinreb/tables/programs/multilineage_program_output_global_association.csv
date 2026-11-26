@@ -1,0 +1,5 @@
+estimand,day,spearman_distance_rho,exact_permutation_pvalue,n_label_permutations,n_programs_in_distance,n_output_types_in_distance,fdr_within_estimand
+clone_balanced_all_observed_cells,4,0.4402597402597402,0.15138888888888888,5040,50,10,0.2767857142857143
+clone_balanced_all_observed_cells,6,0.251948051948052,0.2767857142857143,5040,50,10,0.2767857142857143
+clone_balanced_mature_only,4,-0.3603256795900823,0.20833333333333334,5040,50,9,0.4166666666666667
+clone_balanced_mature_only,6,-0.03896103896103896,0.915079365079365,5040,50,9,0.915079365079365

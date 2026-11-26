@@ -1,0 +1,14 @@
+reference_program,n_requested,n_mapped_filtered_genes
+Module::AP1_early_response,17,11
+Module::HSC_stemness,10,8
+Module::myeloid_maturation,10,9
+Module::reported_ancestry_memory,5,5
+State_marker::HSC,3,2
+State_marker::MPP,3,3
+State_marker::Mk,3,2
+State_marker::GMP,3,3
+State_marker::Monocyte,3,3
+State_marker::Neutrophil,3,2
+State_marker::Basophil,3,3
+State_marker::Ery,3,1
+KEGG::Hematopoietic_cell_lineage,94,38

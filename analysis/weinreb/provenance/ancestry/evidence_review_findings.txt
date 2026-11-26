@@ -1,0 +1,18 @@
+INDEPENDENT EVIDENCE REVIEW: WEINREB ANCESTRY WORKED EXAMPLES
+Checks passed: 38/38.
+Main notebook: 22 sequentially executed code cells; 0 error outputs; 0 stderr streams; 12 individually constructed and visible figures.
+Original retained contrasts: 2950; largest effect/SE/p/q reconciliation error 2.24e-14.
+Independent SciPy BH reconciliation: 33 primary/sensitivity families; maximum q error 1.91e-14.
+Pace contrast reconstructed independently from original adjusted MC means: maximum error 1.55e-15.
+Same-clone pooled/resolved display audits: 4; each clone appears exactly twice with unchanged score.
+Manual image reviews tied to current hashes: 12/12.
+Preserved conservative uncaptured cNMF candidates: 0.
+Observed selected examples:
+  mono_1: Inflammatory Response, effect +0.5844 SD, q=0.00229104; source-fraction effect +0.5918; prog2-only supported=True; nonmitochondrial poscounts effect +1.5094 in primary units, native q=1.81502e-05; supported same-direction library removals 7/7.
+  mono_2: Myc Targets V2, effect +0.5512 SD, q=0.00108255; source-fraction effect +0.5316; prog2-only supported=True; nonmitochondrial poscounts effect +1.2739 in primary units, native q=3.20862e-05; supported same-direction library removals 7/7.
+  multi_divergence: Interferon Alpha Response, effect -0.8185 SD, q=0.0314543; source-fraction effect +0.0849; prog2-only supported=False; nonmitochondrial poscounts effect -0.5693 in primary units, native q=0.11408; supported same-direction library removals 7/7.
+  multi_convergence: Interferon Alpha Response, effect +0.9287 SD, q=0.00404769; source-fraction effect +0.0210; prog2-only supported=False; nonmitochondrial poscounts effect +0.9848 in primary units, native q=0.00206661; supported same-direction library removals 7/7.
+Normalization support: 9 universally positive genes in the primary ratio normalization; nonmitochondrial positive-count sensitivity uses 9053 eligible genes with 228–6007 contributing genes per clone.
+Interpretation: reproducible retrospective clone-level associations conditional on the in-sample partition and retained normalization. Library removal is a sensitivity, not independent biological replication.
+Multilineage source adjustment and unsupported source restriction constrain claims of metaclone-specific mechanisms. MYC Targets V2 is a proliferation-associated curated set.
+No new scientific model was fitted by this review; no source data, manuscript, or prior analysis was modified.

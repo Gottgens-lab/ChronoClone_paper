@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: If you use these materials, please cite the ChronoClone paper and the original Weinreb, Singh and CLADES studies.
+title: "ChronoClone links temporal clonal behavior to lineage output and mutation responses: analyses and figures"
+type: software
+version: 2026-11-26
+date-released: '2026-11-26'
+license: MIT
+authors:
+  - family-names: Harimoto
+    given-names: Hiromitsu
+  - family-names: Zheng
+    given-names: Weizhong
+  - family-names: Göttgens
+    given-names: Berthold
+  - family-names: Barile
+    given-names: Melania
+  - family-names: Wilson
+    given-names: Nicola K.
+repository-code: https://github.com/hiromitsuhari/ChronoClone_paper
+url: https://github.com/hiromitsuhari/ChronoClone_paper
+keywords:
+  - lineage tracing
+  - clonal dynamics
+  - hematopoiesis
+  - single-cell RNA sequencing
+preferred-citation:
+  type: article
+  title: "ChronoClone links temporal clonal behavior to lineage output and mutation responses"
+  authors:
+    - family-names: Harimoto
+      given-names: Hiromitsu
+    - family-names: Zheng
+      given-names: Weizhong
+    - family-names: Göttgens
+      given-names: Berthold
+    - family-names: Barile
+      given-names: Melania
+    - family-names: Wilson
+      given-names: Nicola K.
+  journal: bioRxiv
+  year: 2026
+  month: 11
+  doi: 10.64898/2026.11.24.768931
+  url: https://www.biorxiv.org/content/10.64898/2026.11.24.768931v1

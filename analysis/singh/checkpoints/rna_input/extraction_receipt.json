@@ -1,0 +1,28 @@
+{
+  "source_sha256": "c96a765b7697e7927b3e957e2a2240fcc49fdace1403e239240a994e4cb520b6",
+  "source_path": "/path/to/ChronoClone/reference_workspace/data/adata_valid_palantir_20260626.h5ad",
+  "normalization": "RNA-only total10000 thenlog1p before feature exclusions",
+  "rows": 2713,
+  "rna_features": 20994,
+  "selected_features": 2000,
+  "selected_gene_order_exact": true,
+  "cell_order_exact": true,
+  "reconstruction_error": 798.0099695372952,
+  "original_retained_reconstruction_error": 798.0099695372952,
+  "model_refitted": false,
+  "environment": {
+    "name": "chronoclone",
+    "prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "Python": "3.11.15",
+    "versions": {
+      "anndata": "0.12.18",
+      "scanpy": "1.11.5",
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "scikit-learn": "1.9.0"
+    },
+    "source": "/path/to/ChronoClone/reference_workspace/data/adata_valid_palantir_20260626.h5ad"
+  }
+}

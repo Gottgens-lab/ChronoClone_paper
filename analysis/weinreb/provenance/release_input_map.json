@@ -1,0 +1,9 @@
+[
+  {
+    "source_workspace_path": "reference_workspace/data/klein_metaclone_palantir_trajectories.h5ad",
+    "path": "data/external/weinreb/klein_metaclone_palantir_trajectories.h5ad",
+    "sha256": "4cb08c12dc70f5c3789a75a09a6399db06b3f6efe18147b9f2cca0908ba93911",
+    "bytes": 372354962,
+    "role": "Corrected 9714-cell trajectory source; full expression required for Day2 Hallmark/cNMF recomputation."
+  }
+]

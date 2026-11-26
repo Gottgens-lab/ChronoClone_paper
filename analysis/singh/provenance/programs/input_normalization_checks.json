@@ -1,0 +1,18 @@
+{
+  "source_matrix": "AnnData.X, log1p expression normalized on all original features",
+  "primary_transform": "expm1 on complete RNA block; RNA sum scaled to 10000; log1p before gene exclusion and HVG selection",
+  "first_reporter_feature_index": 20994,
+  "rna_expm1_total_min": 9282.373511357271,
+  "rna_expm1_total_median": 9920.130541610299,
+  "rna_expm1_total_max": 9982.860931763544,
+  "all_rna_expm1_totals_close_10000_rtol_1e5": false,
+  "all_feature_expm1_total_min": 9999.999999999995,
+  "all_feature_expm1_total_median": 10000.0,
+  "all_feature_expm1_total_max": 10000.000000000005,
+  "all_full_expm1_totals_close_10000_rtol_1e5": true,
+  "rna_fraction_min": 0.9282373511357269,
+  "rna_fraction_median": 0.9920130541610299,
+  "rna_fraction_max": 0.9982860931763547,
+  "nonzero_X_min": 0.4388111499769605,
+  "nonzero_X_max": 6.003756159144483
+}

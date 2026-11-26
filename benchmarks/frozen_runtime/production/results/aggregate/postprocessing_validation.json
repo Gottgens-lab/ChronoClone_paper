@@ -1,0 +1,37 @@
+{
+  "aggregate_chunks": 600,
+  "aggregate_rows": 1300500,
+  "eligibility_rows": 2601,
+  "figure_sha256": {
+    "chronoclone_isolated_axes_postfit_coverage.svg": "fc8bbd3f1ef1899027511faa969d2c9f710f13ceae9e7193ae8f5ec718c8e272",
+    "chronoclone_mean_ari_heatmap.svg": "1d374010596fa4fe12dffe04d828b16264633df29fe164df47aa80e9993f1709",
+    "clades_preprocessing_mean_ari_heatmap.svg": "87564c8ad202a4098dd1055362c3f316471313ef633dd276263e39bf72fb0242",
+    "cyclone_abundance_only_mean_ari_heatmap.svg": "d31afa5b97d37b4859811423d70a0bc29472b22df99dd9ec1e04099ad305a62d",
+    "gaussian_only_mean_ari_by_method.svg": "290b57885c2d0c3d1c5b6251b7bab471c37455e05e6ab0e43a1a9394252bc86e",
+    "gaussian_only_method_success_fraction.svg": "be705b2b30de47bcb68103d8a3a8333f1199a166a095705bf1753fe0b917ff8c",
+    "gaussian_only_recovered_k.svg": "545448cdc662931d0d16fdec213e58d123f55a1280447b42d7cd62fcaca1fac7",
+    "gaussian_only_same_retained_ari_sensitivity.svg": "8979fefbab726f02ff97ad96d0e78715c6925de9f65e76ead4131eb2e63b2987",
+    "isolated_axes_eligible_clone_fraction.svg": "d43d1c296da816f72fdb6c6b216382688129ca7c30d8ba08e40d430d0806cc9a",
+    "kmeans_mean_ari_heatmap.svg": "9d7a875292e01137c940c9108ec14027939d732f8119e83a740a6344d9f53368",
+    "uniform_only_mean_ari_by_method.svg": "cd21f476dd91d84d681c7a3c4c489257876ea6d63642359b5229a7990713879c",
+    "uniform_only_method_success_fraction.svg": "ea09d14590cb3c532edd7f6733704d7cdd796d146201d54eb276cd3384db1d43",
+    "uniform_only_recovered_k.svg": "2ce44f6f41f0761d842bad175dc1bd0c3ec5da9177f00a91a90d383ba62bc510",
+    "uniform_only_same_retained_ari_sensitivity.svg": "fa3caa2eae51a214809784b05d4ea6e77114e757f748f40b06171c50e75b81a4",
+    "ward_mean_ari_heatmap.svg": "84b6d96c466827e5cbe74892dd7893b1a8fb306149ed4b57d317bff0fce9e80f"
+  },
+  "notebook_code_cells": 20,
+  "notebook_plot_cells": 15,
+  "notebook_sha256": "f966da9b4369793a4bf6b41dd2252484e2a4fbe1173fc5094f2da0db9e3302e7",
+  "postprocessor_manifest_sha256": "2b0a01383d99e1361a02e1167a2654064ee3ebeeb089c963b2bb4f09a1b5a5a2",
+  "postprocessor_sha256": {
+    "scripts/aggregate_results.py": "772ed693a0a899ea5304c91663d2f848353775c43c76c10ffac12889120ee63a",
+    "scripts/build_notebooks.py": "312a6171673bbc8b239d5199eb976b1a77d3873222ba583522f413b43ac6d79a",
+    "scripts/execute_notebook.py": "9de9c330fc425b0f33030d686f756154818112b7ad17cb18a047daaf749018da",
+    "scripts/validate_postprocessing.py": "c7b04f9828d799429432ccd328f4153de5914e10d2812093dfd7e1cc13940c84"
+  },
+  "schema": "chronoclone_day0_locked_postprocessing_validation_v1",
+  "selective_rows": 2601,
+  "status": "pass",
+  "summary_rows": 13005,
+  "validated_at_utc": "2026-09-01T14:01:27.018849+00:00"
+}

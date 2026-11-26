@@ -1,0 +1,41 @@
+contrast_id,contrast_label,lineage_bias,target_mc,reference_mc,support_gate,n_genes,n_contrast_fdr_lt_0_05,n_tier_fdr_lt_0_05,min_tier_fdr
+MC0_vs_MC11,MC0 vs MC11 within Multi-lineage,Multi-lineage,0.0,11.0,True,9777,20,5,0.00020472117539422615
+MC0_vs_MC18,MC0 vs MC18 within Multi-lineage,Multi-lineage,0.0,18.0,True,9777,1,1,0.0021801453530656497
+MC0_vs_MC2,MC0 vs MC2 within Multi-lineage,Multi-lineage,0.0,2.0,False,9777,0,0,0.12186204602830178
+MC0_vs_MC3,MC0 vs MC3 within Multi-lineage,Multi-lineage,0.0,3.0,True,9777,26,9,0.000620120416378761
+MC0_vs_MC4,MC0 vs MC4 within Multi-lineage,Multi-lineage,0.0,4.0,True,9777,0,0,0.12179079456273789
+MC0_vs_MC5,MC0 vs MC5 within Multi-lineage,Multi-lineage,0.0,5.0,True,9777,0,0,0.5250688442632075
+MC10_vs_MC17,MC10 vs MC17 within Erythroid / Mk,Erythroid / Mk,10.0,17.0,True,9777,1,1,0.0010898840210194051
+MC10_vs_MC23,MC10 vs MC23 within Erythroid / Mk,Erythroid / Mk,10.0,23.0,True,9777,1,1,0.03695831415144185
+MC12_vs_MC6,MC12 vs MC6 within Monocyte,Monocyte,12.0,6.0,True,9777,1,1,0.04858028162741121
+MC12_vs_MC7,MC12 vs MC7 within Monocyte,Monocyte,12.0,7.0,True,9777,0,0,0.9999989317937785
+MC12_vs_MC8,MC12 vs MC8 within Monocyte,Monocyte,12.0,8.0,True,9777,2,0,0.07173737748135997
+MC14_vs_MC1,MC14 vs MC1 within Neutrophil,Neutrophil,14.0,1.0,False,9777,0,0,0.11040947524394029
+MC14_vs_MC16,MC14 vs MC16 within Neutrophil,Neutrophil,14.0,16.0,False,9777,0,0,0.9999989317937785
+MC14_vs_MC22,MC14 vs MC22 within Neutrophil,Neutrophil,14.0,22.0,False,9777,0,0,0.1874505818937715
+MC16_vs_MC1,MC16 vs MC1 within Neutrophil,Neutrophil,16.0,1.0,True,9777,0,0,0.8284466634981424
+MC16_vs_MC22,MC16 vs MC22 within Neutrophil,Neutrophil,16.0,22.0,True,9777,0,0,0.888050594608287
+MC17_vs_MC23,MC17 vs MC23 within Erythroid / Mk,Erythroid / Mk,17.0,23.0,True,9777,0,0,0.15304044023474145
+MC18_vs_MC11,MC18 vs MC11 within Multi-lineage,Multi-lineage,18.0,11.0,True,9777,0,0,0.6489593994033945
+MC18_vs_MC4,MC18 vs MC4 within Multi-lineage,Multi-lineage,18.0,4.0,True,9777,0,0,0.9999989317937785
+MC22_vs_MC1,MC22 vs MC1 within Neutrophil,Neutrophil,22.0,1.0,True,9777,0,0,0.7293156604453207
+MC2_vs_MC11,MC2 vs MC11 within Multi-lineage,Multi-lineage,2.0,11.0,True,9777,0,0,0.22680324082692324
+MC2_vs_MC18,MC2 vs MC18 within Multi-lineage,Multi-lineage,2.0,18.0,True,9777,0,0,0.9999989317937785
+MC2_vs_MC3,MC2 vs MC3 within Multi-lineage,Multi-lineage,2.0,3.0,True,9777,0,0,0.9999989317937785
+MC2_vs_MC4,MC2 vs MC4 within Multi-lineage,Multi-lineage,2.0,4.0,True,9777,0,0,0.9999989317937785
+MC2_vs_MC5,MC2 vs MC5 within Multi-lineage,Multi-lineage,2.0,5.0,True,9777,0,0,0.6489593994033945
+MC3_vs_MC11,MC3 vs MC11 within Multi-lineage,Multi-lineage,3.0,11.0,True,9777,0,0,0.9999989317937785
+MC3_vs_MC18,MC3 vs MC18 within Multi-lineage,Multi-lineage,3.0,18.0,True,9777,0,0,0.5208800107409737
+MC3_vs_MC4,MC3 vs MC4 within Multi-lineage,Multi-lineage,3.0,4.0,True,9777,0,0,0.31049324671744594
+MC4_vs_MC11,MC4 vs MC11 within Multi-lineage,Multi-lineage,4.0,11.0,True,9777,1,1,0.0378534018115388
+MC5_vs_MC11,MC5 vs MC11 within Multi-lineage,Multi-lineage,5.0,11.0,True,9777,1,1,0.031017787195529042
+MC5_vs_MC18,MC5 vs MC18 within Multi-lineage,Multi-lineage,5.0,18.0,True,9777,0,0,0.9999989317937785
+MC5_vs_MC3,MC5 vs MC3 within Multi-lineage,Multi-lineage,5.0,3.0,True,9777,0,0,0.1750657281921484
+MC5_vs_MC4,MC5 vs MC4 within Multi-lineage,Multi-lineage,5.0,4.0,True,9777,0,0,0.9999989317937785
+MC7_vs_MC6,MC7 vs MC6 within Monocyte,Monocyte,7.0,6.0,True,9777,7,3,0.024483806814436297
+MC7_vs_MC8,MC7 vs MC8 within Monocyte,Monocyte,7.0,8.0,True,9777,10,1,0.04895413499586213
+MC8_vs_MC6,MC8 vs MC6 within Monocyte,Monocyte,8.0,6.0,True,9777,0,0,0.7938144974691748
+MC9_vs_MC1,MC9 vs MC1 within Neutrophil,Neutrophil,9.0,1.0,True,9777,11,3,0.006571779277964149
+MC9_vs_MC14,MC9 vs MC14 within Neutrophil,Neutrophil,9.0,14.0,True,9777,0,0,0.3038274350328695
+MC9_vs_MC16,MC9 vs MC16 within Neutrophil,Neutrophil,9.0,16.0,True,9777,0,0,0.09955173340421264
+MC9_vs_MC22,MC9 vs MC22 within Neutrophil,Neutrophil,9.0,22.0,True,9777,3,1,0.048140184437779926

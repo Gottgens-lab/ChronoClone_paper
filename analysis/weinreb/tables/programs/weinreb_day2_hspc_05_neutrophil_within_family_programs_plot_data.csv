@@ -1,0 +1,61 @@
+program,metaclone,adjusted_score_sd,lineage_bias
+Adipogenesis,9,0.8248438155055876,Neutrophil
+Glycolysis,9,0.8935824770446845,Neutrophil
+Interferon Alpha Response,9,-0.33493421258694406,Neutrophil
+Apical Surface,9,0.5958876887048842,Neutrophil
+Oxidative Phosphorylation,9,0.7539557077272206,Neutrophil
+Fatty Acid Metabolism,9,0.7020682372365897,Neutrophil
+mTORC1 Signaling,9,0.702286902194299,Neutrophil
+Myc Targets V2,9,0.7276413764856582,Neutrophil
+Myc Targets V1,9,0.5557726384855091,Neutrophil
+Interferon Gamma Response,9,-0.1775765730589369,Neutrophil
+PI3K/AKT/mTOR  Signaling,9,0.6334402831854022,Neutrophil
+heme Metabolism,9,0.45173922100275177,Neutrophil
+Adipogenesis,14,0.6906987210276426,Neutrophil
+Glycolysis,14,0.5609748103858062,Neutrophil
+Interferon Alpha Response,14,-0.12251858636875101,Neutrophil
+Apical Surface,14,0.32377012066656014,Neutrophil
+Oxidative Phosphorylation,14,0.5568145287845856,Neutrophil
+Fatty Acid Metabolism,14,0.689157592272415,Neutrophil
+mTORC1 Signaling,14,0.5707001062364023,Neutrophil
+Myc Targets V2,14,0.3115558793816891,Neutrophil
+Myc Targets V1,14,0.33110712861599456,Neutrophil
+Interferon Gamma Response,14,-0.08654871307741899,Neutrophil
+PI3K/AKT/mTOR  Signaling,14,0.4051144957831657,Neutrophil
+heme Metabolism,14,0.5973054930577302,Neutrophil
+Adipogenesis,16,0.18548983521739937,Neutrophil
+Glycolysis,16,0.30571699585132683,Neutrophil
+Interferon Alpha Response,16,-0.3799266137539509,Neutrophil
+Apical Surface,16,0.05600925929780598,Neutrophil
+Oxidative Phosphorylation,16,0.15356531588687583,Neutrophil
+Fatty Acid Metabolism,16,0.36851870799775566,Neutrophil
+mTORC1 Signaling,16,0.3037673056263488,Neutrophil
+Myc Targets V2,16,0.03455131904252762,Neutrophil
+Myc Targets V1,16,0.05873300023192202,Neutrophil
+Interferon Gamma Response,16,-0.12612004573381097,Neutrophil
+PI3K/AKT/mTOR  Signaling,16,0.2727779442879497,Neutrophil
+heme Metabolism,16,0.2132478354521806,Neutrophil
+Adipogenesis,22,-0.20505319269664402,Neutrophil
+Glycolysis,22,-0.051962649337590205,Neutrophil
+Interferon Alpha Response,22,-0.30305205975706884,Neutrophil
+Apical Surface,22,-0.07467265929807232,Neutrophil
+Oxidative Phosphorylation,22,-0.26934644520675655,Neutrophil
+Fatty Acid Metabolism,22,-0.25729488621453067,Neutrophil
+mTORC1 Signaling,22,-0.09919774395756875,Neutrophil
+Myc Targets V2,22,0.0803401928090608,Neutrophil
+Myc Targets V1,22,-0.08177657731985577,Neutrophil
+Interferon Gamma Response,22,-0.43050876371962243,Neutrophil
+PI3K/AKT/mTOR  Signaling,22,-0.2456687298601531,Neutrophil
+heme Metabolism,22,-0.2797055291724788,Neutrophil
+Adipogenesis,1,-0.3634896177318626,Neutrophil
+Glycolysis,1,-0.1677711239062991,Neutrophil
+Interferon Alpha Response,1,0.680892520140955,Neutrophil
+Apical Surface,1,-0.45503155083339963,Neutrophil
+Oxidative Phosphorylation,1,-0.28254122870776277,Neutrophil
+Fatty Acid Metabolism,1,-0.31729452684465065,Neutrophil
+mTORC1 Signaling,1,-0.2916205612289763,Neutrophil
+Myc Targets V2,1,-0.23679174630910127,Neutrophil
+Myc Targets V1,1,-0.3398213601371308,Neutrophil
+Interferon Gamma Response,1,0.4567751766952246,Neutrophil
+PI3K/AKT/mTOR  Signaling,1,-0.014042040364428354,Neutrophil
+heme Metabolism,1,0.07552722511025844,Neutrophil

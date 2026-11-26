@@ -1,0 +1,5 @@
+axis_id,axis_label,output_type,day,focal_mcs,comparator_mcs,threshold,rule,focal_min_fraction,focal_max_fraction,next_nonfocal_fraction
+baso_rich,Baso-rich,Baso,6,2|4,0|5|3|18|11,0.1,Day-6 Baso fraction >= 10%,0.13857142857142857,0.3371212121212121,0.03267329597116831
+neu_rich,Neu-rich,Neutrophil,6,0|5,2|3|18|4|11,0.6,Day-6 Neutrophil fraction >= 60%,0.6893462208289795,0.735350727127382,0.3664730230830146
+mono_rich,Mono-rich,Monocyte,6,0|3,2|5|18|4|11,0.2,Day-6 Monocyte fraction >= 20%,0.23561066928807464,0.29072732751877317,0.11074790038984413
+persistent_undifferentiated,Persistent-undifferentiated,Undifferentiated,6,11|18,0|2|5|3|4,0.75,Day-6 Undifferentiated fraction >= 75%,0.7849247049323363,0.9677594954065543,0.4314880952380952

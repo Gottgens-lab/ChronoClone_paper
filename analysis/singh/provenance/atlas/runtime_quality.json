@@ -1,0 +1,20 @@
+{
+  "maps": 119,
+  "executed_code_cells": 124,
+  "notebook_error_outputs": 0,
+  "notebook_stderr_outputs": 0,
+  "all_panel_hashes_verified": true,
+  "total_clipped_foreground_markers": 0,
+  "source_notebook_sha256": "3836af241b3fe1eb366d93501547b7d4eb28a26bd0e84aa3daa1dbb03f5ded1c",
+  "environment": {
+    "name": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "python": "3.11.15",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "nbformat": "5.10.4",
+    "execution_command": "/path/to/ChronoClone/.runtime/chronoclone/bin/python /path/to/ChronoClone/analysis_workspace/singh/singh_weinreb_style_umaps_20260911/execute_notebook.py /path/to/ChronoClone/analysis_workspace/singh/singh_weinreb_style_umaps_20260911/0002_style_validation_and_browser.ipynb"
+  },
+  "historical_source_notebook_sha256": "38a27bd98d9bb22f1482b75ab74af486b6a028a9c3fbe7b69a1e0a1dca480f14"
+}

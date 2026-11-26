@@ -1,0 +1,17 @@
+{
+  "full_cells": 96662,
+  "resolved_cells": 14896,
+  "resolved_families": 1516,
+  "metaclones": 17,
+  "cell_geometry_exact": true,
+  "clone_registry_exact": true,
+  "no_embedding_refit": true,
+  "full_bounds": [
+    -5.968404293060303,
+    7.454280853271484,
+    -9.03365707397461,
+    5.982400894165039
+  ],
+  "annotation_palette": "current manuscript CT_COLORS; pooled HSPC",
+  "unresolved_cells_not_overlaid": true
+}

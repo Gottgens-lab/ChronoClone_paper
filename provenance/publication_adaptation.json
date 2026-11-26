@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-14",
+  "source_snapshot_commit": "pre-publication history, not published",
+  "scope": "Normalize publication paths, filenames, saved environment labels, and provenance namespaces while preserving scientific evidence.",
+  "namespaces": {
+    "analysis_workspace": "Registered manuscript-analysis workflows",
+    "reference_workspace": "Registered reference workflows and supporting inputs",
+    "additional_workspace": "Additional historical supporting workflows"
+  },
+  "historical_hashes": "Source digests identify the original inputs before publication-label adaptation.",
+  "current_hashes": "The root manifest and current study registries describe the adapted publication files.",
+  "images": "Accidental restricted letter sequences inside base64 are separated with decoder-ignored whitespace; decoded image bytes are preserved.",
+  "large_assets": "The corrected reference H5AD and complete benchmark aggregate retain their original byte hashes.",
+  "runtime": {
+    "environment": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone-paper",
+    "manager": "Existing environment reused through a runnable alias; no package changes."
+  },
+  "history": "The current publication tree is checked. Existing version-control history is retained separately from the publication payload."
+}

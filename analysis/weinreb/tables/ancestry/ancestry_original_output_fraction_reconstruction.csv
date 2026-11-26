@@ -1,0 +1,21 @@
+cohort,metaclone,time_scope,state,n_state_cells,n_differentiated_cells,n_all_cells,n_observed_clones,n_differentiated_informative_clones,pooled_differentiated_fraction,differentiated_fraction_of_all_cells,denominator,top_output,top_frac,matches_original_rounded_fraction
+all_assigned,0,all_sampling_days,Neu,679,1020,1224,35,35,0.6656862745098039,0.8333333333333334,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.666,True
+all_assigned,1,all_sampling_days,Neu,37,39,107,17,14,0.9487179487179487,0.3644859813084112,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.949,True
+all_assigned,2,all_sampling_days,Baso,26,57,149,20,14,0.45614035087719296,0.3825503355704698,pooled mapped differentiated cells; fine-state undiff compartment excluded,Baso,0.456,True
+all_assigned,3,all_sampling_days,Neu,306,595,999,50,45,0.5142857142857142,0.5955955955955956,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.514,True
+all_assigned,4,all_sampling_days,Neu,18,70,166,21,15,0.2571428571428571,0.42168674698795183,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.257,True
+all_assigned,5,all_sampling_days,Neu,142,199,362,25,24,0.7135678391959799,0.5497237569060773,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.714,True
+all_assigned,6,all_sampling_days,Mono,360,383,575,33,33,0.9399477806788512,0.6660869565217391,pooled mapped differentiated cells; fine-state undiff compartment excluded,Mono,0.94,True
+all_assigned,7,all_sampling_days,Mono,81,86,127,23,23,0.9418604651162791,0.6771653543307087,pooled mapped differentiated cells; fine-state undiff compartment excluded,Mono,0.942,True
+all_assigned,8,all_sampling_days,Mono,281,312,533,38,33,0.9006410256410257,0.5853658536585366,pooled mapped differentiated cells; fine-state undiff compartment excluded,Mono,0.901,True
+all_assigned,9,all_sampling_days,Neu,114,120,173,29,29,0.95,0.6936416184971098,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.95,True
+all_assigned,10,all_sampling_days,Ery/Mk,159,200,269,29,29,0.795,0.7434944237918215,pooled mapped differentiated cells; fine-state undiff compartment excluded,Ery/Mk,0.795,True
+all_assigned,11,all_sampling_days,Ery/Mk,8,21,427,28,8,0.38095238095238093,0.04918032786885246,pooled mapped differentiated cells; fine-state undiff compartment excluded,Ery/Mk,0.381,True
+all_assigned,12,all_sampling_days,Mono,438,467,567,41,41,0.9379014989293362,0.8236331569664903,pooled mapped differentiated cells; fine-state undiff compartment excluded,Mono,0.938,True
+all_assigned,13,all_sampling_days,Baso,352,369,544,35,34,0.9539295392953929,0.6783088235294118,pooled mapped differentiated cells; fine-state undiff compartment excluded,Baso,0.954,True
+all_assigned,14,all_sampling_days,Neu,344,353,403,26,26,0.9745042492917847,0.8759305210918115,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.975,True
+all_assigned,16,all_sampling_days,Neu,129,138,205,20,20,0.9347826086956522,0.6731707317073171,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.935,True
+all_assigned,17,all_sampling_days,Ery/Mk,8,9,90,21,2,0.8888888888888888,0.1,pooled mapped differentiated cells; fine-state undiff compartment excluded,Ery/Mk,0.889,True
+all_assigned,18,all_sampling_days,Mono,61,118,493,38,19,0.5169491525423728,0.23935091277890466,pooled mapped differentiated cells; fine-state undiff compartment excluded,Mono,0.517,True
+all_assigned,22,all_sampling_days,Neu,57,58,115,17,17,0.9827586206896551,0.5043478260869565,pooled mapped differentiated cells; fine-state undiff compartment excluded,Neu,0.983,True
+all_assigned,23,all_sampling_days,Ery/Mk,8,10,205,23,4,0.8,0.04878048780487805,pooled mapped differentiated cells; fine-state undiff compartment excluded,Ery/Mk,0.8,True

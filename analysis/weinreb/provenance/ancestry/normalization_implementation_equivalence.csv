@@ -1,0 +1,2 @@
+method,control_rule,eligible_normalization_genes,size_factor_direct_vs_api_max_error,score_genes_unchanged,clones_unchanged
+PyDESeq2 poscounts with nonmitochondrial control genes,fixed 9777 genes excluding case-insensitive mt- prefix; no metaclone or program-effect selection,9053,0.0,9777,569

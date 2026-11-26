@@ -1,0 +1,9 @@
+feature_type,axis_id,axis_label,n_tests,n_combined_global_fdr,n_conjunction_global_fdr,n_shared_signatures,n_pooled_only_candidates,n_one_metaclone_driven,n_comparator_stable,n_library_loo_stable
+Hallmark,baso_rich,Baso-rich,50,2,0,0,2,1,15,6
+Hallmark,mono_rich,Mono-rich,50,8,0,0,8,4,20,13
+Hallmark,neu_rich,Neu-rich,50,17,0,0,17,9,30,24
+Hallmark,persistent_undifferentiated,Persistent-undifferentiated,50,13,0,0,13,11,21,18
+gene,baso_rich,Baso-rich,9777,0,0,0,0,0,2665,1252
+gene,mono_rich,Mono-rich,9777,0,0,0,0,0,4851,2952
+gene,neu_rich,Neu-rich,9777,7,0,0,7,0,6446,3690
+gene,persistent_undifferentiated,Persistent-undifferentiated,9777,1,0,0,1,0,6608,5384

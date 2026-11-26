@@ -1,0 +1,7 @@
+global_family,axis_id,axis_label,n_programs,n_contrast_fdr_lt_0_25,n_global_fdr_lt_0_05
+four_primary_axes,baso_rich,Baso-rich,50,3,3
+four_primary_axes,mono_rich,Mono-rich,50,10,5
+four_primary_axes,neu_rich,Neu-rich,50,22,12
+four_primary_axes,persistent_undifferentiated,Persistent-undifferentiated,50,20,11
+two_secondary_pairs,mc3_vs_mc18_convergence,MC3-MC18 branch-compatibility convergence,50,12,9
+two_secondary_pairs,mc5_vs_mc3_divergence,MC5-MC3 divergence,50,17,11

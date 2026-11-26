@@ -1,0 +1,32 @@
+[
+  {
+    "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/gene_level_deseq2_contrasts.csv.gz",
+    "bytes": 50549635,
+    "sha256": "ae3eeba8d01fc89946f132b782ab92781d705a3b500643143aa99c9d7ff1eb52",
+    "reason": "Not a manuscript-v5 result: legacy gene-DE/volcano output; original source retained in workspace."
+  },
+  {
+    "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_supp_baso_rich_gene_volcano_plot_data.csv",
+    "bytes": 5267606,
+    "sha256": "8894e569af9d8da1865676cf491e2342f3eb51d4ef3077ec7ae6bfb26b2c7a2f",
+    "reason": "Not a manuscript-v5 result: legacy gene-DE/volcano output; original source retained in workspace."
+  },
+  {
+    "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_supp_mono_rich_gene_volcano_plot_data.csv",
+    "bytes": 5274182,
+    "sha256": "b1a5462abfaeee1fa5196e814941a6ba8235d54794bbb432c69759e5c64af738",
+    "reason": "Not a manuscript-v5 result: legacy gene-DE/volcano output; original source retained in workspace."
+  },
+  {
+    "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_supp_neu_rich_gene_volcano_plot_data.csv",
+    "bytes": 5233930,
+    "sha256": "6d3cf07385695e62494e7aae216116c178f5cd4e81aa03eb3594787d7d481c04",
+    "reason": "Not a manuscript-v5 result: legacy gene-DE/volcano output; original source retained in workspace."
+  },
+  {
+    "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_supp_persistent_undifferentiated_gene_volcano_plot_data.csv",
+    "bytes": 5592465,
+    "sha256": "5136531537200315049ab51c2f536ead052747c98b1cd24d1aaa6efbf785dc91",
+    "reason": "Not a manuscript-v5 result: legacy gene-DE/volcano output; original source retained in workspace."
+  }
+]

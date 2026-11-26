@@ -1,0 +1,493 @@
+{
+ "schema_version": 1,
+ "date": "2026-11-13",
+ "scope": "figures/ holds every panel of the current manuscript figures (1-4, S1-S4), copied byte for byte from the producing folders listed in figures/figure_index.csv. Figure 4A is drawn by the authors and is not included yet. supplementary_tables/ holds Tables S1-S6 and the Key Resources Table prepared on 2026-09-30. Figure S2C (clone-trajectory UMAP) removed on 2026-11-13 at the authors' request. New Figure S2C (fast- vs slow-maturing clone size) added on 2026-11-14.",
+ "panels": [
+  {
+   "figure": "Figure 1",
+   "panel": "1A",
+   "svg": "figures/figure_1/1A_workflow.svg",
+   "png": "figures/figure_1/1A_workflow.png",
+   "sha256_svg": "d166461a73ea429fca9eea0b7a1f2f60aa25a2c84af8d468fbe4ea5659cff80a",
+   "sha256_png": "e07b8e1e18170847e0707470aee3e94b227e85d56559e57f2106110fab24a477",
+   "source_file": "manuscript/figures/figure_1a_pipeline.svg",
+   "producing_notebook": "benchmarks/ode_noise/provenance/artwork/0002_figure1_conceptual_panel_reflow.ipynb"
+  },
+  {
+   "figure": "Figure 1",
+   "panel": "1B",
+   "svg": "figures/figure_1/1B_ode_gaussian_variability.svg",
+   "png": "figures/figure_1/1B_ode_gaussian_variability.png",
+   "sha256_svg": "2a072a9099cf7ac6503bf69e42164339892af1e81161f616e34edea68c009960",
+   "sha256_png": "5a444552a3508d6a7f9422a9ea3fa2779fef968f8ed1d05765f0514c7484f381",
+   "source_file": "manuscript/figures/figure_1b_ode_gaussian_variability.svg",
+   "producing_notebook": "benchmarks/ode_noise/provenance/artwork/0002_figure1_conceptual_panel_reflow.ipynb"
+  },
+  {
+   "figure": "Figure 1",
+   "panel": "1C",
+   "svg": "figures/figure_1/1C_ari_gaussian_noise.svg",
+   "png": "figures/figure_1/1C_ari_gaussian_noise.png",
+   "sha256_svg": "e4fbed014dc2bc080080dd827b1d0231954cf82abdc66cd64fa91ce012a34c4f",
+   "sha256_png": "12e90d245c2b418a2685396eda17c38e89436ac0bdf48f77469c845311996f17",
+   "source_file": "manuscript/figures/figure_1c_gaussian_noise_four_method.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure 1",
+   "panel": "1D",
+   "svg": "figures/figure_1/1D_ari_state_redistribution.svg",
+   "png": "figures/figure_1/1D_ari_state_redistribution.png",
+   "sha256_svg": "a136441e963adec42a08720aeb8e9d0399d87b2fceea195c8866196c7702e3c4",
+   "sha256_png": "1ea9117e7a6fc83b5f784f4aa6bcc314d885808d56b7e783525a39f2735d4439",
+   "source_file": "manuscript/figures/figure_1d_uniform_redistribution_four_method.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2A",
+   "svg": "figures/figure_2/2A_hspc_landscape.svg",
+   "png": "figures/figure_2/2A_hspc_landscape.png",
+   "sha256_svg": "bb9dc5dd8611dc696802ba576a028b9f5ed4a1c55a5fa7acafc66c01e8228fa8",
+   "sha256_png": "c5db32a1cf1c8deac9e7f5cf5c6bd64f05bf9fb7e900e14a6f7fe63d4d870ae2",
+   "source_file": "manuscript/figures/figure_2a_hspc_landscape.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2B",
+   "svg": "figures/figure_2/2B_global_pseudotime.svg",
+   "png": "figures/figure_2/2B_global_pseudotime.png",
+   "sha256_svg": "6256c8d33637177736d5a4b8f4ec096638d111ca5833407d45185253fc3dd345",
+   "sha256_png": "b4f7d6128425e07ac245f8b85b7aea425cb12d17661d71126487381ca80468d5",
+   "source_file": "manuscript/figures/figure_2c_trajectory_overview.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2C",
+   "svg": "figures/figure_2/2C_neutrophil_monocyte_trajectories.svg",
+   "png": "figures/figure_2/2C_neutrophil_monocyte_trajectories.png",
+   "sha256_svg": "16aad7ef3cb3a87286c72793cf8d77425af1993269cd1c1e260b2a9d7f0cda1a",
+   "sha256_png": "324f207e63c280dfb3e6f53df26532aa882fa5e54a2dab1f6f87ac1cd8705233",
+   "source_file": "analysis/weinreb/figure_panels/pseudotime_branch_panels_20260917/panels/figure_2c_branch_cells_neu_mono.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/pseudotime_branch_panels_20260917/pseudotime_branch_panels.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2D",
+   "svg": "figures/figure_2/2D_neutrophil_metaclones.svg",
+   "png": "figures/figure_2/2D_neutrophil_metaclones.png",
+   "sha256_svg": "1b9c6e3d4379524f97246d872c3e9c2a7ea9746a6f01be1cbfc0a1ed9795ba05",
+   "sha256_png": "4d1b107765d18016b544e58921cf4da6451ea055687cf8e836838d212c4b0654",
+   "source_file": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/figures/overview_neutrophil.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/complete_overview_and_analysis.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2D",
+   "svg": "figures/figure_2/2D_monocyte_metaclones.svg",
+   "png": "figures/figure_2/2D_monocyte_metaclones.png",
+   "sha256_svg": "afd494d6f02b9b4d446e44ca5707649f00d3283eb3aa3270f275659783ae79cf",
+   "sha256_png": "35b9d7b24c68f6968745ede0a768ecb450d9e632b9a6fb6a7bff6e55f72996bf",
+   "source_file": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/figures/overview_monocyte.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/complete_overview_and_analysis.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2E",
+   "svg": "figures/figure_2/2E_neutrophil_output.svg",
+   "png": "figures/figure_2/2E_neutrophil_output.png",
+   "sha256_svg": "576d41039a8422f1b82f546cf2fe118b8b89d562a6613d6f7c05f207d4bb9066",
+   "sha256_png": "7b08944c01b1952678a18f27380507bf17b30f1b44c2f32c23a63cae747e74f7",
+   "source_file": "analysis/weinreb/figure_panels/square_output_panels_20260915/figures/figure_2d_neutrophil_output.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/square_output_panels_20260915/square_output_panels.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2F",
+   "svg": "figures/figure_2/2F_neutrophil_pseudotime.svg",
+   "png": "figures/figure_2/2F_neutrophil_pseudotime.png",
+   "sha256_svg": "18c29476ae62f3fa39111d8d1194caadc1a5a897050a2b69257fe1a8b53cb003",
+   "sha256_png": "870a4654083e67207bde2f44a2a566572ec91b1fa93f70daaf8db3dcb8aee392",
+   "source_file": "manuscript/figures/figure_2e_neutrophil_pseudotime.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v5_repair/0001_branch_restricted_pseudotime.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2F",
+   "svg": "figures/figure_2/2F_neutrophil_metaclone_key.svg",
+   "png": "figures/figure_2/2F_neutrophil_metaclone_key.png",
+   "sha256_svg": "58d9db792c44cf5147fee86b3776d9ede82d9b1742ca23f66d70b4bea0648b86",
+   "sha256_png": "91a094899383ecc0a5e4c66c9275ff5f93fe087f031b5617869fbdbd59a05f8a",
+   "source_file": "manuscript/figures/metaclone_key_neutrophil.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2G",
+   "svg": "figures/figure_2/2G_monocyte_output.svg",
+   "png": "figures/figure_2/2G_monocyte_output.png",
+   "sha256_svg": "1286cdab793b7ba912be6cb95c9774b4fe74885d9240a140a64c4244098bc5a8",
+   "sha256_png": "abf58f45e3ee209fc856d35f52bf866ae544cc93130bf57af1bde1a635c0d752",
+   "source_file": "analysis/weinreb/figure_panels/square_output_panels_20260915/figures/figure_2f_monocyte_output.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/square_output_panels_20260915/square_output_panels.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2H",
+   "svg": "figures/figure_2/2H_monocyte_pseudotime.svg",
+   "png": "figures/figure_2/2H_monocyte_pseudotime.png",
+   "sha256_svg": "27e0db7a430f0345c468a25a21058aec74bcfa05f2851036fb27809c37672928",
+   "sha256_png": "51d282a819d597058851a2f650c3ae596833a3b79ffbc3a0c567dfad49ef98b2",
+   "source_file": "manuscript/figures/figure_2g_monocyte_cell_pseudotime.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v5_repair/0001_branch_restricted_pseudotime.ipynb"
+  },
+  {
+   "figure": "Figure 2",
+   "panel": "2H",
+   "svg": "figures/figure_2/2H_monocyte_metaclone_key.svg",
+   "png": "figures/figure_2/2H_monocyte_metaclone_key.png",
+   "sha256_svg": "891841a62996e139b5c6eff70607564df6f405d37cd95ae4e54a764698f62882",
+   "sha256_png": "d4780c3bf9a4a8b8765c90c3c3302d0956587254c596af7899ae6d15aa637e4f",
+   "source_file": "manuscript/figures/metaclone_key_monocyte.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure 3",
+   "panel": "3A",
+   "svg": "figures/figure_3/3A_multilineage_composition.svg",
+   "png": "figures/figure_3/3A_multilineage_composition.png",
+   "sha256_svg": "d7dd7fc8e3f9dd0e7cbb9faf35b05d049dd3cd207554abbd0b962f65742dbad8",
+   "sha256_png": "71a2dbf77e5679e0e92d37ee1b1da25a241047e4e4a81b271fd027275c09862d",
+   "source_file": "analysis/weinreb/figure_panels/figure3a_mc11_order_20261113/panels/figure_3a_hspc_pooled_composition_mc11_order.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/figure3a_mc11_order_20261113/figure_3a_mc11_order.ipynb"
+  },
+  {
+   "figure": "Figure 3",
+   "panel": "3B",
+   "svg": "figures/figure_3/3B_branch_distances.svg",
+   "png": "figures/figure_3/3B_branch_distances.png",
+   "sha256_svg": "30b112d284ba5a04504709ece1d50758d70fbfe1b1a15fa888cfc06d4f6bd543",
+   "sha256_png": "69eec0ead696a882c143fb9d568f146da12ab14e5d23e4e7e72791fa207235e5",
+   "source_file": "manuscript/figures/figure_3d_branch_pair_distances.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure 3",
+   "panel": "3C",
+   "svg": "figures/figure_3/3C_inflammatory_response.svg",
+   "png": "figures/figure_3/3C_inflammatory_response.png",
+   "sha256_svg": "92e312fb144ae00d7ca4a7e80635ae391ca98fa3db3ed408f0cc6e92bf9fd23f",
+   "sha256_png": "dc8422930c457f5fc395e14c834a8902e46a54ca733f561e8891696eecfa0714",
+   "source_file": "analysis/weinreb/figure_panels/figure4_uniform_labels_20260918/panels/figure_4a_monocyte_inflammatory.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/figure4_uniform_labels_20260918/figure4_uniform_labels.ipynb"
+  },
+  {
+   "figure": "Figure 3",
+   "panel": "3D",
+   "svg": "figures/figure_3/3D_myc_targets_v2.svg",
+   "png": "figures/figure_3/3D_myc_targets_v2.png",
+   "sha256_svg": "fc51bf0defe7d614160d1c020aea2afc4b1f99ab63482270a608f3ab7ea0f46d",
+   "sha256_png": "0a6570ecf33dd66371b2a240dee488b95e24d83fc0dd288aedd6381a628e122c",
+   "source_file": "analysis/weinreb/figure_panels/figure4_uniform_labels_20260918/panels/figure_4b_monocyte_myc_targets_v2.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/figure4_uniform_labels_20260918/figure4_uniform_labels.ipynb"
+  },
+  {
+   "figure": "Figure 3",
+   "panel": "3E",
+   "svg": "figures/figure_3/3E_inflammatory_gene_contributions.svg",
+   "png": "figures/figure_3/3E_inflammatory_gene_contributions.png",
+   "sha256_svg": "b277140d13086e259689411ba8588ae96e7661d73be4f1729018362dd2527ba4",
+   "sha256_png": "1a88c3ec31368a9c6303b6a9d1b20b5e330fc8088af7f98c41df8cde71a07c1e",
+   "source_file": "manuscript/figures/program_07_mono_1_gene_contributions.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure 4",
+   "panel": "4B",
+   "svg": "figures/figure_4/4B_singh_cell_types.svg",
+   "png": "figures/figure_4/4B_singh_cell_types.png",
+   "sha256_svg": "9db2e6b7541733b355e2bf13d4827dba84aa446ac4e835a7bde740021d39363a",
+   "sha256_png": "2ab405effe41ee9f488c7cec5fc5d48023a47a1e2bec207c0b26c9d866448d68",
+   "source_file": "manuscript/figures/singh_cell_type_landscape.svg",
+   "producing_notebook": "analysis/singh/source_notebooks/landscape/0001_singh_landscape_and_reference.ipynb"
+  },
+  {
+   "figure": "Figure 4",
+   "panel": "4C",
+   "svg": "figures/figure_4/4C_maturation_shifts.svg",
+   "png": "figures/figure_4/4C_maturation_shifts.png",
+   "sha256_svg": "c60773e7b78a8900d21422fc7a113df02df78defde7dd84dd8521aec60d263d2",
+   "sha256_png": "84a27cb8f12c30ce3f1eed281878847c8439bfb8d030e5ccc2570dbcea444d54",
+   "source_file": "manuscript/figures/figure_5b_state_response.svg",
+   "producing_notebook": "analysis/singh/source_notebooks/dynamics/0001_family_aware_responses.ipynb"
+  },
+  {
+   "figure": "Figure 4",
+   "panel": "4D",
+   "svg": "figures/figure_4/4D_composition_shifts.svg",
+   "png": "figures/figure_4/4D_composition_shifts.png",
+   "sha256_svg": "f65102d5042a211921c4f72475eb741230de6188f85246c7df207b4d3173aaf2",
+   "sha256_png": "70aa606cc1a743962b4b4a6c8a3e940cc69e1d4cad2c96ea27bce6baab49b217",
+   "source_file": "manuscript/figures/figure_5c_composition_response.svg",
+   "producing_notebook": "analysis/singh/source_notebooks/dynamics/0001_family_aware_responses.ipynb"
+  },
+  {
+   "figure": "Figure 4",
+   "panel": "4E",
+   "svg": "figures/figure_4/4E_mc0_mc3_mc7_conditions.svg",
+   "png": "figures/figure_4/4E_mc0_mc3_mc7_conditions.png",
+   "sha256_svg": "1806d3121ccfefc9241505bc24cf934df597cd953f70cec5decb3a20c04f63b5",
+   "sha256_png": "fd7ce89740a82654c0ba33ce5b8a6c07b7ea6920dc9ecd92b17c534d5a224390",
+   "source_file": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/panels/mc0_mc3_mc7_condition_grid_flipped.svg",
+   "producing_notebook": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/mc0_mc3_mc7_condition_grid_flipped.ipynb"
+  },
+  {
+   "figure": "Figure 4",
+   "panel": "4E",
+   "svg": "figures/figure_4/4E_density_key.svg",
+   "png": "figures/figure_4/4E_density_key.png",
+   "sha256_svg": "c9cda4fcb0ff5d255b82fcb68a64bce1bf519550f6d59a325471e158594a57c1",
+   "sha256_png": "80d9f12a3b394afa8b8b5cefaf3e53a3a171ae3c242334d46972a279fea21e97",
+   "source_file": "analysis/singh/figure_panels/condition_grid_flipped_20261021/panels/figure_6c_density_key_horizontal.svg",
+   "producing_notebook": "analysis/singh/figure_panels/condition_grid_flipped_20261021/figure_6c_condition_grid_flipped.ipynb"
+  },
+  {
+   "figure": "Figure S1",
+   "panel": "S1A",
+   "svg": "figures/figure_s1/S1A_chronoclone_ari.svg",
+   "png": "figures/figure_s1/S1A_chronoclone_ari.png",
+   "sha256_svg": "2fc8c2c46e1ac784d48ab56ff98f933b5c7eec01b5370fc0a33e99c87d14c41e",
+   "sha256_png": "a86fc4ac2711dcb6cc4def40afa94b845a3753723030ef48322169b0544bdeac",
+   "source_file": "manuscript/figures/figure_1e_chronoclone_mean_ari_heatmap_four_method.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure S1",
+   "panel": "S1B",
+   "svg": "figures/figure_s1/S1B_clades_preprocessing_ari.svg",
+   "png": "figures/figure_s1/S1B_clades_preprocessing_ari.png",
+   "sha256_svg": "9cefc8fd46a50ac8f96cb3deeccfa2962a42d59f9733f155d9af65621c085316",
+   "sha256_png": "8744dd2a0d3065b39408a33236d7787dbb4a71082bc0d005699970d175d5f5d4",
+   "source_file": "manuscript/figures/figure_1f_clades_preprocessing_mean_ari_heatmap_four_method.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure S1",
+   "panel": "S1C",
+   "svg": "figures/figure_s1/S1C_kmeans_ari.svg",
+   "png": "figures/figure_s1/S1C_kmeans_ari.png",
+   "sha256_svg": "fc77c444ba1bf717f9eaa482c5aa0d167cd27c0bdf147ddd9bef6e158e9e6edd",
+   "sha256_png": "6837bf8cabffdd2151525eef311c0682e5f6ff96b01ea46cbe23094fd6ddfc4d",
+   "source_file": "manuscript/figures/figure_1g_kmeans_mean_ari_heatmap_four_method.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure S1",
+   "panel": "S1D",
+   "svg": "figures/figure_s1/S1D_ward_ari.svg",
+   "png": "figures/figure_s1/S1D_ward_ari.png",
+   "sha256_svg": "7b6f4d63543f5087fda2757f94d23ce46f7cbac962c5fd1962a3871d0d4eddd8",
+   "sha256_png": "c5e759c908f02c9bf3f43133011096f4c32de8a2a0c5ef60492bde742a2c8c24",
+   "source_file": "manuscript/figures/figure_1h_ward_mean_ari_heatmap_four_method.svg",
+   "producing_notebook": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb"
+  },
+  {
+   "figure": "Figure S1",
+   "panel": "S1E",
+   "svg": "figures/figure_s1/S1E_groups_found_gaussian.svg",
+   "png": "figures/figure_s1/S1E_groups_found_gaussian.png",
+   "sha256_svg": "fdd94dac9ecd20fc1e6fe74431370e8ca89b51eab3d7e2bcad2fc3c182a8ef2a",
+   "sha256_png": "eb77e358f01a2764e8ac65985a448a31be20efca70dc78f45cb663d749b9178b",
+   "source_file": "manuscript/figures/gaussian_only_recovered_k.svg",
+   "producing_notebook": "benchmarks/ode_noise/notebooks/0005_t1_locked_four_method_noise_results.ipynb"
+  },
+  {
+   "figure": "Figure S1",
+   "panel": "S1F",
+   "svg": "figures/figure_s1/S1F_groups_found_redistribution.svg",
+   "png": "figures/figure_s1/S1F_groups_found_redistribution.png",
+   "sha256_svg": "aa2a6d18a33bb7c9c7931963b37b5479fbdba031b4f4de06d47334ca739e8055",
+   "sha256_png": "34609d8ae425b5705437c6163c3ba6ffe82d354e6fbf583006278abd846327bc",
+   "source_file": "manuscript/figures/uniform_only_recovered_k.svg",
+   "producing_notebook": "benchmarks/ode_noise/notebooks/0005_t1_locked_four_method_noise_results.ipynb"
+  },
+  {
+   "figure": "Figure S2",
+   "panel": "S2A",
+   "svg": "figures/figure_s2/S2A_erythroid_mk_metaclones.svg",
+   "png": "figures/figure_s2/S2A_erythroid_mk_metaclones.png",
+   "sha256_svg": "bd8b8c9d7fb12b416b215537490ebb0fccd110b9f14240dd85b9f37fe18476c0",
+   "sha256_png": "281ace83c43f979160bb74be78f2d375572d9798232d98504cde55d4f0ce16e1",
+   "source_file": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/figures/overview_erythroid_mk.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/complete_overview_and_analysis.ipynb"
+  },
+  {
+   "figure": "Figure S2",
+   "panel": "S2A",
+   "svg": "figures/figure_s2/S2A_basophil_metaclones.svg",
+   "png": "figures/figure_s2/S2A_basophil_metaclones.png",
+   "sha256_svg": "e096ae3ca4e3b6b6342a7f21fb26d39845c7303b9207aaf04643180ebaa41710",
+   "sha256_png": "114d17a0d6fb52a8ab04442ecda6b95ca47dc8c2fca861a043b358025c44e3a0",
+   "source_file": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/figures/overview_basophil.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/complete_overview_and_analysis.ipynb"
+  },
+  {
+   "figure": "Figure S2",
+   "panel": "S2A",
+   "svg": "figures/figure_s2/S2A_multilineage_metaclones.svg",
+   "png": "figures/figure_s2/S2A_multilineage_metaclones.png",
+   "sha256_svg": "29e9ab4c4a612bd62e6d8d498d2a72dc0b739cfe0251815efd43b585b6e4776d",
+   "sha256_png": "bd6b4d17cfafea5617cb7bd9d62b9a66e042a202f5577e52201aea65c2f4458a",
+   "source_file": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/figures/overview_multilineage.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/complete_overview_and_analysis.ipynb"
+  },
+  {
+   "figure": "Figure S2",
+   "panel": "S2B",
+   "svg": "figures/figure_s2/S2B_mk_mast_basophil_trajectories.svg",
+   "png": "figures/figure_s2/S2B_mk_mast_basophil_trajectories.png",
+   "sha256_svg": "5dee553e6c142098abf30c633fc34576972aa2270f37879e4b656a9f9581d981",
+   "sha256_png": "fff2950a173f03d16f766c0ca96e60e86bdcc68cf5ee0d857e72edda5f4c761b",
+   "source_file": "analysis/weinreb/figure_panels/pseudotime_branch_panels_20260917/panels/figure_s2_branch_cells_meg_mast_baso.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/pseudotime_branch_panels_20260917/pseudotime_branch_panels.ipynb"
+  },
+  {
+   "figure": "Figure S2",
+   "panel": "S2C",
+   "svg": "figures/figure_s2/S2C_fast_slow_clone_size.svg",
+   "png": "figures/figure_s2/S2C_fast_slow_clone_size.png",
+   "sha256_svg": "a16f7eb83f92af22f7d39c18bcd0bf56b90abcebc0782d883d4b9ebcb2c793e1",
+   "sha256_png": "1713c3d2381aa58e3f85f7a0c9639b58db936438716c2b19b64a4a533b8f539b",
+   "source_file": "analysis/weinreb/figure_panels/fast_slow_clone_size_20261113/figures/weinreb_fast_slow_clone_size.svg",
+   "producing_notebook": "analysis/weinreb/figure_panels/fast_slow_clone_size_20261113/0001_fast_slow_clone_size_panel.ipynb"
+  },
+  {
+   "figure": "Figure S3",
+   "panel": "S3A",
+   "svg": "figures/figure_s3/S3A_hallmark_heatmap.svg",
+   "png": "figures/figure_s3/S3A_hallmark_heatmap.png",
+   "sha256_svg": "e0167858e1b4f791f635688c67e3b2f5ee538e21fef222c6fb6e16887b6504cb",
+   "sha256_png": "2606e83e4d854be357a04b547be91cc1b7ea86090306bbc2c79b606726fc06fb",
+   "source_file": "manuscript/figures/program_05_monocyte_all50_row_zscore_heatmap.svg",
+   "producing_notebook": "analysis/weinreb/current_source/ancestry/0002_evidence_review.ipynb"
+  },
+  {
+   "figure": "Figure S4",
+   "panel": "S4A",
+   "svg": "figures/figure_s4/S4A_wt_metaclones_row1.svg",
+   "png": "figures/figure_s4/S4A_wt_metaclones_row1.png",
+   "sha256_svg": "007d2b61f54eb8a4a4d8ced9e6c82d3a423983c30efad883a107ada4481b4700",
+   "sha256_png": "956c521d134aee9057921156fb06aa5b9f5390397d6d787afb9b40492f77413d",
+   "source_file": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/panels/atlas_wt_row_01.svg",
+   "producing_notebook": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/s6b_wt_equal_umap.ipynb"
+  },
+  {
+   "figure": "Figure S4",
+   "panel": "S4A",
+   "svg": "figures/figure_s4/S4A_wt_metaclones_row2.svg",
+   "png": "figures/figure_s4/S4A_wt_metaclones_row2.png",
+   "sha256_svg": "f3735f1906571a8d90265a574a64bf0ffee7ff04c188ad019644e9f6add649a5",
+   "sha256_png": "bc04650268271226d9dea928f3e7477fdb7a2fa3f21194a7ba626b85b0c927a3",
+   "source_file": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/panels/atlas_wt_row_02.svg",
+   "producing_notebook": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/s6b_wt_equal_umap.ipynb"
+  },
+  {
+   "figure": "Figure S4",
+   "panel": "S4B",
+   "svg": "figures/figure_s4/S4B_dnmt3a_metaclones_row1.svg",
+   "png": "figures/figure_s4/S4B_dnmt3a_metaclones_row1.png",
+   "sha256_svg": "06aec845ee07afaf4ccc2d08a52f388bb0ae573f18e6913a9dcec983dea1ef14",
+   "sha256_png": "953d250522f0b6d252d7b5c32e293b727cfe53b0090b020b16449a3e47fb5769",
+   "source_file": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_dnmt3a_row_01.svg",
+   "producing_notebook": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/s6b_equal_umap.ipynb"
+  },
+  {
+   "figure": "Figure S4",
+   "panel": "S4B",
+   "svg": "figures/figure_s4/S4B_dnmt3a_metaclones_row2.svg",
+   "png": "figures/figure_s4/S4B_dnmt3a_metaclones_row2.png",
+   "sha256_svg": "6e81abb9c4d5f8ff7d425d3958e8e2bc85323c366555e40786845f640a381da5",
+   "sha256_png": "34022d39831ba5315a9e5e79aa8fce47a6d84c68130c070b6281b61868ebdd2d",
+   "source_file": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_dnmt3a_row_02.svg",
+   "producing_notebook": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/s6b_equal_umap.ipynb"
+  },
+  {
+   "figure": "Figure S4",
+   "panel": "S4C",
+   "svg": "figures/figure_s4/S4C_npm1c_metaclones_row1.svg",
+   "png": "figures/figure_s4/S4C_npm1c_metaclones_row1.png",
+   "sha256_svg": "a9930e458867a5e64aebd49c222549febf1d8b188b09d0417565856109aa0970",
+   "sha256_png": "11ff30630bc98fb6825b41650f88916987f8dbd6b7b188eeb791e0a61136f11d",
+   "source_file": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_npm1c_row_01.svg",
+   "producing_notebook": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/s6b_equal_umap.ipynb"
+  },
+  {
+   "figure": "Figure S4",
+   "panel": "S4C",
+   "svg": "figures/figure_s4/S4C_npm1c_metaclones_row2.svg",
+   "png": "figures/figure_s4/S4C_npm1c_metaclones_row2.png",
+   "sha256_svg": "f920a2cd615b712b2a3bcfb16857cf610f0b1b9f8e60fe491031aa2acbcaf7ce",
+   "sha256_png": "5e5909c8b41778b2c444d3b7fccf77ead2ec3c891f8c1c080179f8719b06c6b6",
+   "source_file": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_npm1c_row_02.svg",
+   "producing_notebook": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/s6b_equal_umap.ipynb"
+  }
+ ],
+ "tables": [
+  {
+   "file": "supplementary_tables/Table_S1.xlsx",
+   "bytes": 815915,
+   "sha256": "e2ca26f8d5f3616c6934080259d54c49b13b344cc57471761c6c65831c7400ee",
+   "previous_path": "manuscript/supplementary_tables_v9/Table_S1.xlsx"
+  },
+  {
+   "file": "supplementary_tables/Table_S2.xlsx",
+   "bytes": 313860,
+   "sha256": "d80b2a941ad21b7f0f5ccd0acd145a22b15c0d6faf7b6f17b24cef5e19c9c05b",
+   "previous_path": "manuscript/supplementary_tables_v9/Table_S2.xlsx"
+  },
+  {
+   "file": "supplementary_tables/Table_S3.xlsx",
+   "bytes": 1008538,
+   "sha256": "167a318c1e8ba5493b5272d97df56c65afc46fb5ed13836f14fead64f2b6584e",
+   "previous_path": "manuscript/supplementary_tables_v9/Table_S3.xlsx"
+  },
+  {
+   "file": "supplementary_tables/Table_S4.xlsx",
+   "bytes": 165633,
+   "sha256": "bd81188fe75e5ae284075fe4c67a3c243d2e006015934c943754909394e47da9",
+   "previous_path": "manuscript/supplementary_tables_v9/Table_S4.xlsx"
+  },
+  {
+   "file": "supplementary_tables/Table_S5.xlsx",
+   "bytes": 42882,
+   "sha256": "782bc65c6d19210f19d632fc16087e4eae7bdc7c5c444bb625063f72596e2ede",
+   "previous_path": "manuscript/supplementary_tables_v9/Table_S5.xlsx"
+  },
+  {
+   "file": "supplementary_tables/Table_S6.xlsx",
+   "bytes": 260711,
+   "sha256": "b0346dee0a11bda2120e033a5ce037d3b8f0f9b26d3987d1571762987ef1b8b0",
+   "previous_path": "manuscript/supplementary_tables_v9/Table_S6.xlsx"
+  },
+  {
+   "file": "supplementary_tables/Key_Resources.xlsx",
+   "bytes": 11364,
+   "sha256": "9f8fa81f5fb35f265020047b9f15c243bdc84216f880a313d2216db41e9eba20",
+   "previous_path": "manuscript/supplementary_tables_v9/Key_Resources.xlsx"
+  },
+  {
+   "file": "supplementary_tables/Column_definitions.csv",
+   "bytes": 186606,
+   "sha256": "5cf0427e05232612f2d45796f5b0fe5943e12791a2627f298c1ac4e5dd16eda9",
+   "previous_path": "manuscript/supplementary_tables_v9/Column_definitions.csv"
+  },
+  {
+   "file": "supplementary_tables/Table_contents.csv",
+   "bytes": 11995,
+   "sha256": "77cd89497a61ba0dc2ffb4303928ac805724840ac5b3d0787491b07f5374cdaf",
+   "previous_path": "manuscript/supplementary_tables_v9/Table_contents.csv"
+  }
+ ]
+}

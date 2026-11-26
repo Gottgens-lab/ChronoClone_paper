@@ -1,0 +1,401 @@
+program,metaclone,adjusted_score_sd,lineage_bias
+Interferon Gamma Response,9,-0.1775765730589369,Neutrophil
+Interferon Alpha Response,9,-0.33493421258694406,Neutrophil
+Glycolysis,9,0.8935824770446845,Neutrophil
+Myc Targets V2,9,0.7276413764856582,Neutrophil
+Oxidative Phosphorylation,9,0.7539557077272206,Neutrophil
+mTORC1 Signaling,9,0.702286902194299,Neutrophil
+Adipogenesis,9,0.8248438155055876,Neutrophil
+Fatty Acid Metabolism,9,0.7020682372365897,Neutrophil
+Cholesterol Homeostasis,9,0.24725053254899,Neutrophil
+Myc Targets V1,9,0.5557726384855091,Neutrophil
+Unfolded Protein Response,9,0.6557259706263033,Neutrophil
+Apical Surface,9,0.5958876887048842,Neutrophil
+DNA Repair,9,0.5702499945773862,Neutrophil
+Pperoxisome,9,0.5344437617455772,Neutrophil
+E2F Targets,9,0.44899495324199684,Neutrophil
+Reactive Oxygen Species Pathway,9,0.5480997503020191,Neutrophil
+PI3K/AKT/mTOR  Signaling,9,0.6334402831854022,Neutrophil
+Xenobiotic Metabolism,9,0.64289671926053,Neutrophil
+IL-6/JAK/STAT3 Signaling,9,0.2017764470374971,Neutrophil
+UV Response Up,9,0.5103551183200432,Neutrophil
+Interferon Gamma Response,14,-0.08654871307741899,Neutrophil
+Interferon Alpha Response,14,-0.12251858636875101,Neutrophil
+Glycolysis,14,0.5609748103858062,Neutrophil
+Myc Targets V2,14,0.3115558793816891,Neutrophil
+Oxidative Phosphorylation,14,0.5568145287845856,Neutrophil
+mTORC1 Signaling,14,0.5707001062364023,Neutrophil
+Adipogenesis,14,0.6906987210276426,Neutrophil
+Fatty Acid Metabolism,14,0.689157592272415,Neutrophil
+Cholesterol Homeostasis,14,0.36785970548384717,Neutrophil
+Myc Targets V1,14,0.33110712861599456,Neutrophil
+Unfolded Protein Response,14,0.4286446145337697,Neutrophil
+Apical Surface,14,0.32377012066656014,Neutrophil
+DNA Repair,14,0.443586402825796,Neutrophil
+Pperoxisome,14,0.5444867452912232,Neutrophil
+E2F Targets,14,0.31781097623811516,Neutrophil
+Reactive Oxygen Species Pathway,14,0.3743074456088843,Neutrophil
+PI3K/AKT/mTOR  Signaling,14,0.4051144957831657,Neutrophil
+Xenobiotic Metabolism,14,0.5639925086247523,Neutrophil
+IL-6/JAK/STAT3 Signaling,14,0.1694288008920653,Neutrophil
+UV Response Up,14,0.4079408793336219,Neutrophil
+Interferon Gamma Response,16,-0.12612004573381097,Neutrophil
+Interferon Alpha Response,16,-0.3799266137539509,Neutrophil
+Glycolysis,16,0.30571699585132683,Neutrophil
+Myc Targets V2,16,0.03455131904252762,Neutrophil
+Oxidative Phosphorylation,16,0.15356531588687583,Neutrophil
+mTORC1 Signaling,16,0.3037673056263488,Neutrophil
+Adipogenesis,16,0.18548983521739937,Neutrophil
+Fatty Acid Metabolism,16,0.36851870799775566,Neutrophil
+Cholesterol Homeostasis,16,0.22056972963514193,Neutrophil
+Myc Targets V1,16,0.05873300023192202,Neutrophil
+Unfolded Protein Response,16,0.28198665946451135,Neutrophil
+Apical Surface,16,0.05600925929780598,Neutrophil
+DNA Repair,16,0.10397248150233818,Neutrophil
+Pperoxisome,16,0.2348742614648417,Neutrophil
+E2F Targets,16,0.13590152287620083,Neutrophil
+Reactive Oxygen Species Pathway,16,0.2052894679592211,Neutrophil
+PI3K/AKT/mTOR  Signaling,16,0.2727779442879497,Neutrophil
+Xenobiotic Metabolism,16,0.1746364220574455,Neutrophil
+IL-6/JAK/STAT3 Signaling,16,0.15958946496368442,Neutrophil
+UV Response Up,16,0.2667442704390972,Neutrophil
+Interferon Gamma Response,22,-0.43050876371962243,Neutrophil
+Interferon Alpha Response,22,-0.30305205975706884,Neutrophil
+Glycolysis,22,-0.051962649337590205,Neutrophil
+Myc Targets V2,22,0.0803401928090608,Neutrophil
+Oxidative Phosphorylation,22,-0.26934644520675655,Neutrophil
+mTORC1 Signaling,22,-0.09919774395756875,Neutrophil
+Adipogenesis,22,-0.20505319269664402,Neutrophil
+Fatty Acid Metabolism,22,-0.25729488621453067,Neutrophil
+Cholesterol Homeostasis,22,0.02680626139519318,Neutrophil
+Myc Targets V1,22,-0.08177657731985577,Neutrophil
+Unfolded Protein Response,22,-0.11153220323724922,Neutrophil
+Apical Surface,22,-0.07467265929807232,Neutrophil
+DNA Repair,22,-0.17230512295165767,Neutrophil
+Pperoxisome,22,-0.034343081862575175,Neutrophil
+E2F Targets,22,-0.09002207324520223,Neutrophil
+Reactive Oxygen Species Pathway,22,-0.10654333100340574,Neutrophil
+PI3K/AKT/mTOR  Signaling,22,-0.2456687298601531,Neutrophil
+Xenobiotic Metabolism,22,-0.17256136382130793,Neutrophil
+IL-6/JAK/STAT3 Signaling,22,-0.5663540740267439,Neutrophil
+UV Response Up,22,0.027458511693535026,Neutrophil
+Interferon Gamma Response,1,0.4567751766952246,Neutrophil
+Interferon Alpha Response,1,0.680892520140955,Neutrophil
+Glycolysis,1,-0.1677711239062991,Neutrophil
+Myc Targets V2,1,-0.23679174630910127,Neutrophil
+Oxidative Phosphorylation,1,-0.28254122870776277,Neutrophil
+mTORC1 Signaling,1,-0.2916205612289763,Neutrophil
+Adipogenesis,1,-0.3634896177318626,Neutrophil
+Fatty Acid Metabolism,1,-0.31729452684465065,Neutrophil
+Cholesterol Homeostasis,1,-0.11031937366725214,Neutrophil
+Myc Targets V1,1,-0.3398213601371308,Neutrophil
+Unfolded Protein Response,1,-0.1314402686227807,Neutrophil
+Apical Surface,1,-0.45503155083339963,Neutrophil
+DNA Repair,1,-0.23823621829317154,Neutrophil
+Pperoxisome,1,-0.11290413359546903,Neutrophil
+E2F Targets,1,-0.35621548910365536,Neutrophil
+Reactive Oxygen Species Pathway,1,-0.09474111129492424,Neutrophil
+PI3K/AKT/mTOR  Signaling,1,-0.014042040364428354,Neutrophil
+Xenobiotic Metabolism,1,0.06171258831676141,Neutrophil
+IL-6/JAK/STAT3 Signaling,1,0.11922105315408121,Neutrophil
+UV Response Up,1,-0.18971344975114535,Neutrophil
+Interferon Gamma Response,12,-0.052202841534692734,Monocyte
+Interferon Alpha Response,12,-0.07656105081683523,Monocyte
+Glycolysis,12,0.23880241123983403,Monocyte
+Myc Targets V2,12,0.4474319918924286,Monocyte
+Oxidative Phosphorylation,12,0.32981731792192553,Monocyte
+mTORC1 Signaling,12,0.31805454731699334,Monocyte
+Adipogenesis,12,0.32002339719138184,Monocyte
+Fatty Acid Metabolism,12,0.21543281946998183,Monocyte
+Cholesterol Homeostasis,12,0.15099451977851286,Monocyte
+Myc Targets V1,12,0.4710848996717769,Monocyte
+Unfolded Protein Response,12,0.31689849304049267,Monocyte
+Apical Surface,12,0.18532473695090063,Monocyte
+DNA Repair,12,0.21028509474389523,Monocyte
+Pperoxisome,12,0.06611531652219466,Monocyte
+E2F Targets,12,0.36820865325581453,Monocyte
+Reactive Oxygen Species Pathway,12,0.11437550800158092,Monocyte
+PI3K/AKT/mTOR  Signaling,12,0.2570055884602235,Monocyte
+Xenobiotic Metabolism,12,0.14761159664439927,Monocyte
+IL-6/JAK/STAT3 Signaling,12,0.22018854074894448,Monocyte
+UV Response Up,12,0.3981620705373407,Monocyte
+Interferon Gamma Response,7,-0.33583503415012483,Monocyte
+Interferon Alpha Response,7,-0.5175433002331837,Monocyte
+Glycolysis,7,0.41948190325596196,Monocyte
+Myc Targets V2,7,0.5551113136353262,Monocyte
+Oxidative Phosphorylation,7,0.44041738491195975,Monocyte
+mTORC1 Signaling,7,0.5351387656837774,Monocyte
+Adipogenesis,7,0.37468989805998754,Monocyte
+Fatty Acid Metabolism,7,0.3673528954305477,Monocyte
+Cholesterol Homeostasis,7,0.4689066634633553,Monocyte
+Myc Targets V1,7,0.44881288007878944,Monocyte
+Unfolded Protein Response,7,0.3784332939316003,Monocyte
+Apical Surface,7,0.39459537999016436,Monocyte
+DNA Repair,7,0.32903088814485026,Monocyte
+Pperoxisome,7,0.27937304125330753,Monocyte
+E2F Targets,7,0.36543721450060707,Monocyte
+Reactive Oxygen Species Pathway,7,0.45298944265447144,Monocyte
+PI3K/AKT/mTOR  Signaling,7,0.20660786380598195,Monocyte
+Xenobiotic Metabolism,7,0.19965415929800895,Monocyte
+IL-6/JAK/STAT3 Signaling,7,0.26649144805142616,Monocyte
+UV Response Up,7,0.296941052457233,Monocyte
+Interferon Gamma Response,8,-0.5585778416591088,Monocyte
+Interferon Alpha Response,8,-0.5124217900079933,Monocyte
+Glycolysis,8,-0.17877148668269327,Monocyte
+Myc Targets V2,8,-0.013920207998263767,Monocyte
+Oxidative Phosphorylation,8,-0.05894483144935747,Monocyte
+mTORC1 Signaling,8,-0.03742338444627302,Monocyte
+Adipogenesis,8,-0.19162243989078565,Monocyte
+Fatty Acid Metabolism,8,-0.08798793168860264,Monocyte
+Cholesterol Homeostasis,8,-0.18187308919452616,Monocyte
+Myc Targets V1,8,0.034282381142759055,Monocyte
+Unfolded Protein Response,8,-0.05428899503925144,Monocyte
+Apical Surface,8,-0.32536197217065044,Monocyte
+DNA Repair,8,-0.089809303813015,Monocyte
+Pperoxisome,8,-0.1495688337905704,Monocyte
+E2F Targets,8,0.0853569535603253,Monocyte
+Reactive Oxygen Species Pathway,8,-0.1345613609747216,Monocyte
+PI3K/AKT/mTOR  Signaling,8,-0.08150355495257378,Monocyte
+Xenobiotic Metabolism,8,-0.10268859813121844,Monocyte
+IL-6/JAK/STAT3 Signaling,8,-0.13432350478964716,Monocyte
+UV Response Up,8,-0.0353323160327883,Monocyte
+Interferon Gamma Response,6,-0.3456552752046901,Monocyte
+Interferon Alpha Response,6,-0.4003677406644153,Monocyte
+Glycolysis,6,-0.17935035305596259,Monocyte
+Myc Targets V2,6,-0.08587893708438532,Monocyte
+Oxidative Phosphorylation,6,-0.11042941991778887,Monocyte
+mTORC1 Signaling,6,-0.15882683195565162,Monocyte
+Adipogenesis,6,-0.10226617508523683,Monocyte
+Fatty Acid Metabolism,6,-0.21438476054319688,Monocyte
+Cholesterol Homeostasis,6,0.0036024492796084273,Monocyte
+Myc Targets V1,6,0.01447423715053997,Monocyte
+Unfolded Protein Response,6,-0.11483552053349477,Monocyte
+Apical Surface,6,-0.12706215945002053,Monocyte
+DNA Repair,6,0.050152799096410794,Monocyte
+Pperoxisome,6,0.05694683446575577,Monocyte
+E2F Targets,6,-0.019318524431710282,Monocyte
+Reactive Oxygen Species Pathway,6,-0.3682118778525686,Monocyte
+PI3K/AKT/mTOR  Signaling,6,-0.3130709199571242,Monocyte
+Xenobiotic Metabolism,6,-0.19075499887275793,Monocyte
+IL-6/JAK/STAT3 Signaling,6,-0.2838884430929229,Monocyte
+UV Response Up,6,0.033466284617716446,Monocyte
+Interferon Gamma Response,10,0.2103914688256084,Erythroid / Mk
+Interferon Alpha Response,10,0.30892180723214974,Erythroid / Mk
+Glycolysis,10,-0.24031539057893458,Erythroid / Mk
+Myc Targets V2,10,-0.4275083258673551,Erythroid / Mk
+Oxidative Phosphorylation,10,-0.37838200443278713,Erythroid / Mk
+mTORC1 Signaling,10,-0.3023583885261627,Erythroid / Mk
+Adipogenesis,10,-0.28945527319151265,Erythroid / Mk
+Fatty Acid Metabolism,10,-0.3328148276767796,Erythroid / Mk
+Cholesterol Homeostasis,10,-0.0025060210553340956,Erythroid / Mk
+Myc Targets V1,10,-0.39253079610276065,Erythroid / Mk
+Unfolded Protein Response,10,-0.3474078505121133,Erythroid / Mk
+Apical Surface,10,-0.3232389540177125,Erythroid / Mk
+DNA Repair,10,-0.3280037566953671,Erythroid / Mk
+Pperoxisome,10,-0.17701762582918723,Erythroid / Mk
+E2F Targets,10,-0.4750967240783241,Erythroid / Mk
+Reactive Oxygen Species Pathway,10,-0.40185416401627405,Erythroid / Mk
+PI3K/AKT/mTOR  Signaling,10,-0.2891982170295794,Erythroid / Mk
+Xenobiotic Metabolism,10,-0.2477200073588508,Erythroid / Mk
+IL-6/JAK/STAT3 Signaling,10,-0.17630730359651536,Erythroid / Mk
+UV Response Up,10,-0.31142845477403147,Erythroid / Mk
+Interferon Gamma Response,17,-0.05206752332374265,Erythroid / Mk
+Interferon Alpha Response,17,-0.0899865054870774,Erythroid / Mk
+Glycolysis,17,0.008928659078936807,Erythroid / Mk
+Myc Targets V2,17,0.1336590985848506,Erythroid / Mk
+Oxidative Phosphorylation,17,0.11808583429863273,Erythroid / Mk
+mTORC1 Signaling,17,0.1360884772476708,Erythroid / Mk
+Adipogenesis,17,0.0895283785314811,Erythroid / Mk
+Fatty Acid Metabolism,17,0.35282231227628436,Erythroid / Mk
+Cholesterol Homeostasis,17,0.009150679744720142,Erythroid / Mk
+Myc Targets V1,17,0.07849551529075677,Erythroid / Mk
+Unfolded Protein Response,17,0.12833722532681846,Erythroid / Mk
+Apical Surface,17,0.10850050134479694,Erythroid / Mk
+DNA Repair,17,0.06791869708720732,Erythroid / Mk
+Pperoxisome,17,0.12963296974536648,Erythroid / Mk
+E2F Targets,17,0.14667105016905563,Erythroid / Mk
+Reactive Oxygen Species Pathway,17,-0.00691496667603686,Erythroid / Mk
+PI3K/AKT/mTOR  Signaling,17,-0.040882955596279635,Erythroid / Mk
+Xenobiotic Metabolism,17,0.3072709396036922,Erythroid / Mk
+IL-6/JAK/STAT3 Signaling,17,-0.12828100079023236,Erythroid / Mk
+UV Response Up,17,0.2011769014514473,Erythroid / Mk
+Interferon Gamma Response,23,0.8235773674556295,Erythroid / Mk
+Interferon Alpha Response,23,0.8584366980781009,Erythroid / Mk
+Glycolysis,23,-0.30293536422308254,Erythroid / Mk
+Myc Targets V2,23,-0.44724406591911015,Erythroid / Mk
+Oxidative Phosphorylation,23,-0.42342253953066267,Erythroid / Mk
+mTORC1 Signaling,23,-0.4702775202901195,Erythroid / Mk
+Adipogenesis,23,-0.30238975437733695,Erythroid / Mk
+Fatty Acid Metabolism,23,-0.3630662841970932,Erythroid / Mk
+Cholesterol Homeostasis,23,-0.6126027185615994,Erythroid / Mk
+Myc Targets V1,23,-0.36881787372821606,Erythroid / Mk
+Unfolded Protein Response,23,-0.3697136989225528,Erythroid / Mk
+Apical Surface,23,-0.029201898003338833,Erythroid / Mk
+DNA Repair,23,-0.15088864595946638,Erythroid / Mk
+Pperoxisome,23,-0.4416955912907492,Erythroid / Mk
+E2F Targets,23,-0.3064552992520478,Erythroid / Mk
+Reactive Oxygen Species Pathway,23,-0.12060184799584905,Erythroid / Mk
+PI3K/AKT/mTOR  Signaling,23,-0.2474090231656837,Erythroid / Mk
+Xenobiotic Metabolism,23,-0.2533190790494957,Erythroid / Mk
+IL-6/JAK/STAT3 Signaling,23,0.0349024848185194,Erythroid / Mk
+UV Response Up,23,-0.30640980032286735,Erythroid / Mk
+Interferon Gamma Response,13,-0.17959740000866306,Basophil
+Interferon Alpha Response,13,-0.07859537351936507,Basophil
+Glycolysis,13,-0.07044576688823523,Basophil
+Myc Targets V2,13,-0.04063541306756091,Basophil
+Oxidative Phosphorylation,13,0.006632911969449262,Basophil
+mTORC1 Signaling,13,-0.06233352861349639,Basophil
+Adipogenesis,13,-0.10974680189988462,Basophil
+Fatty Acid Metabolism,13,-0.08815467290280388,Basophil
+Cholesterol Homeostasis,13,-0.08427820154555582,Basophil
+Myc Targets V1,13,-0.016585400021771668,Basophil
+Unfolded Protein Response,13,0.02222811856233531,Basophil
+Apical Surface,13,0.09241533782830857,Basophil
+DNA Repair,13,0.06980864522309904,Basophil
+Pperoxisome,13,-0.025813356491928063,Basophil
+E2F Targets,13,0.03242877918471776,Basophil
+Reactive Oxygen Species Pathway,13,-0.07449361668124688,Basophil
+PI3K/AKT/mTOR  Signaling,13,-0.11894151190962543,Basophil
+Xenobiotic Metabolism,13,-0.23067891722234346,Basophil
+IL-6/JAK/STAT3 Signaling,13,-0.30245995876592946,Basophil
+UV Response Up,13,-0.05799454841361906,Basophil
+Interferon Gamma Response,0,-0.09475197250666655,Multi-lineage
+Interferon Alpha Response,0,-0.0946528167919099,Multi-lineage
+Glycolysis,0,0.2247374206905306,Multi-lineage
+Myc Targets V2,0,0.3560660577881842,Multi-lineage
+Oxidative Phosphorylation,0,0.3352287025173885,Multi-lineage
+mTORC1 Signaling,0,0.42237511655426413,Multi-lineage
+Adipogenesis,0,0.3005097902447772,Multi-lineage
+Fatty Acid Metabolism,0,0.4084292141245689,Multi-lineage
+Cholesterol Homeostasis,0,0.23800337724300782,Multi-lineage
+Myc Targets V1,0,0.3862086404839703,Multi-lineage
+Unfolded Protein Response,0,0.2973275653356195,Multi-lineage
+Apical Surface,0,0.16132064082016112,Multi-lineage
+DNA Repair,0,0.20130525553511958,Multi-lineage
+Pperoxisome,0,0.24941932078754747,Multi-lineage
+E2F Targets,0,0.40280136729615323,Multi-lineage
+Reactive Oxygen Species Pathway,0,0.24053845672347585,Multi-lineage
+PI3K/AKT/mTOR  Signaling,0,0.08850803272619201,Multi-lineage
+Xenobiotic Metabolism,0,0.2706648674143512,Multi-lineage
+IL-6/JAK/STAT3 Signaling,0,0.037799612197966015,Multi-lineage
+UV Response Up,0,0.14207010475572635,Multi-lineage
+Interferon Gamma Response,2,-0.05012064694023122,Multi-lineage
+Interferon Alpha Response,2,0.0449388597221787,Multi-lineage
+Glycolysis,2,-0.18469312825276285,Multi-lineage
+Myc Targets V2,2,-0.531699271099257,Multi-lineage
+Oxidative Phosphorylation,2,-0.3150306999268432,Multi-lineage
+mTORC1 Signaling,2,-0.2927523265408061,Multi-lineage
+Adipogenesis,2,-0.33094725279649595,Multi-lineage
+Fatty Acid Metabolism,2,-0.4147823977794688,Multi-lineage
+Cholesterol Homeostasis,2,-0.36970223652389234,Multi-lineage
+Myc Targets V1,2,-0.35651282547782526,Multi-lineage
+Unfolded Protein Response,2,-0.32777291808128683,Multi-lineage
+Apical Surface,2,-0.19035089024951657,Multi-lineage
+DNA Repair,2,-0.16537372533624228,Multi-lineage
+Pperoxisome,2,-0.3433901717558534,Multi-lineage
+E2F Targets,2,-0.23183106099846545,Multi-lineage
+Reactive Oxygen Species Pathway,2,-0.18606185672678044,Multi-lineage
+PI3K/AKT/mTOR  Signaling,2,-0.07110104296764741,Multi-lineage
+Xenobiotic Metabolism,2,-0.27487458832415623,Multi-lineage
+IL-6/JAK/STAT3 Signaling,2,-0.2493303412073995,Multi-lineage
+UV Response Up,2,-0.2725116364936948,Multi-lineage
+Interferon Gamma Response,5,-0.17984310267990758,Multi-lineage
+Interferon Alpha Response,5,-0.1578961015765288,Multi-lineage
+Glycolysis,5,-0.07266527035597747,Multi-lineage
+Myc Targets V2,5,0.10508345869213032,Multi-lineage
+Oxidative Phosphorylation,5,0.13797888552082593,Multi-lineage
+mTORC1 Signaling,5,-0.11983183419803722,Multi-lineage
+Adipogenesis,5,0.0957908862046154,Multi-lineage
+Fatty Acid Metabolism,5,-0.0018762313865199332,Multi-lineage
+Cholesterol Homeostasis,5,0.06384135987565864,Multi-lineage
+Myc Targets V1,5,0.08252350186952268,Multi-lineage
+Unfolded Protein Response,5,0.1828284496474667,Multi-lineage
+Apical Surface,5,0.05434645207495592,Multi-lineage
+DNA Repair,5,-0.008982616224101903,Multi-lineage
+Pperoxisome,5,0.009374571985529045,Multi-lineage
+E2F Targets,5,0.0901857871655678,Multi-lineage
+Reactive Oxygen Species Pathway,5,0.11686945790364056,Multi-lineage
+PI3K/AKT/mTOR  Signaling,5,-0.10040012791425412,Multi-lineage
+Xenobiotic Metabolism,5,0.05221107329035435,Multi-lineage
+IL-6/JAK/STAT3 Signaling,5,-0.27640733503720805,Multi-lineage
+UV Response Up,5,-0.07361131110921082,Multi-lineage
+Interferon Gamma Response,3,0.6189227581620148,Multi-lineage
+Interferon Alpha Response,3,0.6605742499070248,Multi-lineage
+Glycolysis,3,-0.37878693803652697,Multi-lineage
+Myc Targets V2,3,-0.3730197839097038,Multi-lineage
+Oxidative Phosphorylation,3,-0.3216163306840455,Multi-lineage
+mTORC1 Signaling,3,-0.3332011312058747,Multi-lineage
+Adipogenesis,3,-0.28529435758453425,Multi-lineage
+Fatty Acid Metabolism,3,-0.21967214089442233,Multi-lineage
+Cholesterol Homeostasis,3,-0.09878962231303429,Multi-lineage
+Myc Targets V1,3,-0.34174643089266266,Multi-lineage
+Unfolded Protein Response,3,-0.30985050599991804,Multi-lineage
+Apical Surface,3,-0.09763742447410373,Multi-lineage
+DNA Repair,3,-0.21929163608812197,Multi-lineage
+Pperoxisome,3,-0.2148646474225927,Multi-lineage
+E2F Targets,3,-0.30042388593835706,Multi-lineage
+Reactive Oxygen Species Pathway,3,-0.10951853299220304,Multi-lineage
+PI3K/AKT/mTOR  Signaling,3,-0.08796405160386922,Multi-lineage
+Xenobiotic Metabolism,3,-0.23713307253339633,Multi-lineage
+IL-6/JAK/STAT3 Signaling,3,0.225090384331249,Multi-lineage
+UV Response Up,3,-0.29934925265122514,Multi-lineage
+Interferon Gamma Response,18,-0.22385631971527753,Multi-lineage
+Interferon Alpha Response,18,-0.2680763442802334,Multi-lineage
+Glycolysis,18,-0.15805904025007944,Multi-lineage
+Myc Targets V2,18,0.012335823884897401,Multi-lineage
+Oxidative Phosphorylation,18,-0.15210147597869905,Multi-lineage
+mTORC1 Signaling,18,-0.19630701821153884,Multi-lineage
+Adipogenesis,18,-0.2572397244638406,Multi-lineage
+Fatty Acid Metabolism,18,-0.3414184705369273,Multi-lineage
+Cholesterol Homeostasis,18,-0.1906069596579285,Multi-lineage
+Myc Targets V1,18,-0.11535920586079251,Multi-lineage
+Unfolded Protein Response,18,-0.23731658879742745,Multi-lineage
+Apical Surface,18,-0.12761177326578588,Multi-lineage
+DNA Repair,18,-0.14575597314367827,Multi-lineage
+Pperoxisome,18,-0.213351280447174,Multi-lineage
+E2F Targets,18,-0.16718596670226754,Multi-lineage
+Reactive Oxygen Species Pathway,18,-0.07709408720089383,Multi-lineage
+PI3K/AKT/mTOR  Signaling,18,-0.17376992496135302,Multi-lineage
+Xenobiotic Metabolism,18,-0.16860654770495298,Multi-lineage
+IL-6/JAK/STAT3 Signaling,18,-0.10256005933037216,Multi-lineage
+UV Response Up,18,-0.2257259862569826,Multi-lineage
+Interferon Gamma Response,4,-0.038744627281688676,Multi-lineage
+Interferon Alpha Response,4,-0.1313901804500095,Multi-lineage
+Glycolysis,4,-0.07252825366860449,Multi-lineage
+Myc Targets V2,4,-0.24966974088928606,Multi-lineage
+Oxidative Phosphorylation,4,-0.1389952860832242,Multi-lineage
+mTORC1 Signaling,4,-0.09516561950219082,Multi-lineage
+Adipogenesis,4,-0.1446824359945631,Multi-lineage
+Fatty Acid Metabolism,4,-0.09968535246177446,Multi-lineage
+Cholesterol Homeostasis,4,-0.10302633053578947,Multi-lineage
+Myc Targets V1,4,-0.18260468289564358,Multi-lineage
+Unfolded Protein Response,4,-0.2405995105644686,Multi-lineage
+Apical Surface,4,-0.3798829999906188,Multi-lineage
+DNA Repair,4,-0.10359018080837101,Multi-lineage
+Pperoxisome,4,-0.03656640445785575,Multi-lineage
+E2F Targets,4,-0.0802610251134292,Multi-lineage
+Reactive Oxygen Species Pathway,4,0.11618545923091766,Multi-lineage
+PI3K/AKT/mTOR  Signaling,4,0.11082009515487279,Multi-lineage
+Xenobiotic Metabolism,4,0.027115310484349453,Multi-lineage
+IL-6/JAK/STAT3 Signaling,4,0.18800375362236163,Multi-lineage
+UV Response Up,4,0.024964707322789104,Multi-lineage
+Interferon Gamma Response,11,0.7677681180785684,Multi-lineage
+Interferon Alpha Response,11,0.8577541729484641,Multi-lineage
+Glycolysis,11,-0.33132425373685104,Multi-lineage
+Myc Targets V2,11,-0.5254667526727224,Multi-lineage
+Oxidative Phosphorylation,11,-0.49648541317816874,Multi-lineage
+mTORC1 Signaling,11,-0.5080894841398929,Multi-lineage
+Adipogenesis,11,-0.31824637758766616,Multi-lineage
+Fatty Acid Metabolism,11,-0.3202615000822352,Multi-lineage
+Cholesterol Homeostasis,11,-0.04198287525097899,Multi-lineage
+Myc Targets V1,11,-0.517765026760598,Multi-lineage
+Unfolded Protein Response,11,-0.40241641754754853,Multi-lineage
+Apical Surface,11,0.039719292016395014,Multi-lineage
+DNA Repair,11,-0.47587214832801994,Multi-lineage
+Pperoxisome,11,-0.22092219726134366,Multi-lineage
+E2F Targets,11,-0.5203123489052406,Multi-lineage
+Reactive Oxygen Species Pathway,11,-0.30815369079325905,Multi-lineage
+PI3K/AKT/mTOR  Signaling,11,-0.11417228532184476,Multi-lineage
+Xenobiotic Metabolism,11,-0.2970939956499906,Multi-lineage
+IL-6/JAK/STAT3 Signaling,11,0.3688223860146742,Multi-lineage
+UV Response Up,11,-0.41702011713832654,Multi-lineage

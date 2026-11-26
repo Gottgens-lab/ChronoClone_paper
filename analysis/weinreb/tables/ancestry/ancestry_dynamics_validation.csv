@@ -1,0 +1,12 @@
+check,passed
+day2_cell_register_exact,True
+unique_clone_day_register,True
+three_registered_days_per_clone,True
+one_mc_per_clone,True
+branch_occupancy_in_unit_interval,True
+absent_branch_position_missing,True
+clone_day_cell_totals_reconcile,True
+common_later_cohort_has_identical_clone_ids,True
+original_pooled_differentiated_fractions_reproduced,True
+full_state_compositions_sum_to_one,True
+clone_full_state_compositions_sum_to_one,True

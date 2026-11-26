@@ -1,0 +1,18 @@
+metaclone,D7 pseudotime,D7 cells/families,D14 pseudotime,D14 cells/families,D14 composition,D27 pseudotime,D27 cells/families,D27 composition
+MC0,0.213,935/596,0.432,1039/593,HSPC 100.0%,,0/0,Not recovered
+MC1,0.342,192/71,0.674,326/71,HSPC 45.5%; GMP 27.1%; Neutrophil 10.5%,0.942,8/2,Ery 44.4%; Monocyte 25.0%; GMP 16.7%
+MC2,0.333,58/27,0.827,74/27,Mk 50.7%; GMP 38.1%; Basophil 10.4%,,0/0,Not recovered
+MC3,0.124,206/104,0.369,389/104,HSPC 87.1%; Mk 10.4%; GMP 2.1%,0.817,761/104,Mk 35.5%; GMP 18.5%; Ery 15.0%
+MC4,0.224,44/18,0.563,102/18,HSPC 81.8%; GMP 18.2%,,0/0,Not recovered
+MC5,0.278,41/17,0.705,71/17,GMP 65.7%; HSPC 31.9%; Mk 2.5%,,0/0,Not recovered
+MC6,0.22,73/36,0.667,123/36,HSPC 50.5%; Mk 47.8%; Basophil 1.1%,,0/0,Not recovered
+MC7,0.344,400/251,0.803,309/252,GMP 100.0%,0.844,9/3,Neutrophil 37.5%; HSPC 33.3%; Basophil 16.7%
+MC9,0.186,47/24,0.61,100/24,HSPC 62.7%; Mk 37.3%,,0/0,Not recovered
+MC10,0.453,69/35,0.828,36/35,Basophil 100.0%,,0/0,Not recovered
+MC11,0.288,82/44,0.648,108/44,GMP 49.8%; HSPC 49.7%; Basophil 0.5%,,0/0,Not recovered
+MC12,0.302,219/125,0.843,178/125,Mk 99.8%; HSPC 0.1%; Basophil 0.1%,0.713,39/2,HSPC 36.7%; Ery 31.2%; GMP 25.4%
+MC13,0.414,85/45,0.935,50/45,Monocyte 100.0%,,0/0,Not recovered
+MC15,0.358,120/47,0.777,177/47,Mk 51.9%; HSPC 25.1%; Ery 9.8%,,0/0,Not recovered
+MC16,0.241,103/47,0.526,347/47,HSPC 77.9%; Mk 19.7%; GMP 1.2%,,0/0,Not recovered
+MC17,0.12,21/13,0.537,61/13,HSPC 73.1%; GMP 14.4%; Mk 11.3%,0.939,18/13,Monocyte 93.8%; Neutrophil 6.2%
+MC19,0.088,18/14,0.179,25/14,HSPC 100.0%,0.571,99/14,HSPC 59.5%; GMP 28.4%; Ery 6.2%

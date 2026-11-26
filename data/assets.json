@@ -1,0 +1,31 @@
+{
+  "repository": "hiromitsuhari/ChronoClone_paper",
+  "tag": "manuscript-v5-20260914",
+  "draft": false,
+  "release_url": "https://github.com/hiromitsuhari/ChronoClone_paper/releases/tag/manuscript-v5-20260914",
+  "assets": [
+    {
+      "id": "weinreb-reference",
+      "name": "weinreb_v5_reference.h5ad",
+      "source": "reference_workspace/data/klein_metaclone_palantir_trajectories.h5ad",
+      "destination": "data/external/weinreb/klein_metaclone_palantir_trajectories.h5ad",
+      "sha256": "4cb08c12dc70f5c3789a75a09a6399db06b3f6efe18147b9f2cca0908ba93911",
+      "bytes": 372354962,
+      "role": "Registered corrected 9714-cell Weinreb downstream input; includes every Day2 HSPC for current program discovery.",
+      "url": "https://github.com/hiromitsuhari/ChronoClone_paper/releases/download/manuscript-v5-20260914/weinreb_v5_reference.h5ad",
+      "api_url": "https://api.github.com/repos/hiromitsuhari/ChronoClone_paper/releases/assets/563855934"
+    },
+    {
+      "id": "ode-repeat-evidence",
+      "name": "ode_noise_repeat_level_20260812.csv.gz",
+      "source": "analysis_workspace/benchmarks/chronoclone_method_noise_benchmark_day0_locked_20260812/results/aggregate/native_method_noise_runs.csv.gz",
+      "destination": "benchmarks/ode_noise/results/aggregate/native_method_noise_runs.csv.gz",
+      "sha256": "e206600a20219a4b8bf11f8213e13ad0909c8ade96c31b33b9c45451d06a984a",
+      "bytes": 153477867,
+      "role": "Complete 1300500-row repeat-level benchmark, including the supplementary abundance-only applicability diagnostic.",
+      "url": "https://github.com/hiromitsuhari/ChronoClone_paper/releases/download/manuscript-v5-20260914/ode_noise_repeat_level_20260812.csv.gz",
+      "api_url": "https://api.github.com/repos/hiromitsuhari/ChronoClone_paper/releases/assets/563855932"
+    }
+  ],
+  "local_note": "Ignored local asset files share storage with unchanged source inputs through hard links; authenticated fetch_assets.py reconstructs ordinary files for a fresh clone. Source labels identify normalized provenance namespaces. The release is public; python scripts/fetch_assets.py --public downloads over HTTPS without GitHub CLI."
+}

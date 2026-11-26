@@ -1,0 +1,101 @@
+program,lineage_bias,adjusted_score_sd
+Interferon Alpha Response,Neutrophil,-0.12138071982810433
+Interferon Gamma Response,Neutrophil,-0.08370349673647888
+Glycolysis,Neutrophil,0.3527765474952603
+Hedgehog Signaling,Neutrophil,0.1030089016793429
+Xenobiotic Metabolism,Neutrophil,0.283403629941179
+Apoptosis,Neutrophil,0.18948604815893455
+mTORC1 Signaling,Neutrophil,0.26777115225127035
+Myc Targets V1,Neutrophil,0.12896729007716512
+Myc Targets V2,Neutrophil,0.20995597486663847
+Unfolded Protein Response,Neutrophil,0.2512954259722179
+Oxidative Phosphorylation,Neutrophil,0.22667406999872697
+Adipogenesis,Neutrophil,0.2769417363559724
+PI3K/AKT/mTOR  Signaling,Neutrophil,0.24618040241644215
+Fatty Acid Metabolism,Neutrophil,0.2757472311847121
+UV Response Up,Neutrophil,0.22577232006365427
+E2F Targets,Neutrophil,0.1109363844285816
+Pperoxisome,Neutrophil,0.25845207995912456
+UV Response Dn,Neutrophil,0.07889176530685488
+heme Metabolism,Neutrophil,0.2441839223063266
+Reactive Oxygen Species Pathway,Neutrophil,0.21126412479450096
+Interferon Alpha Response,Monocyte,-0.35431124846048156
+Interferon Gamma Response,Monocyte,-0.3153481327042732
+Glycolysis,Monocyte,0.05426957105296559
+Hedgehog Signaling,Monocyte,-0.047546954433557165
+Xenobiotic Metabolism,Monocyte,0.006172467410962834
+Apoptosis,Monocyte,-0.03505576084228465
+mTORC1 Signaling,Monocyte,0.1428574945875338
+Myc Targets V1,Monocyte,0.23609059642241453
+Myc Targets V2,Monocyte,0.2082683993501009
+Unfolded Protein Response,Monocyte,0.12048925984327039
+Oxidative Phosphorylation,Monocyte,0.13615431010037532
+Adipogenesis,Monocyte,0.08688853402822341
+PI3K/AKT/mTOR  Signaling,Monocyte,0.017179348949404594
+Fatty Acid Metabolism,Monocyte,0.05439833191293153
+UV Response Up,Monocyte,0.17192180998129836
+E2F Targets,Monocyte,0.19621754749294143
+Pperoxisome,Monocyte,0.0415344907080796
+UV Response Dn,Monocyte,-0.15983068884365934
+heme Metabolism,Monocyte,0.03471181814088259
+Reactive Oxygen Species Pathway,Monocyte,-0.012558972033091836
+Interferon Alpha Response,Erythroid / Mk,0.36054122471910394
+Interferon Gamma Response,Erythroid / Mk,0.3274734221166599
+Glycolysis,Erythroid / Mk,-0.13797888345825005
+Hedgehog Signaling,Erythroid / Mk,0.2655590520654732
+Xenobiotic Metabolism,Erythroid / Mk,-0.04667009615349771
+Apoptosis,Erythroid / Mk,0.0076370804056693775
+mTORC1 Signaling,Erythroid / Mk,-0.17045817300826932
+Myc Targets V1,Erythroid / Mk,-0.19896889555340863
+Myc Targets V2,Erythroid / Mk,-0.22409165464801073
+Unfolded Protein Response,Erythroid / Mk,-0.1704866058202275
+Oxidative Phosphorylation,Erythroid / Mk,-0.1911716787338012
+Adipogenesis,Erythroid / Mk,-0.12117974199953307
+PI3K/AKT/mTOR  Signaling,Erythroid / Mk,-0.16832309416730892
+Fatty Acid Metabolism,Erythroid / Mk,-0.08315725193388324
+UV Response Up,Erythroid / Mk,-0.1264058061316929
+E2F Targets,Erythroid / Mk,-0.19739135937895896
+Pperoxisome,Erythroid / Mk,-0.1334216136652675
+UV Response Dn,Erythroid / Mk,0.22403556804174285
+heme Metabolism,Erythroid / Mk,-0.05585383664709573
+Reactive Oxygen Species Pathway,Erythroid / Mk,-0.16225955180430518
+Interferon Alpha Response,Basophil,-0.08107082890504316
+Interferon Gamma Response,Basophil,-0.17629912472806444
+Glycolysis,Basophil,-0.039077737934991474
+Hedgehog Signaling,Basophil,0.33477473842477545
+Xenobiotic Metabolism,Basophil,-0.2089246713995026
+Apoptosis,Basophil,-0.25678646108772807
+mTORC1 Signaling,Basophil,-0.031472385523262925
+Myc Targets V1,Basophil,0.011043623930562685
+Myc Targets V2,Basophil,-0.012936306494795047
+Unfolded Protein Response,Basophil,0.05007548004897297
+Oxidative Phosphorylation,Basophil,0.040158570441954505
+Adipogenesis,Basophil,-0.0724410292266589
+PI3K/AKT/mTOR  Signaling,Basophil,-0.09640558771388383
+Fatty Acid Metabolism,Basophil,-0.05626697185280072
+UV Response Up,Basophil,-0.03831780749773156
+E2F Targets,Basophil,0.0558770677751392
+Pperoxisome,Basophil,-0.005479032709589549
+UV Response Dn,Basophil,0.0658821158339584
+heme Metabolism,Basophil,-0.1340161065070589
+Reactive Oxygen Species Pathway,Basophil,-0.05182737123911757
+Interferon Alpha Response,Multi-lineage,0.173181965947513
+Interferon Gamma Response,Multi-lineage,0.1565004083424847
+Glycolysis,Multi-lineage,-0.15824357810579065
+Hedgehog Signaling,Multi-lineage,-0.16549335520813246
+Xenobiotic Metabolism,Multi-lineage,-0.09679722693954085
+Apoptosis,Multi-lineage,-0.034522729341744884
+mTORC1 Signaling,Multi-lineage,-0.16095777530777683
+Myc Targets V1,Multi-lineage,-0.1465044359336763
+Myc Targets V2,Multi-lineage,-0.15755748228619587
+Unfolded Protein Response,Multi-lineage,-0.15190954417811336
+Oxidative Phosphorylation,Multi-lineage,-0.14072959866964402
+Adipogenesis,Multi-lineage,-0.14071448925212904
+PI3K/AKT/mTOR  Signaling,Multi-lineage,-0.06217094252240615
+Fatty Acid Metabolism,Multi-lineage,-0.13530138065141778
+UV Response Up,Multi-lineage,-0.17165843375290007
+E2F Targets,Multi-lineage,-0.12040351590658209
+Pperoxisome,Multi-lineage,-0.10989349778218893
+UV Response Dn,Multi-lineage,-0.026186773943727412
+heme Metabolism,Multi-lineage,-0.10384446625540802
+Reactive Oxygen Species Pathway,Multi-lineage,-0.0353613967882474

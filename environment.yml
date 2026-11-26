@@ -1,0 +1,8 @@
+name: chronoclone-paper-review
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.15
+  - pip
+  - pip:
+      - -r requirements-review.txt

@@ -1,0 +1,29 @@
+[
+  {
+    "source_workspace_path": "reference_workspace/data/klein_metaclone_palantir_trajectories.h5ad",
+    "bytes": 372354962,
+    "sha256": "4cb08c12dc70f5c3789a75a09a6399db06b3f6efe18147b9f2cca0908ba93911",
+    "role": "Corrected 9714-cell trajectory source; full expression required for Day2 Hallmark/cNMF recomputation.",
+    "required_for_current_downstream": true,
+    "repository_path": "data/external/weinreb/klein_metaclone_palantir_trajectories.h5ad",
+    "acquisition_status": "Release-managed input; use the repository data acquisition instructions and verify this SHA256."
+  },
+  {
+    "source_workspace_path": "data/interim/klein/20260724_reference_rebuild/source/klein_metaclone.h5ad",
+    "bytes": 367848462,
+    "sha256": "cd2b9e3c986c80c4c3394fb8ad9e6ef4cdf376ba88e94ba273e6a09e012ef099",
+    "role": "Original retained clone assignments and geometry source.",
+    "required_for_current_downstream": false,
+    "repository_path": null,
+    "acquisition_status": "Optional original-reference provenance input, not required for the current conditional v5 downstream analysis; exact deposited-object equivalence remains unverified."
+  },
+  {
+    "source_workspace_path": "data/interim/klein/20260724_reference_rebuild/source/klein_paga.h5ad",
+    "bytes": 3998970995,
+    "sha256": "f36c521bae0c375ba5563ba59d0dfb6d018efbfe9a74e7e1917d6212758642b0",
+    "role": "Upstream CLADES-processed object for the author metacloning notebook.",
+    "required_for_current_downstream": false,
+    "repository_path": null,
+    "acquisition_status": "Optional original-reference provenance input, not required for the current conditional v5 downstream analysis; exact deposited-object equivalence remains unverified."
+  }
+]

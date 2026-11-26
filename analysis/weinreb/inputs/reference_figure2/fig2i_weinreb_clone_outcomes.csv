@@ -1,0 +1,570 @@
+LARRY_ID,metaclone,n_day4_day6_mature_sisters,observed_mature_fates,n_observed_mature_fates,exact_outcome_class,dominant_endpoint,dominant_endpoint_count,dominant_endpoint_fraction_within_clone,dominant_endpoint_tie,n_sisters_Baso,n_sisters_Ccr7_DC,n_sisters_Eos,n_sisters_Erythroid,n_sisters_Lymphoid,n_sisters_Mast,n_sisters_Meg,n_sisters_Monocyte,n_sisters_Neutrophil
+Clone_1219,0,30,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,16,0.5333333333333333,False,0,0,0,0,0,0,0,16,14
+Clone_1261,0,143,Baso;Monocyte;Neutrophil,3,Multi-lineage,Neutrophil,112,0.7832167832167832,False,1,0,0,0,0,0,0,30,112
+Clone_1736,0,6,Monocyte;Neutrophil,2,Multi-lineage,Tie,3,0.5,True,0,0,0,0,0,0,0,3,3
+Clone_1828,0,9,Neutrophil,1,Neutrophil-only,Neutrophil,9,1.0,False,0,0,0,0,0,0,0,0,9
+Clone_190,0,6,Neutrophil,1,Neutrophil-only,Neutrophil,6,1.0,False,0,0,0,0,0,0,0,0,6
+Clone_1989,0,15,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,12,0.8,False,0,0,0,0,0,0,0,3,12
+Clone_2005,0,59,Mast;Monocyte;Neutrophil,3,Multi-lineage,Neutrophil,39,0.6610169491525424,False,0,0,0,0,0,1,0,19,39
+Clone_2224,0,38,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,21,0.5526315789473685,False,0,0,0,0,0,0,0,17,21
+Clone_2402,0,24,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,15,0.625,False,0,0,0,0,0,0,0,15,9
+Clone_2673,0,78,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,44,0.5641025641025641,False,0,0,0,0,0,0,0,44,34
+Clone_2813,0,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2831,0,76,Baso;Eos;Monocyte;Neutrophil,4,Multi-lineage,Neutrophil,60,0.7894736842105263,False,1,0,1,0,0,0,0,14,60
+Clone_2868,0,14,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,13,0.9285714285714286,False,0,0,0,0,0,0,0,1,13
+Clone_2993,0,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_3010,0,5,Neutrophil,1,Neutrophil-only,Neutrophil,5,1.0,False,0,0,0,0,0,0,0,0,5
+Clone_3024,0,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_3165,0,65,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,37,0.5692307692307692,False,0,0,0,0,0,0,0,28,37
+Clone_3345,0,100,Mast;Monocyte;Neutrophil,3,Multi-lineage,Neutrophil,79,0.79,False,0,0,0,0,0,1,0,20,79
+Clone_3469,0,6,Baso;Monocyte;Neutrophil,3,Multi-lineage,Neutrophil,4,0.6666666666666666,False,1,0,0,0,0,0,0,1,4
+Clone_3631,0,25,Mast;Monocyte;Neutrophil,3,Multi-lineage,Monocyte,14,0.56,False,0,0,0,0,0,1,0,14,10
+Clone_3762,0,13,Neutrophil,1,Neutrophil-only,Neutrophil,13,1.0,False,0,0,0,0,0,0,0,0,13
+Clone_3801,0,14,Erythroid;Monocyte;Neutrophil,3,Multi-lineage,Monocyte,7,0.5,False,0,0,0,1,0,0,0,7,6
+Clone_3869,0,75,Mast;Monocyte;Neutrophil,3,Multi-lineage,Neutrophil,52,0.6933333333333334,False,0,0,0,0,0,2,0,21,52
+Clone_407,0,20,Neutrophil,1,Neutrophil-only,Neutrophil,20,1.0,False,0,0,0,0,0,0,0,0,20
+Clone_4141,0,46,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,31,0.6739130434782609,False,0,0,0,0,0,0,0,15,31
+Clone_4248,0,33,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,25,0.7575757575757576,False,0,0,0,0,0,0,0,8,25
+Clone_4321,0,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_4412,0,9,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,5,0.5555555555555556,False,0,0,0,0,0,0,0,4,5
+Clone_4445,0,10,Monocyte;Neutrophil,2,Multi-lineage,Tie,5,0.5,True,0,0,0,0,0,0,0,5,5
+Clone_5097,0,10,Monocyte;Neutrophil,2,Multi-lineage,Tie,5,0.5,True,0,0,0,0,0,0,0,5,5
+Clone_680,0,10,Neutrophil,1,Neutrophil-only,Neutrophil,10,1.0,False,0,0,0,0,0,0,0,0,10
+Clone_704,0,19,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,12,0.631578947368421,False,0,0,0,0,0,0,0,7,12
+Clone_831,0,7,Neutrophil,1,Neutrophil-only,Neutrophil,7,1.0,False,0,0,0,0,0,0,0,0,7
+Clone_841,0,4,Ccr7_DC;Monocyte,2,Multi-lineage,Monocyte,3,0.75,False,0,1,0,0,0,0,0,3,0
+Clone_979,0,10,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,8,0.8,False,0,0,0,0,0,0,0,2,8
+Clone_177,1,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_201,1,6,Neutrophil,1,Neutrophil-only,Neutrophil,6,1.0,False,0,0,0,0,0,0,0,0,6
+Clone_212,1,12,Neutrophil,1,Neutrophil-only,Neutrophil,12,1.0,False,0,0,0,0,0,0,0,0,12
+Clone_2293,1,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2359,1,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2572,1,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2703,1,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2767,1,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_312,1,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_3451,1,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_380,1,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3944,1,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_4185,1,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_5162,1,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_5311,1,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_649,1,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_764,1,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1299,2,5,Baso,1,Baso-only,Baso,5,1.0,False,5,0,0,0,0,0,0,0,0
+Clone_1433,2,3,Baso,1,Baso-only,Baso,3,1.0,False,3,0,0,0,0,0,0,0,0
+Clone_1823,2,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_187,2,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2440,2,5,Baso,1,Baso-only,Baso,5,1.0,False,5,0,0,0,0,0,0,0,0
+Clone_2450,2,1,Baso,1,Baso-only,Baso,1,1.0,False,1,0,0,0,0,0,0,0,0
+Clone_2717,2,8,Neutrophil,1,Neutrophil-only,Neutrophil,8,1.0,False,0,0,0,0,0,0,0,0,8
+Clone_2801,2,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_283,2,7,Baso;Neutrophil,2,Multi-lineage,Baso,6,0.8571428571428571,False,6,0,0,0,0,0,0,0,1
+Clone_3571,2,7,Mast;Neutrophil,2,Multi-lineage,Mast,4,0.5714285714285714,False,0,0,0,0,0,4,0,0,3
+Clone_3611,2,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3719,2,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_3898,2,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4183,2,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4389,2,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4406,2,1,Baso,1,Baso-only,Baso,1,1.0,False,1,0,0,0,0,0,0,0,0
+Clone_5117,2,3,Baso;Monocyte,2,Multi-lineage,Baso,2,0.6666666666666666,False,2,0,0,0,0,0,0,1,0
+Clone_5562,2,3,Baso,1,Baso-only,Baso,3,1.0,False,3,0,0,0,0,0,0,0,0
+Clone_587,2,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_973,2,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_1041,3,12,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,11,0.9166666666666666,False,0,0,0,0,0,0,0,1,11
+Clone_1115,3,3,Baso,1,Baso-only,Baso,3,1.0,False,3,0,0,0,0,0,0,0,0
+Clone_1153,3,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_1282,3,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1587,3,13,Erythroid;Monocyte,2,Multi-lineage,Monocyte,12,0.9230769230769231,False,0,0,0,1,0,0,0,12,0
+Clone_1814,3,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_188,3,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_1884,3,10,Neutrophil,1,Neutrophil-only,Neutrophil,10,1.0,False,0,0,0,0,0,0,0,0,10
+Clone_1885,3,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1906,3,7,Neutrophil,1,Neutrophil-only,Neutrophil,7,1.0,False,0,0,0,0,0,0,0,0,7
+Clone_1933,3,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_2082,3,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_2333,3,10,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,6,0.6,False,0,0,0,0,0,0,0,6,4
+Clone_2448,3,19,Neutrophil,1,Neutrophil-only,Neutrophil,19,1.0,False,0,0,0,0,0,0,0,0,19
+Clone_2601,3,3,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,2,0.6666666666666666,False,0,0,0,0,0,0,0,1,2
+Clone_2689,3,26,Baso;Monocyte;Neutrophil,3,Multi-lineage,Neutrophil,20,0.7692307692307693,False,1,0,0,0,0,0,0,5,20
+Clone_2721,3,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2928,3,9,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,5,0.5555555555555556,False,0,0,0,0,0,0,0,4,5
+Clone_3033,3,7,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,5,0.7142857142857143,False,0,0,0,0,0,0,0,2,5
+Clone_3046,3,7,Monocyte,1,Monocyte-only,Monocyte,7,1.0,False,0,0,0,0,0,0,0,7,0
+Clone_3134,3,6,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,4,0.6666666666666666,False,0,0,0,0,0,0,0,2,4
+Clone_3296,3,26,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,18,0.6923076923076923,False,0,0,0,0,0,0,0,8,18
+Clone_3385,3,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_3485,3,33,Neutrophil,1,Neutrophil-only,Neutrophil,33,1.0,False,0,0,0,0,0,0,0,0,33
+Clone_3504,3,10,Monocyte,1,Monocyte-only,Monocyte,10,1.0,False,0,0,0,0,0,0,0,10,0
+Clone_3529,3,36,Baso;Mast;Monocyte;Neutrophil,4,Multi-lineage,Neutrophil,21,0.5833333333333334,False,1,0,0,0,0,1,0,13,21
+Clone_3570,3,4,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,3,0.75,False,0,0,0,0,0,0,0,3,1
+Clone_3964,3,8,Monocyte,1,Monocyte-only,Monocyte,8,1.0,False,0,0,0,0,0,0,0,8,0
+Clone_4011,3,12,Neutrophil,1,Neutrophil-only,Neutrophil,12,1.0,False,0,0,0,0,0,0,0,0,12
+Clone_4256,3,39,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,33,0.8461538461538461,False,0,0,0,0,0,0,0,33,6
+Clone_4279,3,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_4308,3,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_4484,3,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_5012,3,27,Baso;Neutrophil,2,Multi-lineage,Neutrophil,15,0.5555555555555556,False,12,0,0,0,0,0,0,0,15
+Clone_5014,3,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_5015,3,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_529,3,27,Monocyte,1,Monocyte-only,Monocyte,27,1.0,False,0,0,0,0,0,0,0,27,0
+Clone_5293,3,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5313,3,20,Baso;Neutrophil,2,Multi-lineage,Neutrophil,18,0.9,False,2,0,0,0,0,0,0,0,18
+Clone_5387,3,6,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,5,0.8333333333333334,False,0,0,0,0,0,0,0,5,1
+Clone_5401,3,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_5412,3,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5492,3,15,Neutrophil,1,Neutrophil-only,Neutrophil,15,1.0,False,0,0,0,0,0,0,0,0,15
+Clone_5657,3,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_633,3,14,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,11,0.7857142857142857,False,0,0,0,0,0,0,0,3,11
+Clone_673,3,35,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,24,0.6857142857142857,False,0,0,0,0,0,0,0,11,24
+Clone_748,3,6,Neutrophil,1,Neutrophil-only,Neutrophil,6,1.0,False,0,0,0,0,0,0,0,0,6
+Clone_830,3,9,Monocyte,1,Monocyte-only,Monocyte,9,1.0,False,0,0,0,0,0,0,0,9,0
+Clone_922,3,18,Neutrophil,1,Neutrophil-only,Neutrophil,18,1.0,False,0,0,0,0,0,0,0,0,18
+Clone_988,3,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1014,4,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1112,4,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1237,4,3,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,2,0.6666666666666666,False,0,0,0,0,0,0,0,2,1
+Clone_1696,4,2,Baso,1,Baso-only,Baso,2,1.0,False,2,0,0,0,0,0,0,0,0
+Clone_197,4,1,Lymphoid,1,Lymphoid-only,Lymphoid,1,1.0,False,0,0,0,0,1,0,0,0,0
+Clone_2343,4,3,Eos;Neutrophil,2,Multi-lineage,Eos,2,0.6666666666666666,False,0,0,2,0,0,0,0,0,1
+Clone_2599,4,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2636,4,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2890,4,3,Baso,1,Baso-only,Baso,3,1.0,False,3,0,0,0,0,0,0,0,0
+Clone_2899,4,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_3203,4,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3277,4,4,Lymphoid;Monocyte,2,Multi-lineage,Lymphoid,3,0.75,False,0,0,0,0,3,0,0,1,0
+Clone_3309,4,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3492,4,7,Neutrophil,1,Neutrophil-only,Neutrophil,7,1.0,False,0,0,0,0,0,0,0,0,7
+Clone_3746,4,3,Lymphoid,1,Lymphoid-only,Lymphoid,3,1.0,False,0,0,0,0,3,0,0,0,0
+Clone_3838,4,1,Lymphoid,1,Lymphoid-only,Lymphoid,1,1.0,False,0,0,0,0,1,0,0,0,0
+Clone_444,4,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4480,4,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4947,4,1,Lymphoid,1,Lymphoid-only,Lymphoid,1,1.0,False,0,0,0,0,1,0,0,0,0
+Clone_5617,4,10,Baso;Eos;Neutrophil,3,Multi-lineage,Eos,4,0.4,False,3,0,4,0,0,0,0,0,3
+Clone_958,4,17,Meg;Neutrophil,2,Multi-lineage,Meg,13,0.7647058823529411,False,0,0,0,0,0,0,13,0,4
+Clone_125,5,17,Neutrophil,1,Neutrophil-only,Neutrophil,17,1.0,False,0,0,0,0,0,0,0,0,17
+Clone_1255,5,3,Ccr7_DC;Neutrophil,2,Multi-lineage,Neutrophil,2,0.6666666666666666,False,0,1,0,0,0,0,0,0,2
+Clone_1489,5,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_159,5,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_163,5,26,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,14,0.5384615384615384,False,0,0,0,0,0,0,0,12,14
+Clone_1648,5,6,Baso;Neutrophil,2,Multi-lineage,Tie,3,0.5,True,3,0,0,0,0,0,0,0,3
+Clone_2054,5,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2209,5,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2240,5,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_2291,5,7,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,5,0.7142857142857143,False,0,0,0,0,0,0,0,5,2
+Clone_2634,5,7,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,5,0.7142857142857143,False,0,0,0,0,0,0,0,2,5
+Clone_2821,5,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2905,5,17,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,15,0.8823529411764706,False,0,0,0,0,0,0,0,2,15
+Clone_3319,5,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_3363,5,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_3562,5,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_3795,5,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_4007,5,3,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,2,0.6666666666666666,False,0,0,0,0,0,0,0,1,2
+Clone_417,5,38,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,28,0.7368421052631579,False,0,0,0,0,0,0,0,10,28
+Clone_4645,5,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4646,5,6,Monocyte;Neutrophil,2,Multi-lineage,Tie,3,0.5,True,0,0,0,0,0,0,0,3,3
+Clone_4674,5,9,Neutrophil,1,Neutrophil-only,Neutrophil,9,1.0,False,0,0,0,0,0,0,0,0,9
+Clone_4751,5,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_5803,5,7,Neutrophil,1,Neutrophil-only,Neutrophil,7,1.0,False,0,0,0,0,0,0,0,0,7
+Clone_996,5,21,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,14,0.6666666666666666,False,0,0,0,0,0,0,0,7,14
+Clone_1198,6,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_1300,6,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_1363,6,9,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,7,0.7777777777777778,False,0,0,0,0,0,0,0,7,2
+Clone_1667,6,14,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,13,0.9285714285714286,False,0,0,0,0,0,0,0,13,1
+Clone_2047,6,10,Monocyte,1,Monocyte-only,Monocyte,10,1.0,False,0,0,0,0,0,0,0,10,0
+Clone_2225,6,22,Monocyte,1,Monocyte-only,Monocyte,22,1.0,False,0,0,0,0,0,0,0,22,0
+Clone_239,6,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_2437,6,25,Monocyte,1,Monocyte-only,Monocyte,25,1.0,False,0,0,0,0,0,0,0,25,0
+Clone_2497,6,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_2542,6,6,Monocyte,1,Monocyte-only,Monocyte,6,1.0,False,0,0,0,0,0,0,0,6,0
+Clone_2569,6,29,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,25,0.8620689655172413,False,0,0,0,0,0,0,0,25,4
+Clone_2577,6,18,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,17,0.9444444444444444,False,0,0,0,0,0,0,0,17,1
+Clone_2742,6,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_277,6,10,Monocyte,1,Monocyte-only,Monocyte,10,1.0,False,0,0,0,0,0,0,0,10,0
+Clone_3708,6,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_3731,6,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_3906,6,12,Monocyte,1,Monocyte-only,Monocyte,12,1.0,False,0,0,0,0,0,0,0,12,0
+Clone_4178,6,6,Monocyte,1,Monocyte-only,Monocyte,6,1.0,False,0,0,0,0,0,0,0,6,0
+Clone_4195,6,9,Monocyte,1,Monocyte-only,Monocyte,9,1.0,False,0,0,0,0,0,0,0,9,0
+Clone_4278,6,9,Monocyte,1,Monocyte-only,Monocyte,9,1.0,False,0,0,0,0,0,0,0,9,0
+Clone_4411,6,10,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,9,0.9,False,0,0,0,0,0,0,0,9,1
+Clone_4485,6,10,Monocyte,1,Monocyte-only,Monocyte,10,1.0,False,0,0,0,0,0,0,0,10,0
+Clone_4589,6,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_5057,6,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_5083,6,3,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,2,0.6666666666666666,False,0,0,0,0,0,0,0,2,1
+Clone_5278,6,16,Monocyte,1,Monocyte-only,Monocyte,16,1.0,False,0,0,0,0,0,0,0,16,0
+Clone_5355,6,7,Monocyte,1,Monocyte-only,Monocyte,7,1.0,False,0,0,0,0,0,0,0,7,0
+Clone_5405,6,7,Monocyte,1,Monocyte-only,Monocyte,7,1.0,False,0,0,0,0,0,0,0,7,0
+Clone_5413,6,10,Monocyte,1,Monocyte-only,Monocyte,10,1.0,False,0,0,0,0,0,0,0,10,0
+Clone_5713,6,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_67,6,51,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,47,0.9215686274509803,False,0,0,0,0,0,0,0,47,4
+Clone_838,6,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_892,6,9,Monocyte,1,Monocyte-only,Monocyte,9,1.0,False,0,0,0,0,0,0,0,9,0
+Clone_1019,7,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_1272,7,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_13,7,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_1348,7,4,Monocyte;Neutrophil,2,Multi-lineage,Tie,2,0.5,True,0,0,0,0,0,0,0,2,2
+Clone_166,7,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_179,7,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_2289,7,6,Monocyte,1,Monocyte-only,Monocyte,6,1.0,False,0,0,0,0,0,0,0,6,0
+Clone_232,7,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_260,7,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_3007,7,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_3128,7,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_3325,7,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_3491,7,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_3609,7,3,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,2,0.6666666666666666,False,0,0,0,0,0,0,0,2,1
+Clone_3835,7,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_3858,7,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4024,7,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_4173,7,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_4333,7,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_4499,7,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_4719,7,7,Monocyte,1,Monocyte-only,Monocyte,7,1.0,False,0,0,0,0,0,0,0,7,0
+Clone_4748,7,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_743,7,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_1066,8,24,Monocyte,1,Monocyte-only,Monocyte,24,1.0,False,0,0,0,0,0,0,0,24,0
+Clone_134,8,6,Monocyte,1,Monocyte-only,Monocyte,6,1.0,False,0,0,0,0,0,0,0,6,0
+Clone_1546,8,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_1597,8,21,Monocyte,1,Monocyte-only,Monocyte,21,1.0,False,0,0,0,0,0,0,0,21,0
+Clone_1926,8,23,Monocyte,1,Monocyte-only,Monocyte,23,1.0,False,0,0,0,0,0,0,0,23,0
+Clone_2462,8,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_251,8,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_297,8,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3000,8,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_3200,8,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_3397,8,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3587,8,9,Monocyte,1,Monocyte-only,Monocyte,9,1.0,False,0,0,0,0,0,0,0,9,0
+Clone_3667,8,6,Monocyte;Neutrophil,2,Multi-lineage,Tie,3,0.5,True,0,0,0,0,0,0,0,3,3
+Clone_375,8,8,Monocyte,1,Monocyte-only,Monocyte,8,1.0,False,0,0,0,0,0,0,0,8,0
+Clone_3759,8,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_4003,8,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_4150,8,6,Monocyte,1,Monocyte-only,Monocyte,6,1.0,False,0,0,0,0,0,0,0,6,0
+Clone_4287,8,15,Lymphoid;Monocyte,2,Multi-lineage,Monocyte,14,0.9333333333333333,False,0,0,0,0,1,0,0,14,0
+Clone_4323,8,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_4358,8,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_4368,8,14,Monocyte,1,Monocyte-only,Monocyte,14,1.0,False,0,0,0,0,0,0,0,14,0
+Clone_4396,8,6,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,5,0.8333333333333334,False,0,0,0,0,0,0,0,5,1
+Clone_4857,8,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4868,8,9,Monocyte,1,Monocyte-only,Monocyte,9,1.0,False,0,0,0,0,0,0,0,9,0
+Clone_4872,8,12,Monocyte,1,Monocyte-only,Monocyte,12,1.0,False,0,0,0,0,0,0,0,12,0
+Clone_4965,8,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5005,8,13,Monocyte,1,Monocyte-only,Monocyte,13,1.0,False,0,0,0,0,0,0,0,13,0
+Clone_5091,8,26,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,23,0.8846153846153846,False,0,0,0,0,0,0,0,23,3
+Clone_5415,8,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5498,8,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_5512,8,7,Monocyte,1,Monocyte-only,Monocyte,7,1.0,False,0,0,0,0,0,0,0,7,0
+Clone_5699,8,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_641,8,8,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,7,0.875,False,0,0,0,0,0,0,0,7,1
+Clone_648,8,4,Lymphoid,1,Lymphoid-only,Lymphoid,4,1.0,False,0,0,0,0,4,0,0,0,0
+Clone_684,8,16,Monocyte,1,Monocyte-only,Monocyte,16,1.0,False,0,0,0,0,0,0,0,16,0
+Clone_746,8,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_932,8,24,Meg;Monocyte;Neutrophil,3,Multi-lineage,Monocyte,13,0.5416666666666666,False,0,0,0,0,0,0,1,13,10
+Clone_99,8,3,Mast;Monocyte,2,Multi-lineage,Monocyte,2,0.6666666666666666,False,0,0,0,0,0,1,0,2,0
+Clone_1074,9,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_1159,9,3,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,2,0.6666666666666666,False,0,0,0,0,0,0,0,1,2
+Clone_1292,9,3,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,2,0.6666666666666666,False,0,0,0,0,0,0,0,1,2
+Clone_1339,9,12,Baso;Neutrophil,2,Multi-lineage,Neutrophil,9,0.75,False,3,0,0,0,0,0,0,0,9
+Clone_1759,9,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_1879,9,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_1923,9,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_2021,9,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2156,9,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2161,9,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_2334,9,8,Neutrophil,1,Neutrophil-only,Neutrophil,8,1.0,False,0,0,0,0,0,0,0,0,8
+Clone_2727,9,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2897,9,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2919,9,5,Neutrophil,1,Neutrophil-only,Neutrophil,5,1.0,False,0,0,0,0,0,0,0,0,5
+Clone_3120,9,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_3207,9,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_3231,9,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_3260,9,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_338,9,10,Neutrophil,1,Neutrophil-only,Neutrophil,10,1.0,False,0,0,0,0,0,0,0,0,10
+Clone_3633,9,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_4647,9,6,Neutrophil,1,Neutrophil-only,Neutrophil,6,1.0,False,0,0,0,0,0,0,0,0,6
+Clone_4757,9,3,Meg;Neutrophil,2,Multi-lineage,Neutrophil,2,0.6666666666666666,False,0,0,0,0,0,0,1,0,2
+Clone_4836,9,11,Neutrophil,1,Neutrophil-only,Neutrophil,11,1.0,False,0,0,0,0,0,0,0,0,11
+Clone_4877,9,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_5040,9,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_5419,9,5,Neutrophil,1,Neutrophil-only,Neutrophil,5,1.0,False,0,0,0,0,0,0,0,0,5
+Clone_5438,9,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_625,9,5,Neutrophil,1,Neutrophil-only,Neutrophil,5,1.0,False,0,0,0,0,0,0,0,0,5
+Clone_725,9,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_1247,10,3,Baso,1,Baso-only,Baso,3,1.0,False,3,0,0,0,0,0,0,0,0
+Clone_142,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1468,10,1,Meg,1,Meg-only,Meg,1,1.0,False,0,0,0,0,0,0,1,0,0
+Clone_1522,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1631,10,7,Baso;Mast,2,Multi-lineage,Baso,5,0.7142857142857143,False,5,0,0,0,0,2,0,0,0
+Clone_2263,10,2,Meg,1,Meg-only,Meg,2,1.0,False,0,0,0,0,0,0,2,0,0
+Clone_227,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2382,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2433,10,11,Baso;Neutrophil,2,Multi-lineage,Baso,10,0.9090909090909091,False,10,0,0,0,0,0,0,0,1
+Clone_2488,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2838,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3237,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3703,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3790,10,13,Meg,1,Meg-only,Meg,13,1.0,False,0,0,0,0,0,0,13,0,0
+Clone_4039,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4086,10,2,Meg,1,Meg-only,Meg,2,1.0,False,0,0,0,0,0,0,2,0,0
+Clone_4663,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4744,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4827,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4865,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5030,10,3,Meg,1,Meg-only,Meg,3,1.0,False,0,0,0,0,0,0,3,0,0
+Clone_5084,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5203,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5408,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5833,10,2,Baso,1,Baso-only,Baso,2,1.0,False,2,0,0,0,0,0,0,0,0
+Clone_674,10,1,Meg,1,Meg-only,Meg,1,1.0,False,0,0,0,0,0,0,1,0,0
+Clone_787,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_825,10,5,Baso,1,Baso-only,Baso,5,1.0,False,5,0,0,0,0,0,0,0,0
+Clone_992,10,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1036,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1192,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1552,11,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_1601,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2043,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2749,11,2,Meg;Monocyte,2,Multi-lineage,Tie,1,0.5,True,0,0,0,0,0,0,1,1,0
+Clone_3084,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3258,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3398,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3574,11,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_4371,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4581,11,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_4678,11,4,Baso;Neutrophil,2,Multi-lineage,Neutrophil,3,0.75,False,1,0,0,0,0,0,0,0,3
+Clone_4796,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4846,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4862,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4890,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4941,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4962,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5143,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5291,11,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_5319,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5500,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_60,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_806,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_878,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_951,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_991,11,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1015,12,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_1555,12,24,Monocyte,1,Monocyte-only,Monocyte,24,1.0,False,0,0,0,0,0,0,0,24,0
+Clone_1792,12,6,Monocyte,1,Monocyte-only,Monocyte,6,1.0,False,0,0,0,0,0,0,0,6,0
+Clone_1899,12,34,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,30,0.8823529411764706,False,0,0,0,0,0,0,0,30,4
+Clone_1975,12,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_2042,12,17,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,15,0.8823529411764706,False,0,0,0,0,0,0,0,15,2
+Clone_210,12,34,Monocyte,1,Monocyte-only,Monocyte,34,1.0,False,0,0,0,0,0,0,0,34,0
+Clone_2187,12,19,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,15,0.7894736842105263,False,0,0,0,0,0,0,0,15,4
+Clone_2258,12,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_269,12,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_2791,12,36,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,32,0.8888888888888888,False,0,0,0,0,0,0,0,32,4
+Clone_3004,12,20,Monocyte,1,Monocyte-only,Monocyte,20,1.0,False,0,0,0,0,0,0,0,20,0
+Clone_3095,12,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_3156,12,8,Monocyte,1,Monocyte-only,Monocyte,8,1.0,False,0,0,0,0,0,0,0,8,0
+Clone_3261,12,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_333,12,6,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,5,0.8333333333333334,False,0,0,0,0,0,0,0,5,1
+Clone_336,12,25,Monocyte,1,Monocyte-only,Monocyte,25,1.0,False,0,0,0,0,0,0,0,25,0
+Clone_3425,12,7,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,4,0.5714285714285714,False,0,0,0,0,0,0,0,3,4
+Clone_3459,12,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_3541,12,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_3591,12,6,Monocyte,1,Monocyte-only,Monocyte,6,1.0,False,0,0,0,0,0,0,0,6,0
+Clone_3605,12,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_3621,12,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_3696,12,11,Monocyte,1,Monocyte-only,Monocyte,11,1.0,False,0,0,0,0,0,0,0,11,0
+Clone_3704,12,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_3709,12,8,Monocyte,1,Monocyte-only,Monocyte,8,1.0,False,0,0,0,0,0,0,0,8,0
+Clone_3959,12,15,Monocyte,1,Monocyte-only,Monocyte,15,1.0,False,0,0,0,0,0,0,0,15,0
+Clone_3981,12,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_4117,12,3,Monocyte,1,Monocyte-only,Monocyte,3,1.0,False,0,0,0,0,0,0,0,3,0
+Clone_4192,12,13,Monocyte,1,Monocyte-only,Monocyte,13,1.0,False,0,0,0,0,0,0,0,13,0
+Clone_4304,12,10,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,7,0.7,False,0,0,0,0,0,0,0,7,3
+Clone_4709,12,10,Monocyte,1,Monocyte-only,Monocyte,10,1.0,False,0,0,0,0,0,0,0,10,0
+Clone_5072,12,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_5131,12,2,Monocyte,1,Monocyte-only,Monocyte,2,1.0,False,0,0,0,0,0,0,0,2,0
+Clone_5196,12,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_5764,12,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_591,12,22,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,19,0.8636363636363636,False,0,0,0,0,0,0,0,19,3
+Clone_606,12,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_647,12,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_668,12,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_950,12,4,Monocyte,1,Monocyte-only,Monocyte,4,1.0,False,0,0,0,0,0,0,0,4,0
+Clone_1029,13,15,Baso,1,Baso-only,Baso,15,1.0,False,15,0,0,0,0,0,0,0,0
+Clone_1030,13,3,Baso,1,Baso-only,Baso,3,1.0,False,3,0,0,0,0,0,0,0,0
+Clone_105,13,2,Baso,1,Baso-only,Baso,2,1.0,False,2,0,0,0,0,0,0,0,0
+Clone_1150,13,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1234,13,22,Baso,1,Baso-only,Baso,22,1.0,False,22,0,0,0,0,0,0,0,0
+Clone_15,13,13,Baso,1,Baso-only,Baso,13,1.0,False,13,0,0,0,0,0,0,0,0
+Clone_1532,13,23,Baso,1,Baso-only,Baso,23,1.0,False,23,0,0,0,0,0,0,0,0
+Clone_1557,13,15,Baso;Neutrophil,2,Multi-lineage,Baso,12,0.8,False,12,0,0,0,0,0,0,0,3
+Clone_1623,13,22,Baso,1,Baso-only,Baso,22,1.0,False,22,0,0,0,0,0,0,0,0
+Clone_195,13,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2116,13,7,Baso,1,Baso-only,Baso,7,1.0,False,7,0,0,0,0,0,0,0,0
+Clone_2151,13,5,Baso,1,Baso-only,Baso,5,1.0,False,5,0,0,0,0,0,0,0,0
+Clone_2284,13,7,Baso,1,Baso-only,Baso,7,1.0,False,7,0,0,0,0,0,0,0,0
+Clone_2602,13,4,Baso;Neutrophil,2,Multi-lineage,Neutrophil,3,0.75,False,1,0,0,0,0,0,0,0,3
+Clone_2744,13,18,Baso,1,Baso-only,Baso,18,1.0,False,18,0,0,0,0,0,0,0,0
+Clone_3135,13,1,Baso,1,Baso-only,Baso,1,1.0,False,1,0,0,0,0,0,0,0,0
+Clone_3254,13,2,Baso,1,Baso-only,Baso,2,1.0,False,2,0,0,0,0,0,0,0,0
+Clone_3372,13,9,Baso,1,Baso-only,Baso,9,1.0,False,9,0,0,0,0,0,0,0,0
+Clone_3378,13,13,Baso,1,Baso-only,Baso,13,1.0,False,13,0,0,0,0,0,0,0,0
+Clone_3421,13,2,Baso,1,Baso-only,Baso,2,1.0,False,2,0,0,0,0,0,0,0,0
+Clone_3558,13,11,Baso,1,Baso-only,Baso,11,1.0,False,11,0,0,0,0,0,0,0,0
+Clone_361,13,1,Baso,1,Baso-only,Baso,1,1.0,False,1,0,0,0,0,0,0,0,0
+Clone_3767,13,9,Baso,1,Baso-only,Baso,9,1.0,False,9,0,0,0,0,0,0,0,0
+Clone_3789,13,4,Baso,1,Baso-only,Baso,4,1.0,False,4,0,0,0,0,0,0,0,0
+Clone_4115,13,10,Baso,1,Baso-only,Baso,10,1.0,False,10,0,0,0,0,0,0,0,0
+Clone_4419,13,23,Baso;Eos,2,Multi-lineage,Baso,22,0.9565217391304348,False,22,0,1,0,0,0,0,0,0
+Clone_4549,13,5,Baso,1,Baso-only,Baso,5,1.0,False,5,0,0,0,0,0,0,0,0
+Clone_4661,13,8,Baso,1,Baso-only,Baso,8,1.0,False,8,0,0,0,0,0,0,0,0
+Clone_5527,13,6,Baso,1,Baso-only,Baso,6,1.0,False,6,0,0,0,0,0,0,0,0
+Clone_5626,13,16,Baso,1,Baso-only,Baso,16,1.0,False,16,0,0,0,0,0,0,0,0
+Clone_5663,13,41,Baso;Monocyte,2,Multi-lineage,Baso,40,0.975609756097561,False,40,0,0,0,0,0,0,1,0
+Clone_5734,13,3,Baso,1,Baso-only,Baso,3,1.0,False,3,0,0,0,0,0,0,0,0
+Clone_636,13,11,Baso,1,Baso-only,Baso,11,1.0,False,11,0,0,0,0,0,0,0,0
+Clone_659,13,6,Baso,1,Baso-only,Baso,6,1.0,False,6,0,0,0,0,0,0,0,0
+Clone_712,13,16,Baso,1,Baso-only,Baso,16,1.0,False,16,0,0,0,0,0,0,0,0
+Clone_1212,14,27,Mast;Neutrophil,2,Multi-lineage,Neutrophil,26,0.9629629629629629,False,0,0,0,0,0,1,0,0,26
+Clone_1452,14,5,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,4,0.8,False,0,0,0,0,0,0,0,1,4
+Clone_1691,14,34,Neutrophil,1,Neutrophil-only,Neutrophil,34,1.0,False,0,0,0,0,0,0,0,0,34
+Clone_1782,14,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_1839,14,8,Neutrophil,1,Neutrophil-only,Neutrophil,8,1.0,False,0,0,0,0,0,0,0,0,8
+Clone_2536,14,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_2618,14,19,Baso;Neutrophil,2,Multi-lineage,Neutrophil,18,0.9473684210526315,False,1,0,0,0,0,0,0,0,18
+Clone_2811,14,68,Meg;Monocyte;Neutrophil,3,Multi-lineage,Neutrophil,66,0.9705882352941176,False,0,0,0,0,0,0,1,1,66
+Clone_2877,14,7,Neutrophil,1,Neutrophil-only,Neutrophil,7,1.0,False,0,0,0,0,0,0,0,0,7
+Clone_2884,14,9,Neutrophil,1,Neutrophil-only,Neutrophil,9,1.0,False,0,0,0,0,0,0,0,0,9
+Clone_3016,14,13,Neutrophil,1,Neutrophil-only,Neutrophil,13,1.0,False,0,0,0,0,0,0,0,0,13
+Clone_3087,14,5,Neutrophil,1,Neutrophil-only,Neutrophil,5,1.0,False,0,0,0,0,0,0,0,0,5
+Clone_3196,14,6,Neutrophil,1,Neutrophil-only,Neutrophil,6,1.0,False,0,0,0,0,0,0,0,0,6
+Clone_3206,14,8,Neutrophil,1,Neutrophil-only,Neutrophil,8,1.0,False,0,0,0,0,0,0,0,0,8
+Clone_3301,14,42,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,40,0.9523809523809523,False,0,0,0,0,0,0,0,2,40
+Clone_3324,14,28,Neutrophil,1,Neutrophil-only,Neutrophil,28,1.0,False,0,0,0,0,0,0,0,0,28
+Clone_3424,14,7,Neutrophil,1,Neutrophil-only,Neutrophil,7,1.0,False,0,0,0,0,0,0,0,0,7
+Clone_4300,14,10,Neutrophil,1,Neutrophil-only,Neutrophil,10,1.0,False,0,0,0,0,0,0,0,0,10
+Clone_4392,14,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_4689,14,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_4935,14,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_5265,14,7,Neutrophil,1,Neutrophil-only,Neutrophil,7,1.0,False,0,0,0,0,0,0,0,0,7
+Clone_56,14,15,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,13,0.8666666666666667,False,0,0,0,0,0,0,0,2,13
+Clone_5744,14,6,Neutrophil,1,Neutrophil-only,Neutrophil,6,1.0,False,0,0,0,0,0,0,0,0,6
+Clone_614,14,6,Neutrophil,1,Neutrophil-only,Neutrophil,6,1.0,False,0,0,0,0,0,0,0,0,6
+Clone_82,14,9,Neutrophil,1,Neutrophil-only,Neutrophil,9,1.0,False,0,0,0,0,0,0,0,0,9
+Clone_1368,16,4,Baso;Neutrophil,2,Multi-lineage,Neutrophil,3,0.75,False,1,0,0,0,0,0,0,0,3
+Clone_1612,16,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_1965,16,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2190,16,48,Mast;Meg;Neutrophil,3,Multi-lineage,Neutrophil,46,0.9583333333333334,False,0,0,0,0,0,1,1,0,46
+Clone_2694,16,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2812,16,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2946,16,4,Monocyte;Neutrophil,2,Multi-lineage,Tie,2,0.5,True,0,0,0,0,0,0,0,2,2
+Clone_3807,16,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_3816,16,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_435,16,14,Neutrophil,1,Neutrophil-only,Neutrophil,14,1.0,False,0,0,0,0,0,0,0,0,14
+Clone_4397,16,6,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,5,0.8333333333333334,False,0,0,0,0,0,0,0,1,5
+Clone_501,16,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_503,16,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_506,16,5,Neutrophil,1,Neutrophil-only,Neutrophil,5,1.0,False,0,0,0,0,0,0,0,0,5
+Clone_5075,16,20,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,19,0.95,False,0,0,0,0,0,0,0,1,19
+Clone_508,16,4,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,3,0.75,False,0,0,0,0,0,0,0,1,3
+Clone_5380,16,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_5436,16,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_5502,16,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_5684,16,10,Neutrophil,1,Neutrophil-only,Neutrophil,10,1.0,False,0,0,0,0,0,0,0,0,10
+Clone_1031,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1458,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1501,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1770,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2114,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_218,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2412,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3161,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3262,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3460,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3579,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3599,17,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_3634,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3686,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4075,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4098,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4415,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4547,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4673,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5516,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_94,17,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1253,18,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_1358,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1488,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_157,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1619,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2092,18,10,Baso;Neutrophil,2,Multi-lineage,Baso,9,0.9,False,9,0,0,0,0,0,0,0,1
+Clone_21,18,5,Monocyte,1,Monocyte-only,Monocyte,5,1.0,False,0,0,0,0,0,0,0,5,0
+Clone_2115,18,19,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,13,0.6842105263157895,False,0,0,0,0,0,0,0,6,13
+Clone_2323,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2362,18,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2489,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2774,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_278,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2913,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3069,18,9,Monocyte,1,Monocyte-only,Monocyte,9,1.0,False,0,0,0,0,0,0,0,9,0
+Clone_3164,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3498,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3567,18,16,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,14,0.875,False,0,0,0,0,0,0,0,14,2
+Clone_3569,18,13,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,8,0.6153846153846154,False,0,0,0,0,0,0,0,8,5
+Clone_3757,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_38,18,8,Monocyte;Neutrophil,2,Multi-lineage,Monocyte,7,0.875,False,0,0,0,0,0,0,0,7,1
+Clone_3812,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3873,18,1,Baso,1,Baso-only,Baso,1,1.0,False,1,0,0,0,0,0,0,0,0
+Clone_399,18,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_4002,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4145,18,6,Neutrophil,1,Neutrophil-only,Neutrophil,6,1.0,False,0,0,0,0,0,0,0,0,6
+Clone_4520,18,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_4607,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5028,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5211,18,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_5282,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5384,18,3,Monocyte;Neutrophil,2,Multi-lineage,Neutrophil,2,0.6666666666666666,False,0,0,0,0,0,0,0,1,2
+Clone_5566,18,2,Baso,1,Baso-only,Baso,2,1.0,False,2,0,0,0,0,0,0,0,0
+Clone_5700,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_574,18,4,Monocyte;Neutrophil,2,Multi-lineage,Tie,2,0.5,True,0,0,0,0,0,0,0,2,2
+Clone_613,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_678,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_981,18,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1134,22,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_1416,22,8,Neutrophil,1,Neutrophil-only,Neutrophil,8,1.0,False,0,0,0,0,0,0,0,0,8
+Clone_1582,22,7,Neutrophil,1,Neutrophil-only,Neutrophil,7,1.0,False,0,0,0,0,0,0,0,0,7
+Clone_2139,22,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_2143,22,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2376,22,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_2575,22,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_2788,22,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_2996,22,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_3824,22,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_4123,22,15,Neutrophil,1,Neutrophil-only,Neutrophil,15,1.0,False,0,0,0,0,0,0,0,0,15
+Clone_4360,22,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_4365,22,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_4428,22,1,Neutrophil,1,Neutrophil-only,Neutrophil,1,1.0,False,0,0,0,0,0,0,0,0,1
+Clone_4518,22,2,Neutrophil,1,Neutrophil-only,Neutrophil,2,1.0,False,0,0,0,0,0,0,0,0,2
+Clone_452,22,3,Neutrophil,1,Neutrophil-only,Neutrophil,3,1.0,False,0,0,0,0,0,0,0,0,3
+Clone_50,22,4,Neutrophil,1,Neutrophil-only,Neutrophil,4,1.0,False,0,0,0,0,0,0,0,0,4
+Clone_1094,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1388,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1490,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_1767,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2368,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2413,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_2661,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3348,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3497,23,2,Meg;Neutrophil,2,Multi-lineage,Tie,1,0.5,True,0,0,0,0,0,0,1,0,1
+Clone_3622,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3916,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_3996,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4400,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4821,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4847,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4906,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_4987,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_5001,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_628,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_658,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_762,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0
+Clone_807,23,1,Monocyte,1,Monocyte-only,Monocyte,1,1.0,False,0,0,0,0,0,0,0,1,0
+Clone_947,23,0,,0,No mature endpoint observed,Missing,0,,False,0,0,0,0,0,0,0,0,0

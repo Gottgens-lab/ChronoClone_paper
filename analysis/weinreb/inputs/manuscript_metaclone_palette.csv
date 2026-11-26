@@ -1,0 +1,21 @@
+metaclone,label,color,family,display_order
+1,MC1,#f7754f,Neutrophil,1
+22,MC22,#f565cc,Neutrophil,2
+16,MC16,#a48cf4,Neutrophil,3
+14,MC14,#6e9bf4,Neutrophil,4
+9,MC9,#35ae93,Neutrophil,5
+6,MC6,#77ab31,Monocyte,6
+8,MC8,#33b07a,Monocyte,7
+7,MC7,#31b33e,Monocyte,8
+12,MC12,#38a9c5,Monocyte,9
+10,MC10,#36ada4,Erythroid / Mk,10
+17,MC17,#cc7af4,Erythroid / Mk,11
+23,MC23,#f66bad,Erythroid / Mk,12
+13,MC13,#3aa5df,Basophil,13
+0,MC0,#f77189,Multilineage,14
+2,MC2,#dc8932,Multilineage,15
+5,MC5,#97a431,Multilineage,16
+3,MC3,#c39532,Multilineage,17
+18,MC18,#f45cf2,Multilineage,18
+4,MC4,#ae9d31,Multilineage,19
+11,MC11,#37abb4,Multilineage,20

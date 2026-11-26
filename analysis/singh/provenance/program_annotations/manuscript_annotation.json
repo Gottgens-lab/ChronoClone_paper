@@ -1,0 +1,582 @@
+{
+  "programs": [
+    {
+      "program": "P1",
+      "short_label": "HSC-associated regulation",
+      "anchor_genes": [
+        "Hlf",
+        "Mecom",
+        "Procr"
+      ],
+      "additional_genes": [
+        "Ly6a",
+        "Prdm16",
+        "Rora",
+        "Sox4"
+      ],
+      "interpretation": "Hlf, Mecom, Procr and Ly6a support an HSC-associated regulatory/marker mixture within the pooled HSPC compartment.",
+      "caveat": "Not a purified HSC identity, measured quiescence, self-renewal assay, or a new HSC/MPP subdivision. Adgrl4 and Nrxn1 contribute strongly and the spectrum is mixed.",
+      "primary_references": [
+        {
+          "authors": "Komorowska, K., Doyle, A., Wahlestedt, M., et al.",
+          "year": 2017,
+          "title": "Hepatic Leukemia Factor Maintains Quiescence of Hematopoietic Stem Cells and Protects the Stem Cell Pool during Regeneration",
+          "doi": "10.1016/j.celrep.2017.11.084",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29262330/",
+          "citation": "Komorowska, K., Doyle, A., Wahlestedt, M., et al. (2017). Hepatic Leukemia Factor Maintains Quiescence of Hematopoietic Stem Cells and Protects the Stem Cell Pool during Regeneration. Cell Reports 21, 3514\u20133523.",
+          "gene_level_support": "Mouse Hlf deletion impaired regenerative HSC maintenance and reduced quiescence. This supports Hlf-associated context, not quiescence measurements in Singh cells."
+        },
+        {
+          "authors": "Yokomizo, T., Watanabe, N., Umemoto, T., et al.",
+          "year": 2019,
+          "title": "Hlf marks the developmental pathway for hematopoietic stem cells but not for erythro-myeloid progenitors",
+          "doi": "10.1084/jem.20181399",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6605751/",
+          "citation": "Yokomizo, T., Watanabe, N., Umemoto, T., et al. (2019). Hlf marks the developmental pathway for hematopoietic stem cells but not for erythro-myeloid progenitors. Journal of Experimental Medicine 216, 1599\u20131614.",
+          "gene_level_support": "Developmental mouse Hlf-positive cells contained Hlf, Mecom and Procr-associated HSC expression; developmental setting, not an adult lineage identity classifier."
+        }
+      ]
+    },
+    {
+      "program": "P2",
+      "short_label": "Biosynthesis / metabolism",
+      "anchor_genes": [
+        "Nop10",
+        "Fdps",
+        "Ndufa4"
+      ],
+      "additional_genes": [
+        "Fabp5",
+        "Dbi",
+        "Nme1",
+        "Cycs",
+        "Srm",
+        "Rpl11",
+        "Rps15a"
+      ],
+      "interpretation": "Ribosomal/RNA-processing genes occur together with lipid/isoprenoid and respiratory-metabolic machinery; this is a broad biosynthetic/metabolic component.",
+      "caveat": "Not a lineage-specific program or evidence of greater translation, respiration, or metabolic flux. Ndufa4 is assigned to respiratory complex IV, not complex I.",
+      "primary_references": [
+        {
+          "authors": "Khanna, M., Wu, H., Johansson, C., Caizergues-Ferrer, M., and Feigon, J.",
+          "year": 2006,
+          "title": "Structural study of the H/ACA snoRNP components Nop10p and the 3-prime hairpin of U65 snoRNA",
+          "doi": "10.1261/rna.2221606",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16373493/",
+          "citation": "Khanna, M., Wu, H., Johansson, C., Caizergues-Ferrer, M., and Feigon, J. (2006). Structural study of the H/ACA snoRNP components Nop10p and the 3-prime hairpin of U65 snoRNA. RNA 12, 40\u201352.",
+          "gene_level_support": "Nop10-related snoRNP structure and RNA modification. Molecular-function support, not hematopoietic-state evidence."
+        },
+        {
+          "authors": "Balsa, E., Marco, R., Perales-Clemente, E., Szklarczyk, R., Calvo, E., Landazuri, M.O., and Enriquez, J.A.",
+          "year": 2012,
+          "title": "NDUFA4 is a subunit of complex IV of the mammalian electron transport chain",
+          "doi": "10.1016/j.cmet.2012.07.015",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22902835/",
+          "citation": "Balsa, E., Marco, R., Perales-Clemente, E., Szklarczyk, R., Calvo, E., Landazuri, M.O., and Enriquez, J.A. (2012). NDUFA4 is a subunit of complex IV of the mammalian electron transport chain. Cell Metabolism 16, 378\u2013386.",
+          "gene_level_support": "NDUFA4 respiratory-complex-IV function; does not measure metabolic flux here."
+        }
+      ]
+    },
+    {
+      "program": "P3",
+      "short_label": "G2/M mitosis",
+      "anchor_genes": [
+        "Ube2c",
+        "Ccnb1",
+        "Cenpf"
+      ],
+      "additional_genes": [
+        "Nusap1",
+        "Cenpa",
+        "Tpx2",
+        "Birc5",
+        "Cdc20",
+        "Plk1",
+        "Aurka"
+      ],
+      "interpretation": "A coherent mitotic/spindle/chromosome-segregation component, consistent with the existing G2-M Checkpoint annotation.",
+      "caveat": "Program usage is not a measured division rate and does not identify lineage output or self-renewal.",
+      "primary_references": [
+        {
+          "authors": "Passegue, E., Wagers, A.J., Giuriato, S., Anderson, W.C., and Weissman, I.L.",
+          "year": 2005,
+          "title": "Global analysis of proliferation and cell cycle gene expression in the regulation of hematopoietic stem and progenitor cell fates",
+          "doi": "10.1084/jem.20050967",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16330818/",
+          "citation": "Passegue, E., Wagers, A.J., Giuriato, S., Anderson, W.C., and Weissman, I.L. (2005). Global analysis of proliferation and cell cycle gene expression in the regulation of hematopoietic stem and progenitor cell fates. Journal of Experimental Medicine 202, 1599\u20131611.",
+          "gene_level_support": "Primary HSPC cell-cycle and proliferation study; contextualizes phase-associated expression without equating NMF usage with division rate."
+        }
+      ]
+    },
+    {
+      "program": "P4",
+      "short_label": "Integrated stress response",
+      "anchor_genes": [
+        "Atf4",
+        "Trib3",
+        "Asns"
+      ],
+      "additional_genes": [
+        "Atf5",
+        "Nupr1",
+        "Ddit3",
+        "Chac1",
+        "Slc7a11",
+        "Ppp1r15a",
+        "Herpud1"
+      ],
+      "interpretation": "ATF4-associated amino-acid, redox and proteostasis response genes provide a more specific description than the generic cellular-stimuli term.",
+      "caveat": "A transcriptional stress-associated mixture, not a direct assay of eIF2alpha phosphorylation, ATF4 protein activity, stress cause, injury, or inferior stem-cell function; ISR can support HSC persistence.",
+      "primary_references": [
+        {
+          "authors": "van Galen, P., Mbong, N., Kreso, A., Schoof, E.M., Wagenblast, E., Ng, S.W.K., Krivdova, G., Jin, L., Nakauchi, H., and Dick, J.E.",
+          "year": 2018,
+          "title": "Integrated Stress Response Activity Marks Stem Cells in Normal Hematopoiesis and Leukemia",
+          "doi": "10.1016/j.celrep.2018.10.021",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2211124718315973",
+          "citation": "van Galen, P., Mbong, N., Kreso, A., Schoof, E.M., Wagenblast, E., Ng, S.W.K., Krivdova, G., Jin, L., Nakauchi, H., and Dick, J.E. (2018). Integrated Stress Response Activity Marks Stem Cells in Normal Hematopoiesis and Leukemia. Cell Reports 25, 1109\u20131117.e5.",
+          "gene_level_support": "Primary human HSC study links ATF4/ISR and amino-acid deprivation response with persistence. Prevents interpreting stress-associated expression as loss of stem function."
+        }
+      ]
+    },
+    {
+      "program": "P5",
+      "short_label": "CDK6 / immune-associated",
+      "anchor_genes": [
+        "Cdk6",
+        "Cd48",
+        "Nkg7"
+      ],
+      "additional_genes": [
+        "Tespa1",
+        "Lat2",
+        "Fcer1g",
+        "Clec4e",
+        "Cpa3",
+        "Gzmb",
+        "Itga2b"
+      ],
+      "interpretation": "Cdk6 and Cd48 place the component in a progenitor-activation context, accompanied by immune-signaling/granule genes spanning more than one mature lineage.",
+      "caveat": "Mixed program: not platelet identity, NK-cell identity, proven quiescence exit, or a specific commitment route. Cdk6 RNA does not establish CDK6 protein or kinase activity.",
+      "primary_references": [
+        {
+          "authors": "Laurenti, E., Frelin, C., Xie, S., et al.",
+          "year": 2015,
+          "title": "CDK6 levels regulate quiescence exit in human hematopoietic stem cells",
+          "doi": "10.1016/j.stem.2015.01.017",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25704240/",
+          "citation": "Laurenti, E., Frelin, C., Xie, S., et al. (2015). CDK6 levels regulate quiescence exit in human hematopoietic stem cells. Cell Stem Cell 16, 302\u2013313.",
+          "gene_level_support": "CDK6 protein governs quiescence-exit kinetics in purified human HSC subsets. This motivates activation-associated interpretation, not proof from RNA or a new HSC subdivision."
+        },
+        {
+          "authors": "Boles, N.C., Lin, K.K., Lukov, G.L., Bowman, T.V., Baldridge, M.T., and Goodell, M.A.",
+          "year": 2011,
+          "title": "CD48 on hematopoietic progenitors regulates stem cells and suppresses tumor formation",
+          "doi": "10.1182/blood-2010-12-322339",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3139389/",
+          "citation": "Boles, N.C., Lin, K.K., Lukov, G.L., Bowman, T.V., Baldridge, M.T., and Goodell, M.A. (2011). CD48 on hematopoietic progenitors regulates stem cells and suppresses tumor formation. Blood 118, 80\u201387.",
+          "gene_level_support": "CD48 protein was present on short-term progenitors and excluded from quiescent LT-HSCs in the examined mouse setting. Not a direct classification from Cd48 RNA here."
+        },
+        {
+          "authors": "Ng, S.S., De Labastida Rivera, F., Yan, J., et al.",
+          "year": 2020,
+          "title": "The NK cell granule protein NKG7 regulates cytotoxic granule exocytosis and inflammation",
+          "doi": "10.1038/s41590-020-0758-6",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32839608/",
+          "citation": "Ng, S.S., De Labastida Rivera, F., Yan, J., et al. (2020). The NK cell granule protein NKG7 regulates cytotoxic granule exocytosis and inflammation. Nature Immunology 21, 1205\u20131218.",
+          "gene_level_support": "NKG7 granule/immune-effector function; its presence alongside heterogeneous genes does not establish NK identity."
+        },
+        {
+          "authors": "Wang, D., Zheng, M., Qiu, Y., et al.",
+          "year": 2014,
+          "title": "Tespa1 negatively regulates Fc-epsilon-RI-mediated signaling and the mast cell-mediated allergic response",
+          "doi": "10.1084/jem.20140470",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25422497/",
+          "citation": "Wang, D., Zheng, M., Qiu, Y., et al. (2014). Tespa1 negatively regulates Fc-epsilon-RI-mediated signaling and the mast cell-mediated allergic response. Journal of Experimental Medicine.",
+          "gene_level_support": "Tespa1 participates in mast-cell receptor signaling, demonstrating that this P5 anchor is not a platelet-specific marker."
+        }
+      ]
+    },
+    {
+      "program": "P6",
+      "short_label": "DNA replication / repair",
+      "anchor_genes": [
+        "Pola1",
+        "Mcm4",
+        "Rad51b"
+      ],
+      "additional_genes": [
+        "Pcna",
+        "Tk1",
+        "Rrm2",
+        "Lig1",
+        "Rad51ap1",
+        "Hells",
+        "Gmnn",
+        "Tyms"
+      ],
+      "interpretation": "Replication licensing/synthesis and homologous-recombination-associated genes distinguish this component from the predominantly mitotic P3 program; consistent with existing E2F Targets annotation.",
+      "caveat": "Not evidence of DNA damage, mutation burden, measured repair activity, or greater cell-division rate.",
+      "primary_references": [
+        {
+          "authors": "Passegue, E., Wagers, A.J., Giuriato, S., Anderson, W.C., and Weissman, I.L.",
+          "year": 2005,
+          "title": "Global analysis of proliferation and cell cycle gene expression in the regulation of hematopoietic stem and progenitor cell fates",
+          "doi": "10.1084/jem.20050967",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16330818/",
+          "citation": "Passegue, E., Wagers, A.J., Giuriato, S., Anderson, W.C., and Weissman, I.L. (2005). Global analysis of proliferation and cell cycle gene expression in the regulation of hematopoietic stem and progenitor cell fates. Journal of Experimental Medicine 202, 1599\u20131611.",
+          "gene_level_support": "Primary HSPC cell-cycle and proliferation study; contextualizes phase-associated expression without equating NMF usage with division rate."
+        }
+      ]
+    },
+    {
+      "program": "P7",
+      "short_label": "Glycolysis / hypoxia-associated",
+      "anchor_genes": [
+        "Pgk1",
+        "Bnip3",
+        "Egln3"
+      ],
+      "additional_genes": [
+        "Eno1",
+        "Tpi1",
+        "Aldoa",
+        "Aldoc",
+        "Bhlhe40",
+        "Ankrd37",
+        "Csf3r",
+        "Prtn3"
+      ],
+      "interpretation": "A coherent glycolytic and hypoxia-response-associated core occurs with immediate-early and some myeloid-associated genes.",
+      "caveat": "Not measured oxygen tension, glycolytic flux, or a causal driver of faster differentiation. Glycolysis can also support HSC quiescence; the myeloid genes do not establish a pure granulocytic program.",
+      "primary_references": [
+        {
+          "authors": "Takubo, K., Nagamatsu, G., Kobayashi, C.I., et al.",
+          "year": 2013,
+          "title": "Regulation of glycolysis by Pdk functions as a metabolic checkpoint for cell cycle quiescence in hematopoietic stem cells",
+          "doi": "10.1016/j.stem.2012.10.011",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23290136/",
+          "citation": "Takubo, K., Nagamatsu, G., Kobayashi, C.I., et al. (2013). Regulation of glycolysis by Pdk functions as a metabolic checkpoint for cell cycle quiescence in hematopoietic stem cells. Cell Stem Cell 12, 49\u201361.",
+          "gene_level_support": "Functional mouse HSC evidence that glycolysis can support quiescence; forbids treating a glycolytic RNA program as a universal differentiation-speed marker."
+        }
+      ]
+    },
+    {
+      "program": "P8",
+      "short_label": "HSPC regulation / adhesion",
+      "anchor_genes": [
+        "Pbx1",
+        "Zeb2",
+        "Tgfbr3"
+      ],
+      "additional_genes": [
+        "Med12l",
+        "Runx1",
+        "Mecom",
+        "Ncam2",
+        "Enah",
+        "Itga6",
+        "Slamf1",
+        "Palld"
+      ],
+      "interpretation": "Hematopoietic regulatory genes coexist with receptors, adhesion and cytoskeletal genes; this provides an HSPC-relevant description of a mixed component.",
+      "caveat": "Not neuronal fate, a pure HSC identity, proven TGF-beta pathway activity, measured adhesion, or self-renewal. MED12L is not MED12; Ncam2 alone does not establish a hematopoietic mechanism.",
+      "primary_references": [
+        {
+          "authors": "Ficara, F., Murphy, M.J., Lin, M., and Cleary, M.L.",
+          "year": 2008,
+          "title": "Pbx1 regulates self-renewal of long-term hematopoietic stem cells by maintaining their quiescence",
+          "doi": "10.1016/j.stem.2008.03.004",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2416441/",
+          "citation": "Ficara, F., Murphy, M.J., Lin, M., and Cleary, M.L. (2008). Pbx1 regulates self-renewal of long-term hematopoietic stem cells by maintaining their quiescence. Cell Stem Cell 2, 484\u2013496.",
+          "gene_level_support": "Conditional mouse Pbx1 deletion altered HSC maintenance and TGF-beta responses; context for a loaded regulator, not proof of the corresponding function in MC3."
+        },
+        {
+          "authors": "Goossens, S., Janzen, V., Bartunkova, S., et al.",
+          "year": 2011,
+          "title": "The EMT regulator Zeb2/Sip1 is essential for murine embryonic hematopoietic stem/progenitor cell differentiation and mobilization",
+          "doi": "10.1182/blood-2010-08-300236",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21355089/",
+          "citation": "Goossens, S., Janzen, V., Bartunkova, S., et al. (2011). The EMT regulator Zeb2/Sip1 is essential for murine embryonic hematopoietic stem/progenitor cell differentiation and mobilization. Blood.",
+          "gene_level_support": "Zeb2 deletion alters embryonic HSPC differentiation, mobilization and adhesion. Supports hematopoietic relevance rather than the misleading neuronal label; does not imply the same embryonic mechanism here."
+        }
+      ]
+    }
+  ],
+  "mc3_mc7_profiles": [
+    {
+      "mc": 3,
+      "program": "P1",
+      "mean": 0.2164441987409896,
+      "lower": 0.1971134087654045,
+      "upper": 0.2355976663221277,
+      "n_families": 104
+    },
+    {
+      "mc": 3,
+      "program": "P2",
+      "mean": 0.2235708205582951,
+      "lower": 0.1968938228251769,
+      "upper": 0.2526901642258026,
+      "n_families": 104
+    },
+    {
+      "mc": 3,
+      "program": "P3",
+      "mean": 0.0926621242252698,
+      "lower": 0.0743602017850868,
+      "upper": 0.1120496767172384,
+      "n_families": 104
+    },
+    {
+      "mc": 3,
+      "program": "P4",
+      "mean": 0.1094892966248567,
+      "lower": 0.0894112815711172,
+      "upper": 0.1290191903824574,
+      "n_families": 104
+    },
+    {
+      "mc": 3,
+      "program": "P5",
+      "mean": 0.0355326884501376,
+      "lower": 0.0265149062593322,
+      "upper": 0.0441982475105402,
+      "n_families": 104
+    },
+    {
+      "mc": 3,
+      "program": "P6",
+      "mean": 0.0812327300513529,
+      "lower": 0.067910376737263,
+      "upper": 0.0956127545059022,
+      "n_families": 104
+    },
+    {
+      "mc": 3,
+      "program": "P7",
+      "mean": 0.1071268504536725,
+      "lower": 0.086416162601046,
+      "upper": 0.12840069320352,
+      "n_families": 104
+    },
+    {
+      "mc": 3,
+      "program": "P8",
+      "mean": 0.1339412908954252,
+      "lower": 0.1211692937195454,
+      "upper": 0.1478002189465531,
+      "n_families": 104
+    },
+    {
+      "mc": 7,
+      "program": "P1",
+      "mean": 0.1237127029424175,
+      "lower": 0.1128694880126534,
+      "upper": 0.1341430173636442,
+      "n_families": 251
+    },
+    {
+      "mc": 7,
+      "program": "P2",
+      "mean": 0.1770082504569055,
+      "lower": 0.1571874611394469,
+      "upper": 0.1956417664001608,
+      "n_families": 251
+    },
+    {
+      "mc": 7,
+      "program": "P3",
+      "mean": 0.0874386345421072,
+      "lower": 0.0744910311160133,
+      "upper": 0.1000823666838149,
+      "n_families": 251
+    },
+    {
+      "mc": 7,
+      "program": "P4",
+      "mean": 0.1601470392436091,
+      "lower": 0.1443032559588438,
+      "upper": 0.1769424272705798,
+      "n_families": 251
+    },
+    {
+      "mc": 7,
+      "program": "P5",
+      "mean": 0.1765593883735925,
+      "lower": 0.1647497906051884,
+      "upper": 0.1890453582292581,
+      "n_families": 251
+    },
+    {
+      "mc": 7,
+      "program": "P6",
+      "mean": 0.0780758259382683,
+      "lower": 0.0697007924223472,
+      "upper": 0.0860334362433725,
+      "n_families": 251
+    },
+    {
+      "mc": 7,
+      "program": "P7",
+      "mean": 0.1470048211137139,
+      "lower": 0.1311949486686067,
+      "upper": 0.1637669518157176,
+      "n_families": 251
+    },
+    {
+      "mc": 7,
+      "program": "P8",
+      "mean": 0.0500533373893855,
+      "lower": 0.0444626852762941,
+      "upper": 0.0559212898308478,
+      "n_families": 251
+    }
+  ],
+  "proposed_results_paragraphs": [
+    "Gene-level inspection placed the eight programs in a hematopoietic context (Figure 7B). P1 contained Hlf, Mecom and Procr, supporting an HSC-associated regulatory annotation [Komorowska2017; Yokomizo2019]. P8 combined Pbx1, Zeb2 and Runx1 with receptor, adhesion and cytoskeletal genes, including Tgfbr3, Ncam2 and Itga6 [Ficara2008; Goossens2011]. P4 contained the ATF4-associated stress-response genes Trib3, Asns and Ddit3; P7 combined glycolytic enzymes with Bnip3 and Egln3. P5 contained Cdk6 and Cd48 together with immune-associated genes, including Nkg7, Tespa1 and Fcer1g, rather than a coherent platelet-specific identity. P2 encompassed broad biosynthetic/metabolic machinery, whereas P3 and P6 separated mitotic from DNA-replication/repair-associated expression.",
+    "These molecular mixtures distinguished the early relatives of the MC3 and MC7 reference histories (Figure 7C). The largest observed difference was in the mixed CDK6/immune-associated program P5, with mean fractional usage of 3.6% in MC3 and 17.7% in MC7. The Cdk6/Cd48 content is compatible with a progenitor-activation context [Laurenti2015; Boles2011], without establishing mature immune identity. MC3 instead showed higher usage of P1 (21.6% versus 12.4%) and P8 (13.4% versus 5.0%). MC7 had higher stress-associated P4 (16.0% versus 10.9%) and glycolysis/hypoxia-associated P7 (14.7% versus 10.7%) usage, while the mitotic and replication-associated profiles were more similar.",
+    "Thus, metaclones connect distinct reference histories to overlapping early regulatory, activation-associated and metabolic programs. These retrospective descriptions do not establish functional stem-cell identity, a causal differentiation mechanism or prediction of mutation response. In particular, stress responses and glycolysis can support HSC maintenance, so neither is a unidirectional marker of differentiation [vanGalen2018; Takubo2013]."
+  ],
+  "figure7b_selection_description": "Three representative genes per program were selected for biological interpretability from the top 40 raw-loading or specificity ranks, independently of MC3\u2013MC7 effect magnitude. They are not necessarily the three highest-ranking genes or exclusive to one program. All 16,000 gene weights, all ranks, and the complete pre-existing enrichment family remain available.",
+  "panels": {
+    "A": "panels/07a_day7_metaclone_program_usage.png",
+    "B": "panels/07b_day7_representative_gene_loadings.png",
+    "C": "panels/07c_day7_mc3_mc7_annotated_profiles.png"
+  },
+  "interval_definition": "Existing pointwise 2.5th/97.5th percentiles of 2000 within-metaclone family resamples; fixed NMF and fixed partition. No new bootstrap, contrast test, or biological-replicate interval.",
+  "source_model": "analysis_workspace/singh/singh_reference_response_20260911/programs/0002_rna_normalized_day7_programs.ipynb",
+  "environment": {
+    "name": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "executable": "/path/to/ChronoClone/.runtime/chronoclone/bin/python",
+    "python": "3.11.15",
+    "versions": {
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "matplotlib": "3.11.0",
+      "nbformat": "5.10.4",
+      "nbclient": "0.11.0"
+    }
+  },
+  "references": {
+    "Komorowska2017": {
+      "authors": "Komorowska, K., Doyle, A., Wahlestedt, M., et al.",
+      "year": 2017,
+      "title": "Hepatic Leukemia Factor Maintains Quiescence of Hematopoietic Stem Cells and Protects the Stem Cell Pool during Regeneration",
+      "doi": "10.1016/j.celrep.2017.11.084",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29262330/",
+      "citation": "Komorowska, K., Doyle, A., Wahlestedt, M., et al. (2017). Hepatic Leukemia Factor Maintains Quiescence of Hematopoietic Stem Cells and Protects the Stem Cell Pool during Regeneration. Cell Reports 21, 3514\u20133523.",
+      "gene_level_support": "Mouse Hlf deletion impaired regenerative HSC maintenance and reduced quiescence. This supports Hlf-associated context, not quiescence measurements in Singh cells."
+    },
+    "Yokomizo2019": {
+      "authors": "Yokomizo, T., Watanabe, N., Umemoto, T., et al.",
+      "year": 2019,
+      "title": "Hlf marks the developmental pathway for hematopoietic stem cells but not for erythro-myeloid progenitors",
+      "doi": "10.1084/jem.20181399",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6605751/",
+      "citation": "Yokomizo, T., Watanabe, N., Umemoto, T., et al. (2019). Hlf marks the developmental pathway for hematopoietic stem cells but not for erythro-myeloid progenitors. Journal of Experimental Medicine 216, 1599\u20131614.",
+      "gene_level_support": "Developmental mouse Hlf-positive cells contained Hlf, Mecom and Procr-associated HSC expression; developmental setting, not an adult lineage identity classifier."
+    },
+    "Khanna2006": {
+      "authors": "Khanna, M., Wu, H., Johansson, C., Caizergues-Ferrer, M., and Feigon, J.",
+      "year": 2006,
+      "title": "Structural study of the H/ACA snoRNP components Nop10p and the 3-prime hairpin of U65 snoRNA",
+      "doi": "10.1261/rna.2221606",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16373493/",
+      "citation": "Khanna, M., Wu, H., Johansson, C., Caizergues-Ferrer, M., and Feigon, J. (2006). Structural study of the H/ACA snoRNP components Nop10p and the 3-prime hairpin of U65 snoRNA. RNA 12, 40\u201352.",
+      "gene_level_support": "Nop10-related snoRNP structure and RNA modification. Molecular-function support, not hematopoietic-state evidence."
+    },
+    "Balsa2012": {
+      "authors": "Balsa, E., Marco, R., Perales-Clemente, E., Szklarczyk, R., Calvo, E., Landazuri, M.O., and Enriquez, J.A.",
+      "year": 2012,
+      "title": "NDUFA4 is a subunit of complex IV of the mammalian electron transport chain",
+      "doi": "10.1016/j.cmet.2012.07.015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22902835/",
+      "citation": "Balsa, E., Marco, R., Perales-Clemente, E., Szklarczyk, R., Calvo, E., Landazuri, M.O., and Enriquez, J.A. (2012). NDUFA4 is a subunit of complex IV of the mammalian electron transport chain. Cell Metabolism 16, 378\u2013386.",
+      "gene_level_support": "NDUFA4 respiratory-complex-IV function; does not measure metabolic flux here."
+    },
+    "Passegue2005": {
+      "authors": "Passegue, E., Wagers, A.J., Giuriato, S., Anderson, W.C., and Weissman, I.L.",
+      "year": 2005,
+      "title": "Global analysis of proliferation and cell cycle gene expression in the regulation of hematopoietic stem and progenitor cell fates",
+      "doi": "10.1084/jem.20050967",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16330818/",
+      "citation": "Passegue, E., Wagers, A.J., Giuriato, S., Anderson, W.C., and Weissman, I.L. (2005). Global analysis of proliferation and cell cycle gene expression in the regulation of hematopoietic stem and progenitor cell fates. Journal of Experimental Medicine 202, 1599\u20131611.",
+      "gene_level_support": "Primary HSPC cell-cycle and proliferation study; contextualizes phase-associated expression without equating NMF usage with division rate."
+    },
+    "vanGalen2018": {
+      "authors": "van Galen, P., Mbong, N., Kreso, A., Schoof, E.M., Wagenblast, E., Ng, S.W.K., Krivdova, G., Jin, L., Nakauchi, H., and Dick, J.E.",
+      "year": 2018,
+      "title": "Integrated Stress Response Activity Marks Stem Cells in Normal Hematopoiesis and Leukemia",
+      "doi": "10.1016/j.celrep.2018.10.021",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2211124718315973",
+      "citation": "van Galen, P., Mbong, N., Kreso, A., Schoof, E.M., Wagenblast, E., Ng, S.W.K., Krivdova, G., Jin, L., Nakauchi, H., and Dick, J.E. (2018). Integrated Stress Response Activity Marks Stem Cells in Normal Hematopoiesis and Leukemia. Cell Reports 25, 1109\u20131117.e5.",
+      "gene_level_support": "Primary human HSC study links ATF4/ISR and amino-acid deprivation response with persistence. Prevents interpreting stress-associated expression as loss of stem function."
+    },
+    "Laurenti2015": {
+      "authors": "Laurenti, E., Frelin, C., Xie, S., et al.",
+      "year": 2015,
+      "title": "CDK6 levels regulate quiescence exit in human hematopoietic stem cells",
+      "doi": "10.1016/j.stem.2015.01.017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25704240/",
+      "citation": "Laurenti, E., Frelin, C., Xie, S., et al. (2015). CDK6 levels regulate quiescence exit in human hematopoietic stem cells. Cell Stem Cell 16, 302\u2013313.",
+      "gene_level_support": "CDK6 protein governs quiescence-exit kinetics in purified human HSC subsets. This motivates activation-associated interpretation, not proof from RNA or a new HSC subdivision."
+    },
+    "Boles2011": {
+      "authors": "Boles, N.C., Lin, K.K., Lukov, G.L., Bowman, T.V., Baldridge, M.T., and Goodell, M.A.",
+      "year": 2011,
+      "title": "CD48 on hematopoietic progenitors regulates stem cells and suppresses tumor formation",
+      "doi": "10.1182/blood-2010-12-322339",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3139389/",
+      "citation": "Boles, N.C., Lin, K.K., Lukov, G.L., Bowman, T.V., Baldridge, M.T., and Goodell, M.A. (2011). CD48 on hematopoietic progenitors regulates stem cells and suppresses tumor formation. Blood 118, 80\u201387.",
+      "gene_level_support": "CD48 protein was present on short-term progenitors and excluded from quiescent LT-HSCs in the examined mouse setting. Not a direct classification from Cd48 RNA here."
+    },
+    "Ng2020": {
+      "authors": "Ng, S.S., De Labastida Rivera, F., Yan, J., et al.",
+      "year": 2020,
+      "title": "The NK cell granule protein NKG7 regulates cytotoxic granule exocytosis and inflammation",
+      "doi": "10.1038/s41590-020-0758-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32839608/",
+      "citation": "Ng, S.S., De Labastida Rivera, F., Yan, J., et al. (2020). The NK cell granule protein NKG7 regulates cytotoxic granule exocytosis and inflammation. Nature Immunology 21, 1205\u20131218.",
+      "gene_level_support": "NKG7 granule/immune-effector function; its presence alongside heterogeneous genes does not establish NK identity."
+    },
+    "Wang2014": {
+      "authors": "Wang, D., Zheng, M., Qiu, Y., et al.",
+      "year": 2014,
+      "title": "Tespa1 negatively regulates Fc-epsilon-RI-mediated signaling and the mast cell-mediated allergic response",
+      "doi": "10.1084/jem.20140470",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25422497/",
+      "citation": "Wang, D., Zheng, M., Qiu, Y., et al. (2014). Tespa1 negatively regulates Fc-epsilon-RI-mediated signaling and the mast cell-mediated allergic response. Journal of Experimental Medicine.",
+      "gene_level_support": "Tespa1 participates in mast-cell receptor signaling, demonstrating that this P5 anchor is not a platelet-specific marker."
+    },
+    "Takubo2013": {
+      "authors": "Takubo, K., Nagamatsu, G., Kobayashi, C.I., et al.",
+      "year": 2013,
+      "title": "Regulation of glycolysis by Pdk functions as a metabolic checkpoint for cell cycle quiescence in hematopoietic stem cells",
+      "doi": "10.1016/j.stem.2012.10.011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23290136/",
+      "citation": "Takubo, K., Nagamatsu, G., Kobayashi, C.I., et al. (2013). Regulation of glycolysis by Pdk functions as a metabolic checkpoint for cell cycle quiescence in hematopoietic stem cells. Cell Stem Cell 12, 49\u201361.",
+      "gene_level_support": "Functional mouse HSC evidence that glycolysis can support quiescence; forbids treating a glycolytic RNA program as a universal differentiation-speed marker."
+    },
+    "Ficara2008": {
+      "authors": "Ficara, F., Murphy, M.J., Lin, M., and Cleary, M.L.",
+      "year": 2008,
+      "title": "Pbx1 regulates self-renewal of long-term hematopoietic stem cells by maintaining their quiescence",
+      "doi": "10.1016/j.stem.2008.03.004",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2416441/",
+      "citation": "Ficara, F., Murphy, M.J., Lin, M., and Cleary, M.L. (2008). Pbx1 regulates self-renewal of long-term hematopoietic stem cells by maintaining their quiescence. Cell Stem Cell 2, 484\u2013496.",
+      "gene_level_support": "Conditional mouse Pbx1 deletion altered HSC maintenance and TGF-beta responses; context for a loaded regulator, not proof of the corresponding function in MC3."
+    },
+    "Goossens2011": {
+      "authors": "Goossens, S., Janzen, V., Bartunkova, S., et al.",
+      "year": 2011,
+      "title": "The EMT regulator Zeb2/Sip1 is essential for murine embryonic hematopoietic stem/progenitor cell differentiation and mobilization",
+      "doi": "10.1182/blood-2010-08-300236",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21355089/",
+      "citation": "Goossens, S., Janzen, V., Bartunkova, S., et al. (2011). The EMT regulator Zeb2/Sip1 is essential for murine embryonic hematopoietic stem/progenitor cell differentiation and mobilization. Blood.",
+      "gene_level_support": "Zeb2 deletion alters embryonic HSPC differentiation, mobilization and adhesion. Supports hematopoietic relevance rather than the misleading neuronal label; does not imply the same embryonic mechanism here."
+    }
+  }
+}

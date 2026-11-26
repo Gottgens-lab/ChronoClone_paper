@@ -1,0 +1,59 @@
+WEINREB METACLONE ANCESTRY WORKED EXAMPLES
+Assigned Day2 HSPCs: 775 cells from 569 LARRY clones; all analyses use clone summaries.
+Original score/effect reconstruction max errors: 3.11e-15 / 6.61e-15.
+Ratio normalization uses 9 universally positive genes, including 5 mitochondrial genes. A nonmitochondrial positive-count sensitivity uses 9053 eligible genes; original integer recovery remains an assumption. Exact reproduction does not independently validate it.
+New equal-MC monocyte pace comparison: 30/50 programs at BH q<0.05; 1/50 additional at exploratory 0.05<=q<0.10.
+mono_1 normalization sensitivity: nonmitochondrial positive-count effect +1.5094 in frozen primary units, refit-native effect +0.7255 SD with native BH q=1.815e-05; direction agrees=True.
+mono_1: Inflammatory Response; Mean MC7/MC12 minus mean MC6/MC8; effect +0.5844 SD, pointwise 95% CI [+0.2583, +0.9105], q=0.002291; FDR_lt_0.05; supported LOO directions 7/7 of 7 expected; source-fraction effect +0.5918; prog2-only supported=True, fixed-scale effect=+0.4835.
+mono_2 normalization sensitivity: nonmitochondrial positive-count effect +1.2739 in frozen primary units, refit-native effect +0.6609 SD with native BH q=3.2086e-05; direction agrees=True.
+mono_2: Myc Targets V2; Mean MC7/MC12 minus mean MC6/MC8; effect +0.5512 SD, pointwise 95% CI [+0.2692, +0.8331], q=0.0010825; FDR_lt_0.05; supported LOO directions 7/7 of 7 expected; source-fraction effect +0.5316; prog2-only supported=True, fixed-scale effect=+0.5296.
+multi_divergence normalization sensitivity: nonmitochondrial positive-count effect -0.5693 in frozen primary units, refit-native effect -0.4906 SD with native BH q=0.11408; direction agrees=True.
+multi_divergence: Interferon Alpha Response; MC5 vs MC3 within Multi-lineage; effect -0.8185 SD, pointwise 95% CI [-1.3383, -0.2986], q=0.031454; FDR_lt_0.05; supported LOO directions 7/7 of 7 expected; source-fraction effect +0.0849; prog2-only supported=False, fixed-scale effect=+0.3266.
+multi_convergence normalization sensitivity: nonmitochondrial positive-count effect +0.9848 in frozen primary units, refit-native effect +0.7758 SD with native BH q=0.0020666; direction agrees=True.
+multi_convergence: Interferon Alpha Response; MC3 vs MC18 within Multi-lineage; effect +0.9287 SD, pointwise 95% CI [+0.4635, +1.3938], q=0.0040477; FDR_lt_0.05; supported LOO directions 7/7 of 7 expected; source-fraction effect +0.0210; prog2-only supported=False, fixed-scale effect=-0.2669.
+DYNAMICS AND SUPPORT: the branch masks overlap and do not constitute a complete, mutually exclusive terminal-output vector.
+all_assigned: MC5–MC3 three-branch occupancy distance 0.3675 at Day4 to 0.5226 at Day6 (divergence).
+all_assigned: MC3–MC18 three-branch occupancy distance 0.4416 at Day4 to 0.2597 at Day6 (convergence).
+day2_hspc_linked: MC5–MC3 three-branch occupancy distance 0.3675 at Day4 to 0.5226 at Day6 (divergence).
+day2_hspc_linked: MC3–MC18 three-branch occupancy distance 0.4416 at Day4 to 0.2597 at Day6 (convergence).
+day2_linked_observed_both_later_days: MC5–MC3 three-branch occupancy distance 0.3494 at Day4 to 0.5226 at Day6 (divergence).
+day2_linked_observed_both_later_days: MC3–MC18 three-branch occupancy distance 0.4685 at Day4 to 0.2597 at Day6 (convergence).
+Complete cell_type state composition: MC5–MC3 distance 0.3876 to 0.4424; this is a different coordinate system from branch occupancy.
+Complete cell_type state composition: MC3–MC18 distance 0.3034 to 0.5128; this is a different coordinate system from branch occupancy.
+Complete cell_type_weinreb state composition: MC5–MC3 distance 0.0549 to 0.4008; this is a different coordinate system from branch occupancy.
+Complete cell_type_weinreb state composition: MC3–MC18 distance 0.1558 to 0.5835; this is a different coordinate system from branch occupancy.
+Illustration selection uses observed effect sizes, not significance or sensitivity results. Complete rankings are saved.
+Original q values and families remain unchanged. The exploratory tier is a post hoc display annotation, not confirmatory evidence.
+Zero discoveries are not equivalence. Same-direction pairs are not proof of a universal/shared program.
+Library-removal and source-restricted analyses change observed cells; loss of support is NE, not a negative result.
+Pooled and metaclone-resolved distribution plots repeat the same clones; no test treats these repeated views as independent groups.
+Day2 cells are sampled clonal relatives. The behavior-to-program comparison is retrospective and conditional on an in-sample metaclone partition.
+cNMF remains a secondary readout; its original complete library-recovery gate and novelty assessment are preserved. No inference is drawn from heatmap color alone.
+
+PRESERVED cNMF RESULT
+INDEPENDENT DE NOVO cNMF PROGRAM FAMILY — COMPUTED FINDINGS
+
+DISCOVERY (LABEL-BLIND)
+- Frozen K=13; selection mode=protocol_amendment_fewer_than_3_eligible__stability_within_0.01_then_min_error; eligible K=11,13; stability=1.000; worst-cluster stability=1.000; consensus relative error=0.9093.
+- 30 distinct random restarts per K; selected-K convergence=100.0%; minimum restart coverage=46.7%.
+- Discovery used 1,041 cells / 784 clones and 2,000 audited genes; synthetic readout features found=0.
+
+CLONE-LEVEL METACLONE INFERENCE
+- Broad supported tier-FDR<0.05 effects: 8 of 1170 supported program-contrast tests.
+- Targeted combined global-FDR<0.05 effects: 1 of 52; full shared-signature gate: 0.
+- Post-freeze program recovery: library-removal gate 0/13; within-library prog_1/prog_2-balance gate 3/13.
+- Targeted combined hits:
+  - Neu-rich / Weinreb_D2_cNMF_K13_P07: effect=-0.517 SD, combined q=0.0263, conjunction q=0.447, shared=False, annotation=Flagged: library_associated, library-associated=True, library-recovery=False, source-balance-recovery=True, fully stable/unflagged=False.
+- Targeted hits passing shared behavior, both program-recovery gates, and no technical/context flag: 0.
+
+POST-FIT ANNOTATION AND REFERENCE CAPTURE
+- Programs with a technical/context flag: 3/13.
+- Conservative metaclone-associated not-captured candidates: 0/13.
+  - None pass the complete association, capture, technical, library, and source-composition gates.
+
+INTERPRETATION BOUNDARIES
+- cNMF discovery is cell-resolved, but every comparison and p-value uses one LARRY-clone usage value.
+- Program usage is compositional; increasing one fractional usage necessarily reduces others.
+- Metaclone and behavior-axis labels summarize later realized descendants; associations are retrospective.
+- No classifier or prediction model is fitted, and no result shows that a Day-2 program prospectively determines fate.
+- Novelty is assessed only against the fixed, hash-audited Hallmark/hematopoietic reference family.

@@ -1,0 +1,85 @@
+program,metaclone,adjusted_score_sd,lineage_bias
+Interferon Alpha Response,0,-0.0946528167919099,Multi-lineage
+Interferon Gamma Response,0,-0.09475197250666655,Multi-lineage
+mTORC1 Signaling,0,0.42237511655426413,Multi-lineage
+E2F Targets,0,0.40280136729615323,Multi-lineage
+Myc Targets V1,0,0.3862086404839703,Multi-lineage
+Myc Targets V2,0,0.3560660577881842,Multi-lineage
+G2-M Checkpoint,0,0.3692677065187592,Multi-lineage
+Oxidative Phosphorylation,0,0.3352287025173885,Multi-lineage
+Fatty Acid Metabolism,0,0.4084292141245689,Multi-lineage
+KRAS Signaling Dn,0,0.06558879913580443,Multi-lineage
+TNF-alpha Signaling via NF-kB,0,0.025302267941391593,Multi-lineage
+Unfolded Protein Response,0,0.2973275653356195,Multi-lineage
+Interferon Alpha Response,2,0.0449388597221787,Multi-lineage
+Interferon Gamma Response,2,-0.05012064694023122,Multi-lineage
+mTORC1 Signaling,2,-0.2927523265408061,Multi-lineage
+E2F Targets,2,-0.23183106099846545,Multi-lineage
+Myc Targets V1,2,-0.35651282547782526,Multi-lineage
+Myc Targets V2,2,-0.531699271099257,Multi-lineage
+G2-M Checkpoint,2,-0.30786443904094524,Multi-lineage
+Oxidative Phosphorylation,2,-0.3150306999268432,Multi-lineage
+Fatty Acid Metabolism,2,-0.4147823977794688,Multi-lineage
+KRAS Signaling Dn,2,0.3650085817810276,Multi-lineage
+TNF-alpha Signaling via NF-kB,2,-0.3402391224944163,Multi-lineage
+Unfolded Protein Response,2,-0.32777291808128683,Multi-lineage
+Interferon Alpha Response,5,-0.1578961015765288,Multi-lineage
+Interferon Gamma Response,5,-0.17984310267990758,Multi-lineage
+mTORC1 Signaling,5,-0.11983183419803722,Multi-lineage
+E2F Targets,5,0.0901857871655678,Multi-lineage
+Myc Targets V1,5,0.08252350186952268,Multi-lineage
+Myc Targets V2,5,0.10508345869213032,Multi-lineage
+G2-M Checkpoint,5,0.04774269304721318,Multi-lineage
+Oxidative Phosphorylation,5,0.13797888552082593,Multi-lineage
+Fatty Acid Metabolism,5,-0.0018762313865199332,Multi-lineage
+KRAS Signaling Dn,5,0.018754738730340864,Multi-lineage
+TNF-alpha Signaling via NF-kB,5,-0.2798265688209128,Multi-lineage
+Unfolded Protein Response,5,0.1828284496474667,Multi-lineage
+Interferon Alpha Response,3,0.6605742499070248,Multi-lineage
+Interferon Gamma Response,3,0.6189227581620148,Multi-lineage
+mTORC1 Signaling,3,-0.3332011312058747,Multi-lineage
+E2F Targets,3,-0.30042388593835706,Multi-lineage
+Myc Targets V1,3,-0.34174643089266266,Multi-lineage
+Myc Targets V2,3,-0.3730197839097038,Multi-lineage
+G2-M Checkpoint,3,-0.2434305497871308,Multi-lineage
+Oxidative Phosphorylation,3,-0.3216163306840455,Multi-lineage
+Fatty Acid Metabolism,3,-0.21967214089442233,Multi-lineage
+KRAS Signaling Dn,3,-0.02811669630764263,Multi-lineage
+TNF-alpha Signaling via NF-kB,3,0.332483366320462,Multi-lineage
+Unfolded Protein Response,3,-0.30985050599991804,Multi-lineage
+Interferon Alpha Response,18,-0.2680763442802334,Multi-lineage
+Interferon Gamma Response,18,-0.22385631971527753,Multi-lineage
+mTORC1 Signaling,18,-0.19630701821153884,Multi-lineage
+E2F Targets,18,-0.16718596670226754,Multi-lineage
+Myc Targets V1,18,-0.11535920586079251,Multi-lineage
+Myc Targets V2,18,0.012335823884897401,Multi-lineage
+G2-M Checkpoint,18,-0.16700931203134656,Multi-lineage
+Oxidative Phosphorylation,18,-0.15210147597869905,Multi-lineage
+Fatty Acid Metabolism,18,-0.3414184705369273,Multi-lineage
+KRAS Signaling Dn,18,-0.33623063640933865,Multi-lineage
+TNF-alpha Signaling via NF-kB,18,-0.332150890299116,Multi-lineage
+Unfolded Protein Response,18,-0.23731658879742745,Multi-lineage
+Interferon Alpha Response,4,-0.1313901804500095,Multi-lineage
+Interferon Gamma Response,4,-0.038744627281688676,Multi-lineage
+mTORC1 Signaling,4,-0.09516561950219082,Multi-lineage
+E2F Targets,4,-0.0802610251134292,Multi-lineage
+Myc Targets V1,4,-0.18260468289564358,Multi-lineage
+Myc Targets V2,4,-0.24966974088928606,Multi-lineage
+G2-M Checkpoint,4,-0.11411519435203593,Multi-lineage
+Oxidative Phosphorylation,4,-0.1389952860832242,Multi-lineage
+Fatty Acid Metabolism,4,-0.09968535246177446,Multi-lineage
+KRAS Signaling Dn,4,-0.04852387323526469,Multi-lineage
+TNF-alpha Signaling via NF-kB,4,-0.33721532266350734,Multi-lineage
+Unfolded Protein Response,4,-0.2405995105644686,Multi-lineage
+Interferon Alpha Response,11,0.8577541729484641,Multi-lineage
+Interferon Gamma Response,11,0.7677681180785684,Multi-lineage
+mTORC1 Signaling,11,-0.5080894841398929,Multi-lineage
+E2F Targets,11,-0.5203123489052406,Multi-lineage
+Myc Targets V1,11,-0.517765026760598,Multi-lineage
+Myc Targets V2,11,-0.5254667526727224,Multi-lineage
+G2-M Checkpoint,11,-0.4803805161824763,Multi-lineage
+Oxidative Phosphorylation,11,-0.49648541317816874,Multi-lineage
+Fatty Acid Metabolism,11,-0.3202615000822352,Multi-lineage
+KRAS Signaling Dn,11,0.39898757407967966,Multi-lineage
+TNF-alpha Signaling via NF-kB,11,0.38440652749433285,Multi-lineage
+Unfolded Protein Response,11,-0.40241641754754853,Multi-lineage

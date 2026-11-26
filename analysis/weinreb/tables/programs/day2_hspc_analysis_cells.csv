@@ -1,0 +1,776 @@
+cell,LARRY_ID,day,cell_type,Library,metaclone,lineage_bias,lineage_bias_key
+cell_13291,Clone_4836,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_13313,Clone_4141,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_13314,Clone_2448,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_13341,Clone_336,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_13366,Clone_4581,2,prog_1,d2_3,11,Multi-lineage,Multi_lineage
+cell_13407,Clone_1557,2,prog_2,d2_3,13,Basophil,Basophil
+cell_13483,Clone_3696,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_13484,Clone_3425,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_13498,Clone_2919,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_13512,Clone_725,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_13525,Clone_1452,2,prog_2,d2_3,14,Neutrophil,Neutrophil
+cell_13526,Clone_3024,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_13592,Clone_4836,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_13614,Clone_4323,2,prog_2,d2_3,8,Monocyte,Monocyte
+cell_13616,Clone_3959,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_13621,Clone_3529,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_13642,Clone_4877,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_13697,Clone_3424,2,prog_2,d2_3,14,Neutrophil,Neutrophil
+cell_13760,Clone_529,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_13763,Clone_4647,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_13765,Clone_1648,2,prog_2,d2_3,5,Multi-lineage,Multi_lineage
+cell_13769,Clone_333,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_13786,Clone_4581,2,prog_1,d2_3,11,Multi-lineage,Multi_lineage
+cell_13804,Clone_5072,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_13816,Clone_704,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_13827,Clone_1923,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_13879,Clone_260,2,prog_2,d2_3,7,Monocyte,Monocyte
+cell_13880,Clone_2919,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_13887,Clone_3762,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_14018,Clone_2042,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_14020,Clone_407,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_14040,Clone_2634,2,prog_2,d2_3,5,Multi-lineage,Multi_lineage
+cell_14089,Clone_5492,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_14184,Clone_4757,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_14268,Clone_3571,2,prog_1,d2_3,2,Multi-lineage,Multi_lineage
+cell_14277,Clone_1074,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_14310,Clone_2689,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_14348,Clone_1339,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_14385,Clone_2156,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_14395,Clone_725,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_14423,Clone_3260,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_14613,Clone_4392,2,prog_2,d2_3,14,Neutrophil,Neutrophil
+cell_14675,Clone_1989,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_14714,Clone_1906,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_14725,Clone_2343,2,prog_2,d2_3,4,Multi-lineage,Multi_lineage
+cell_14726,Clone_3196,2,prog_2,d2_3,14,Neutrophil,Neutrophil
+cell_14736,Clone_1736,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_14741,Clone_3492,2,prog_2,d2_3,4,Multi-lineage,Multi_lineage
+cell_14810,Clone_5313,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_14814,Clone_2569,2,prog_2,d2_3,6,Monocyte,Monocyte
+cell_14845,Clone_1879,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_14936,Clone_4024,2,prog_2,d2_3,7,Monocyte,Monocyte
+cell_14968,Clone_4173,2,prog_2,d2_3,7,Monocyte,Monocyte
+cell_14982,Clone_979,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_14984,Clone_3397,2,prog_2,d2_3,8,Monocyte,Monocyte
+cell_15056,Clone_3296,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_15077,Clone_3425,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_15170,Clone_2536,2,prog_2,d2_3,14,Neutrophil,Neutrophil
+cell_15207,Clone_4406,2,prog_1,d2_3,2,Multi-lineage,Multi_lineage
+cell_15214,Clone_2021,2,prog_2,d2_3,9,Neutrophil,Neutrophil
+cell_15241,Clone_13,2,prog_2,d2_3,7,Monocyte,Monocyte
+cell_15352,Clone_1587,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_15461,Clone_1989,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_15471,Clone_2187,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_15537,Clone_4141,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_15558,Clone_4141,2,prog_2,d2_3,0,Multi-lineage,Multi_lineage
+cell_15590,Clone_3196,2,prog_2,d2_3,14,Neutrophil,Neutrophil
+cell_15620,Clone_3425,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_15628,Clone_67,2,prog_2,d2_3,6,Monocyte,Monocyte
+cell_15678,Clone_633,2,prog_1,d2_3,3,Multi-lineage,Multi_lineage
+cell_15741,Clone_503,2,prog_2,d2_3,16,Neutrophil,Neutrophil
+cell_15744,Clone_4827,2,prog_1,d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_15747,Clone_333,2,prog_2,d2_3,12,Monocyte,Monocyte
+cell_15790,Clone_2343,2,prog_2,d2_2,4,Multi-lineage,Multi_lineage
+cell_15852,Clone_4412,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_15865,Clone_3024,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_15881,Clone_1759,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_15986,Clone_2043,2,prog_1,d2_2,11,Multi-lineage,Multi_lineage
+cell_16045,Clone_3959,2,prog_2,d2_2,12,Monocyte,Monocyte
+cell_16066,Clone_4412,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_16125,Clone_3492,2,prog_2,d2_2,4,Multi-lineage,Multi_lineage
+cell_16174,Clone_4836,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_16179,Clone_2868,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_16228,Clone_4300,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_16255,Clone_3087,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_16297,Clone_4719,2,prog_2,d2_2,7,Monocyte,Monocyte
+cell_16331,Clone_190,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_16347,Clone_3569,2,prog_2,d2_2,18,Multi-lineage,Multi_lineage
+cell_16432,Clone_3087,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_16447,Clone_5014,2,prog_1,d2_2,3,Multi-lineage,Multi_lineage
+cell_16512,Clone_5014,2,prog_1,d2_2,3,Multi-lineage,Multi_lineage
+cell_16550,Clone_3469,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_16611,Clone_680,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_16735,Clone_4719,2,prog_2,d2_2,7,Monocyte,Monocyte
+cell_16824,Clone_2021,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_16905,Clone_825,2,prog_2,d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_16908,Clone_13,2,prog_2,d2_2,7,Monocyte,Monocyte
+cell_16950,Clone_1452,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_16984,Clone_3567,2,prog_2,d2_2,18,Multi-lineage,Multi_lineage
+cell_17022,Clone_4678,2,prog_1,d2_2,11,Multi-lineage,Multi_lineage
+cell_17105,Clone_4300,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_17111,Clone_1906,2,prog_1,d2_2,3,Multi-lineage,Multi_lineage
+cell_17155,Clone_1759,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_17198,Clone_4173,2,prog_2,d2_2,7,Monocyte,Monocyte
+cell_17278,Clone_2749,2,prog_1,d2_2,11,Multi-lineage,Multi_lineage
+cell_17343,Clone_3801,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_17366,Clone_3497,2,prog_1,d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_17388,Clone_4757,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_17415,Clone_659,2,prog_2,d2_2,13,Basophil,Basophil
+cell_17428,Clone_4499,2,prog_2,d2_2,7,Monocyte,Monocyte
+cell_17432,Clone_4300,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_17448,Clone_3981,2,prog_2,d2_2,12,Monocyte,Monocyte
+cell_17524,Clone_3348,2,prog_1,d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_17526,Clone_4141,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_17530,Clone_2289,2,prog_2,d2_2,7,Monocyte,Monocyte
+cell_17624,Clone_2536,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_17636,Clone_1363,2,prog_2,d2_2,6,Monocyte,Monocyte
+cell_17663,Clone_2156,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_17717,Clone_4827,2,prog_1,d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_17720,Clone_2115,2,prog_2,d2_2,18,Multi-lineage,Multi_lineage
+cell_17750,Clone_338,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_17766,Clone_1041,2,prog_1,d2_2,3,Multi-lineage,Multi_lineage
+cell_17797,Clone_3296,2,prog_1,d2_2,3,Multi-lineage,Multi_lineage
+cell_17820,Clone_5419,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_17856,Clone_1159,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_17857,Clone_996,2,prog_2,d2_2,5,Multi-lineage,Multi_lineage
+cell_17878,Clone_3397,2,prog_2,d2_2,8,Monocyte,Monocyte
+cell_17909,Clone_417,2,prog_2,d2_2,5,Multi-lineage,Multi_lineage
+cell_17932,Clone_1736,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_18006,Clone_5040,2,prog_2,d2_2,9,Neutrophil,Neutrophil
+cell_18024,Clone_3378,2,prog_2,d2_2,13,Basophil,Basophil
+cell_18041,Clone_5091,2,prog_2,d2_2,8,Monocyte,Monocyte
+cell_18049,Clone_1828,2,prog_2,d2_2,0,Multi-lineage,Multi_lineage
+cell_18065,Clone_1452,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_18090,Clone_5744,2,prog_2,d2_2,14,Neutrophil,Neutrophil
+cell_18135,Clone_4709,2,prog_2,d2_2,12,Monocyte,Monocyte
+cell_18164,Clone_668,2,prog_2,d2_2,12,Monocyte,Monocyte
+cell_18177,Clone_3258,2,prog_1,d2_2,11,Multi-lineage,Multi_lineage
+cell_18255,Clone_4406,2,prog_1,d2_2,2,Multi-lineage,Multi_lineage
+cell_18292,Clone_2263,2,prog_1,d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_18301,Clone_3485,2,prog_1,d2_1,3,Multi-lineage,Multi_lineage
+cell_18322,Clone_5072,2,prog_2,d2_1,12,Monocyte,Monocyte
+cell_18375,Clone_2577,2,prog_2,d2_1,6,Monocyte,Monocyte
+cell_18409,Clone_4086,2,prog_1,d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_18544,Clone_3087,2,prog_2,d2_1,14,Neutrophil,Neutrophil
+cell_18577,Clone_4183,2,prog_1,d2_1,2,Multi-lineage,Multi_lineage
+cell_18637,Clone_1074,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_18651,Clone_673,2,prog_1,d2_1,3,Multi-lineage,Multi_lineage
+cell_18729,Clone_3492,2,prog_2,d2_1,4,Multi-lineage,Multi_lineage
+cell_18832,Clone_3567,2,prog_2,d2_1,18,Multi-lineage,Multi_lineage
+cell_18865,Clone_5083,2,prog_2,d2_1,6,Monocyte,Monocyte
+cell_18893,Clone_680,2,prog_2,d2_1,0,Multi-lineage,Multi_lineage
+cell_18999,Clone_704,2,prog_2,d2_1,0,Multi-lineage,Multi_lineage
+cell_19000,Clone_5436,2,prog_2,d2_1,16,Neutrophil,Neutrophil
+cell_19028,Clone_979,2,prog_2,d2_1,0,Multi-lineage,Multi_lineage
+cell_19048,Clone_3207,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19063,Clone_5097,2,prog_2,d2_1,0,Multi-lineage,Multi_lineage
+cell_19115,Clone_4862,2,prog_1,d2_1,11,Multi-lineage,Multi_lineage
+cell_19131,Clone_1452,2,prog_2,d2_1,14,Neutrophil,Neutrophil
+cell_19171,Clone_1074,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19196,Clone_625,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19214,Clone_4256,2,prog_1,d2_1,3,Multi-lineage,Multi_lineage
+cell_19251,Clone_4300,2,prog_2,d2_1,14,Neutrophil,Neutrophil
+cell_19261,Clone_2727,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19287,Clone_3425,2,prog_2,d2_1,12,Monocyte,Monocyte
+cell_19352,Clone_4173,2,prog_2,d2_1,7,Monocyte,Monocyte
+cell_19353,Clone_4117,2,prog_2,d2_1,12,Monocyte,Monocyte
+cell_19386,Clone_3959,2,prog_2,d2_1,12,Monocyte,Monocyte
+cell_19391,Clone_5438,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19400,Clone_1923,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19450,Clone_2289,2,prog_2,d2_1,7,Monocyte,Monocyte
+cell_19477,Clone_13,2,prog_2,d2_1,7,Monocyte,Monocyte
+cell_19484,Clone_5040,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19539,Clone_2334,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19543,Clone_5617,2,prog_2,d2_1,4,Multi-lineage,Multi_lineage
+cell_19593,Clone_4173,2,prog_2,d2_1,7,Monocyte,Monocyte
+cell_19612,Clone_4323,2,prog_2,d2_1,8,Monocyte,Monocyte
+cell_19690,Clone_5803,2,prog_2,d2_1,5,Multi-lineage,Multi_lineage
+cell_19702,Clone_3207,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19713,Clone_4333,2,prog_2,d2_1,7,Monocyte,Monocyte
+cell_19714,Clone_5744,2,prog_2,d2_1,14,Neutrophil,Neutrophil
+cell_19755,Clone_163,2,prog_2,d2_1,5,Multi-lineage,Multi_lineage
+cell_19760,Clone_3087,2,prog_2,d2_1,14,Neutrophil,Neutrophil
+cell_19781,Clone_1782,2,prog_2,d2_1,14,Neutrophil,Neutrophil
+cell_19799,Clone_190,2,prog_2,d2_1,0,Multi-lineage,Multi_lineage
+cell_19837,Clone_4173,2,prog_2,d2_1,7,Monocyte,Monocyte
+cell_19856,Clone_2993,2,prog_2,d2_1,0,Multi-lineage,Multi_lineage
+cell_19858,Clone_1219,2,prog_2,d2_1,0,Multi-lineage,Multi_lineage
+cell_19865,Clone_125,2,prog_2,d2_1,5,Multi-lineage,Multi_lineage
+cell_19897,Clone_338,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19905,Clone_3207,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19919,Clone_283,2,prog_1,d2_1,2,Multi-lineage,Multi_lineage
+cell_19960,Clone_4287,2,prog_2,d2_1,8,Monocyte,Monocyte
+cell_19962,Clone_2156,2,prog_2,d2_1,9,Neutrophil,Neutrophil
+cell_19977,Clone_2868,2,prog_2,d2_1,0,Multi-lineage,Multi_lineage
+cell_19982,Clone_647,2,prog_2,d2_1,12,Monocyte,Monocyte
+cell_20081,Clone_2333,2,prog_1,d2_1,3,Multi-lineage,Multi_lineage
+cell_41473,Clone_94,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_41569,Clone_5412,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_41592,Clone_1839,2,prog_2,LSK_d2_2,14,Neutrophil,Neutrophil
+cell_41625,Clone_2703,2,prog_1,LSK_d2_2,1,Neutrophil,Neutrophil
+cell_41630,Clone_3084,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_41635,Clone_973,2,prog_1,LSK_d2_2,2,Multi-lineage,Multi_lineage
+cell_41694,Clone_3262,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_41713,Clone_4278,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_41760,Clone_218,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_41762,Clone_4002,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_41903,Clone_1066,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_41913,Clone_1522,2,prog_1,LSK_d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_41932,Clone_3634,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_41971,Clone_1029,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_41977,Clone_2542,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_42043,Clone_4857,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_42045,Clone_4645,2,prog_2,LSK_d2_2,5,Multi-lineage,Multi_lineage
+cell_42116,Clone_991,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_42123,Clone_1134,2,prog_2,LSK_d2_2,22,Neutrophil,Neutrophil
+cell_42160,Clone_3964,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_42161,Clone_1368,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_42176,Clone_1770,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_42181,Clone_3838,2,prog_2,LSK_d2_2,4,Multi-lineage,Multi_lineage
+cell_42205,Clone_641,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_42219,Clone_4751,2,prog_2,LSK_d2_2,5,Multi-lineage,Multi_lineage
+cell_42246,Clone_3161,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_42296,Clone_4365,2,prog_2,LSK_d2_2,22,Neutrophil,Neutrophil
+cell_42315,Clone_2413,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_42322,Clone_3579,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_42388,Clone_1770,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_42400,Clone_1490,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_42510,Clone_5734,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_42584,Clone_232,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_42589,Clone_5512,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_42707,Clone_3996,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_42708,Clone_4360,2,prog_2,LSK_d2_2,22,Neutrophil,Neutrophil
+cell_42775,Clone_5413,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_42844,Clone_3709,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_42920,Clone_5143,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_43005,Clone_5657,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_43006,Clone_2788,2,prog_2,LSK_d2_2,22,Neutrophil,Neutrophil
+cell_43069,Clone_3731,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_43072,Clone_1489,2,prog_2,LSK_d2_2,5,Multi-lineage,Multi_lineage
+cell_43295,Clone_4195,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_43320,Clone_1112,2,prog_2,LSK_d2_2,4,Multi-lineage,Multi_lineage
+cell_43325,Clone_188,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_43390,Clone_5380,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_43408,Clone_1094,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_43416,Clone_4484,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_43421,Clone_992,2,prog_1,LSK_d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_43496,Clone_2636,2,prog_2,LSK_d2_2,4,Multi-lineage,Multi_lineage
+cell_43568,Clone_1272,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_43640,Clone_3591,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_43677,Clone_5291,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_43679,Clone_195,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_43712,Clone_4549,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_43751,Clone_3200,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_43756,Clone_5001,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_43948,Clone_574,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_44011,Clone_5162,2,prog_1,LSK_d2_2,1,Neutrophil,Neutrophil
+cell_44127,Clone_1255,2,prog_2,LSK_d2_2,5,Multi-lineage,Multi_lineage
+cell_44201,Clone_1612,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_44247,Clone_4941,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_44282,Clone_2928,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_44286,Clone_5117,2,prog_1,LSK_d2_2,2,Multi-lineage,Multi_lineage
+cell_44300,Clone_2838,2,prog_2,LSK_d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_44302,Clone_3838,2,prog_1,LSK_d2_2,4,Multi-lineage,Multi_lineage
+cell_44422,Clone_5415,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_44428,Clone_506,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_44444,Clone_764,2,prog_1,LSK_d2_2,1,Neutrophil,Neutrophil
+cell_44470,Clone_2151,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_44474,Clone_1926,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_44476,Clone_1272,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_44509,Clone_2812,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_44594,Clone_2661,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_44675,Clone_2602,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_44716,Clone_3164,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_44766,Clone_1198,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_44886,Clone_2601,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_44941,Clone_3325,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_44963,Clone_1696,2,prog_2,LSK_d2_2,4,Multi-lineage,Multi_lineage
+cell_44966,Clone_2359,2,prog_1,LSK_d2_2,1,Neutrophil,Neutrophil
+cell_45002,Clone_166,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_45036,Clone_3906,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_45037,Clone_1153,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_45052,Clone_1029,2,prog_1,LSK_d2_2,13,Basophil,Basophil
+cell_45117,Clone_3634,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_45142,Clone_399,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_45153,Clone_636,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_45224,Clone_3010,2,prog_2,LSK_d2_2,0,Multi-lineage,Multi_lineage
+cell_45232,Clone_3069,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_45234,Clone_4003,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_45273,Clone_2437,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_45367,Clone_2382,2,prog_2,LSK_d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_45383,Clone_5131,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_45419,Clone_4589,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_45521,Clone_2897,2,prog_2,LSK_d2_2,9,Neutrophil,Neutrophil
+cell_45524,Clone_1667,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_45532,Clone_5415,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_45556,Clone_3944,2,prog_1,LSK_d2_2,1,Neutrophil,Neutrophil
+cell_45558,Clone_1030,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_45573,Clone_2284,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_45578,Clone_2323,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_45594,Clone_5657,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_45599,Clone_4445,2,prog_2,LSK_d2_2,0,Multi-lineage,Multi_lineage
+cell_45601,Clone_4445,2,prog_2,LSK_d2_2,0,Multi-lineage,Multi_lineage
+cell_45631,Clone_3621,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_45659,Clone_743,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_45669,Clone_5131,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_45682,Clone_4396,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_45820,Clone_3824,2,prog_2,LSK_d2_2,22,Neutrophil,Neutrophil
+cell_45834,Clone_5117,2,prog_1,LSK_d2_2,2,Multi-lineage,Multi_lineage
+cell_45944,Clone_3164,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_45972,Clone_2412,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_45985,Clone_2433,2,prog_2,LSK_d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_46046,Clone_277,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_46069,Clone_922,2,prog_2,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_46118,Clone_1597,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_46137,Clone_3587,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_46158,Clone_269,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_46163,Clone_678,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_46196,Clone_5516,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_46273,Clone_1066,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_46326,Clone_4661,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_46387,Clone_5319,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_46388,Clone_878,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_46447,Clone_4847,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_46494,Clone_2114,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_46497,Clone_4098,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_46537,Clone_2913,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_46553,Clone_3873,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_46559,Clone_506,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_46599,Clone_3262,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_46634,Clone_3599,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_46636,Clone_5005,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_46638,Clone_1975,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_46652,Clone_5502,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_46655,Clone_1388,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_46743,Clone_4890,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_46813,Clone_1458,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_46819,Clone_2284,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_46823,Clone_4674,2,prog_2,LSK_d2_2,5,Multi-lineage,Multi_lineage
+cell_46864,Clone_5764,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_46881,Clone_831,2,prog_2,LSK_d2_2,0,Multi-lineage,Multi_lineage
+cell_46883,Clone_239,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_46947,Clone_4796,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_46965,Clone_5196,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_47036,Clone_1965,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_47057,Clone_2284,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_47071,Clone_4547,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_47120,Clone_5384,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_47121,Clone_1112,2,prog_2,LSK_d2_2,4,Multi-lineage,Multi_lineage
+cell_47123,Clone_1292,2,prog_2,LSK_d2_2,9,Neutrophil,Neutrophil
+cell_47129,Clone_277,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_47136,Clone_4796,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_47153,Clone_4796,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_47185,Clone_5713,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_47229,Clone_2742,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_47334,Clone_1416,2,prog_2,LSK_d2_2,22,Neutrophil,Neutrophil
+cell_47348,Clone_2913,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_47369,Clone_5626,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_47419,Clone_2054,2,prog_2,LSK_d2_2,5,Multi-lineage,Multi_lineage
+cell_47424,Clone_3838,2,prog_1,LSK_d2_2,4,Multi-lineage,Multi_lineage
+cell_47484,Clone_5405,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_47561,Clone_3757,2,prog_2,LSK_d2_2,18,Multi-lineage,Multi_lineage
+cell_47585,Clone_3156,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_47675,Clone_606,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_47717,Clone_1150,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_47719,Clone_2694,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_47789,Clone_2258,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_47908,Clone_5498,2,prog_2,LSK_d2_2,8,Monocyte,Monocyte
+cell_47942,Clone_674,2,prog_1,LSK_d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_47954,Clone_2240,2,prog_2,LSK_d2_2,5,Multi-lineage,Multi_lineage
+cell_47977,Clone_3134,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_48078,Clone_5412,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_48096,Clone_3599,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_48098,Clone_5030,2,prog_2,LSK_d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_48199,Clone_2897,2,prog_2,LSK_d2_2,9,Neutrophil,Neutrophil
+cell_48315,Clone_4397,2,prog_2,LSK_d2_2,16,Neutrophil,Neutrophil
+cell_48345,Clone_1036,2,prog_1,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_48347,Clone_1272,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_48348,Clone_1292,2,prog_2,LSK_d2_2,9,Neutrophil,Neutrophil
+cell_48411,Clone_4485,2,prog_2,LSK_d2_2,6,Monocyte,Monocyte
+cell_48458,Clone_1282,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_48495,Clone_5408,2,prog_2,LSK_d2_2,10,Erythroid / Mk,Erythroid_Mk
+cell_48533,Clone_3858,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_48537,Clone_922,2,prog_1,LSK_d2_2,3,Multi-lineage,Multi_lineage
+cell_48538,Clone_2139,2,prog_2,LSK_d2_2,22,Neutrophil,Neutrophil
+cell_48633,Clone_1234,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_48642,Clone_452,2,prog_2,LSK_d2_2,22,Neutrophil,Neutrophil
+cell_48679,Clone_179,2,prog_2,LSK_d2_2,7,Monocyte,Monocyte
+cell_48687,Clone_1839,2,prog_2,LSK_d2_2,14,Neutrophil,Neutrophil
+cell_48747,Clone_3459,2,prog_2,LSK_d2_2,12,Monocyte,Monocyte
+cell_48756,Clone_218,2,prog_2,LSK_d2_2,17,Erythroid / Mk,Erythroid_Mk
+cell_48761,Clone_361,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_48773,Clone_361,2,prog_2,LSK_d2_2,13,Basophil,Basophil
+cell_48777,Clone_2813,2,prog_2,LSK_d2_2,0,Multi-lineage,Multi_lineage
+cell_48915,Clone_3084,2,prog_2,LSK_d2_2,11,Multi-lineage,Multi_lineage
+cell_48986,Clone_2368,2,prog_1,LSK_d2_2,23,Erythroid / Mk,Erythroid_Mk
+cell_49065,Clone_807,2,prog_1,LSK_d2_3,23,Erythroid / Mk,Erythroid_Mk
+cell_49127,Clone_3460,2,prog_2,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_49172,Clone_3835,2,prog_2,LSK_d2_3,7,Monocyte,Monocyte
+cell_49197,Clone_892,2,prog_2,LSK_d2_3,6,Monocyte,Monocyte
+cell_49220,Clone_38,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_49228,Clone_3622,2,prog_1,LSK_d2_3,23,Erythroid / Mk,Erythroid_Mk
+cell_49281,Clone_1253,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_49287,Clone_3033,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_49290,Clone_684,2,prog_1,LSK_d2_3,8,Monocyte,Monocyte
+cell_49354,Clone_3156,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_49441,Clone_3570,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_49500,Clone_3095,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_49501,Clone_3708,2,prog_2,LSK_d2_3,6,Monocyte,Monocyte
+cell_49502,Clone_2382,2,prog_1,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_49507,Clone_4846,2,prog_1,LSK_d2_3,11,Multi-lineage,Multi_lineage
+cell_49530,Clone_187,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_49532,Clone_3231,2,prog_2,LSK_d2_3,9,Neutrophil,Neutrophil
+cell_49550,Clone_4192,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_49561,Clone_4663,2,prog_2,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_49576,Clone_4371,2,prog_1,LSK_d2_3,11,Multi-lineage,Multi_lineage
+cell_49591,Clone_3719,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_49597,Clone_2721,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_49642,Clone_4123,2,prog_2,LSK_d2_3,22,Neutrophil,Neutrophil
+cell_49696,Clone_830,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_49741,Clone_5012,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_49787,Clone_5500,2,prog_1,LSK_d2_3,11,Multi-lineage,Multi_lineage
+cell_49815,Clone_1300,2,prog_2,LSK_d2_3,6,Monocyte,Monocyte
+cell_49853,Clone_5015,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_49861,Clone_1255,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_49900,Clone_1823,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_49918,Clone_3460,2,prog_2,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_49938,Clone_2905,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_49950,Clone_2376,2,prog_2,LSK_d2_3,22,Neutrophil,Neutrophil
+cell_50006,Clone_950,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_50030,Clone_830,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_50064,Clone_2488,2,prog_1,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_50136,Clone_4872,2,prog_1,LSK_d2_3,8,Monocyte,Monocyte
+cell_50168,Clone_4947,2,prog_2,LSK_d2_3,4,Multi-lineage,Multi_lineage
+cell_50174,Clone_4646,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_50208,Clone_4673,2,prog_2,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_50231,Clone_1631,2,prog_2,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_50254,Clone_3708,2,prog_1,LSK_d2_3,6,Monocyte,Monocyte
+cell_50294,Clone_3319,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_50330,Clone_269,2,prog_1,LSK_d2_3,12,Monocyte,Monocyte
+cell_50429,Clone_3562,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_50454,Clone_2362,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_50537,Clone_177,2,prog_1,LSK_d2_3,1,Neutrophil,Neutrophil
+cell_50559,Clone_5293,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_50565,Clone_1823,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_50591,Clone_3667,2,prog_2,LSK_d2_3,8,Monocyte,Monocyte
+cell_50599,Clone_3203,2,prog_2,LSK_d2_3,4,Multi-lineage,Multi_lineage
+cell_50686,Clone_613,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_50752,Clone_5566,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_50781,Clone_2905,2,prog_1,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_50809,Clone_1031,2,prog_2,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_50845,Clone_3460,2,prog_2,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_50873,Clone_3667,2,prog_2,LSK_d2_3,8,Monocyte,Monocyte
+cell_50908,Clone_684,2,prog_2,LSK_d2_3,8,Monocyte,Monocyte
+cell_50929,Clone_2801,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_50931,Clone_2440,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_50944,Clone_3277,2,prog_2,LSK_d2_3,4,Multi-lineage,Multi_lineage
+cell_50961,Clone_3570,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_51066,Clone_5401,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_51071,Clone_2489,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_51099,Clone_2890,2,prog_2,LSK_d2_3,4,Multi-lineage,Multi_lineage
+cell_51183,Clone_3261,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_51194,Clone_4865,2,prog_1,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_51254,Clone_5355,2,prog_2,LSK_d2_3,6,Monocyte,Monocyte
+cell_51264,Clone_3095,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_51279,Clone_3491,2,prog_2,LSK_d2_3,7,Monocyte,Monocyte
+cell_51294,Clone_2092,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_51337,Clone_4445,2,prog_2,LSK_d2_3,0,Multi-lineage,Multi_lineage
+cell_51339,Clone_1031,2,prog_1,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_51342,Clone_1150,2,prog_2,LSK_d2_3,13,Basophil,Basophil
+cell_51375,Clone_1299,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_51393,Clone_2151,2,prog_1,LSK_d2_3,13,Basophil,Basophil
+cell_51396,Clone_3128,2,prog_2,LSK_d2_3,7,Monocyte,Monocyte
+cell_51401,Clone_2821,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_51431,Clone_1247,2,prog_2,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_51604,Clone_501,2,prog_2,LSK_d2_3,16,Neutrophil,Neutrophil
+cell_51630,Clone_1150,2,prog_2,LSK_d2_3,13,Basophil,Basophil
+cell_51730,Clone_4011,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_51779,Clone_2209,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_51780,Clone_4689,2,prog_2,LSK_d2_3,14,Neutrophil,Neutrophil
+cell_51885,Clone_312,2,prog_1,LSK_d2_3,1,Neutrophil,Neutrophil
+cell_51930,Clone_3363,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_51958,Clone_3709,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_52016,Clone_3203,2,prog_2,LSK_d2_3,4,Multi-lineage,Multi_lineage
+cell_52045,Clone_3816,2,prog_2,LSK_d2_3,16,Neutrophil,Neutrophil
+cell_52086,Clone_3095,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_52109,Clone_2744,2,prog_2,LSK_d2_3,13,Basophil,Basophil
+cell_52111,Clone_3200,2,prog_1,LSK_d2_3,8,Monocyte,Monocyte
+cell_52112,Clone_1031,2,prog_2,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_52151,Clone_3004,2,prog_2,LSK_d2_3,12,Monocyte,Monocyte
+cell_52158,Clone_1247,2,prog_2,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_52210,Clone_2996,2,prog_2,LSK_d2_3,22,Neutrophil,Neutrophil
+cell_52212,Clone_628,2,prog_1,LSK_d2_3,23,Erythroid / Mk,Erythroid_Mk
+cell_52230,Clone_4039,2,prog_1,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_52240,Clone_4646,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_52367,Clone_3795,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_52405,Clone_3498,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_52420,Clone_5700,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_52426,Clone_3254,2,prog_2,LSK_d2_3,13,Basophil,Basophil
+cell_52484,Clone_3703,2,prog_2,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_52499,Clone_2742,2,prog_2,LSK_d2_3,6,Monocyte,Monocyte
+cell_52579,Clone_951,2,prog_1,LSK_d2_3,11,Multi-lineage,Multi_lineage
+cell_52595,Clone_1368,2,prog_2,LSK_d2_3,16,Neutrophil,Neutrophil
+cell_52651,Clone_5282,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_52763,Clone_5282,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_52816,Clone_2599,2,prog_2,LSK_d2_3,4,Multi-lineage,Multi_lineage
+cell_52843,Clone_3611,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_52845,Clone_5030,2,prog_1,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_52941,Clone_3319,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_53054,Clone_587,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_53083,Clone_508,2,prog_2,LSK_d2_3,16,Neutrophil,Neutrophil
+cell_53095,Clone_4445,2,prog_2,LSK_d2_3,0,Multi-lineage,Multi_lineage
+cell_53173,Clone_1552,2,prog_1,LSK_d2_3,11,Multi-lineage,Multi_lineage
+cell_53186,Clone_380,2,prog_1,LSK_d2_3,1,Neutrophil,Neutrophil
+cell_53206,Clone_2905,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_53209,Clone_947,2,prog_1,LSK_d2_3,23,Erythroid / Mk,Erythroid_Mk
+cell_53230,Clone_3812,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_53267,Clone_3703,2,prog_2,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_53273,Clone_1348,2,prog_2,LSK_d2_3,7,Monocyte,Monocyte
+cell_53343,Clone_3558,2,prog_1,LSK_d2_3,13,Basophil,Basophil
+cell_53408,Clone_197,2,prog_2,LSK_d2_3,4,Multi-lineage,Multi_lineage
+cell_53468,Clone_1601,2,prog_1,LSK_d2_3,11,Multi-lineage,Multi_lineage
+cell_53476,Clone_3558,2,prog_2,LSK_d2_3,13,Basophil,Basophil
+cell_53507,Clone_2412,2,prog_2,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_53586,Clone_1885,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_53587,Clone_3128,2,prog_2,LSK_d2_3,7,Monocyte,Monocyte
+cell_53589,Clone_1192,2,prog_1,LSK_d2_3,11,Multi-lineage,Multi_lineage
+cell_53614,Clone_2462,2,prog_2,LSK_d2_3,8,Monocyte,Monocyte
+cell_53616,Clone_3325,2,prog_2,LSK_d2_3,7,Monocyte,Monocyte
+cell_53643,Clone_2575,2,prog_2,LSK_d2_3,22,Neutrophil,Neutrophil
+cell_53705,Clone_506,2,prog_2,LSK_d2_3,16,Neutrophil,Neutrophil
+cell_53710,Clone_4445,2,prog_2,LSK_d2_3,0,Multi-lineage,Multi_lineage
+cell_53722,Clone_1767,2,prog_1,LSK_d2_3,23,Erythroid / Mk,Erythroid_Mk
+cell_53728,Clone_4906,2,prog_1,LSK_d2_3,23,Erythroid / Mk,Erythroid_Mk
+cell_53755,Clone_5684,2,prog_2,LSK_d2_3,16,Neutrophil,Neutrophil
+cell_53758,Clone_2047,2,prog_2,LSK_d2_3,6,Monocyte,Monocyte
+cell_53770,Clone_1115,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_53771,Clone_2082,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_53785,Clone_2092,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_53822,Clone_1358,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_53874,Clone_4368,2,prog_2,LSK_d2_3,8,Monocyte,Monocyte
+cell_53906,Clone_1030,2,prog_2,LSK_d2_3,13,Basophil,Basophil
+cell_53942,Clone_157,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_53947,Clone_4415,2,prog_2,LSK_d2_3,17,Erythroid / Mk,Erythroid_Mk
+cell_53951,Clone_4011,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_53998,Clone_806,2,prog_1,LSK_d2_3,11,Multi-lineage,Multi_lineage
+cell_54058,Clone_4751,2,prog_2,LSK_d2_3,5,Multi-lineage,Multi_lineage
+cell_54061,Clone_4308,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_54110,Clone_4145,2,prog_2,LSK_d2_3,18,Multi-lineage,Multi_lineage
+cell_54124,Clone_1767,2,prog_1,LSK_d2_3,23,Erythroid / Mk,Erythroid_Mk
+cell_54182,Clone_3916,2,prog_1,LSK_d2_3,23,Erythroid / Mk,Erythroid_Mk
+cell_54214,Clone_2767,2,prog_1,LSK_d2_3,1,Neutrophil,Neutrophil
+cell_54217,Clone_5562,2,prog_1,LSK_d2_3,2,Multi-lineage,Multi_lineage
+cell_54223,Clone_227,2,prog_2,LSK_d2_3,10,Erythroid / Mk,Erythroid_Mk
+cell_54259,Clone_988,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_54261,Clone_830,2,prog_1,LSK_d2_3,3,Multi-lineage,Multi_lineage
+cell_54325,Clone_1884,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_54469,Clone_3135,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_54506,Clone_3504,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_54538,Clone_1468,2,prog_2,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_54548,Clone_3759,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_54550,Clone_21,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_54660,Clone_4185,2,prog_1,LSK_d2_1,1,Neutrophil,Neutrophil
+cell_54693,Clone_3460,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_54697,Clone_4941,2,prog_1,LSK_d2_1,11,Multi-lineage,Multi_lineage
+cell_54774,Clone_3262,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_54804,Clone_748,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_54824,Clone_648,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_54839,Clone_2161,2,prog_2,LSK_d2_1,9,Neutrophil,Neutrophil
+cell_54840,Clone_2572,2,prog_1,LSK_d2_1,1,Neutrophil,Neutrophil
+cell_54884,Clone_981,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_54917,Clone_50,2,prog_2,LSK_d2_1,22,Neutrophil,Neutrophil
+cell_54938,Clone_399,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_54950,Clone_831,2,prog_2,LSK_d2_1,0,Multi-lineage,Multi_lineage
+cell_54970,Clone_787,2,prog_1,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_55086,Clone_15,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_55203,Clone_838,2,prog_2,LSK_d2_1,6,Monocyte,Monocyte
+cell_55233,Clone_5699,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_55270,Clone_5384,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_55271,Clone_922,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_55278,Clone_4075,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_55316,Clone_1292,2,prog_2,LSK_d2_1,9,Neutrophil,Neutrophil
+cell_55413,Clone_1433,2,prog_1,LSK_d2_1,2,Multi-lineage,Multi_lineage
+cell_55470,Clone_746,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_55521,Clone_1031,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_55605,Clone_2717,2,prog_1,LSK_d2_1,2,Multi-lineage,Multi_lineage
+cell_55610,Clone_5413,2,prog_2,LSK_d2_1,6,Monocyte,Monocyte
+cell_55688,Clone_2774,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_55733,Clone_2143,2,prog_2,LSK_d2_1,22,Neutrophil,Neutrophil
+cell_55763,Clone_1019,2,prog_2,LSK_d2_1,7,Monocyte,Monocyte
+cell_55765,Clone_1237,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_55770,Clone_3789,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_55779,Clone_4480,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_55788,Clone_435,2,prog_2,LSK_d2_1,16,Neutrophil,Neutrophil
+cell_55791,Clone_4965,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_55818,Clone_649,2,prog_1,LSK_d2_1,1,Neutrophil,Neutrophil
+cell_55839,Clone_5764,2,prog_2,LSK_d2_1,12,Monocyte,Monocyte
+cell_55842,Clone_4868,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_55878,Clone_3579,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_55885,Clone_4520,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_55959,Clone_4987,2,prog_1,LSK_d2_1,23,Erythroid / Mk,Erythroid_Mk
+cell_56068,Clone_38,2,prog_1,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_56085,Clone_4547,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_56096,Clone_212,2,prog_1,LSK_d2_1,1,Neutrophil,Neutrophil
+cell_56102,Clone_5075,2,prog_2,LSK_d2_1,16,Neutrophil,Neutrophil
+cell_56174,Clone_4607,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_56180,Clone_4748,2,prog_2,LSK_d2_1,7,Monocyte,Monocyte
+cell_56222,Clone_4821,2,prog_1,LSK_d2_1,23,Erythroid / Mk,Erythroid_Mk
+cell_56228,Clone_5203,2,prog_1,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_56314,Clone_4371,2,prog_1,LSK_d2_1,11,Multi-lineage,Multi_lineage
+cell_56326,Clone_3609,2,prog_2,LSK_d2_1,7,Monocyte,Monocyte
+cell_56407,Clone_3757,2,prog_1,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_56489,Clone_1623,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_56498,Clone_3574,2,prog_1,LSK_d2_1,11,Multi-lineage,Multi_lineage
+cell_56593,Clone_3120,2,prog_2,LSK_d2_1,9,Neutrophil,Neutrophil
+cell_56636,Clone_201,2,prog_1,LSK_d2_1,1,Neutrophil,Neutrophil
+cell_56671,Clone_3046,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_56758,Clone_2225,2,prog_2,LSK_d2_1,6,Monocyte,Monocyte
+cell_56786,Clone_1933,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_56790,Clone_4007,2,prog_2,LSK_d2_1,5,Multi-lineage,Multi_lineage
+cell_56798,Clone_762,2,prog_1,LSK_d2_1,23,Erythroid / Mk,Erythroid_Mk
+cell_56826,Clone_5084,2,prog_2,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_56828,Clone_3206,2,prog_2,LSK_d2_1,14,Neutrophil,Neutrophil
+cell_56865,Clone_4400,2,prog_1,LSK_d2_1,23,Erythroid / Mk,Erythroid_Mk
+cell_56866,Clone_1582,2,prog_2,LSK_d2_1,22,Neutrophil,Neutrophil
+cell_56867,Clone_3807,2,prog_2,LSK_d2_1,16,Neutrophil,Neutrophil
+cell_56869,Clone_278,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_56904,Clone_3237,2,prog_2,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_56907,Clone_4115,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_56939,Clone_159,2,prog_2,LSK_d2_1,5,Multi-lineage,Multi_lineage
+cell_57031,Clone_1767,2,prog_1,LSK_d2_1,23,Erythroid / Mk,Erythroid_Mk
+cell_57189,Clone_4480,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_57222,Clone_3120,2,prog_2,LSK_d2_1,9,Neutrophil,Neutrophil
+cell_57267,Clone_1015,2,prog_2,LSK_d2_1,12,Monocyte,Monocyte
+cell_57297,Clone_297,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_57470,Clone_1532,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_57497,Clone_134,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_57534,Clone_4962,2,prog_1,LSK_d2_1,11,Multi-lineage,Multi_lineage
+cell_57581,Clone_1546,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_57606,Clone_950,2,prog_2,LSK_d2_1,12,Monocyte,Monocyte
+cell_57607,Clone_1292,2,prog_2,LSK_d2_1,9,Neutrophil,Neutrophil
+cell_57653,Clone_1814,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_57759,Clone_1272,2,prog_2,LSK_d2_1,7,Monocyte,Monocyte
+cell_57830,Clone_658,2,prog_1,LSK_d2_1,23,Erythroid / Mk,Erythroid_Mk
+cell_57868,Clone_3686,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_57869,Clone_99,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_57956,Clone_3746,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_57980,Clone_3898,2,prog_1,LSK_d2_1,2,Multi-lineage,Multi_lineage
+cell_57981,Clone_3372,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_58061,Clone_297,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_58119,Clone_3421,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_58121,Clone_21,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_58135,Clone_1112,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_58178,Clone_4389,2,prog_1,LSK_d2_1,2,Multi-lineage,Multi_lineage
+cell_58207,Clone_712,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_58211,Clone_5833,2,prog_2,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_58293,Clone_4279,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_58322,Clone_2694,2,prog_2,LSK_d2_1,16,Neutrophil,Neutrophil
+cell_58474,Clone_841,2,prog_2,LSK_d2_1,0,Multi-lineage,Multi_lineage
+cell_58605,Clone_5030,2,prog_2,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_58677,Clone_4411,2,prog_2,LSK_d2_1,6,Monocyte,Monocyte
+cell_58713,Clone_2497,2,prog_2,LSK_d2_1,6,Monocyte,Monocyte
+cell_58935,Clone_1488,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_58944,Clone_3000,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_58970,Clone_1029,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_59003,Clone_3541,2,prog_2,LSK_d2_1,12,Monocyte,Monocyte
+cell_59045,Clone_1489,2,prog_1,LSK_d2_1,5,Multi-lineage,Multi_lineage
+cell_59063,Clone_375,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_59065,Clone_648,2,prog_1,LSK_d2_1,8,Monocyte,Monocyte
+cell_59091,Clone_444,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_59545,Clone_2116,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_59549,Clone_5387,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_59557,Clone_142,2,prog_1,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_59620,Clone_3704,2,prog_2,LSK_d2_1,12,Monocyte,Monocyte
+cell_59658,Clone_2450,2,prog_1,LSK_d2_1,2,Multi-lineage,Multi_lineage
+cell_59699,Clone_5527,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_59705,Clone_251,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_59739,Clone_3319,2,prog_2,LSK_d2_1,5,Multi-lineage,Multi_lineage
+cell_59809,Clone_3451,2,prog_1,LSK_d2_1,1,Neutrophil,Neutrophil
+cell_59812,Clone_38,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_59841,Clone_2946,2,prog_2,LSK_d2_1,16,Neutrophil,Neutrophil
+cell_59964,Clone_4178,2,prog_2,LSK_d2_1,6,Monocyte,Monocyte
+cell_59967,Clone_1458,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_60008,Clone_3309,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_60042,Clone_3385,2,prog_1,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_60095,Clone_4847,2,prog_1,LSK_d2_1,23,Erythroid / Mk,Erythroid_Mk
+cell_60098,Clone_5028,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_60211,Clone_1792,2,prog_2,LSK_d2_1,12,Monocyte,Monocyte
+cell_60238,Clone_4150,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_60243,Clone_5278,2,prog_2,LSK_d2_1,6,Monocyte,Monocyte
+cell_60295,Clone_5211,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_60322,Clone_3605,2,prog_2,LSK_d2_1,12,Monocyte,Monocyte
+cell_60382,Clone_4744,2,prog_2,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_60403,Clone_4872,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_60438,Clone_5311,2,prog_1,LSK_d2_1,1,Neutrophil,Neutrophil
+cell_60482,Clone_60,2,prog_1,LSK_d2_1,11,Multi-lineage,Multi_lineage
+cell_60496,Clone_5380,2,prog_2,LSK_d2_1,16,Neutrophil,Neutrophil
+cell_60508,Clone_435,2,prog_2,LSK_d2_1,16,Neutrophil,Neutrophil
+cell_60572,Clone_4428,2,prog_2,LSK_d2_1,22,Neutrophil,Neutrophil
+cell_60585,Clone_1153,2,prog_2,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_60645,Clone_195,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_60699,Clone_2293,2,prog_1,LSK_d2_1,1,Neutrophil,Neutrophil
+cell_60704,Clone_1014,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_60707,Clone_3767,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_60796,Clone_4358,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_60888,Clone_2362,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_60891,Clone_4518,2,prog_2,LSK_d2_1,22,Neutrophil,Neutrophil
+cell_60965,Clone_1619,2,prog_2,LSK_d2_1,18,Multi-lineage,Multi_lineage
+cell_60966,Clone_3120,2,prog_2,LSK_d2_1,9,Neutrophil,Neutrophil
+cell_61147,Clone_1501,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_61238,Clone_3398,2,prog_1,LSK_d2_1,11,Multi-lineage,Multi_lineage
+cell_61305,Clone_958,2,prog_2,LSK_d2_1,4,Multi-lineage,Multi_lineage
+cell_61354,Clone_227,2,prog_1,LSK_d2_1,10,Erythroid / Mk,Erythroid_Mk
+cell_61355,Clone_746,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_61379,Clone_159,2,prog_2,LSK_d2_1,5,Multi-lineage,Multi_lineage
+cell_61463,Clone_5657,2,prog_2,LSK_d2_1,3,Multi-lineage,Multi_lineage
+cell_61479,Clone_2291,2,prog_2,LSK_d2_1,5,Multi-lineage,Multi_lineage
+cell_61487,Clone_3599,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_61518,Clone_4965,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_61526,Clone_5057,2,prog_2,LSK_d2_1,6,Monocyte,Monocyte
+cell_61635,Clone_712,2,prog_2,LSK_d2_1,13,Basophil,Basophil
+cell_61742,Clone_641,2,prog_2,LSK_d2_1,8,Monocyte,Monocyte
+cell_61756,Clone_1601,2,prog_2,LSK_d2_1,11,Multi-lineage,Multi_lineage
+cell_61861,Clone_831,2,prog_2,LSK_d2_1,0,Multi-lineage,Multi_lineage
+cell_61893,Clone_3579,2,prog_2,LSK_d2_1,17,Erythroid / Mk,Erythroid_Mk
+cell_68501,Clone_614,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68522,Clone_3324,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68529,Clone_105,2,prog_2,LK_d2,13,Basophil,Basophil
+cell_68541,Clone_5265,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68574,Clone_2190,2,prog_2,LK_d2,16,Neutrophil,Neutrophil
+cell_68590,Clone_2673,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_68591,Clone_2877,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68596,Clone_4248,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_68601,Clone_591,2,prog_2,LK_d2,12,Monocyte,Monocyte
+cell_68602,Clone_3869,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_68636,Clone_2402,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_68676,Clone_4935,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68687,Clone_2791,2,prog_2,LK_d2,12,Monocyte,Monocyte
+cell_68688,Clone_1261,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_68706,Clone_3301,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68712,Clone_3007,2,prog_2,LK_d2,7,Monocyte,Monocyte
+cell_68713,Clone_2005,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_68723,Clone_2811,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68734,Clone_3007,2,prog_2,LK_d2,7,Monocyte,Monocyte
+cell_68764,Clone_99,2,prog_2,LK_d2,8,Monocyte,Monocyte
+cell_68771,Clone_3345,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_68791,Clone_1555,2,prog_2,LK_d2,12,Monocyte,Monocyte
+cell_68792,Clone_2884,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68887,Clone_3301,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68909,Clone_3631,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_68916,Clone_56,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_68927,Clone_2791,2,prog_2,LK_d2,12,Monocyte,Monocyte
+cell_68950,Clone_932,2,prog_2,LK_d2,8,Monocyte,Monocyte
+cell_69002,Clone_2899,2,prog_2,LK_d2,4,Multi-lineage,Multi_lineage
+cell_69015,Clone_3790,2,prog_1,LK_d2,10,Erythroid / Mk,Erythroid_Mk
+cell_69026,Clone_2884,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_69027,Clone_210,2,prog_2,LK_d2,12,Monocyte,Monocyte
+cell_69030,Clone_3633,2,prog_2,LK_d2,9,Neutrophil,Neutrophil
+cell_69056,Clone_3345,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_69090,Clone_2831,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_69105,Clone_1691,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_69113,Clone_2190,2,prog_2,LK_d2,16,Neutrophil,Neutrophil
+cell_69116,Clone_2224,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_69121,Clone_1212,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_69126,Clone_3869,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_69140,Clone_3165,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_69146,Clone_82,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_69168,Clone_4304,2,prog_2,LK_d2,12,Monocyte,Monocyte
+cell_69213,Clone_210,2,prog_2,LK_d2,12,Monocyte,Monocyte
+cell_69268,Clone_2618,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_69269,Clone_1899,2,prog_2,LK_d2,12,Monocyte,Monocyte
+cell_69280,Clone_4321,2,prog_2,LK_d2,0,Multi-lineage,Multi_lineage
+cell_69299,Clone_4419,2,prog_2,LK_d2,13,Basophil,Basophil
+cell_69312,Clone_3016,2,prog_2,LK_d2,14,Neutrophil,Neutrophil
+cell_69324,Clone_5663,2,prog_2,LK_d2,13,Basophil,Basophil

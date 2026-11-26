@@ -1,0 +1,44 @@
+figure,comparison,passed
+manuscript_four_method/chronoclone_isolated_axes_postfit_coverage.svg,SVG content excluding creation date,True
+manuscript_four_method/chronoclone_mean_ari_heatmap.svg,SVG content excluding creation date,True
+manuscript_four_method/clades_preprocessing_mean_ari_heatmap.svg,SVG content excluding creation date,True
+manuscript_four_method/gaussian_only_mean_ari_by_method.svg,SVG content excluding creation date,True
+manuscript_four_method/gaussian_only_method_success_fraction.svg,SVG content excluding creation date,True
+manuscript_four_method/gaussian_only_recovered_k.svg,SVG content excluding creation date,True
+manuscript_four_method/gaussian_only_same_retained_ari_sensitivity.svg,SVG content excluding creation date,True
+manuscript_four_method/isolated_axes_eligible_clone_fraction.svg,SVG content excluding creation date,True
+manuscript_four_method/kmeans_mean_ari_heatmap.svg,SVG content excluding creation date,True
+manuscript_four_method/uniform_only_mean_ari_by_method.svg,SVG content excluding creation date,True
+manuscript_four_method/uniform_only_method_success_fraction.svg,SVG content excluding creation date,True
+manuscript_four_method/uniform_only_recovered_k.svg,SVG content excluding creation date,True
+manuscript_four_method/uniform_only_same_retained_ari_sensitivity.svg,SVG content excluding creation date,True
+manuscript_four_method/ward_mean_ari_heatmap.svg,SVG content excluding creation date,True
+validation_five_method/chronoclone_isolated_axes_postfit_coverage.svg,SVG content excluding creation date,True
+validation_five_method/chronoclone_mean_ari_heatmap.svg,SVG content excluding creation date,True
+validation_five_method/clades_preprocessing_mean_ari_heatmap.svg,SVG content excluding creation date,True
+validation_five_method/cyclone_abundance_only_mean_ari_heatmap.svg,SVG content excluding creation date,True
+validation_five_method/gaussian_only_mean_ari_by_method.svg,SVG content excluding creation date,True
+validation_five_method/gaussian_only_method_success_fraction.svg,SVG content excluding creation date,True
+validation_five_method/gaussian_only_recovered_k.svg,SVG content excluding creation date,True
+validation_five_method/gaussian_only_same_retained_ari_sensitivity.svg,SVG content excluding creation date,True
+validation_five_method/isolated_axes_eligible_clone_fraction.svg,SVG content excluding creation date,True
+validation_five_method/kmeans_mean_ari_heatmap.svg,SVG content excluding creation date,True
+validation_five_method/uniform_only_mean_ari_by_method.svg,SVG content excluding creation date,True
+validation_five_method/uniform_only_method_success_fraction.svg,SVG content excluding creation date,True
+validation_five_method/uniform_only_recovered_k.svg,SVG content excluding creation date,True
+validation_five_method/uniform_only_same_retained_ari_sensitivity.svg,SVG content excluding creation date,True
+validation_five_method/ward_mean_ari_heatmap.svg,SVG content excluding creation date,True
+chronoclone_isolated_axes_postfit_coverage.png,PNG pixels,True
+chronoclone_mean_ari_heatmap.png,PNG pixels,True
+clades_preprocessing_mean_ari_heatmap.png,PNG pixels,True
+gaussian_only_mean_ari_by_method.png,PNG pixels,True
+gaussian_only_method_success_fraction.png,PNG pixels,True
+gaussian_only_recovered_k.png,PNG pixels,True
+gaussian_only_same_retained_ari_sensitivity.png,PNG pixels,True
+isolated_axes_eligible_clone_fraction.png,PNG pixels,True
+kmeans_mean_ari_heatmap.png,PNG pixels,True
+uniform_only_mean_ari_by_method.png,PNG pixels,True
+uniform_only_method_success_fraction.png,PNG pixels,True
+uniform_only_recovered_k.png,PNG pixels,True
+uniform_only_same_retained_ari_sensitivity.png,PNG pixels,True
+ward_mean_ari_heatmap.png,PNG pixels,True

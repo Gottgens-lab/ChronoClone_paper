@@ -1,0 +1,11 @@
+variant,n_fit_clones,n_fit_metaclones,reference_library_fraction,covariates,rank_dropped,rank,condition_number,source_adjustment_estimable,removed_small_group_clones,normalization_genes,n_retained_cells,n_retained_clones,removed_library
+source_fraction_adjusted,569,20,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_1|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_2|libfrac__d2_3|prog2_fraction_z,,27,17.784569806866173,True,0,9,,,
+without_library__LK_d2,528,20,libfrac__LSK_d2_2,libfrac__LSK_d2_1|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_2|libfrac__d2_3,,25,7.934707661191597,True,0,9,725.0,528.0,LK_d2
+without_library__LSK_d2_1,453,20,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_2|libfrac__d2_3,,25,8.413145924717492,True,0,11,606.0,453.0,LSK_d2_1
+without_library__LSK_d2_2,444,20,libfrac__LSK_d2_1,libfrac__LK_d2|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_2|libfrac__d2_3,,25,8.383564401791018,True,0,9,576.0,444.0,LSK_d2_2
+without_library__LSK_d2_3,466,20,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_1|libfrac__d2_1|libfrac__d2_2|libfrac__d2_3,,25,7.7410232761842375,True,0,8,615.0,466.0,LSK_d2_3
+without_library__d2_1,540,20,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_1|libfrac__LSK_d2_3|libfrac__d2_2|libfrac__d2_3,,25,7.016171067541193,True,0,9,717.0,540.0,d2_1
+without_library__d2_2,540,20,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_1|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_3,,25,7.00583941827421,True,0,9,709.0,540.0,d2_2
+without_library__d2_3,533,20,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_1|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_2,,25,7.014329515720301,True,0,9,702.0,533.0,d2_3
+prog2_only,421,16,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_1|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_2|libfrac__d2_3,,22,13.836653990013502,True,2,10,583.0,423.0,
+nonmito_poscounts,569,20,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_1|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_2|libfrac__d2_3,,26,7.0667038308111945,True,0,9053,775.0,569.0,

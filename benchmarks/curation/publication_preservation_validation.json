@@ -1,0 +1,40 @@
+{
+  "status": "pass",
+  "scientific_files": 63,
+  "scientific_cells": 37,
+  "notebooks": [
+    {
+      "path": "benchmarks/ode_noise/notebooks/0003_t1_locked_method_noise_results.ipynb",
+      "code_cells": 20,
+      "output_cells": 20,
+      "publication_sha256": "7b5b019b68d531c305576b5c44fc64e691d003af79dc74e18c7a2b8889fae163"
+    },
+    {
+      "path": "benchmarks/ode_noise/notebooks/0005_t1_locked_four_method_noise_results.ipynb",
+      "code_cells": 19,
+      "output_cells": 19,
+      "publication_sha256": "a7dc4f3ae963d1893c7bfb59998319df9135ce1087e9350e03f2c550f3eeb922"
+    },
+    {
+      "path": "benchmarks/ode_noise/notebooks/0006_benchmark_evidence_and_smoke.ipynb",
+      "code_cells": 5,
+      "output_cells": 5,
+      "publication_sha256": "771c534fa36bec61c3a5efa339ee511a774ea781a1c42e5420741829a648315c"
+    }
+  ],
+  "wheel_members": 14,
+  "runtime": {
+    "environment_name": "chronoclone",
+    "absolute_macbook_path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone-paper",
+    "current_prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+    "current_executable": "/path/to/ChronoClone/.runtime/chronoclone/bin/python",
+    "python": "3.11.15",
+    "versions": {
+      "nbformat": "5.10.4",
+      "pandas": "2.3.3"
+    },
+    "execution_command": "JUPYTER_PATH=/path/to/ChronoClone/.runtime/jupyter python benchmarks/run_notebook.py benchmarks/curation/0003_publication_preservation.ipynb --kernel chronoclone-paper"
+  },
+  "full_benchmark_rerun": false
+}

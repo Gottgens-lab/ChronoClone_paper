@@ -1,0 +1,102 @@
+[
+ {
+  "path": "analysis/weinreb/current_source/programs/0001_weinreb_day2_hspc_metaclone_gene_programs.ipynb",
+  "sha256": "3c70a26f1d6b319fe9509563716eb5446d203db09f33e5de27b8b4e8058f8188",
+  "code_cells": 75,
+  "executed_cells": 75,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "49e197e2e537623b48bbf32a77d94f81e556f5ca1f206f597de47e702882a565",
+  "publication_bytes": 3974975
+ },
+ {
+  "path": "analysis/weinreb/current_source/ancestry/0001_weinreb_metaclone_ancestry_worked_examples.ipynb",
+  "sha256": "acbe227bd6eda912390dad247255e1e71d908f35095066ca176a43616c8478d8",
+  "code_cells": 22,
+  "executed_cells": 22,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "6df2a07f29b4aa7b9811f3b5ad78aba573dbc130d7b674e8b4a82d2fd43f606e",
+  "publication_bytes": 1631293
+ },
+ {
+  "path": "analysis/weinreb/current_source/ancestry/0002_evidence_review.ipynb",
+  "sha256": "837235d72cbdf1af15707d108fc5ddd31815c708578988cbf48625b2f6b28334",
+  "code_cells": 6,
+  "executed_cells": 6,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "b386d7ec4b32395a843279a23b0c58f739b5b23405e70b20c9e7b8135ae9f33b",
+  "publication_bytes": 119853
+ },
+ {
+  "path": "analysis/weinreb/current_source/dynamics/0001_weinreb_multilineage_metaclone_dynamics.ipynb",
+  "sha256": "518ea154f5e5d4fdb27575d0eff2a9c0c5385c24669f2b16eb8b76d595f39daf",
+  "code_cells": 13,
+  "executed_cells": 13,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "7d72c5154b84f616526509b6accaa11323dbb1036ee26f74710f5989c91afd17",
+  "publication_bytes": 324232
+ },
+ {
+  "path": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb",
+  "sha256": "71a781127e3848097d03968bb2c78d5dac47c89092e144e0f09003a74592ce25",
+  "code_cells": 48,
+  "executed_cells": 48,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "9686f61e23849770489a563e7bc2abf83599535f28b38a092a83bd5262d61669",
+  "publication_bytes": 13748525
+ },
+ {
+  "path": "analysis/weinreb/current_source/v5_repair/0001_branch_restricted_pseudotime.ipynb",
+  "sha256": "17066121b0fa609e64fe3e34086b00601709ba0336652676e3f766bb75f96c33",
+  "code_cells": 5,
+  "executed_cells": 5,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "d520474d5c308d8c339841915e18187ed4f317efc5bc965587877d12c6345c90",
+  "publication_bytes": 138566
+ },
+ {
+  "path": "analysis/weinreb/current_source/clone_embedding/0001_saved_clone_umaps.ipynb",
+  "sha256": "f16d1daa0d86d9947a43c284f8f33d821a225dda9f35da8ffccc78e6306342a5",
+  "code_cells": 5,
+  "executed_cells": 5,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "81c0ba7639658dca02b7f8cfb67d0db25499894727c15c455f86f7980b159d91",
+  "publication_bytes": 238013
+ },
+ {
+  "path": "analysis/weinreb/current_source/upstream/Figure2_klein_pace.ipynb",
+  "sha256": "24214c78fc5c2b7c70415ae63c8af33d156a0307ca7ac8a1bb3a95b029223177",
+  "code_cells": 40,
+  "executed_cells": 35,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "8f653511b3de1c38f044438f6dff00970cbecf47f6e619add63ee36a55935207",
+  "publication_bytes": 5483935
+ },
+ {
+  "path": "analysis/weinreb/current_source/upstream/klein_palantir_trajectories.ipynb",
+  "sha256": "d89bb250acdd130fe86d6d0cb4233fd6335b4d3268036ea338598679ed775207",
+  "code_cells": 10,
+  "executed_cells": 10,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "03579270ec06900924e1c8a327249c561ef1a1f48589a5d57d40094740f22365",
+  "publication_bytes": 892384
+ },
+ {
+  "path": "analysis/weinreb/current_source/upstream/0010_ChronoClone_Weinreb2020.ipynb",
+  "sha256": "7813256f941beff479cf71a8db9334e5f974b8c7788beb3852cf90c531370056",
+  "code_cells": 34,
+  "executed_cells": 26,
+  "saved_errors": 0,
+  "execution_role": "Saved original execution; publication paths and labels adapted; scientific computation not rerun during curation",
+  "source_sha256": "6e8ac988969ac83c08e3d6be2c2dd2a434d81a81c5046349944f0f1aeb66df02",
+  "publication_bytes": 8457759
+ }
+]

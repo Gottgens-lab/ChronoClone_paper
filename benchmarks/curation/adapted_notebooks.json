@@ -1,0 +1,16 @@
+[
+  {
+    "path": "benchmarks/ode_noise/notebooks/0003_t1_locked_method_noise_results.ipynb",
+    "source_sha256": "d691168b64111e299251d18a64aab200019756f3aaaec4870fdcf3aff1819748",
+    "pre_publication_execution_sha256": "650e4538109d5d888a2bbee447420bfcb9b771f3f0f0638492bb38499359b464",
+    "publication_sha256": "7b5b019b68d531c305576b5c44fc64e691d003af79dc74e18c7a2b8889fae163",
+    "scientific_cells": "unchanged; see publication_scientific_baseline.json"
+  },
+  {
+    "path": "benchmarks/ode_noise/notebooks/0005_t1_locked_four_method_noise_results.ipynb",
+    "source_sha256": "ea114585ad716b34886b49b3f4c815ee23211f882d2fc9ab50689b37639fc92d",
+    "pre_publication_execution_sha256": "e968e86f04a2424ed2a797f2ebb461c8dc95e22434a1cdd8d1b7623b8bb3aa9b",
+    "publication_sha256": "a7dc4f3ae963d1893c7bfb59998319df9135ce1087e9350e03f2c550f3eeb922",
+    "scientific_cells": "unchanged; see publication_scientific_baseline.json"
+  }
+]

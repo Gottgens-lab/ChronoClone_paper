@@ -1,0 +1,8 @@
+check,value
+day2_libraries,LK_d2|LSK_d2_1|LSK_d2_2|LSK_d2_3|d2_1|d2_2|d2_3
+reference_fraction,libfrac__LSK_d2_2
+library_covariates,libfrac__LK_d2__z|libfrac__LSK_d2_1__z|libfrac__LSK_d2_3__z|libfrac__d2_1__z|libfrac__d2_2__z|libfrac__d2_3__z
+rank_dropped_fractions,
+n_library_covariates,6
+genes_before_filter,25289
+genes_after_group_blind_filter,9777

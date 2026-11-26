@@ -1,0 +1,4 @@
+tier,n_contrasts,n_program_tests,n_contrast_fdr_lt_0_25,n_tier_fdr_lt_0_05
+all_metaclones_ovr,20,1000,278,155
+lineage_bias_ovr,5,250,102,51
+within_lineage_ovr,19,950,265,151

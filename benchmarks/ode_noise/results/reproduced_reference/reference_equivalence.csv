@@ -1,0 +1,13 @@
+program,n_clones,exact_profile_match,maximum_absolute_difference
+MC01,15,True,0.0
+MC02,30,True,0.0
+MC03,50,True,0.0
+MC04,40,True,0.0
+MC05,72,True,0.0
+MC06,56,True,0.0
+MC07,88,True,0.0
+MC08,20,True,0.0
+MC09,37,True,0.0
+MC10,53,True,0.0
+MC11,26,True,0.0
+MC12,30,True,0.0

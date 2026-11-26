@@ -1,0 +1,21 @@
+display_order,cell_state,legend_row,legend_column,color
+1,HSPCs,1,1,#787878
+2,Prog 3,1,2,#a7a7a7
+3,Prog 4,1,3,#c5c5c5
+4,Baso/Mk/Ery/Mast prog,1,4,#8cc493
+5,Ly/pDC prog,2,1,#85c5bf
+6,DC/Mono prog,2,2,#b55d76
+7,Mk/Ery prog,2,3,#89b6d5
+8,Baso/Eos prog,2,4,#78bd85
+9,Early Neu prog,3,1,#f3c685
+10,Neu prog,3,2,#f3a84d
+11,Mono prog,3,3,#e8879b
+12,Baso,3,4,#289646
+13,DC,4,1,#776792
+14,Eos,4,2,#8f663e
+15,Ery,4,3,#408bc0
+16,Ly,4,4,#259994
+17,Mast,5,1,#874dad
+18,Mk,5,2,#2664a7
+19,Mono,5,3,#c83f59
+20,Neu,5,4,#ec8b23

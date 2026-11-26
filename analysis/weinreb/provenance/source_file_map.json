@@ -1,0 +1,3412 @@
+[
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/0001_weinreb_day2_hspc_metaclone_gene_programs.ipynb",
+  "path": "analysis/weinreb/current_source/programs/0001_weinreb_day2_hspc_metaclone_gene_programs.ipynb",
+  "bytes": 3974975,
+  "sha256": "3c70a26f1d6b319fe9509563716eb5446d203db09f33e5de27b8b4e8058f8188",
+  "role": "source with saved original execution; publication labels adapted",
+  "source_sha256": "49e197e2e537623b48bbf32a77d94f81e556f5ca1f206f597de47e702882a565",
+  "source_bytes": 3974379,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/scripts/build_notebook.py",
+  "path": "analysis/weinreb/current_source/programs/scripts/build_notebook.py",
+  "bytes": 273465,
+  "sha256": "e940bfa8463e72d2f142062d7d82c7b8f5cd71348b0eb5584745c019faeff0b4",
+  "role": "source builder/helper",
+  "source_sha256": "73e65b5d4d6e68be637b446c607325eed9c97676952789f39ca1594d65b1d606",
+  "source_bytes": 273546,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/scripts/cnmf_append_cells.py",
+  "path": "analysis/weinreb/current_source/programs/scripts/cnmf_append_cells.py",
+  "bytes": 221668,
+  "sha256": "6511d445cd8c326c1d3e0f945cba4fe55f61fe273db1d5db5f3c15fa7a0e9c3a",
+  "role": "source builder/helper",
+  "source_sha256": "877d6a0a2ee6c70efca80ca03e39e741c31b9b2237699eaff5a25133e516b85b",
+  "source_bytes": 221650,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/0001_weinreb_metaclone_ancestry_worked_examples.ipynb",
+  "path": "analysis/weinreb/current_source/ancestry/0001_weinreb_metaclone_ancestry_worked_examples.ipynb",
+  "bytes": 1631293,
+  "sha256": "acbe227bd6eda912390dad247255e1e71d908f35095066ca176a43616c8478d8",
+  "role": "source with saved original execution; publication labels adapted",
+  "source_sha256": "6df2a07f29b4aa7b9811f3b5ad78aba573dbc130d7b674e8b4a82d2fd43f606e",
+  "source_bytes": 1631759,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/0002_evidence_review.ipynb",
+  "path": "analysis/weinreb/current_source/ancestry/0002_evidence_review.ipynb",
+  "bytes": 119853,
+  "sha256": "837235d72cbdf1af15707d108fc5ddd31815c708578988cbf48625b2f6b28334",
+  "role": "source with saved original execution; publication labels adapted",
+  "source_sha256": "b386d7ec4b32395a843279a23b0c58f739b5b23405e70b20c9e7b8135ae9f33b",
+  "source_bytes": 119729,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/scripts/build_evidence_review_notebook.py",
+  "path": "analysis/weinreb/current_source/ancestry/scripts/build_evidence_review_notebook.py",
+  "bytes": 40691,
+  "sha256": "ca7e5604e259750ff5f8a2a18723332cb6f687724f452ce586f255f2bfd55ff9",
+  "role": "source builder/helper",
+  "source_sha256": "45f19424c754c7c6d8ddb2c8a53fc2ceba84a4b8898b40de6a3bd50f711ab1de",
+  "source_bytes": 40727,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/scripts/build_manuscript_integration_notebook.py",
+  "path": "analysis/weinreb/current_source/ancestry/scripts/build_manuscript_integration_notebook.py",
+  "bytes": 16020,
+  "sha256": "07b1329729b09f6b8442d23614e17f23f5b62d5239d194bdddf2693f94a1c857",
+  "role": "source builder/helper",
+  "source_sha256": "30a46969ba701b1a7f33b191745e3af3870dd482d00d82289bfc94eae67aa86e",
+  "source_bytes": 16052,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/scripts/build_notebook.py",
+  "path": "analysis/weinreb/current_source/ancestry/scripts/build_notebook.py",
+  "bytes": 46282,
+  "sha256": "3e57c54c9b53c1f934deeea92419bd7a606baae3f5ed91aa6eab7ab6ca424000",
+  "role": "source builder/helper",
+  "source_sha256": "7cc211118644fdb48150dcf738dc70dcc5debf80fd4a60747cc0c3ee15a727eb",
+  "source_bytes": 46309,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/scripts/dynamics_cells.py",
+  "path": "analysis/weinreb/current_source/ancestry/scripts/dynamics_cells.py",
+  "bytes": 35632,
+  "sha256": "b271dc56717e590a2a4bd4321b7c622d91ba520782b4869d7152658125ee976f",
+  "role": "source builder/helper",
+  "source_sha256": "9cf6b1a73c5926425b2250f938db4090e06a13bc737737fb488e994974679957",
+  "source_bytes": 35642,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/scripts/program_plot_cells.py",
+  "path": "analysis/weinreb/current_source/ancestry/scripts/program_plot_cells.py",
+  "bytes": 25561,
+  "sha256": "8c6c4dae38bcffd5b65a26933e9f0e27953070e0539a798b676b629471780c18",
+  "role": "source builder/helper",
+  "source_sha256": "8c6c4dae38bcffd5b65a26933e9f0e27953070e0539a798b676b629471780c18",
+  "source_bytes": 25561,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/0001_weinreb_multilineage_metaclone_dynamics.ipynb",
+  "path": "analysis/weinreb/current_source/dynamics/0001_weinreb_multilineage_metaclone_dynamics.ipynb",
+  "bytes": 324232,
+  "sha256": "518ea154f5e5d4fdb27575d0eff2a9c0c5385c24669f2b16eb8b76d595f39daf",
+  "role": "source with saved original execution; publication labels adapted",
+  "source_sha256": "7d72c5154b84f616526509b6accaa11323dbb1036ee26f74710f5989c91afd17",
+  "source_bytes": 324235,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/0001_manuscript_panels_and_evidence.ipynb",
+  "path": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb",
+  "bytes": 13748525,
+  "sha256": "71a781127e3848097d03968bb2c78d5dac47c89092e144e0f09003a74592ce25",
+  "role": "source with saved original execution; publication labels adapted",
+  "source_sha256": "9686f61e23849770489a563e7bc2abf83599535f28b38a092a83bd5262d61669",
+  "source_bytes": 14288069,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/0001_branch_restricted_pseudotime.ipynb",
+  "path": "analysis/weinreb/current_source/v5_repair/0001_branch_restricted_pseudotime.ipynb",
+  "bytes": 138566,
+  "sha256": "17066121b0fa609e64fe3e34086b00601709ba0336652676e3f766bb75f96c33",
+  "role": "source with saved original execution; publication labels adapted",
+  "source_sha256": "d520474d5c308d8c339841915e18187ed4f317efc5bc965587877d12c6345c90",
+  "source_bytes": 138666,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/build_notebook.py",
+  "path": "analysis/weinreb/current_source/v5_repair/build_notebook.py",
+  "bytes": 10631,
+  "sha256": "82b2ff6c9735dc5f323bb0df3a077ce16abe54c4af613cf2136861eeba102cad",
+  "role": "source builder",
+  "source_sha256": "5f8296e1946bb76b89d6823b023eeba3b85650fe31350c2d08f7c22499c74e6e",
+  "source_bytes": 10709,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_singh_clone_umap_comparison_20260911/0001_saved_clone_umaps.ipynb",
+  "path": "analysis/weinreb/current_source/clone_embedding/0001_saved_clone_umaps.ipynb",
+  "bytes": 238013,
+  "sha256": "f16d1daa0d86d9947a43c284f8f33d821a225dda9f35da8ffccc78e6306342a5",
+  "role": "source with saved original execution; publication labels adapted",
+  "source_sha256": "81c0ba7639658dca02b7f8cfb67d0db25499894727c15c455f86f7980b159d91",
+  "source_bytes": 238034,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_singh_clone_umap_comparison_20260911/build_notebook.py",
+  "path": "analysis/weinreb/current_source/clone_embedding/build_notebook.py",
+  "bytes": 17659,
+  "sha256": "92900c67cfa0f082b8e2f4f0458bcac66e0830faa827aee6767a57c6bdfab7f8",
+  "role": "source builder",
+  "source_sha256": "7bc4309529f7b00e1993574b390f6ad75f69dbe0dd9df0ca45025130e521ec79",
+  "source_bytes": 17740,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/scripts/build_notebook.py",
+  "path": "analysis/weinreb/current_source/dynamics/scripts/build_notebook.py",
+  "bytes": 30402,
+  "sha256": "45c88a5b1b38086b33d0c3b01be9c5acb0f5e998b117682acb2bc0f6419cbd4f",
+  "role": "dynamics builder",
+  "source_sha256": "80eff11c56589519052e1c860012e0a589c229daf54ab7081a537d8245460daa",
+  "source_bytes": 30443,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/build_revision_notebook.py",
+  "path": "analysis/weinreb/current_source/v3_display/build_revision_notebook.py",
+  "bytes": 7664,
+  "sha256": "483bfca495a36d9bfd571e1887e151c216e9228a1354f7e67dc7cfdb288c7127",
+  "role": "display builder",
+  "source_sha256": "2f1885675dd346bb5473703a4e154e460dfd4703fb5338860fdb44e981b34e7e",
+  "source_bytes": 7778,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/revision_plot_cells.py",
+  "path": "analysis/weinreb/current_source/v3_display/revision_plot_cells.py",
+  "bytes": 49108,
+  "sha256": "d75500badafe062c91847132ca618518ff26d4c64386f39c39e4b0352f8af939",
+  "role": "display builder",
+  "source_sha256": "73d36809a9500ff1fb999acf584ce6eafc779c143e42fd3c9ed010a8142f4f3b",
+  "source_bytes": 49064,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "reference_workspace/notebooks/Figure2_klein_pace.ipynb",
+  "path": "analysis/weinreb/current_source/upstream/Figure2_klein_pace.ipynb",
+  "bytes": 5483935,
+  "sha256": "24214c78fc5c2b7c70415ae63c8af33d156a0307ca7ac8a1bb3a95b029223177",
+  "role": "author/reference source with saved historical execution; publication labels adapted",
+  "source_sha256": "8f653511b3de1c38f044438f6dff00970cbecf47f6e619add63ee36a55935207",
+  "source_bytes": 5483967,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/palantir_trajectories/klein_palantir_trajectories.ipynb",
+  "path": "analysis/weinreb/current_source/upstream/klein_palantir_trajectories.ipynb",
+  "bytes": 892384,
+  "sha256": "d89bb250acdd130fe86d6d0cb4233fd6335b4d3268036ea338598679ed775207",
+  "role": "author/reference source with saved historical execution; publication labels adapted",
+  "source_sha256": "03579270ec06900924e1c8a327249c561ef1a1f48589a5d57d40094740f22365",
+  "source_bytes": 892367,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "project/figure2_weinreb/author_workflow_20260724/notebooks/0010_ChronoClone_Weinreb2020.ipynb",
+  "path": "analysis/weinreb/current_source/upstream/0010_ChronoClone_Weinreb2020.ipynb",
+  "bytes": 8457759,
+  "sha256": "7813256f941beff479cf71a8db9334e5f974b8c7788beb3852cf90c531370056",
+  "role": "author/reference source with saved historical execution; publication labels adapted",
+  "source_sha256": "6e8ac988969ac83c08e3d6be2c2dd2a434d81a81c5046349944f0f1aeb66df02",
+  "source_bytes": 8457847,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/adjusted_program_means_by_lineage_bias.csv",
+  "path": "analysis/weinreb/tables/programs/adjusted_program_means_by_lineage_bias.csv",
+  "bytes": 6213,
+  "sha256": "7171581b682a5efe52edecdd1eaa14ace7a414682f7b9675bc598f8e64aacc0a",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "7171581b682a5efe52edecdd1eaa14ace7a414682f7b9675bc598f8e64aacc0a",
+  "source_bytes": 6213,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/adjusted_program_means_by_metaclone.csv",
+  "path": "analysis/weinreb/tables/programs/adjusted_program_means_by_metaclone.csv",
+  "bytes": 21675,
+  "sha256": "2be499d7f5790d0f5557ab1b49ceb61572d991d5b4ecf10dc825c055691bcae2",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "2be499d7f5790d0f5557ab1b49ceb61572d991d5b4ecf10dc825c055691bcae2",
+  "source_bytes": 21675,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/clone_hallmark_program_scores.csv.gz",
+  "path": "analysis/weinreb/tables/programs/clone_hallmark_program_scores.csv.gz",
+  "bytes": 265894,
+  "sha256": "531c4796166f6eb10b9f0fcfb12ee48bdf9b5367f7519e3113dbf32c82123181",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "531c4796166f6eb10b9f0fcfb12ee48bdf9b5367f7519e3113dbf32c82123181",
+  "source_bytes": 265894,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_01_K_selection_diagnostics_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_01_K_selection_diagnostics_plot_data.csv",
+  "bytes": 3023,
+  "sha256": "af96f6141c5fe6475968cb2585dc4116bb72accfc95cc64d2fe46527dbd4618b",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "af96f6141c5fe6475968cb2585dc4116bb72accfc95cc64d2fe46527dbd4618b",
+  "source_bytes": 3023,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_02_frozen_program_leading_genes_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_02_frozen_program_leading_genes_plot_data.csv",
+  "bytes": 10203,
+  "sha256": "14370edd4e549ad0eac8e722f2420dbb081023928b7ba8a21956b6345d636e3f",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "14370edd4e549ad0eac8e722f2420dbb081023928b7ba8a21956b6345d636e3f",
+  "source_bytes": 10203,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_03_adjusted_usage_by_metaclone_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_03_adjusted_usage_by_metaclone_plot_data.csv",
+  "bytes": 17800,
+  "sha256": "cd8df44b036a81f5ff94602b3859f4d42bf8e6e0fdd583a07445c844c0d98589",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "cd8df44b036a81f5ff94602b3859f4d42bf8e6e0fdd583a07445c844c0d98589",
+  "source_bytes": 17800,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_04_program_recovery_stability_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_04_program_recovery_stability_plot_data.csv",
+  "bytes": 46075,
+  "sha256": "3b65cd0d4d0692a5305b2abc3580c95aa57f823e428ddb08316e1b54218208f3",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "3b65cd0d4d0692a5305b2abc3580c95aa57f823e428ddb08316e1b54218208f3",
+  "source_bytes": 46075,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_05_reference_capture_and_novelty_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_05_reference_capture_and_novelty_plot_data.csv",
+  "bytes": 10186,
+  "sha256": "6ea4379b2d0f9ef69579b1ba4fbd6ff1c17eae29ae1a22ef0765328291671938",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "6ea4379b2d0f9ef69579b1ba4fbd6ff1c17eae29ae1a22ef0765328291671938",
+  "source_bytes": 10186,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_06_all_metaclone_usage_row_zscore_heatmap_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_06_all_metaclone_usage_row_zscore_heatmap_plot_data.csv",
+  "bytes": 66179,
+  "sha256": "85d32793b1b941ad4c96fdfa570a51764904396d3afe6c17929f53e2b8a9dce8",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "85d32793b1b941ad4c96fdfa570a51764904396d3afe6c17929f53e2b8a9dce8",
+  "source_bytes": 66179,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_07_lineage_bias_usage_row_zscore_heatmap_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_07_lineage_bias_usage_row_zscore_heatmap_plot_data.csv",
+  "bytes": 17493,
+  "sha256": "2ae706b56463cdd2f90db13acefaa6042e7281d9dcd11a2f9894e4afc0bbbadd",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "2ae706b56463cdd2f90db13acefaa6042e7281d9dcd11a2f9894e4afc0bbbadd",
+  "source_bytes": 17493,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_08_within_lineage_bias_usage_row_zscore_heatmap_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_08_within_lineage_bias_usage_row_zscore_heatmap_plot_data.csv",
+  "bytes": 83242,
+  "sha256": "8b81c342a41c22e8279e888d42886db360ccb92a91e10c801aa1639ba8d4fae7",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "8b81c342a41c22e8279e888d42886db360ccb92a91e10c801aa1639ba8d4fae7",
+  "source_bytes": 83242,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_K_selection_diagnostics.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_K_selection_diagnostics.csv",
+  "bytes": 9364,
+  "sha256": "f05c817da866d56211f5ae176c326f3226ad9c10ca095a72b8a99e4c7d4e5bba",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "f05c817da866d56211f5ae176c326f3226ad9c10ca095a72b8a99e4c7d4e5bba",
+  "source_bytes": 9364,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_K_sweep_component_consensus_assignments.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_K_sweep_component_consensus_assignments.csv.gz",
+  "bytes": 102503,
+  "sha256": "5d86eb0be92da09f1ddf4e6e26c8c5a0e1e3f942ad1e0071db27fc3d34664061",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "5d86eb0be92da09f1ddf4e6e26c8c5a0e1e3f942ad1e0071db27fc3d34664061",
+  "source_bytes": 102503,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_K_sweep_restart_diagnostics.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_K_sweep_restart_diagnostics.csv.gz",
+  "bytes": 11448,
+  "sha256": "4d0adf05d8f46f6730a5eb8144a41446d709cad86b7151feb1223b23bd3cdc21",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "4d0adf05d8f46f6730a5eb8144a41446d709cad86b7151feb1223b23bd3cdc21",
+  "source_bytes": 11448,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_adjusted_usage_by_lineage_bias.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_adjusted_usage_by_lineage_bias.csv",
+  "bytes": 1788,
+  "sha256": "41f0603aa890b7b725c92f10a4f0dc0904398b2f21b71e368e9eebff3c3dc773",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "41f0603aa890b7b725c92f10a4f0dc0904398b2f21b71e368e9eebff3c3dc773",
+  "source_bytes": 1788,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_adjusted_usage_by_metaclone.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_adjusted_usage_by_metaclone.csv",
+  "bytes": 6006,
+  "sha256": "65fa7631d71f2ccd9ca161029f08f9cf04130d69e316648af75b5ba72e6f4fdd",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "65fa7631d71f2ccd9ca161029f08f9cf04130d69e316648af75b5ba72e6f4fdd",
+  "source_bytes": 6006,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_clone_level_broad_contrasts.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_clone_level_broad_contrasts.csv",
+  "bytes": 352382,
+  "sha256": "79791749aa0c7a4df813d756122fe4e019b925030c93ae6d6222de6e0ffc8d19",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "79791749aa0c7a4df813d756122fe4e019b925030c93ae6d6222de6e0ffc8d19",
+  "source_bytes": 352382,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_clone_level_contrast_orientation_audit.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_clone_level_contrast_orientation_audit.csv",
+  "bytes": 3046,
+  "sha256": "53903d84d18151689ed0887fcda4a915f9cf549055884c404cb49b74e8d2f945",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "53903d84d18151689ed0887fcda4a915f9cf549055884c404cb49b74e8d2f945",
+  "source_bytes": 3046,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_clone_usage_all_discovery_clones.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_clone_usage_all_discovery_clones.csv.gz",
+  "bytes": 93860,
+  "sha256": "b83993b2a6466f2c522b23285ad064af269d1beac9f6b77907236bf628c4a9cf",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "b83993b2a6466f2c522b23285ad064af269d1beac9f6b77907236bf628c4a9cf",
+  "source_bytes": 93860,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_clone_usage_current_metaclones.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_clone_usage_current_metaclones.csv.gz",
+  "bytes": 141913,
+  "sha256": "ddf8a93fd12b50b47b542470da6717d0ee3064e7244de539fe7aff184e2613a3",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "ddf8a93fd12b50b47b542470da6717d0ee3064e7244de539fe7aff184e2613a3",
+  "source_bytes": 141913,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_curated_hematopoietic_clone_scores.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_curated_hematopoietic_clone_scores.csv.gz",
+  "bytes": 39270,
+  "sha256": "879188efa96cd8de5088b6d9dcf6da138b780872d8c267cb86e161e2395a62f3",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "879188efa96cd8de5088b6d9dcf6da138b780872d8c267cb86e161e2395a62f3",
+  "source_bytes": 39270,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_curated_hematopoietic_score_mapping.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_curated_hematopoietic_score_mapping.csv",
+  "bytes": 413,
+  "sha256": "de43d087d18ed531b30e78a31a00f08895325630aa1ebe06cd3695c3b9bafd14",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "de43d087d18ed531b30e78a31a00f08895325630aa1ebe06cd3695c3b9bafd14",
+  "source_bytes": 413,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_discovery_cell_metadata_postfreeze.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_discovery_cell_metadata_postfreeze.csv.gz",
+  "bytes": 7551,
+  "sha256": "185f79d763bb32dde09d75576f350352862d59e47ab2c6061f3bdc72f6483f98",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "185f79d763bb32dde09d75576f350352862d59e47ab2c6061f3bdc72f6483f98",
+  "source_bytes": 7551,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_feature_matrix_audit.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_feature_matrix_audit.csv.gz",
+  "bytes": 592438,
+  "sha256": "3ded0170fc891eb54491dac0aca406f96f0336fbda3e88352aafe851ca68acb6",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "3ded0170fc891eb54491dac0aca406f96f0336fbda3e88352aafe851ca68acb6",
+  "source_bytes": 592438,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_feature_matrix_summary.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_feature_matrix_summary.csv",
+  "bytes": 341,
+  "sha256": "da9fc3ef0c4b9b56d1a118f69937d56c05819dbad8c00cea9e7f125d016c1c5e",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "da9fc3ef0c4b9b56d1a118f69937d56c05819dbad8c00cea9e7f125d016c1c5e",
+  "source_bytes": 341,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_frozen_program_registry.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_frozen_program_registry.csv",
+  "bytes": 1660,
+  "sha256": "c266211e53d74b29fe042a03afc25da35092e40346de721a31bb72042052e37a",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "c266211e53d74b29fe042a03afc25da35092e40346de721a31bb72042052e37a",
+  "source_bytes": 1660,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_library_loo_broad_clone_effects.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_library_loo_broad_clone_effects.csv.gz",
+  "bytes": 295458,
+  "sha256": "ded6b91fb840b08c304ea934d95b58e0bfa91ed727610f976f88948bba0a0a2c",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "ded6b91fb840b08c304ea934d95b58e0bfa91ed727610f976f88948bba0a0a2c",
+  "source_bytes": 295458,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_library_loo_broad_effect_stability.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_library_loo_broad_effect_stability.csv",
+  "bytes": 117582,
+  "sha256": "c4fbc65df25992a91d8feb1a8a09b301c929270f48abaca9db7ff163ebee2ebe",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "c4fbc65df25992a91d8feb1a8a09b301c929270f48abaca9db7ff163ebee2ebe",
+  "source_bytes": 117582,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_library_loo_clone_model_audit.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_library_loo_clone_model_audit.csv",
+  "bytes": 4054,
+  "sha256": "29f17d8b018632825cbcb01cba8ea8b15dd37c68651c1f67a74eaeedf04fafc3",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "29f17d8b018632825cbcb01cba8ea8b15dd37c68651c1f67a74eaeedf04fafc3",
+  "source_bytes": 4054,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_library_loo_targeted_clone_effects.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_library_loo_targeted_clone_effects.csv.gz",
+  "bytes": 44746,
+  "sha256": "1f3125ab677712f8b2a266bdedf31144e22df9247d4723f9ad00323c5faa8b64",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "1f3125ab677712f8b2a266bdedf31144e22df9247d4723f9ad00323c5faa8b64",
+  "source_bytes": 44746,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_manual_design_equivalence_audit.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_manual_design_equivalence_audit.csv",
+  "bytes": 2551,
+  "sha256": "aa604ba0ed2891d4d8d7415f69967c3c564df6df7442ef4e0605956a9dfd9f1e",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "aa604ba0ed2891d4d8d7415f69967c3c564df6df7442ef4e0605956a9dfd9f1e",
+  "source_bytes": 2551,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_metaclone_program_novelty_assessment.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_metaclone_program_novelty_assessment.csv",
+  "bytes": 9181,
+  "sha256": "b704fbdb0f13737b1de35764f8667aa010f2c0d0f8029305427722e02d8340e8",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "b704fbdb0f13737b1de35764f8667aa010f2c0d0f8029305427722e02d8340e8",
+  "source_bytes": 9181,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_postfit_program_annotations.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_postfit_program_annotations.csv",
+  "bytes": 2474,
+  "sha256": "9d0a03aa69c1b280aa3bfb89bdb2da21ad6d1d5e5cfa60db9fabda60249fc4d8",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "9d0a03aa69c1b280aa3bfb89bdb2da21ad6d1d5e5cfa60db9fabda60249fc4d8",
+  "source_bytes": 2474,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_postfreeze_program_recovery.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_postfreeze_program_recovery.csv",
+  "bytes": 44679,
+  "sha256": "a82406e525cbb79e06f075afd6ec40dbb282c39f836aa4141b3fde250cf3949c",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "a82406e525cbb79e06f075afd6ec40dbb282c39f836aa4141b3fde250cf3949c",
+  "source_bytes": 44679,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_postfreeze_program_recovery_summary.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_postfreeze_program_recovery_summary.csv",
+  "bytes": 5248,
+  "sha256": "c95bfcd77e8239dc502db87b7e09d64c2ac20423db7ce3dc748f78038e1461f9",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "c95bfcd77e8239dc502db87b7e09d64c2ac20423db7ce3dc748f78038e1461f9",
+  "source_bytes": 5248,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_postfreeze_recovery_component_assignments.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_postfreeze_recovery_component_assignments.csv.gz",
+  "bytes": 70159,
+  "sha256": "2aad36e39a507e15d65990cf6344f1d9eb76368a01a27a1bdf8e0c1123ae452a",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "2aad36e39a507e15d65990cf6344f1d9eb76368a01a27a1bdf8e0c1123ae452a",
+  "source_bytes": 70159,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_postfreeze_recovery_feature_selection.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_postfreeze_recovery_feature_selection.csv.gz",
+  "bytes": 686702,
+  "sha256": "0cef0320abf82d1cb97f5f6f540dca7d6aebd4a868558a336d2d01f327a83645",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "0cef0320abf82d1cb97f5f6f540dca7d6aebd4a868558a336d2d01f327a83645",
+  "source_bytes": 686702,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_postfreeze_recovery_restart_diagnostics.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_postfreeze_recovery_restart_diagnostics.csv.gz",
+  "bytes": 7745,
+  "sha256": "183ec3d86e953c01b2791d44ce930b5963cf8b70d1341d8214bbccd28a1461d2",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "183ec3d86e953c01b2791d44ce930b5963cf8b70d1341d8214bbccd28a1461d2",
+  "source_bytes": 7745,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_prog2_fraction_covariate_design_audit.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_prog2_fraction_covariate_design_audit.csv",
+  "bytes": 190,
+  "sha256": "12323a27a6933bdf3c25310620ff1b4312220c0049f8cc8027a72bd6de21042b",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "12323a27a6933bdf3c25310620ff1b4312220c0049f8cc8027a72bd6de21042b",
+  "source_bytes": 190,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_prog2_fraction_covariate_effect_sensitivity.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_prog2_fraction_covariate_effect_sensitivity.csv",
+  "bytes": 226161,
+  "sha256": "551cfcd62f6f7555976029226eae3880588a638dab655a57bf910104ed28e640",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "551cfcd62f6f7555976029226eae3880588a638dab655a57bf910104ed28e640",
+  "source_bytes": 226161,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_program_clone_score_reference_correlations.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_program_clone_score_reference_correlations.csv",
+  "bytes": 93641,
+  "sha256": "46ecde0eeb42bc11c8a0d3c66689f6ad834a69902f8eb733ddf84e023ff0e3e1",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "46ecde0eeb42bc11c8a0d3c66689f6ad834a69902f8eb733ddf84e023ff0e3e1",
+  "source_bytes": 93641,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_program_reference_gene_overlap.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_program_reference_gene_overlap.csv",
+  "bytes": 92919,
+  "sha256": "2cd0a9800d5f86eb06426406b561ee17e6845782b785cacbe8c5e20a6e0de1af",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "2cd0a9800d5f86eb06426406b561ee17e6845782b785cacbe8c5e20a6e0de1af",
+  "source_bytes": 92919,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_program_technical_association_audit.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_program_technical_association_audit.csv",
+  "bytes": 2027,
+  "sha256": "e748341ba18d0fe27aa66c0ab29f2c279fb224cdcf6b56f9f00f1b0717a15795",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "e748341ba18d0fe27aa66c0ab29f2c279fb224cdcf6b56f9f00f1b0717a15795",
+  "source_bytes": 2027,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_selected_consensus_spectra_HVG_scaled.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_selected_consensus_spectra_HVG_scaled.csv.gz",
+  "bytes": 126381,
+  "sha256": "ab994bb8fe33655edbbe83cc2edf974072616ef5484b01da65de67b6726a4727",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "ab994bb8fe33655edbbe83cc2edf974072616ef5484b01da65de67b6726a4727",
+  "source_bytes": 126381,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_selected_consensus_spectra_all_expressed_genes.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_selected_consensus_spectra_all_expressed_genes.csv.gz",
+  "bytes": 1778444,
+  "sha256": "0162688c2ba78430524111f7f3df5dd126ef2ba25510abcd1e94851cd8eeacfc",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "0162688c2ba78430524111f7f3df5dd126ef2ba25510abcd1e94851cd8eeacfc",
+  "source_bytes": 1778444,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_selected_per_cell_usage_fraction.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_selected_per_cell_usage_fraction.csv.gz",
+  "bytes": 121970,
+  "sha256": "ae3c570a5fd123dd70be61c78c12f25e7af726a1f5e4c3df06ae650f6710f150",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "ae3c570a5fd123dd70be61c78c12f25e7af726a1f5e4c3df06ae650f6710f150",
+  "source_bytes": 121970,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_selected_per_cell_usage_raw.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_selected_per_cell_usage_raw.csv.gz",
+  "bytes": 121492,
+  "sha256": "5463a32b8cd5050f787fa9d964c48bd747d549cfa2cb45d49dc186f93c1aa182",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "5463a32b8cd5050f787fa9d964c48bd747d549cfa2cb45d49dc186f93c1aa182",
+  "source_bytes": 121492,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_selected_program_complete_gene_rankings.csv.gz",
+  "path": "analysis/weinreb/tables/programs/cnmf_selected_program_complete_gene_rankings.csv.gz",
+  "bytes": 8257393,
+  "sha256": "f81aa51fe5b99c27f2ea674908cf4605b4e06733b394f232bfca2cdee4540404",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "f81aa51fe5b99c27f2ea674908cf4605b4e06733b394f232bfca2cdee4540404",
+  "source_bytes": 8257393,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_selected_program_top100_genes.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_selected_program_top100_genes.csv",
+  "bytes": 193685,
+  "sha256": "2b385b1b155774de49a5e89a7cdc41df69c7b5ecf138f30ab6d0851be3e56be6",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "2b385b1b155774de49a5e89a7cdc41df69c7b5ecf138f30ab6d0851be3e56be6",
+  "source_bytes": 193685,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_targeted_behavior_program_signatures.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_targeted_behavior_program_signatures.csv",
+  "bytes": 23740,
+  "sha256": "4c48ac05315df0235b3aeb74089e1d5440fd86f3b41292112877375c83b02be2",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "4c48ac05315df0235b3aeb74089e1d5440fd86f3b41292112877375c83b02be2",
+  "source_bytes": 23740,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_targeted_combined_hit_interpretation.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_targeted_combined_hit_interpretation.csv",
+  "bytes": 1372,
+  "sha256": "4d46e5d0c5169d02ffb812227f47ff61b1cd2f5e743dea8518f8f2d135635015",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "4d46e5d0c5169d02ffb812227f47ff61b1cd2f5e743dea8518f8f2d135635015",
+  "source_bytes": 1372,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_targeted_comparator_drop_effects.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_targeted_comparator_drop_effects.csv",
+  "bytes": 74846,
+  "sha256": "31f8b69f7a10da2290556350973b7d191c82b50ad4f4327ee2231a21671ed4bc",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "31f8b69f7a10da2290556350973b7d191c82b50ad4f4327ee2231a21671ed4bc",
+  "source_bytes": 74846,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_targeted_output_matched_effects_all.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_targeted_output_matched_effects_all.csv",
+  "bytes": 43448,
+  "sha256": "39df00f884ede22c112608872e24196fd28eebbbeced892a4812eecbe2c19396",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "39df00f884ede22c112608872e24196fd28eebbbeced892a4812eecbe2c19396",
+  "source_bytes": 43448,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cnmf_targeted_secondary_pair_effects.csv",
+  "path": "analysis/weinreb/tables/programs/cnmf_targeted_secondary_pair_effects.csv",
+  "bytes": 5970,
+  "sha256": "1b7a07c4cadc6761cf439fe387fdaa93215b81a9de1e5c92b530f43dd227be18",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "1b7a07c4cadc6761cf439fe387fdaa93215b81a9de1e5c92b530f43dd227be18",
+  "source_bytes": 5970,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/cohort_audit.csv",
+  "path": "analysis/weinreb/tables/programs/cohort_audit.csv",
+  "bytes": 289,
+  "sha256": "f0c504b90ac4366d362a46533b793c5802d1bf7268be337ae79f02d91ca3bd43",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "f0c504b90ac4366d362a46533b793c5802d1bf7268be337ae79f02d91ca3bd43",
+  "source_bytes": 289,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/contrast_orientation_audit.csv",
+  "path": "analysis/weinreb/tables/programs/contrast_orientation_audit.csv",
+  "bytes": 7076,
+  "sha256": "1f4edd4947968f03aef131d1525c050d4f3e2fbeea25846d24f04b1802f611b8",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "1f4edd4947968f03aef131d1525c050d4f3e2fbeea25846d24f04b1802f611b8",
+  "source_bytes": 7076,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/contrast_registry.csv",
+  "path": "analysis/weinreb/tables/programs/contrast_registry.csv",
+  "bytes": 15631,
+  "sha256": "7d4d0ca9e84f234e1ced2e0a0b622fa6eff9931b30fe8f5a363dbb9ff7d0ddbc",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "7d4d0ca9e84f234e1ced2e0a0b622fa6eff9931b30fe8f5a363dbb9ff7d0ddbc",
+  "source_bytes": 15631,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/count_recovery_audit.csv",
+  "path": "analysis/weinreb/tables/programs/count_recovery_audit.csv",
+  "bytes": 325,
+  "sha256": "d884d23b9d67e4443aefe64d82a56b286308b30c6098eb29ff3a5d079ddd7412",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "d884d23b9d67e4443aefe64d82a56b286308b30c6098eb29ff3a5d079ddd7412",
+  "source_bytes": 325,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/day2_hspc_analysis_cells.csv",
+  "path": "analysis/weinreb/tables/programs/day2_hspc_analysis_cells.csv",
+  "bytes": 50370,
+  "sha256": "ad66e33a53ce50caff6fdf7aa8588b800cc722928c490bc32e9ab2fb2b9af911",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "ad66e33a53ce50caff6fdf7aa8588b800cc722928c490bc32e9ab2fb2b9af911",
+  "source_bytes": 50370,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/day2_hspc_clone_pseudobulk_metadata.csv",
+  "path": "analysis/weinreb/tables/programs/day2_hspc_clone_pseudobulk_metadata.csv",
+  "bytes": 118998,
+  "sha256": "6ca1b8431877e944c36ec4b474fb56bcadbbe3d1bbf6c8badb9db1c6e07770bf",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "6ca1b8431877e944c36ec4b474fb56bcadbbe3d1bbf6c8badb9db1c6e07770bf",
+  "source_bytes": 118998,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/day2_hspc_source_sublabel_diagnostic.csv",
+  "path": "analysis/weinreb/tables/programs/day2_hspc_source_sublabel_diagnostic.csv",
+  "bytes": 890,
+  "sha256": "b12c463d54996ab584495c356f10d431898155085addac3df281c8d487d7dc61",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "b12c463d54996ab584495c356f10d431898155085addac3df281c8d487d7dc61",
+  "source_bytes": 890,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/day2_hspc_support_by_lineage_bias.csv",
+  "path": "analysis/weinreb/tables/programs/day2_hspc_support_by_lineage_bias.csv",
+  "bytes": 170,
+  "sha256": "5e526c27e38e48a64730e4f4c2cf69f2d3c7292790aac7653d50911b2ad12a2f",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "5e526c27e38e48a64730e4f4c2cf69f2d3c7292790aac7653d50911b2ad12a2f",
+  "source_bytes": 170,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/day2_hspc_support_by_metaclone.csv",
+  "path": "analysis/weinreb/tables/programs/day2_hspc_support_by_metaclone.csv",
+  "bytes": 505,
+  "sha256": "3b3196e02174b161fab941e6ba4c91f50ff8999181806cafd09e071f5a1ed983",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "3b3196e02174b161fab941e6ba4c91f50ff8999181806cafd09e071f5a1ed983",
+  "source_bytes": 505,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/deseq_model_fit_summary.csv",
+  "path": "analysis/weinreb/tables/programs/deseq_model_fit_summary.csv",
+  "bytes": 520,
+  "sha256": "4674f818244244ad3c4daf48dea925e0067ad407929dc991bf70b3d1c986f52d",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "4674f818244244ad3c4daf48dea925e0067ad407929dc991bf70b3d1c986f52d",
+  "source_bytes": 520,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/gene_level_deseq2_tier_summary.csv",
+  "path": "analysis/weinreb/tables/programs/gene_level_deseq2_tier_summary.csv",
+  "bytes": 301,
+  "sha256": "904ec59dd26131d729a3cbd380b434c2a73bd865e6244ba34ffc1743d103192f",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "904ec59dd26131d729a3cbd380b434c2a73bd865e6244ba34ffc1743d103192f",
+  "source_bytes": 301,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/group_blind_gene_filter.csv",
+  "path": "analysis/weinreb/tables/programs/group_blind_gene_filter.csv",
+  "bytes": 458275,
+  "sha256": "ec5c34b4e829cae7af9ef37ef7e2cb59c24c163a684a166888aed423327a46ba",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "ec5c34b4e829cae7af9ef37ef7e2cb59c24c163a684a166888aed423327a46ba",
+  "source_bytes": 458275,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/hallmark_gene_mapping_audit.csv",
+  "path": "analysis/weinreb/tables/programs/hallmark_gene_mapping_audit.csv",
+  "bytes": 29632,
+  "sha256": "66085247ba7b2cd7b30a7d73a6694185074bcf4f8ccf96504d909c57cb864f4c",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "66085247ba7b2cd7b30a7d73a6694185074bcf4f8ccf96504d909c57cb864f4c",
+  "source_bytes": 29632,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/hallmark_preranked_gsea.csv.gz",
+  "path": "analysis/weinreb/tables/programs/hallmark_preranked_gsea.csv.gz",
+  "bytes": 295356,
+  "sha256": "774ac1083d54e4a21ab29c698195d8ef322977ae1afc9107ddb8929a0ef22691",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "774ac1083d54e4a21ab29c698195d8ef322977ae1afc9107ddb8929a0ef22691",
+  "source_bytes": 295356,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/hallmark_preranked_gsea_summary.csv",
+  "path": "analysis/weinreb/tables/programs/hallmark_preranked_gsea_summary.csv",
+  "bytes": 174,
+  "sha256": "a40a36dc5199ab0b22d93bc61df29bdb76c29ea72e280e75baa8df0a04e0645d",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "a40a36dc5199ab0b22d93bc61df29bdb76c29ea72e280e75baa8df0a04e0645d",
+  "source_bytes": 174,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/hallmark_program_contrasts.csv",
+  "path": "analysis/weinreb/tables/programs/hallmark_program_contrasts.csv",
+  "bytes": 1347846,
+  "sha256": "2890d91aeb54a0d9a3e66407a1b7a59c3d1dbd3b8346456d97877b6cd8872a3c",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "2890d91aeb54a0d9a3e66407a1b7a59c3d1dbd3b8346456d97877b6cd8872a3c",
+  "source_bytes": 1347846,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/hallmark_program_tier_summary.csv",
+  "path": "analysis/weinreb/tables/programs/hallmark_program_tier_summary.csv",
+  "bytes": 247,
+  "sha256": "1b309e4335d75b4bce7bbdf5ec0f4b750603fa0ccfc0189910b33bf94a2cf532",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "1b309e4335d75b4bce7bbdf5ec0f4b750603fa0ccfc0189910b33bf94a2cf532",
+  "source_bytes": 247,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/input_provenance_and_scope_audit.csv",
+  "path": "analysis/weinreb/tables/programs/input_provenance_and_scope_audit.csv",
+  "bytes": 521,
+  "sha256": "932df5cd1e8331f10cac031fb171bf87204e5f63578b5d0586b079c064d5d973",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "7545abe9ab7b652096754e6a6387eebc8062b70eb46c712d22dcf907dd43c3b7",
+  "source_bytes": 551,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/library_design_and_gene_filter_audit.csv",
+  "path": "analysis/weinreb/tables/programs/library_design_and_gene_filter_audit.csv",
+  "bytes": 351,
+  "sha256": "7548ec22214be939c7ae1145f2a4ff6dd3993de2e2de6b18eca9c824f9102518",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "7548ec22214be939c7ae1145f2a4ff6dd3993de2e2de6b18eca9c824f9102518",
+  "source_bytes": 351,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/lineage_bias_rule_sensitivity.csv",
+  "path": "analysis/weinreb/tables/programs/lineage_bias_rule_sensitivity.csv",
+  "bytes": 959,
+  "sha256": "3b13b0adf8ac5aeeda764b4dcaed6c3ac31b9d7503f7927fcf9e93712eaae780",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "3b13b0adf8ac5aeeda764b4dcaed6c3ac31b9d7503f7927fcf9e93712eaae780",
+  "source_bytes": 959,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_clone_balanced_author_output_by_day.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_clone_balanced_author_output_by_day.csv",
+  "bytes": 3282,
+  "sha256": "c6213d6efc5504713861b88f104db65173e5ffced28dbcc6e8c3b6c2a9716c6c",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "c6213d6efc5504713861b88f104db65173e5ffced28dbcc6e8c3b6c2a9716c6c",
+  "source_bytes": 3282,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_clone_balanced_mature_output_by_day.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_clone_balanced_mature_output_by_day.csv",
+  "bytes": 2755,
+  "sha256": "a2c540e453855a7da0d1366ce7c6fe686d6b57f5b5542edd1b5fb4b319665e05",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "a2c540e453855a7da0d1366ce7c6fe686d6b57f5b5542edd1b5fb4b319665e05",
+  "source_bytes": 2755,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_day2_adjusted_program_means.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_day2_adjusted_program_means.csv",
+  "bytes": 8115,
+  "sha256": "4dcc462a2ec0a18331b16fcda3cf1e3dc763841b52982de12c41b4f2ab7fe724",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "4dcc462a2ec0a18331b16fcda3cf1e3dc763841b52982de12c41b4f2ab7fe724",
+  "source_bytes": 8115,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_output_support_by_day.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_output_support_by_day.csv",
+  "bytes": 525,
+  "sha256": "7fb38ce79a5ede012a03dd590b9377fb61515c2f0e0ceb7f47f602820e6400a4",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "7fb38ce79a5ede012a03dd590b9377fb61515c2f0e0ceb7f47f602820e6400a4",
+  "source_bytes": 525,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_pooled_cell_author_output_by_day.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_pooled_cell_author_output_by_day.csv",
+  "bytes": 3662,
+  "sha256": "10192a72adfc398e08d1c33a171971260fafcbf697ba4a0ee4154628229b76d8",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "10192a72adfc398e08d1c33a171971260fafcbf697ba4a0ee4154628229b76d8",
+  "source_bytes": 3662,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_program_output_correlation_sensitivities.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_program_output_correlation_sensitivities.csv",
+  "bytes": 1126794,
+  "sha256": "3972a07a5f5bd3dc233e19474ed3d5301607a9fc12dd39d2b92984a95f9043a7",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "3972a07a5f5bd3dc233e19474ed3d5301607a9fc12dd39d2b92984a95f9043a7",
+  "source_bytes": 1126794,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_program_output_correlation_summary.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_program_output_correlation_summary.csv",
+  "bytes": 780,
+  "sha256": "7c33554ec4a59801de07b69eaca1a8211dad488423b93ceb927251666612c4a8",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "7c33554ec4a59801de07b69eaca1a8211dad488423b93ceb927251666612c4a8",
+  "source_bytes": 780,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_program_output_correlations.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_program_output_correlations.csv",
+  "bytes": 442619,
+  "sha256": "65d68878418ee041d28eb7d944b4305713b09f778661a1f75bd1d6efad71d18d",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "65d68878418ee041d28eb7d944b4305713b09f778661a1f75bd1d6efad71d18d",
+  "source_bytes": 442619,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/multilineage_program_output_global_association.csv",
+  "path": "analysis/weinreb/tables/programs/multilineage_program_output_global_association.csv",
+  "bytes": 553,
+  "sha256": "f1969054753f07c8ec12203e06962be3de46135fc987505bd6099fd4771f93c6",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "f1969054753f07c8ec12203e06962be3de46135fc987505bd6099fd4771f93c6",
+  "source_bytes": 553,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/program_effect_orientation_audit.csv",
+  "path": "analysis/weinreb/tables/programs/program_effect_orientation_audit.csv",
+  "bytes": 4791,
+  "sha256": "cf63644c00113fe6b14c29de50acfea3f7ba0c23e8393f6171f40761384d92c1",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "cf63644c00113fe6b14c29de50acfea3f7ba0c23e8393f6171f40761384d92c1",
+  "source_bytes": 4791,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_adjusted_hallmark_means_by_metaclone.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_adjusted_hallmark_means_by_metaclone.csv",
+  "bytes": 8084,
+  "sha256": "45816a2a43b5a5da3ae149602d36ae3615c3cc6c663e9539344286ee56946bcb",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "45816a2a43b5a5da3ae149602d36ae3615c3cc6c663e9539344286ee56946bcb",
+  "source_bytes": 8084,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_adjusted_mean_orientation_audit.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_adjusted_mean_orientation_audit.csv",
+  "bytes": 1692,
+  "sha256": "0ad8a92e07436738d70649a7082af32cb6b3f1dd89d116fc4d0cd91449674bb6",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "0ad8a92e07436738d70649a7082af32cb6b3f1dd89d116fc4d0cd91449674bb6",
+  "source_bytes": 1692,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_behavior_axis_definitions.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_behavior_axis_definitions.csv",
+  "bytes": 743,
+  "sha256": "65519cb6a720106969223a3007029ed6625a77fc352a062a2cf59e520ce93c8b",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "65519cb6a720106969223a3007029ed6625a77fc352a062a2cf59e520ce93c8b",
+  "source_bytes": 743,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_behavior_axis_registry.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_behavior_axis_registry.csv",
+  "bytes": 2035,
+  "sha256": "26afe3c35a7c98e97f97e8b037268754850edb928f47515ee769cf8bf70d1257",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "26afe3c35a7c98e97f97e8b037268754850edb928f47515ee769cf8bf70d1257",
+  "source_bytes": 2035,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_behavior_gene_signatures.csv.gz",
+  "path": "analysis/weinreb/tables/programs/targeted_behavior_gene_signatures.csv.gz",
+  "bytes": 5448935,
+  "sha256": "6b06daa2eb6bd08a86fe9288bf6c59a239340b7248a4070854e3edfdb81ea6e8",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "6b06daa2eb6bd08a86fe9288bf6c59a239340b7248a4070854e3edfdb81ea6e8",
+  "source_bytes": 5448935,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_behavior_hallmark_signatures.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_behavior_hallmark_signatures.csv",
+  "bytes": 98693,
+  "sha256": "952170858e8d309cc07684fe28e8941373289f5e7bf7445bb054670ee61a2227",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "952170858e8d309cc07684fe28e8941373289f5e7bf7445bb054670ee61a2227",
+  "source_bytes": 98693,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_behavior_signature_summary.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_behavior_signature_summary.csv",
+  "bytes": 660,
+  "sha256": "76f5f7dfe44b12bbf2a756742a2e91b1b43725d3929eef3fff4cdb8172be615d",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "76f5f7dfe44b12bbf2a756742a2e91b1b43725d3929eef3fff4cdb8172be615d",
+  "source_bytes": 660,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_bh_family_audit.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_bh_family_audit.csv",
+  "bytes": 333,
+  "sha256": "c13dd3327bac683f0a76eb08cb0fe52ffb98dfb6d7ada392a2d6992d61d9fa3b",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "c13dd3327bac683f0a76eb08cb0fe52ffb98dfb6d7ada392a2d6992d61d9fa3b",
+  "source_bytes": 333,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_comparator_drop_gene_effects.csv.gz",
+  "path": "analysis/weinreb/tables/programs/targeted_comparator_drop_gene_effects.csv.gz",
+  "bytes": 8311741,
+  "sha256": "4ab27aef255e152d6c2393399155cb5c0cc50c906ebcbce6c828f4a885c9883d",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "4ab27aef255e152d6c2393399155cb5c0cc50c906ebcbce6c828f4a885c9883d",
+  "source_bytes": 8311741,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_comparator_drop_hallmark_effects.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_comparator_drop_hallmark_effects.csv",
+  "bytes": 326752,
+  "sha256": "97d2117f3971cdaa77734e1999d4b99eb2a5b0a32b4bec39d3dce59a3483df7b",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "97d2117f3971cdaa77734e1999d4b99eb2a5b0a32b4bec39d3dce59a3483df7b",
+  "source_bytes": 326752,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_contrast_registry.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_contrast_registry.csv",
+  "bytes": 2339,
+  "sha256": "0470f456c2bf61af54d8baac45573204291f62bb2f6b9d5011d512cdbaec163c",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "0470f456c2bf61af54d8baac45573204291f62bb2f6b9d5011d512cdbaec163c",
+  "source_bytes": 2339,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_figure_4a_multilineage_day4_day6_output_composition_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_figure_4a_multilineage_day4_day6_output_composition_plot_data.csv",
+  "bytes": 2851,
+  "sha256": "1c38487c6138c02d8cae58ce0c415eb1bdf206b03f99aaa64296f0578e17ebca",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "1c38487c6138c02d8cae58ce0c415eb1bdf206b03f99aaa64296f0578e17ebca",
+  "source_bytes": 2851,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_figure_4b_behavior_axis_registry_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_figure_4b_behavior_axis_registry_plot_data.csv",
+  "bytes": 2035,
+  "sha256": "26afe3c35a7c98e97f97e8b037268754850edb928f47515ee769cf8bf70d1257",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "26afe3c35a7c98e97f97e8b037268754850edb928f47515ee769cf8bf70d1257",
+  "source_bytes": 2035,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_figure_4c_hallmark_signature_effect_matrix_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_figure_4c_hallmark_signature_effect_matrix_plot_data.csv",
+  "bytes": 99267,
+  "sha256": "96794e2bcd9e28063eb9618ac523ce30bec4b14f60c1a76ebc99246a7a1b86b1",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "96794e2bcd9e28063eb9618ac523ce30bec4b14f60c1a76ebc99246a7a1b86b1",
+  "source_bytes": 99267,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_figure_4d_member_agreement_forest_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_figure_4d_member_agreement_forest_plot_data.csv",
+  "bytes": 5470,
+  "sha256": "ebf5be9d63c723afe688cccdd160cac1ff9eebf49ec27c7df3edccc8e34508fc",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "ebf5be9d63c723afe688cccdd160cac1ff9eebf49ec27c7df3edccc8e34508fc",
+  "source_bytes": 5470,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_figure_4e_monocyte_matched_output_program_landscape_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_figure_4e_monocyte_matched_output_program_landscape_plot_data.csv",
+  "bytes": 2468,
+  "sha256": "b5c8777b8eec53719235ccb489c47e5a7ccecc36728e396a8873b015d4475d3d",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "b5c8777b8eec53719235ccb489c47e5a7ccecc36728e396a8873b015d4475d3d",
+  "source_bytes": 2468,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_figure_4f_neutrophil_matched_output_program_landscape_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_figure_4f_neutrophil_matched_output_program_landscape_plot_data.csv",
+  "bytes": 3194,
+  "sha256": "f15a5d5efabbb71ea025f117929bd59f074abe456855db722ec21df378558168",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "f15a5d5efabbb71ea025f117929bd59f074abe456855db722ec21df378558168",
+  "source_bytes": 3194,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_gene_effects_all.csv.gz",
+  "path": "analysis/weinreb/tables/programs/targeted_gene_effects_all.csv.gz",
+  "bytes": 7383357,
+  "sha256": "a3730e1040b86bbecb853592a1efde7ff30cda604f100b9d64d15c65e9145aef",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "a3730e1040b86bbecb853592a1efde7ff30cda604f100b9d64d15c65e9145aef",
+  "source_bytes": 7383357,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_gene_projection_orientation_audit.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_gene_projection_orientation_audit.csv",
+  "bytes": 541,
+  "sha256": "777c3b455242b237049f431f9ef9f32d672bfc6492ad39fb0e15c2bfb9fc17e4",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "777c3b455242b237049f431f9ef9f32d672bfc6492ad39fb0e15c2bfb9fc17e4",
+  "source_bytes": 541,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_hallmark_effects_all.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_hallmark_effects_all.csv",
+  "bytes": 176218,
+  "sha256": "f9112c28d71867de4c8385752c00ca0e7210164bd2dae8581c9ab1c344849144",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "f9112c28d71867de4c8385752c00ca0e7210164bd2dae8581c9ab1c344849144",
+  "source_bytes": 176218,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_hallmark_preranked_gsea.csv.gz",
+  "path": "analysis/weinreb/tables/programs/targeted_hallmark_preranked_gsea.csv.gz",
+  "bytes": 40405,
+  "sha256": "cd7a5eecfc6e68117e49aa00c05546a8ed498974189d77eaace2ae642d037a98",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "cd7a5eecfc6e68117e49aa00c05546a8ed498974189d77eaace2ae642d037a98",
+  "source_bytes": 40405,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_hallmark_preranked_gsea_summary.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_hallmark_preranked_gsea_summary.csv",
+  "bytes": 471,
+  "sha256": "a43ad77beafa64d7103ffd0163d7dd79237714450d66069a2e103d2351863d3c",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "a43ad77beafa64d7103ffd0163d7dd79237714450d66069a2e103d2351863d3c",
+  "source_bytes": 471,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_key_results.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_key_results.csv",
+  "bytes": 660,
+  "sha256": "76f5f7dfe44b12bbf2a756742a2e91b1b43725d3929eef3fff4cdb8172be615d",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "76f5f7dfe44b12bbf2a756742a2e91b1b43725d3929eef3fff4cdb8172be615d",
+  "source_bytes": 660,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_library_loo_gene_effects.csv.gz",
+  "path": "analysis/weinreb/tables/programs/targeted_library_loo_gene_effects.csv.gz",
+  "bytes": 11596906,
+  "sha256": "afd8621d377be612453a525293cd3ede33a0752ed8fb5b502aea48ec68c07077",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "afd8621d377be612453a525293cd3ede33a0752ed8fb5b502aea48ec68c07077",
+  "source_bytes": 11596906,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_library_loo_hallmark_effects.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_library_loo_hallmark_effects.csv",
+  "bytes": 437767,
+  "sha256": "68d2f8810b946837678e34c67a10735aed4b2d007a788dd6f8cd71bd5f31c4cf",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "68d2f8810b946837678e34c67a10735aed4b2d007a788dd6f8cd71bd5f31c4cf",
+  "source_bytes": 437767,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_library_loo_model_fit_audit.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_library_loo_model_fit_audit.csv",
+  "bytes": 2976,
+  "sha256": "e4f38a62bc24b5f439e50b0cbd6b906617e047e28bd7f8d063b65ca8b6f0ff27",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "e4f38a62bc24b5f439e50b0cbd6b906617e047e28bd7f8d063b65ca8b6f0ff27",
+  "source_bytes": 2976,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_multilineage_clone_hallmark_program_scores.csv.gz",
+  "path": "analysis/weinreb/tables/programs/targeted_multilineage_clone_hallmark_program_scores.csv.gz",
+  "bytes": 101120,
+  "sha256": "c45216e0cbf5bf49930478ebccfe489c369b642c0154562fe8485ace5a06efff",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "c45216e0cbf5bf49930478ebccfe489c369b642c0154562fe8485ace5a06efff",
+  "source_bytes": 101120,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_multilineage_day2_clone_support.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_multilineage_day2_clone_support.csv",
+  "bytes": 106,
+  "sha256": "293f7d92502e9afd57766b72673c2047545bd6200889cde426c735f9abfae9c9",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "293f7d92502e9afd57766b72673c2047545bd6200889cde426c735f9abfae9c9",
+  "source_bytes": 106,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_secondary_gene_contrasts.csv.gz",
+  "path": "analysis/weinreb/tables/programs/targeted_secondary_gene_contrasts.csv.gz",
+  "bytes": 1047024,
+  "sha256": "e0ec32fa2b09ce47c781c798c85db4609eff02c63f108774b0ff28872c067a7e",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "e0ec32fa2b09ce47c781c798c85db4609eff02c63f108774b0ff28872c067a7e",
+  "source_bytes": 1047024,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_secondary_hallmark_contrasts.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_secondary_hallmark_contrasts.csv",
+  "bytes": 23896,
+  "sha256": "65745c9803b4172e356914f96231480ce1e92fac906e07a524204606435450a3",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "65745c9803b4172e356914f96231480ce1e92fac906e07a524204606435450a3",
+  "source_bytes": 23896,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_seven_mc_model_fit_audit.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_seven_mc_model_fit_audit.csv",
+  "bytes": 576,
+  "sha256": "764eec1acc1b8629ff216b4753694ecab10a16667f0a056141e53589889fa625",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "764eec1acc1b8629ff216b4753694ecab10a16667f0a056141e53589889fa625",
+  "source_bytes": 576,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_supp_hallmark_preranked_gsea_matrix_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_supp_hallmark_preranked_gsea_matrix_plot_data.csv",
+  "bytes": 148911,
+  "sha256": "7af65bf5b639db304bcf1434812772b0d8ff8cf6873938af59bc73956f6fa675",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "7af65bf5b639db304bcf1434812772b0d8ff8cf6873938af59bc73956f6fa675",
+  "source_bytes": 148911,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_supp_library_loo_hallmark_effect_diagnostic_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_supp_library_loo_hallmark_effect_diagnostic_plot_data.csv",
+  "bytes": 7311,
+  "sha256": "7216cebbd7d8d91d6e0b20ec1187a1321c0671a6409a11c2d638f59cd3f7402f",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "7216cebbd7d8d91d6e0b20ec1187a1321c0671a6409a11c2d638f59cd3f7402f",
+  "source_bytes": 7311,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/targeted_vector_neutrality_audit.csv",
+  "path": "analysis/weinreb/tables/programs/targeted_vector_neutrality_audit.csv",
+  "bytes": 1008,
+  "sha256": "140cde9601fde90b92905a02458cb4f629423f0d1b8cbf227308eaa4aefeaec3",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "140cde9601fde90b92905a02458cb4f629423f0d1b8cbf227308eaa4aefeaec3",
+  "source_bytes": 1008,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_02_all_metaclone_program_landscape_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_02_all_metaclone_program_landscape_plot_data.csv",
+  "bytes": 21806,
+  "sha256": "e8e2bbfcae2baf76faac188bb2fd6e45d297cae7a2bf877656ca84a2a958bece",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "e8e2bbfcae2baf76faac188bb2fd6e45d297cae7a2bf877656ca84a2a958bece",
+  "source_bytes": 21806,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_03_lineage_bias_program_landscape_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_03_lineage_bias_program_landscape_plot_data.csv",
+  "bytes": 5114,
+  "sha256": "77344a99f566312136cfa2f02f3969c381041b7900dc5b501d8834fd7583c1cf",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "77344a99f566312136cfa2f02f3969c381041b7900dc5b501d8834fd7583c1cf",
+  "source_bytes": 5114,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_04_lineage_bias_pairwise_program_counts_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_04_lineage_bias_pairwise_program_counts_plot_data.csv",
+  "bytes": 559,
+  "sha256": "05c2ea5c25b8bb6cc4da077af95f655eec320b74472aedd2ff9559613efbf251",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "05c2ea5c25b8bb6cc4da077af95f655eec320b74472aedd2ff9559613efbf251",
+  "source_bytes": 559,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_05_neutrophil_within_family_programs_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_05_neutrophil_within_family_programs_plot_data.csv",
+  "bytes": 3194,
+  "sha256": "f15a5d5efabbb71ea025f117929bd59f074abe456855db722ec21df378558168",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "f15a5d5efabbb71ea025f117929bd59f074abe456855db722ec21df378558168",
+  "source_bytes": 3194,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_06_monocyte_within_family_programs_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_06_monocyte_within_family_programs_plot_data.csv",
+  "bytes": 2468,
+  "sha256": "b5c8777b8eec53719235ccb489c47e5a7ccecc36728e396a8873b015d4475d3d",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "b5c8777b8eec53719235ccb489c47e5a7ccecc36728e396a8873b015d4475d3d",
+  "source_bytes": 2468,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_07_erythroid_mk_within_family_programs_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_07_erythroid_mk_within_family_programs_plot_data.csv",
+  "bytes": 2085,
+  "sha256": "03013cc56a95720c03c44eac9bdfbfe930be83dfce441bacf3394cc5ec581ad2",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "03013cc56a95720c03c44eac9bdfbfe930be83dfce441bacf3394cc5ec581ad2",
+  "source_bytes": 2085,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_08_multilineage_within_family_programs_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_08_multilineage_within_family_programs_plot_data.csv",
+  "bytes": 4859,
+  "sha256": "100e5fb67bef77561cc86a37d32a23ca52477c2a23cfcb768ce08b4c823bbc84",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "100e5fb67bef77561cc86a37d32a23ca52477c2a23cfcb768ce08b4c823bbc84",
+  "source_bytes": 4859,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_09_within_family_pairwise_program_counts_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_09_within_family_pairwise_program_counts_plot_data.csv",
+  "bytes": 2066,
+  "sha256": "ceabf98c7a0280bda7532c989a10dcfbcd4d24b726848a492edcd4f07861533a",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "ceabf98c7a0280bda7532c989a10dcfbcd4d24b726848a492edcd4f07861533a",
+  "source_bytes": 2066,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_19_multilineage_clone_balanced_outputs_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_19_multilineage_clone_balanced_outputs_plot_data.csv",
+  "bytes": 2851,
+  "sha256": "1c38487c6138c02d8cae58ce0c415eb1bdf206b03f99aaa64296f0578e17ebca",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "1c38487c6138c02d8cae58ce0c415eb1bdf206b03f99aaa64296f0578e17ebca",
+  "source_bytes": 2851,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_20_multilineage_program_output_correlations_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_20_multilineage_program_output_correlations_plot_data.csv",
+  "bytes": 70957,
+  "sha256": "0c31485728ea46ab84b62bc03f0d423719b0d300b64ceeea94340790f54d113a",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "0c31485728ea46ab84b62bc03f0d423719b0d300b64ceeea94340790f54d113a",
+  "source_bytes": 70957,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/weinreb_day2_hspc_21_multilineage_strongest_program_output_scatter_plot_data.csv",
+  "path": "analysis/weinreb/tables/programs/weinreb_day2_hspc_21_multilineage_strongest_program_output_scatter_plot_data.csv",
+  "bytes": 549,
+  "sha256": "e31e2ada68c35bcb237aaab6600c978890434630061d8bcac5fa0761ca78a170",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "e31e2ada68c35bcb237aaab6600c978890434630061d8bcac5fa0761ca78a170",
+  "source_bytes": 549,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/within_lineage_pair_support.csv",
+  "path": "analysis/weinreb/tables/programs/within_lineage_pair_support.csv",
+  "bytes": 2210,
+  "sha256": "2f1638da95210b6d53570fe3d6c99848f17c6821055ce203dd828ca1ee039684",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "2f1638da95210b6d53570fe3d6c99848f17c6821055ce203dd828ca1ee039684",
+  "source_bytes": 2210,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/tables/within_lineage_pairwise_gene_summary.csv",
+  "path": "analysis/weinreb/tables/programs/within_lineage_pairwise_gene_summary.csv",
+  "bytes": 4082,
+  "sha256": "28f4be84061c711c358b8e991a61db45a9c01ad1d340e02ef398e0699745dc0b",
+  "role": "complete current program inference/discovery checkpoint",
+  "source_sha256": "28f4be84061c711c358b8e991a61db45a9c01ad1d340e02ef398e0699745dc0b",
+  "source_bytes": 4082,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K03_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K03_consensus.npz",
+  "bytes": 52267,
+  "sha256": "c944a7123a74549982719ca88b408f1bf54acf2e71729d328f6a37af8510108d",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "c944a7123a74549982719ca88b408f1bf54acf2e71729d328f6a37af8510108d",
+  "source_bytes": 52267,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K04_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K04_consensus.npz",
+  "bytes": 63239,
+  "sha256": "7b58f27b87a97acf7eda65b213c527df4a8cdb7a19bd7d51bfcf9e7b8e0bc164",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "7b58f27b87a97acf7eda65b213c527df4a8cdb7a19bd7d51bfcf9e7b8e0bc164",
+  "source_bytes": 63239,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K05_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K05_consensus.npz",
+  "bytes": 71895,
+  "sha256": "e59caca14db7c41afb014b37484b9a10240b3e1d480baaafc1eee95c171ff41f",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "e59caca14db7c41afb014b37484b9a10240b3e1d480baaafc1eee95c171ff41f",
+  "source_bytes": 71895,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K06_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K06_consensus.npz",
+  "bytes": 77978,
+  "sha256": "24861d5d0b2c7e2b9991dd3e504f4490b58a7e3e5f35cc8b869988f2b7b9702e",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "24861d5d0b2c7e2b9991dd3e504f4490b58a7e3e5f35cc8b869988f2b7b9702e",
+  "source_bytes": 77978,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K07_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K07_consensus.npz",
+  "bytes": 94024,
+  "sha256": "acac33ef1b3c5daf0d194724fd2583ac7cd8773344d338ca6d0baee57343ebb0",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "acac33ef1b3c5daf0d194724fd2583ac7cd8773344d338ca6d0baee57343ebb0",
+  "source_bytes": 94024,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K08_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K08_consensus.npz",
+  "bytes": 108032,
+  "sha256": "6fa4d6972840f4c400ad6259c053f7d15e5afc5aea3dc768c362cb270977a713",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "6fa4d6972840f4c400ad6259c053f7d15e5afc5aea3dc768c362cb270977a713",
+  "source_bytes": 108032,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K09_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K09_consensus.npz",
+  "bytes": 112162,
+  "sha256": "8601516b532c72fe4cf6864054aa9d1c90adf6b76bbde81666b80b3912f81ebd",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "8601516b532c72fe4cf6864054aa9d1c90adf6b76bbde81666b80b3912f81ebd",
+  "source_bytes": 112162,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K10_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K10_consensus.npz",
+  "bytes": 128214,
+  "sha256": "009b365e9e47302113c30335e1d4974299147f3b131e3dd6cceba0833c1f53a1",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "009b365e9e47302113c30335e1d4974299147f3b131e3dd6cceba0833c1f53a1",
+  "source_bytes": 128214,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K11_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K11_consensus.npz",
+  "bytes": 139528,
+  "sha256": "9aa3be7c28605270ab28592ec479e35b306302cb6521776e7c6776b56aed1a6a",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "9aa3be7c28605270ab28592ec479e35b306302cb6521776e7c6776b56aed1a6a",
+  "source_bytes": 139528,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K12_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K12_consensus.npz",
+  "bytes": 150229,
+  "sha256": "bdb7a272ddf7b8a4d34a436b9414a9697069566d3b93a87347eaaed7e0f0f1c5",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "bdb7a272ddf7b8a4d34a436b9414a9697069566d3b93a87347eaaed7e0f0f1c5",
+  "source_bytes": 150229,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K13_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K13_consensus.npz",
+  "bytes": 161874,
+  "sha256": "40bb7c3d4b79ebf7caf9bf874abf44d4383df60bd24c649f8393b5a5924f3bc2",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "40bb7c3d4b79ebf7caf9bf874abf44d4383df60bd24c649f8393b5a5924f3bc2",
+  "source_bytes": 161874,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K14_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K14_consensus.npz",
+  "bytes": 173228,
+  "sha256": "8847f398c409d7cd33340932c71ec546b536ea896611d5f1b37685911c505ffa",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "8847f398c409d7cd33340932c71ec546b536ea896611d5f1b37685911c505ffa",
+  "source_bytes": 173228,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K15_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K15_consensus.npz",
+  "bytes": 180575,
+  "sha256": "9902e4d2ab03dc3cb59945668ff04d31b9c8c1483984792c92758441c3508ac7",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "9902e4d2ab03dc3cb59945668ff04d31b9c8c1483984792c92758441c3508ac7",
+  "source_bytes": 180575,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K16_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K16_consensus.npz",
+  "bytes": 186657,
+  "sha256": "eaed35de5693db7f3419f37dc0e6e04597a4dfe9603fe109c185d65503880b4b",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "eaed35de5693db7f3419f37dc0e6e04597a4dfe9603fe109c185d65503880b4b",
+  "source_bytes": 186657,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K17_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K17_consensus.npz",
+  "bytes": 204981,
+  "sha256": "7e8ec172988ae3415d0076cc6fa7c3d69ac532f2fd9dc0ccf343e03b1bd0147f",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "7e8ec172988ae3415d0076cc6fa7c3d69ac532f2fd9dc0ccf343e03b1bd0147f",
+  "source_bytes": 204981,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K18_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K18_consensus.npz",
+  "bytes": 213546,
+  "sha256": "352a57500592e9ba9fa6a37d92f6ddca28c1a5fd0c07a9646e359b4b0c00ee0b",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "352a57500592e9ba9fa6a37d92f6ddca28c1a5fd0c07a9646e359b4b0c00ee0b",
+  "source_bytes": 213546,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K19_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K19_consensus.npz",
+  "bytes": 228714,
+  "sha256": "47997deb13e09d3f568f19cd36e9d37a0da10c807a97df2ee97ea2d8b3697199",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "47997deb13e09d3f568f19cd36e9d37a0da10c807a97df2ee97ea2d8b3697199",
+  "source_bytes": 228714,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_K20_consensus.npz",
+  "path": "analysis/weinreb/objects/cnmf_K20_consensus.npz",
+  "bytes": 230138,
+  "sha256": "4ba687995079bd38761cdedc306aefbb1390a34a4f1ff95a5a3906a5e715822b",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "4ba687995079bd38761cdedc306aefbb1390a34a4f1ff95a5a3906a5e715822b",
+  "source_bytes": 230138,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/objects/cnmf_selected_frozen_programs.npz",
+  "path": "analysis/weinreb/objects/cnmf_selected_frozen_programs.npz",
+  "bytes": 920432,
+  "sha256": "e2ebfcbed557625aae269f9dd1f2df0dd7064dc824a18ff44b3905495a04776d",
+  "role": "frozen cNMF checkpoint",
+  "source_sha256": "e2ebfcbed557625aae269f9dd1f2df0dd7064dc824a18ff44b3905495a04776d",
+  "source_bytes": 920432,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/resources/KEGG_2019_Mouse.gmt",
+  "path": "analysis/weinreb/resources/KEGG_2019_Mouse.gmt",
+  "bytes": 193637,
+  "sha256": "6aabbf753f6d14dd2205f47fc5e461688fa550a9685dffc77d27c28c7fb13df4",
+  "role": "locked local gene-set resource",
+  "source_sha256": "6aabbf753f6d14dd2205f47fc5e461688fa550a9685dffc77d27c28c7fb13df4",
+  "source_bytes": 193637,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/resources/MSigDB_Hallmark_2020.gmt",
+  "path": "analysis/weinreb/resources/MSigDB_Hallmark_2020.gmt",
+  "bytes": 44235,
+  "sha256": "4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81",
+  "role": "locked local gene-set resource",
+  "source_sha256": "4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81",
+  "source_bytes": 44235,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/resources/curated_hematopoietic_program_membership_20260909.csv",
+  "path": "analysis/weinreb/resources/curated_hematopoietic_program_membership_20260909.csv",
+  "bytes": 26533,
+  "sha256": "9e087238578814f299509b56f305a34ac42387b9181d4e6359ac6c300659e728",
+  "role": "locked local gene-set resource",
+  "source_sha256": "0d817dde02e312463676ba3fda02a65af33746b9a91cf5409221a146e806ff59",
+  "source_bytes": 25733,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/cnmf_K_selection_protocol_record.txt",
+  "path": "analysis/weinreb/provenance/programs/cnmf_K_selection_protocol_record.txt",
+  "bytes": 359,
+  "sha256": "702edf4f1d17a063bcfffc26445e568b3032f373986f60f8eaec7a11b1456bdf",
+  "role": "historical scientific validation",
+  "source_sha256": "702edf4f1d17a063bcfffc26445e568b3032f373986f60f8eaec7a11b1456bdf",
+  "source_bytes": 359,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/cnmf_curated_hematopoietic_resource_audit.csv",
+  "path": "analysis/weinreb/provenance/programs/cnmf_curated_hematopoietic_resource_audit.csv",
+  "bytes": 2177,
+  "sha256": "638f4b547ec6aeda77d7f10241ddcf67bf9efa1c873d954d09bc3377e04158ba",
+  "role": "historical scientific validation",
+  "source_sha256": "8dcd1242d5dcb232981dc5c02a168378d157ed50cbb4ef621b97607340c57f21",
+  "source_bytes": 2112,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/cnmf_discovery_firewall.csv",
+  "path": "analysis/weinreb/provenance/programs/cnmf_discovery_firewall.csv",
+  "bytes": 257,
+  "sha256": "e48d38fd0565532ca940e665ed6691ada2f080091b7f768af9b54f3fdee8224b",
+  "role": "historical scientific validation",
+  "source_sha256": "e48d38fd0565532ca940e665ed6691ada2f080091b7f768af9b54f3fdee8224b",
+  "source_bytes": 257,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/cnmf_environment_addendum.csv",
+  "path": "analysis/weinreb/provenance/programs/cnmf_environment_addendum.csv",
+  "bytes": 700,
+  "sha256": "6a60090c1debf1de623dbe48402892ef7941e96d6fbc0850b7f3f63186219837",
+  "role": "historical scientific validation",
+  "source_sha256": "4998bec9ead29d19b82a3674145fa1185e8cdc0fc9d8c1745c645b23c073a203",
+  "source_bytes": 747,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/cnmf_findings_and_boundaries.txt",
+  "path": "analysis/weinreb/provenance/programs/cnmf_findings_and_boundaries.txt",
+  "bytes": 2006,
+  "sha256": "9548ec68826cfbce719e0614fcf0a97f1d6b8d6fc704b4538cb8dabda7d47c88",
+  "role": "historical scientific validation",
+  "source_sha256": "9548ec68826cfbce719e0614fcf0a97f1d6b8d6fc704b4538cb8dabda7d47c88",
+  "source_bytes": 2006,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/cnmf_inference_unit_audit.csv",
+  "path": "analysis/weinreb/provenance/programs/cnmf_inference_unit_audit.csv",
+  "bytes": 1145,
+  "sha256": "927c6ef9f28d6ea9f2b520a6b0fcc01b295d29de480e3e24a316629cbc58b076",
+  "role": "historical scientific validation",
+  "source_sha256": "927c6ef9f28d6ea9f2b520a6b0fcc01b295d29de480e3e24a316629cbc58b076",
+  "source_bytes": 1145,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/cnmf_library_loo_support_recalculation_audit.csv",
+  "path": "analysis/weinreb/provenance/programs/cnmf_library_loo_support_recalculation_audit.csv",
+  "bytes": 31524,
+  "sha256": "8ea307c9ec68a8dc642fe2d39f91a174685783a3bf5840dc91299f1e1964f189",
+  "role": "historical scientific validation",
+  "source_sha256": "8ea307c9ec68a8dc642fe2d39f91a174685783a3bf5840dc91299f1e1964f189",
+  "source_bytes": 31524,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/cnmf_validation.csv",
+  "path": "analysis/weinreb/provenance/programs/cnmf_validation.csv",
+  "bytes": 3306,
+  "sha256": "387a1d4c2d4cbf4abaea5aaa7b29159197029895e5f42d8705066c5c5f8b9007",
+  "role": "historical scientific validation",
+  "source_sha256": "387a1d4c2d4cbf4abaea5aaa7b29159197029895e5f42d8705066c5c5f8b9007",
+  "source_bytes": 3306,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/computed_findings_and_boundaries.txt",
+  "path": "analysis/weinreb/provenance/programs/computed_findings_and_boundaries.txt",
+  "bytes": 2190,
+  "sha256": "ee0b6a0e89e3a053e4a3379774c80092e8c80b7b6d102d5e3c03c8ae04cedea4",
+  "role": "historical scientific validation",
+  "source_sha256": "ee0b6a0e89e3a053e4a3379774c80092e8c80b7b6d102d5e3c03c8ae04cedea4",
+  "source_bytes": 2190,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/environment.csv",
+  "path": "analysis/weinreb/provenance/programs/environment.csv",
+  "bytes": 950,
+  "sha256": "0ec1505d23253ba6b3875055a78ffa9bb02dffaf934294ceab39ded009a4e57d",
+  "role": "historical scientific validation",
+  "source_sha256": "cee9d687555ea8c0c53e1e0f1fe197b5340d72c39d3130a8e84963044beb6874",
+  "source_bytes": 1030,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/hallmark_resource_audit.csv",
+  "path": "analysis/weinreb/provenance/programs/hallmark_resource_audit.csv",
+  "bytes": 415,
+  "sha256": "24d75c35b1e0998a6e111d187a6b3f81bee41021c377b29e512196a4bf18951d",
+  "role": "historical scientific validation",
+  "source_sha256": "11f72bb7fdfd42e01ec744aa1e5a882b625d1bf578df88a5f9b7b140907e1501",
+  "source_bytes": 445,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/multilineage_program_output_findings_and_boundaries.txt",
+  "path": "analysis/weinreb/provenance/programs/multilineage_program_output_findings_and_boundaries.txt",
+  "bytes": 3365,
+  "sha256": "1d987e6674c6a8b4efebd6c7dd5f709317da2dd4ae07d561835387334719e291",
+  "role": "historical scientific validation",
+  "source_sha256": "1d987e6674c6a8b4efebd6c7dd5f709317da2dd4ae07d561835387334719e291",
+  "source_bytes": 3365,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/multilineage_program_output_validation.csv",
+  "path": "analysis/weinreb/provenance/programs/multilineage_program_output_validation.csv",
+  "bytes": 1158,
+  "sha256": "ce83245ddb4c878dd094b4a4e13507c96dc68f2a7edb3ec9b1f84b5684b7ab12",
+  "role": "historical scientific validation",
+  "source_sha256": "ce83245ddb4c878dd094b4a4e13507c96dc68f2a7edb3ec9b1f84b5684b7ab12",
+  "source_bytes": 1158,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/targeted_correlation_immutability_audit.csv",
+  "path": "analysis/weinreb/provenance/programs/targeted_correlation_immutability_audit.csv",
+  "bytes": 414,
+  "sha256": "80db08752fe3b18389a9adf4b12b4df4c10a4b38d60259308d1361a4dd060c3a",
+  "role": "historical scientific validation",
+  "source_sha256": "43151d42175799840f04ac280b2b3283272c774f1af19aeb64037571463ba3e8",
+  "source_bytes": 404,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/targeted_metaclonal_signature_findings_and_boundaries.txt",
+  "path": "analysis/weinreb/provenance/programs/targeted_metaclonal_signature_findings_and_boundaries.txt",
+  "bytes": 11600,
+  "sha256": "4e91700d11145e5562715d2c8441d6d9180b0e055fbf7e61be0a97fbc4d3c1b1",
+  "role": "historical scientific validation",
+  "source_sha256": "4e91700d11145e5562715d2c8441d6d9180b0e055fbf7e61be0a97fbc4d3c1b1",
+  "source_bytes": 11600,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/targeted_metaclonal_signature_validation.csv",
+  "path": "analysis/weinreb/provenance/programs/targeted_metaclonal_signature_validation.csv",
+  "bytes": 1726,
+  "sha256": "3ce45667561e95c769028202d2bd349f23a29dce7ffa633879dc9f77fbd767f7",
+  "role": "historical scientific validation",
+  "source_sha256": "45bbcecfb0c1df5b688a2fb35a57de733d14430f568f01f48e9b804f8c59b18e",
+  "source_bytes": 1721,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_day2_hspc_metaclone_gene_programs_20260902/reports/validation.csv",
+  "path": "analysis/weinreb/provenance/programs/validation.csv",
+  "bytes": 1537,
+  "sha256": "d67b5f8eb22506c60481db572ab98b56819fc6223fd9dc79877f8297269f6c71",
+  "role": "historical scientific validation",
+  "source_sha256": "d67b5f8eb22506c60481db572ab98b56819fc6223fd9dc79877f8297269f6c71",
+  "source_bytes": 1537,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/adjusted_program_means.csv",
+  "path": "analysis/weinreb/tables/ancestry/adjusted_program_means.csv",
+  "bytes": 21265,
+  "sha256": "2478e56aad709b0040f365a35889f55be0798942e28a24f086d046678792cb50",
+  "role": "current ancestry result or source table",
+  "source_sha256": "2478e56aad709b0040f365a35889f55be0798942e28a24f086d046678792cb50",
+  "source_bytes": 21265,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_01_day2_clone_linkage.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_01_day2_clone_linkage.csv",
+  "bytes": 1362,
+  "sha256": "5cde72017d8c391a0baa41394a90b1659d924dc43b448ebd60811dfa3ea4ec42",
+  "role": "current ancestry result or source table",
+  "source_sha256": "5cde72017d8c391a0baa41394a90b1659d924dc43b448ebd60811dfa3ea4ec42",
+  "source_bytes": 1362,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_02_monocyte_branch_position.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_02_monocyte_branch_position.csv",
+  "bytes": 29704,
+  "sha256": "e4a53203c5353d8bd02180c1ec7c77bf1e0c1028b0bd795342d499e2c0a39ff6",
+  "role": "current ancestry result or source table",
+  "source_sha256": "e4a53203c5353d8bd02180c1ec7c77bf1e0c1028b0bd795342d499e2c0a39ff6",
+  "source_bytes": 29704,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_02_monocyte_branch_position_summary.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_02_monocyte_branch_position_summary.csv",
+  "bytes": 974,
+  "sha256": "ab3140a8c9dd23b19ce50b2aa97b652d34816f40e98e745c770eae58fea0b3e8",
+  "role": "current ancestry result or source table",
+  "source_sha256": "ab3140a8c9dd23b19ce50b2aa97b652d34816f40e98e745c770eae58fea0b3e8",
+  "source_bytes": 974,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_03_multilineage_branch_occupancy_change.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_03_multilineage_branch_occupancy_change.csv",
+  "bytes": 2426,
+  "sha256": "24b2ef1f725dc058de481e32964dd7c47df5e0d5af6fa7a153ef9ed358f352e9",
+  "role": "current ancestry result or source table",
+  "source_sha256": "24b2ef1f725dc058de481e32964dd7c47df5e0d5af6fa7a153ef9ed358f352e9",
+  "source_bytes": 2426,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_03_multilineage_branch_occupancy_change_cohort_sensitivities.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_03_multilineage_branch_occupancy_change_cohort_sensitivities.csv",
+  "bytes": 7075,
+  "sha256": "44690a5f4691383fec687608a18ce2d288f2080d49c6912a5cb5cd150fcec944",
+  "role": "current ancestry result or source table",
+  "source_sha256": "44690a5f4691383fec687608a18ce2d288f2080d49c6912a5cb5cd150fcec944",
+  "source_bytes": 7075,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_all_clone_day_linkage.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_all_clone_day_linkage.csv",
+  "bytes": 136325,
+  "sha256": "14c629dd802b57b1c2ac3795acd5425aaa9c9e581676d91fd518d93c08022e1b",
+  "role": "current ancestry result or source table",
+  "source_sha256": "14c629dd802b57b1c2ac3795acd5425aaa9c9e581676d91fd518d93c08022e1b",
+  "source_bytes": 136325,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_branch_summary_by_cohort_metaclone_day.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_branch_summary_by_cohort_metaclone_day.csv",
+  "bytes": 59586,
+  "sha256": "732d395407ab9d20de22ab1fa896c56946c6a1d4b5846d04d49b146945f7b724",
+  "role": "current ancestry result or source table",
+  "source_sha256": "732d395407ab9d20de22ab1fa896c56946c6a1d4b5846d04d49b146945f7b724",
+  "source_bytes": 59586,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_clone_day_branch_measurements.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_clone_day_branch_measurements.csv",
+  "bytes": 924923,
+  "sha256": "54b51be115b6e0ee91eb8cbea3c37d5932a387ef5d16cb11f6edd0265192313c",
+  "role": "current ancestry result or source table",
+  "source_sha256": "54b51be115b6e0ee91eb8cbea3c37d5932a387ef5d16cb11f6edd0265192313c",
+  "source_bytes": 924923,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_clone_day_full_state_composition.csv.gz",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_clone_day_full_state_composition.csv.gz",
+  "bytes": 552882,
+  "sha256": "57867b3e09d69fb83679a70cb0757c871c9d4f8c8fe38f4b18cb3071117456aa",
+  "role": "current ancestry result or source table",
+  "source_sha256": "57867b3e09d69fb83679a70cb0757c871c9d4f8c8fe38f4b18cb3071117456aa",
+  "source_bytes": 552882,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_differentiated_output_definition_audit.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_differentiated_output_definition_audit.csv",
+  "bytes": 178996,
+  "sha256": "2a470d94ffe54f7f0c007f8a05683ae723d72d19860a5501a3b529f8fa00df94",
+  "role": "current ancestry result or source table",
+  "source_sha256": "2a470d94ffe54f7f0c007f8a05683ae723d72d19860a5501a3b529f8fa00df94",
+  "source_bytes": 178996,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_dynamics_validation.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_dynamics_validation.csv",
+  "bytes": 437,
+  "sha256": "b374a9349dfb69c3705979589d6432c9af34465e32fe9b55c282c70582251b9f",
+  "role": "current ancestry result or source table",
+  "source_sha256": "b374a9349dfb69c3705979589d6432c9af34465e32fe9b55c282c70582251b9f",
+  "source_bytes": 437,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_full_state_composition_by_cohort_metaclone_day.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_full_state_composition_by_cohort_metaclone_day.csv",
+  "bytes": 399244,
+  "sha256": "0d21f802edf4218a10f00148b51e5f5a54f0d87fdd10cb919247a13ddf3cb39f",
+  "role": "current ancestry result or source table",
+  "source_sha256": "0d21f802edf4218a10f00148b51e5f5a54f0d87fdd10cb919247a13ddf3cb39f",
+  "source_bytes": 399244,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_linkage_support_by_metaclone.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_linkage_support_by_metaclone.csv",
+  "bytes": 1935,
+  "sha256": "6aa76109a632c315cb2682f4d3471e3f86abc0a421930e9a93f829cb0641a4b4",
+  "role": "current ancestry result or source table",
+  "source_sha256": "6aa76109a632c315cb2682f4d3471e3f86abc0a421930e9a93f829cb0641a4b4",
+  "source_bytes": 1935,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_linked_cell_register.csv.gz",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_linked_cell_register.csv.gz",
+  "bytes": 142204,
+  "sha256": "dbdb115fa176d158ab6bdfcb276deade669505c7ccbdef3bd1a291c1443cada3",
+  "role": "current ancestry result or source table",
+  "source_sha256": "dbdb115fa176d158ab6bdfcb276deade669505c7ccbdef3bd1a291c1443cada3",
+  "source_bytes": 142204,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_monocyte_day6_order_audit.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_monocyte_day6_order_audit.csv",
+  "bytes": 1740,
+  "sha256": "42f796c5de977ae0c0a00e0b6a20443ea0f4e30d519c12aea289e1f65f3e9805",
+  "role": "current ancestry result or source table",
+  "source_sha256": "42f796c5de977ae0c0a00e0b6a20443ea0f4e30d519c12aea289e1f65f3e9805",
+  "source_bytes": 1740,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_multilineage_branch_pair_distances.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_multilineage_branch_pair_distances.csv",
+  "bytes": 2972,
+  "sha256": "56ff5d202b62f1eefa6846059014399ad469b370e229bf3b1b9bfb48e774e5ac",
+  "role": "current ancestry result or source table",
+  "source_sha256": "56ff5d202b62f1eefa6846059014399ad469b370e229bf3b1b9bfb48e774e5ac",
+  "source_bytes": 2972,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_multilineage_full_composition_pair_distances.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_multilineage_full_composition_pair_distances.csv",
+  "bytes": 2064,
+  "sha256": "9486627a5e61785dd936c1c9ac8bb9d2cbb2dff6a2f1fa83b0ebe0943fe114aa",
+  "role": "current ancestry result or source table",
+  "source_sha256": "9486627a5e61785dd936c1c9ac8bb9d2cbb2dff6a2f1fa83b0ebe0943fe114aa",
+  "source_bytes": 2064,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_original_differentiated_output_mapping.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_original_differentiated_output_mapping.csv",
+  "bytes": 333,
+  "sha256": "ae037efcab3594aa2804762f57712a1ab243f3b3fcf782a6e30c85a86dc92aa0",
+  "role": "current ancestry result or source table",
+  "source_sha256": "ae037efcab3594aa2804762f57712a1ab243f3b3fcf782a6e30c85a86dc92aa0",
+  "source_bytes": 333,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/ancestry_original_output_fraction_reconstruction.csv",
+  "path": "analysis/weinreb/tables/ancestry/ancestry_original_output_fraction_reconstruction.csv",
+  "bytes": 3901,
+  "sha256": "8973cd2dff4d3205c5bc0d3a4af66d46c52f9599a322b4ac0fbe3344dcb608ac",
+  "role": "current ancestry result or source table",
+  "source_sha256": "8973cd2dff4d3205c5bc0d3a4af66d46c52f9599a322b4ac0fbe3344dcb608ac",
+  "source_bytes": 3901,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/clone_library_adjusted_program_scores.csv.gz",
+  "path": "analysis/weinreb/tables/ancestry/clone_library_adjusted_program_scores.csv.gz",
+  "bytes": 268517,
+  "sha256": "b46d2632767cdc671a4015d42b3965de9d0bee9adb7a14fd613dc9a0ec9c0e49",
+  "role": "current ancestry result or source table",
+  "source_sha256": "b46d2632767cdc671a4015d42b3965de9d0bee9adb7a14fd613dc9a0ec9c0e49",
+  "source_bytes": 268517,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/clone_metadata.csv",
+  "path": "analysis/weinreb/tables/ancestry/clone_metadata.csv",
+  "bytes": 40772,
+  "sha256": "a6131c77f4b0b61ff517c5552174d1851fb1c4ec8d3324b79750011c94929528",
+  "role": "current ancestry result or source table",
+  "source_sha256": "a6131c77f4b0b61ff517c5552174d1851fb1c4ec8d3324b79750011c94929528",
+  "source_bytes": 40772,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/clone_program_scores.csv.gz",
+  "path": "analysis/weinreb/tables/ancestry/clone_program_scores.csv.gz",
+  "bytes": 267502,
+  "sha256": "0fde34c4b6fa074abe622e8b75a60cd6cc7c1efce29088b53ddc3b1c2f3c2501",
+  "role": "current ancestry result or source table",
+  "source_sha256": "0fde34c4b6fa074abe622e8b75a60cd6cc7c1efce29088b53ddc3b1c2f3c2501",
+  "source_bytes": 267502,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/cohort_summary.csv",
+  "path": "analysis/weinreb/tables/ancestry/cohort_summary.csv",
+  "bytes": 139,
+  "sha256": "06305b5024c5307e853f8f5de538f304927b797b25afbcbdade4c6426aecf3a6",
+  "role": "current ancestry result or source table",
+  "source_sha256": "06305b5024c5307e853f8f5de538f304927b797b25afbcbdade4c6426aecf3a6",
+  "source_bytes": 139,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_distribution_grain.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_distribution_grain.csv",
+  "bytes": 484,
+  "sha256": "1967b5602d6289b2b81a3857b3b2f3961a4f1e49e07f49cd7520c5dabc22230c",
+  "role": "current ancestry result or source table",
+  "source_sha256": "1967b5602d6289b2b81a3857b3b2f3961a4f1e49e07f49cd7520c5dabc22230c",
+  "source_bytes": 484,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_example_selection.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_example_selection.csv",
+  "bytes": 657,
+  "sha256": "9178ddcc7f5a765a48237b8ec59e72335c5a486abe584be4824c39a8c73c0a07",
+  "role": "current ancestry result or source table",
+  "source_sha256": "9178ddcc7f5a765a48237b8ec59e72335c5a486abe584be4824c39a8c73c0a07",
+  "source_bytes": 657,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_gene_contribution_sums.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_gene_contribution_sums.csv",
+  "bytes": 352,
+  "sha256": "2963b9a422ef4e8048ab036b64904d20a100f8688d6781aca99d60481e4deb6a",
+  "role": "current ancestry result or source table",
+  "source_sha256": "2963b9a422ef4e8048ab036b64904d20a100f8688d6781aca99d60481e4deb6a",
+  "source_bytes": 352,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_independent_BH.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_independent_BH.csv",
+  "bytes": 3006,
+  "sha256": "2c1c6776814c4ed52cc753b9ac49bda6a70b273926225f22a7f94748dffeb962",
+  "role": "current ancestry result or source table",
+  "source_sha256": "2c1c6776814c4ed52cc753b9ac49bda6a70b273926225f22a7f94748dffeb962",
+  "source_bytes": 3006,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_original_contrast_reconciliation.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_original_contrast_reconciliation.csv",
+  "bytes": 159,
+  "sha256": "c8f933d23bc2f67cdad787cbb79daf314b9103cbfa74dd75886dda109c717d28",
+  "role": "current ancestry result or source table",
+  "source_sha256": "c8f933d23bc2f67cdad787cbb79daf314b9103cbfa74dd75886dda109c717d28",
+  "source_bytes": 159,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_pace_contrast_reconstruction.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_pace_contrast_reconstruction.csv",
+  "bytes": 4959,
+  "sha256": "2805126ba31e83afeb23866b499f632f5004e7a796c50b0b62af625cb977b78c",
+  "role": "current ancestry result or source table",
+  "source_sha256": "2805126ba31e83afeb23866b499f632f5004e7a796c50b0b62af625cb977b78c",
+  "source_bytes": 4959,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_preserved_cNMF_summary.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_preserved_cNMF_summary.csv",
+  "bytes": 141,
+  "sha256": "e6d3b1fc7c76047003048e746c1d3ba3edcd4bc30ac21d3c164b1773dc496433",
+  "role": "current ancestry result or source table",
+  "source_sha256": "e6d3b1fc7c76047003048e746c1d3ba3edcd4bc30ac21d3c164b1773dc496433",
+  "source_bytes": 141,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_selected_examples.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_selected_examples.csv",
+  "bytes": 1367,
+  "sha256": "20a76dc25ae4aa0a91fb365044566259db2f7125f27e62e54c2d276d2c845284",
+  "role": "current ancestry result or source table",
+  "source_sha256": "20a76dc25ae4aa0a91fb365044566259db2f7125f27e62e54c2d276d2c845284",
+  "source_bytes": 1367,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/evidence_review_sensitivity_forests.csv",
+  "path": "analysis/weinreb/tables/ancestry/evidence_review_sensitivity_forests.csv",
+  "bytes": 259,
+  "sha256": "55fdc8254d71eeff104a14af40170732c75afd5571789104ef10fdbf415ebbbc",
+  "role": "current ancestry result or source table",
+  "source_sha256": "55fdc8254d71eeff104a14af40170732c75afd5571789104ef10fdbf415ebbbc",
+  "source_bytes": 259,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/monocyte_program_illustration_ranking.csv",
+  "path": "analysis/weinreb/tables/ancestry/monocyte_program_illustration_ranking.csv",
+  "bytes": 22397,
+  "sha256": "0620227559951276507a368e9c51cd2990722bef50ba066eab5731f9c6b4d569",
+  "role": "current ancestry result or source table",
+  "source_sha256": "0620227559951276507a368e9c51cd2990722bef50ba066eab5731f9c6b4d569",
+  "source_bytes": 22397,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/multi_convergence_illustration_ranking.csv",
+  "path": "analysis/weinreb/tables/ancestry/multi_convergence_illustration_ranking.csv",
+  "bytes": 17155,
+  "sha256": "8ebd8ac882adc8b7ceb998464c4b5aac9cf18642c58f01162cc4abe4dc3ff4bd",
+  "role": "current ancestry result or source table",
+  "source_sha256": "8ebd8ac882adc8b7ceb998464c4b5aac9cf18642c58f01162cc4abe4dc3ff4bd",
+  "source_bytes": 17155,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/multi_divergence_illustration_ranking.csv",
+  "path": "analysis/weinreb/tables/ancestry/multi_divergence_illustration_ranking.csv",
+  "bytes": 16946,
+  "sha256": "197912494c216f715c60f978cb7aee4e696baeb411507a6ebe055aa63ddd55a0",
+  "role": "current ancestry result or source table",
+  "source_sha256": "197912494c216f715c60f978cb7aee4e696baeb411507a6ebe055aa63ddd55a0",
+  "source_bytes": 16946,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/normalization_size_factors_by_clone.csv",
+  "path": "analysis/weinreb/tables/ancestry/normalization_size_factors_by_clone.csv",
+  "bytes": 30403,
+  "sha256": "7cc74e5e153d8202a9d5cd6ac3367081126a6b9bce7dda6cd2277b7e05301fa4",
+  "role": "current ancestry result or source table",
+  "source_sha256": "7cc74e5e153d8202a9d5cd6ac3367081126a6b9bce7dda6cd2277b7e05301fa4",
+  "source_bytes": 30403,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/original_program_contrasts_preserved.csv",
+  "path": "analysis/weinreb/tables/ancestry/original_program_contrasts_preserved.csv",
+  "bytes": 1330984,
+  "sha256": "d043effceccdb6656fa94117a0c02f829cd501b9943e0917131fb15d20030869",
+  "role": "current ancestry result or source table",
+  "source_sha256": "d043effceccdb6656fa94117a0c02f829cd501b9943e0917131fb15d20030869",
+  "source_bytes": 1330984,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/primary_program_effects.csv",
+  "path": "analysis/weinreb/tables/ancestry/primary_program_effects.csv",
+  "bytes": 964395,
+  "sha256": "055a84058de48eb88adf8295d89b29b32983a8d75c601c2390a53bd3ee5f0db3",
+  "role": "current ancestry result or source table",
+  "source_sha256": "055a84058de48eb88adf8295d89b29b32983a8d75c601c2390a53bd3ee5f0db3",
+  "source_bytes": 964395,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_01_mono_1_pooled_and_metaclone_distribution_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_01_mono_1_pooled_and_metaclone_distribution_plot_data.csv",
+  "bytes": 60957,
+  "sha256": "69a430ad27477bd8058ae09d472ef85a362a89507cfe168d5b3aa10b8cc8b904",
+  "role": "current ancestry result or source table",
+  "source_sha256": "69a430ad27477bd8058ae09d472ef85a362a89507cfe168d5b3aa10b8cc8b904",
+  "source_bytes": 60957,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_02_mono_2_pooled_and_metaclone_distribution_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_02_mono_2_pooled_and_metaclone_distribution_plot_data.csv",
+  "bytes": 70147,
+  "sha256": "16b8f04f63f0ecd48050da15eddcd303f0cd43788406ad418403a1b4cc333e48",
+  "role": "current ancestry result or source table",
+  "source_sha256": "16b8f04f63f0ecd48050da15eddcd303f0cd43788406ad418403a1b4cc333e48",
+  "source_bytes": 70147,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_03_multi_divergence_pooled_and_metaclone_distribution_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_03_multi_divergence_pooled_and_metaclone_distribution_plot_data.csv",
+  "bytes": 112647,
+  "sha256": "96bcaf113a0a29bbde9b91b7e26f8c02b83f317f5f538d248edc5bdb0168f550",
+  "role": "current ancestry result or source table",
+  "source_sha256": "96bcaf113a0a29bbde9b91b7e26f8c02b83f317f5f538d248edc5bdb0168f550",
+  "source_bytes": 112647,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_04_multi_convergence_pooled_and_metaclone_distribution_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_04_multi_convergence_pooled_and_metaclone_distribution_plot_data.csv",
+  "bytes": 113949,
+  "sha256": "13f6a8326045de5a94f54a6b3e5d0d45d9c20a2797a2ee08915ab64326399e8b",
+  "role": "current ancestry result or source table",
+  "source_sha256": "13f6a8326045de5a94f54a6b3e5d0d45d9c20a2797a2ee08915ab64326399e8b",
+  "source_bytes": 113949,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_05_monocyte_all50_row_zscore_heatmap_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_05_monocyte_all50_row_zscore_heatmap_plot_data.csv",
+  "bytes": 43937,
+  "sha256": "b570e3d1ecfa78305f94d5da99b99068dfe6f9289a6fcd002ddced48a0bde272",
+  "role": "current ancestry result or source table",
+  "source_sha256": "b570e3d1ecfa78305f94d5da99b99068dfe6f9289a6fcd002ddced48a0bde272",
+  "source_bytes": 43937,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_06_mono_1_sensitivity_forest_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_06_mono_1_sensitivity_forest_plot_data.csv",
+  "bytes": 4307,
+  "sha256": "78a2032a17c2279b0cd10aa3fc405241194de9cc07e04b03ac48944339413557",
+  "role": "current ancestry result or source table",
+  "source_sha256": "78a2032a17c2279b0cd10aa3fc405241194de9cc07e04b03ac48944339413557",
+  "source_bytes": 4307,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_07_multi_divergence_sensitivity_forest_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_07_multi_divergence_sensitivity_forest_plot_data.csv",
+  "bytes": 4224,
+  "sha256": "ef2af14c36eeefe4947d61a99dfd898ee1e03768b4b0f4b6d4ae16fd778b7dbb",
+  "role": "current ancestry result or source table",
+  "source_sha256": "ef2af14c36eeefe4947d61a99dfd898ee1e03768b4b0f4b6d4ae16fd778b7dbb",
+  "source_bytes": 4224,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_08_mono_1_leading_gene_contributions_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_08_mono_1_leading_gene_contributions_plot_data.csv",
+  "bytes": 5518,
+  "sha256": "c8fa2413676254ab97103a3536a585bc6686a407df5b43d704a64247bffcaec6",
+  "role": "current ancestry result or source table",
+  "source_sha256": "c8fa2413676254ab97103a3536a585bc6686a407df5b43d704a64247bffcaec6",
+  "source_bytes": 5518,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_09_multi_divergence_leading_gene_contributions_plot_data.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_09_multi_divergence_leading_gene_contributions_plot_data.csv",
+  "bytes": 5362,
+  "sha256": "e11bb7788712a817ac28bab091060dcaddd91742310edc1f987b7211e181f175",
+  "role": "current ancestry result or source table",
+  "source_sha256": "e11bb7788712a817ac28bab091060dcaddd91742310edc1f987b7211e181f175",
+  "source_bytes": 5362,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_leading_gene_contributions.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_leading_gene_contributions.csv",
+  "bytes": 58891,
+  "sha256": "f72614a4e3c93c1bfa23a5040554164c03a303531ac01a371ce1bfb307e2727a",
+  "role": "current ancestry result or source table",
+  "source_sha256": "f72614a4e3c93c1bfa23a5040554164c03a303531ac01a371ce1bfb307e2727a",
+  "source_bytes": 58891,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_robustness_summary.csv",
+  "path": "analysis/weinreb/tables/ancestry/program_robustness_summary.csv",
+  "bytes": 687364,
+  "sha256": "3c54a740a7544ffa75858593a2d2f8fb9d54d1b46f79873bf5172d7e21129fac",
+  "role": "current ancestry result or source table",
+  "source_sha256": "3c54a740a7544ffa75858593a2d2f8fb9d54d1b46f79873bf5172d7e21129fac",
+  "source_bytes": 687364,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/program_sensitivity_effects.csv.gz",
+  "path": "analysis/weinreb/tables/ancestry/program_sensitivity_effects.csv.gz",
+  "bytes": 2367039,
+  "sha256": "5d329e6121b84fd8f3e8f9d1579a27a7333f0f44fec39af4743eeee89291cd9d",
+  "role": "current ancestry result or source table",
+  "source_sha256": "5d329e6121b84fd8f3e8f9d1579a27a7333f0f44fec39af4743eeee89291cd9d",
+  "source_bytes": 2367039,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/selected_program_examples.csv",
+  "path": "analysis/weinreb/tables/ancestry/selected_program_examples.csv",
+  "bytes": 3284,
+  "sha256": "3b5311029b71010cc66d477edabf75b57129ce983b4c671719ea91b54c460282",
+  "role": "current ancestry result or source table",
+  "source_sha256": "3b5311029b71010cc66d477edabf75b57129ce983b4c671719ea91b54c460282",
+  "source_bytes": 3284,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/tables/worked_example_contrast_registry.csv",
+  "path": "analysis/weinreb/tables/ancestry/worked_example_contrast_registry.csv",
+  "bytes": 6584,
+  "sha256": "cede3036cfc4c8621aae34936555a556f265035dd76dc7b75b5dba7e0daea747",
+  "role": "current ancestry result or source table",
+  "source_sha256": "cede3036cfc4c8621aae34936555a556f265035dd76dc7b75b5dba7e0daea747",
+  "source_bytes": 6584,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/computed_findings.txt",
+  "path": "analysis/weinreb/provenance/ancestry/computed_findings.txt",
+  "bytes": 6792,
+  "sha256": "a79f03e62b59440563b1ddd4cd4c04156b9936f2175dfad84c930071449bbcb4",
+  "role": "historical scientific validation",
+  "source_sha256": "a79f03e62b59440563b1ddd4cd4c04156b9936f2175dfad84c930071449bbcb4",
+  "source_bytes": 6792,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/environment.csv",
+  "path": "analysis/weinreb/provenance/ancestry/environment.csv",
+  "bytes": 893,
+  "sha256": "f219fedd780ff7e755ebb590635ec6102e1519d1d2137192872e94364ca32dfa",
+  "role": "historical scientific validation",
+  "source_sha256": "e57c148eded1e9dea31200cdb432c9ed9df0f8f043fbad0657b23d81108d4a93",
+  "source_bytes": 940,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/evidence_review_environment.csv",
+  "path": "analysis/weinreb/provenance/ancestry/evidence_review_environment.csv",
+  "bytes": 740,
+  "sha256": "54e22da8fd5c1a78e5a6510ddb3d5dcbc30c05db756dfc2f91a1efd74cb57afd",
+  "role": "historical scientific validation",
+  "source_sha256": "c15fd2cb075daac071722721a46969397e6fcff4ef44fd23dd0e09431a9c7985",
+  "source_bytes": 787,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/evidence_review_findings.txt",
+  "path": "analysis/weinreb/provenance/ancestry/evidence_review_findings.txt",
+  "bytes": 2470,
+  "sha256": "ddeef5a69b9813474acb622214e21386e1a3dfe1cea2bcef60497b36a787c721",
+  "role": "historical scientific validation",
+  "source_sha256": "ddeef5a69b9813474acb622214e21386e1a3dfe1cea2bcef60497b36a787c721",
+  "source_bytes": 2470,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/evidence_review_inline_plot_and_execution_audit.csv",
+  "path": "analysis/weinreb/provenance/ancestry/evidence_review_inline_plot_and_execution_audit.csv",
+  "bytes": 2747,
+  "sha256": "6b0d93e23adfff819696a33b5a0f892c9d0106d83c67df1c536ec293467cfa99",
+  "role": "historical scientific validation",
+  "source_sha256": "6b0d93e23adfff819696a33b5a0f892c9d0106d83c67df1c536ec293467cfa99",
+  "source_bytes": 2747,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/evidence_review_main_notebook_provenance.csv",
+  "path": "analysis/weinreb/provenance/ancestry/evidence_review_main_notebook_provenance.csv",
+  "bytes": 272,
+  "sha256": "1707f9ddfe04470421669931970f2ff98ddab772617bbc62a87debb6a45f69dd",
+  "role": "historical scientific validation",
+  "source_sha256": "85a32fb7c1685b49fc7cdb89ce3897f1b4e34ec455f5f1c082d5b8eec9576ef6",
+  "source_bytes": 267,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/evidence_review_main_stderr_audit.csv",
+  "path": "analysis/weinreb/provenance/ancestry/evidence_review_main_stderr_audit.csv",
+  "bytes": 64,
+  "sha256": "fae3e8305c3d8deb7c393017ca351e994aa0e0f9dd30c61fc67c3ca641097744",
+  "role": "historical scientific validation",
+  "source_sha256": "fae3e8305c3d8deb7c393017ca351e994aa0e0f9dd30c61fc67c3ca641097744",
+  "source_bytes": 64,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/evidence_review_manual_visual_QA.csv",
+  "path": "analysis/weinreb/provenance/ancestry/evidence_review_manual_visual_QA.csv",
+  "bytes": 5492,
+  "sha256": "bc9ea88c9e55c64daaa6861b51bf791e7127e63b212b6697bdf9a4722f0647a1",
+  "role": "historical scientific validation",
+  "source_sha256": "df1b689b55eaf5d678dddad3adc1782aa18bf74c1b9011dc4353fcb3a55c96ee",
+  "source_bytes": 5456,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/evidence_review_source_hash_audit.csv",
+  "path": "analysis/weinreb/provenance/ancestry/evidence_review_source_hash_audit.csv",
+  "bytes": 2828,
+  "sha256": "fb7682077c9b4754be6b3d0822d61f2b7cf7e7e673bafc7e3bb18b23bf23b370",
+  "role": "historical scientific validation",
+  "source_sha256": "272e89eaa0075af834df1ad8e0ef73c4222b681b39e43b42f28aa2ef4fe05244",
+  "source_bytes": 2773,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/evidence_review_validation.csv",
+  "path": "analysis/weinreb/provenance/ancestry/evidence_review_validation.csv",
+  "bytes": 4060,
+  "sha256": "c55e78f260e7f6605987f4faec95325b7d72c2200922ac919a0d3580bb363257",
+  "role": "historical scientific validation",
+  "source_sha256": "282769903847763b65f3ceffbad5b834268f923997cd07ac0a496e31f2683708",
+  "source_bytes": 4057,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/normalization_implementation_equivalence.csv",
+  "path": "analysis/weinreb/provenance/ancestry/normalization_implementation_equivalence.csv",
+  "bytes": 294,
+  "sha256": "ac069b9e2ee8ace2ab694f275903d3e74c15ff3b195a11e6e8d77182369b377b",
+  "role": "historical scientific validation",
+  "source_sha256": "ac069b9e2ee8ace2ab694f275903d3e74c15ff3b195a11e6e8d77182369b377b",
+  "source_bytes": 294,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/normalization_support_audit.csv",
+  "path": "analysis/weinreb/provenance/ancestry/normalization_support_audit.csv",
+  "bytes": 60493,
+  "sha256": "9c2651e06cf480ad3c788690625baa8bd465f3fb2e9407f8d2620c2c0d8ce22c",
+  "role": "historical scientific validation",
+  "source_sha256": "9c2651e06cf480ad3c788690625baa8bd465f3fb2e9407f8d2620c2c0d8ce22c",
+  "source_bytes": 60493,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/original_result_equivalence.csv",
+  "path": "analysis/weinreb/provenance/ancestry/original_result_equivalence.csv",
+  "bytes": 155,
+  "sha256": "b263822dba816cdaa7d04356bd37f8f46e3b75f83ad8b25d09ab283f447123f7",
+  "role": "historical scientific validation",
+  "source_sha256": "b263822dba816cdaa7d04356bd37f8f46e3b75f83ad8b25d09ab283f447123f7",
+  "source_bytes": 155,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/plot_runtime_audit.csv",
+  "path": "analysis/weinreb/provenance/ancestry/plot_runtime_audit.csv",
+  "bytes": 2071,
+  "sha256": "53f4854baf7f867cc359acb225f56c63e1c7d9df7f2c84eb9b3db75ce407b015",
+  "role": "historical scientific validation",
+  "source_sha256": "7a1422ac874c474fd4e50b2ced7f07f8c2a2ab52fdaa3ecb8bb38a72dbabc404",
+  "source_bytes": 2251,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/primary_design_audit.csv",
+  "path": "analysis/weinreb/provenance/ancestry/primary_design_audit.csv",
+  "bytes": 306,
+  "sha256": "18a297f90b802fa99fdd9f2cd76e6c76cf3f5ed0f9740ff0a00d6266614ffc86",
+  "role": "historical scientific validation",
+  "source_sha256": "18a297f90b802fa99fdd9f2cd76e6c76cf3f5ed0f9740ff0a00d6266614ffc86",
+  "source_bytes": 306,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/score_reconstruction_audit.csv",
+  "path": "analysis/weinreb/provenance/ancestry/score_reconstruction_audit.csv",
+  "bytes": 181,
+  "sha256": "3f5063d3817c4153fffd39620ccc5878dc70cdecea5af2e0808b13bede9b40c3",
+  "role": "historical scientific validation",
+  "source_sha256": "3f5063d3817c4153fffd39620ccc5878dc70cdecea5af2e0808b13bede9b40c3",
+  "source_bytes": 181,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/sensitivity_design_audit.csv",
+  "path": "analysis/weinreb/provenance/ancestry/sensitivity_design_audit.csv",
+  "bytes": 2023,
+  "sha256": "3b474a904c379c8a7938b5927766139fd6ec5f578b32ee8c1c852fa70f1197fd",
+  "role": "historical scientific validation",
+  "source_sha256": "3b474a904c379c8a7938b5927766139fd6ec5f578b32ee8c1c852fa70f1197fd",
+  "source_bytes": 2023,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/reports/validation.csv",
+  "path": "analysis/weinreb/provenance/ancestry/validation.csv",
+  "bytes": 1788,
+  "sha256": "81e1ab9d46659c244beab54ac6bd87b57d85dfb540f1c1350a52d8d4167bd395",
+  "role": "historical scientific validation",
+  "source_sha256": "81e1ab9d46659c244beab54ac6bd87b57d85dfb540f1c1350a52d8d4167bd395",
+  "source_bytes": 1788,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_metaclone_ancestry_worked_examples_20260910/provenance/source_manifest.csv",
+  "path": "analysis/weinreb/provenance/ancestry/original_source_manifest.csv",
+  "bytes": 2032,
+  "sha256": "bbde3c6843ad385b66aa0ad762019e3b93d38b47f1e2ff1400f8b13d5f0f0a79",
+  "role": "upstream checksum register",
+  "source_sha256": "031212f18de5c2824701fa0aae7dd252fb4f17d503813e19bcd4f179a117e46f",
+  "source_bytes": 1977,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/analysis_cell_metadata.csv",
+  "path": "analysis/weinreb/tables/dynamics/analysis_cell_metadata.csv",
+  "bytes": 253333,
+  "sha256": "0ef3ec0966f8411683770ae3cab48e89b88a0559824080de9ae2c1fcdccbb0ac",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "0ef3ec0966f8411683770ae3cab48e89b88a0559824080de9ae2c1fcdccbb0ac",
+  "source_bytes": 253333,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/branch_clone_median_kruskal_tests.csv",
+  "path": "analysis/weinreb/tables/dynamics/branch_clone_median_kruskal_tests.csv",
+  "bytes": 571,
+  "sha256": "982d2a942304bc9b70fbe8c3f270d67186f6cd452a4152d05267b76c15e172c1",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "982d2a942304bc9b70fbe8c3f270d67186f6cd452a4152d05267b76c15e172c1",
+  "source_bytes": 571,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/branch_clone_median_pseudotime.csv",
+  "path": "analysis/weinreb/tables/dynamics/branch_clone_median_pseudotime.csv",
+  "bytes": 21068,
+  "sha256": "c1c0e130ef58ac5b4d196be652f4e9458f53f472457ce78f429505fd03dc5d0b",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "c1c0e130ef58ac5b4d196be652f4e9458f53f472457ce78f429505fd03dc5d0b",
+  "source_bytes": 21068,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/branch_occupancy_fractions.csv",
+  "path": "analysis/weinreb/tables/dynamics/branch_occupancy_fractions.csv",
+  "bytes": 2497,
+  "sha256": "f273eaf50c0163ffd22bc098c4aec45a722951f8e8763bf83a6796f66dbbddf8",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "f273eaf50c0163ffd22bc098c4aec45a722951f8e8763bf83a6796f66dbbddf8",
+  "source_bytes": 2497,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/branch_occupancy_pair_dynamics.csv",
+  "path": "analysis/weinreb/tables/dynamics/branch_occupancy_pair_dynamics.csv",
+  "bytes": 403,
+  "sha256": "7fe0c9db313c7043c8e0d8f89ff8667a281d6a8b7b0f0d1cbbafea4ec38caf1c",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "7fe0c9db313c7043c8e0d8f89ff8667a281d6a8b7b0f0d1cbbafea4ec38caf1c",
+  "source_bytes": 403,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/branch_occupancy_pairwise_distances.csv",
+  "path": "analysis/weinreb/tables/dynamics/branch_occupancy_pairwise_distances.csv",
+  "bytes": 1640,
+  "sha256": "703f3d23af51892ddb396bc13b218f6e6a51cc9bb7750e7cc993ea1a0113f562",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "703f3d23af51892ddb396bc13b218f6e6a51cc9bb7750e7cc993ea1a0113f562",
+  "source_bytes": 1640,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/branch_pseudotime_support.csv",
+  "path": "analysis/weinreb/tables/dynamics/branch_pseudotime_support.csv",
+  "bytes": 2750,
+  "sha256": "88732c608a290d0281d8c9e0b6740020fecfe605a5c389ce270fa064b5bce767",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "88732c608a290d0281d8c9e0b6740020fecfe605a5c389ce270fa064b5bce767",
+  "source_bytes": 2750,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/claim_audit.csv",
+  "path": "analysis/weinreb/tables/dynamics/claim_audit.csv",
+  "bytes": 588,
+  "sha256": "4a1a7790efb2496a9eda23c62ecb323225f9838717b5c0165cd18ac8a4c64e8f",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "4a1a7790efb2496a9eda23c62ecb323225f9838717b5c0165cd18ac8a4c64e8f",
+  "source_bytes": 588,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/fine_state_composition_clone_balanced.csv",
+  "path": "analysis/weinreb/tables/dynamics/fine_state_composition_clone_balanced.csv",
+  "bytes": 4922,
+  "sha256": "dd48ea94ac24f0cb8e9ae29775a34e3f78e09b3ca7a3cf81f663c258fdd7f45c",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "dd48ea94ac24f0cb8e9ae29775a34e3f78e09b3ca7a3cf81f663c258fdd7f45c",
+  "source_bytes": 4922,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/fine_state_composition_pooled_cells.csv",
+  "path": "analysis/weinreb/tables/dynamics/fine_state_composition_pooled_cells.csv",
+  "bytes": 4016,
+  "sha256": "0145b17d0604d2b37b27f3f72662e9b0b1f20193fa6912dd25d6553c289a59d0",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "0145b17d0604d2b37b27f3f72662e9b0b1f20193fa6912dd25d6553c289a59d0",
+  "source_bytes": 4016,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/fine_state_pairwise_jensen_shannon_distances.csv",
+  "path": "analysis/weinreb/tables/dynamics/fine_state_pairwise_jensen_shannon_distances.csv",
+  "bytes": 1620,
+  "sha256": "941bb228f7e823a31b3b2f41ccd167df1daea1a30d604275933742060cb1adb7",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "941bb228f7e823a31b3b2f41ccd167df1daea1a30d604275933742060cb1adb7",
+  "source_bytes": 1620,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_multilineage_metaclone_dynamics_20260901/tables/target_metaclone_day_support.csv",
+  "path": "analysis/weinreb/tables/dynamics/target_metaclone_day_support.csv",
+  "bytes": 140,
+  "sha256": "a8565311a6dae48f121435691b9e5292ce8b471d33ff163426d9b80bcdb2e7d1",
+  "role": "retained multilineage dynamics",
+  "source_sha256": "a8565311a6dae48f121435691b9e5292ce8b471d33ff163426d9b80bcdb2e7d1",
+  "source_bytes": 140,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/cell_state_display_palette.csv",
+  "path": "analysis/weinreb/tables/v3_display/cell_state_display_palette.csv",
+  "bytes": 335,
+  "sha256": "acf86684bb2c5e430e68667a6771d228f0e821006af0536c87ddcabdb3976a18",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "acf86684bb2c5e430e68667a6771d228f0e821006af0536c87ddcabdb3976a18",
+  "source_bytes": 335,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_2a_hspc_landscape.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_2a_hspc_landscape.csv",
+  "bytes": 519735,
+  "sha256": "0d9d3a3c793b2603c2204ee0eef137a0fbdd0ca106fcfa399d1384e9c85ce42a",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "0d9d3a3c793b2603c2204ee0eef137a0fbdd0ca106fcfa399d1384e9c85ce42a",
+  "source_bytes": 519735,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_2a_legend_display_order.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_2a_legend_display_order.csv",
+  "bytes": 510,
+  "sha256": "2e5753d3134b15528765bf0c9b6b723ac71a18c3d53fa15e307764d095ecc1bb",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "2e5753d3134b15528765bf0c9b6b723ac71a18c3d53fa15e307764d095ecc1bb",
+  "source_bytes": 510,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_2c_original_segmented_waypoints.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_2c_original_segmented_waypoints.csv",
+  "bytes": 1078,
+  "sha256": "612919251e75ee28977eae5fe08be45fbc7ea96b865c234cd5b75eabe048b97e",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "612919251e75ee28977eae5fe08be45fbc7ea96b865c234cd5b75eabe048b97e",
+  "source_bytes": 1078,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_2c_trajectory_overview.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_2c_trajectory_overview.csv",
+  "bytes": 765059,
+  "sha256": "ff036a3c2d1ad16bb070d1bdabd8c3fb21580404c2b46daa594719dca3448d63",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "ff036a3c2d1ad16bb070d1bdabd8c3fb21580404c2b46daa594719dca3448d63",
+  "source_bytes": 765059,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_2d_neutrophil_output.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_2d_neutrophil_output.csv",
+  "bytes": 432,
+  "sha256": "cc963e5fc7f1f897ce0df7955c34a076ba88eefeb7a316bf2293a7f555aac8b0",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "cc963e5fc7f1f897ce0df7955c34a076ba88eefeb7a316bf2293a7f555aac8b0",
+  "source_bytes": 432,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_2e_neutrophil_pseudotime_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_2e_neutrophil_pseudotime_significance.csv",
+  "bytes": 1193,
+  "sha256": "53012e216281b4b2ed70656836ba02a70d57b0cf4f19885faaae0c769a8910cb",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "53012e216281b4b2ed70656836ba02a70d57b0cf4f19885faaae0c769a8910cb",
+  "source_bytes": 1193,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_2f_monocyte_output.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_2f_monocyte_output.csv",
+  "bytes": 356,
+  "sha256": "d3a7d946b938a71acd43f0482c52547515de1b262e33013a585e683d7436b5f2",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "d3a7d946b938a71acd43f0482c52547515de1b262e33013a585e683d7436b5f2",
+  "source_bytes": 356,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_2g_monocyte_cell_pseudotime_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_2g_monocyte_cell_pseudotime_significance.csv",
+  "bytes": 1114,
+  "sha256": "ced1fe32d05fb002250b2b195a8611124a93d3920b63ba7fab2814d3ead54bd2",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "ced1fe32d05fb002250b2b195a8611124a93d3920b63ba7fab2814d3ead54bd2",
+  "source_bytes": 1114,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_3a_cell_state_display_order.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_3a_cell_state_display_order.csv",
+  "bytes": 957,
+  "sha256": "c1b6a22ba6b3aa94ff8ed95c8edfcd1bb1c2ed3f823243292d747de33ae1342b",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "c1b6a22ba6b3aa94ff8ed95c8edfcd1bb1c2ed3f823243292d747de33ae1342b",
+  "source_bytes": 957,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_3a_hspc_pooled_composition.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_3a_hspc_pooled_composition.csv",
+  "bytes": 2473,
+  "sha256": "127e40e0ddde876314bfbac50d37080b6a43555f1ab1503176e20f919bcc7519",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "127e40e0ddde876314bfbac50d37080b6a43555f1ab1503176e20f919bcc7519",
+  "source_bytes": 2473,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_3b_multilineage_baso_pseudotime_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_3b_multilineage_baso_pseudotime_significance.csv",
+  "bytes": 831,
+  "sha256": "f459b829cc80a335fd05816e09af06ea7e17936f0009e4474ccc7dc885acb3f1",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "f459b829cc80a335fd05816e09af06ea7e17936f0009e4474ccc7dc885acb3f1",
+  "source_bytes": 831,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_3c_branch_occupancy_levels.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_3c_branch_occupancy_levels.csv",
+  "bytes": 803,
+  "sha256": "554f629f13bd1b3b53cca3127d05dd402ca77ba71fd5a188ee7f1aaee485b355",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "554f629f13bd1b3b53cca3127d05dd402ca77ba71fd5a188ee7f1aaee485b355",
+  "source_bytes": 803,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_3c_multilineage_neu_pseudotime_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_3c_multilineage_neu_pseudotime_significance.csv",
+  "bytes": 840,
+  "sha256": "193897574251d9fdc37268a4ebced683f49f577b74c23844c486a0a96421aaa4",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "193897574251d9fdc37268a4ebced683f49f577b74c23844c486a0a96421aaa4",
+  "source_bytes": 840,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_3d_branch_pair_distances.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_3d_branch_pair_distances.csv",
+  "bytes": 593,
+  "sha256": "9e766ad43e15c0bc2e71a58ddb8e218e93e71f3a2f570b84d4a539cbf68a3d30",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "9e766ad43e15c0bc2e71a58ddb8e218e93e71f3a2f570b84d4a539cbf68a3d30",
+  "source_bytes": 593,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_3d_multilineage_mono_pseudotime_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_3d_multilineage_mono_pseudotime_significance.csv",
+  "bytes": 838,
+  "sha256": "2906f43926a0afabdf262faf02d6b2e04ec34f81955725114ede154ebb6e6899",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "2906f43926a0afabdf262faf02d6b2e04ec34f81955725114ede154ebb6e6899",
+  "source_bytes": 838,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_4a_monocyte_inflammatory_program_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_4a_monocyte_inflammatory_program_significance.csv",
+  "bytes": 631,
+  "sha256": "6364b5bad03421d6254bb6cb7575ab4e119c4e37f7a9509955afbcee8eb6cf10",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "6364b5bad03421d6254bb6cb7575ab4e119c4e37f7a9509955afbcee8eb6cf10",
+  "source_bytes": 631,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_4b_monocyte_myc_program_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_4b_monocyte_myc_program_significance.csv",
+  "bytes": 625,
+  "sha256": "660ae39d28d40e6f5ad8084305ee11b966a4f7eb603364073be56775eacefeee",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "660ae39d28d40e6f5ad8084305ee11b966a4f7eb603364073be56775eacefeee",
+  "source_bytes": 625,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s3a_monocyte_clone_position.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s3a_monocyte_clone_position.csv",
+  "bytes": 27579,
+  "sha256": "92daee7575c24d2e56d6972025d90ff2f2572255c958ed0619e4479c3f6fa4fd",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "92daee7575c24d2e56d6972025d90ff2f2572255c958ed0619e4479c3f6fa4fd",
+  "source_bytes": 27579,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s3a_monocyte_clone_position_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s3a_monocyte_clone_position_significance.csv",
+  "bytes": 1114,
+  "sha256": "ced1fe32d05fb002250b2b195a8611124a93d3920b63ba7fab2814d3ead54bd2",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "ced1fe32d05fb002250b2b195a8611124a93d3920b63ba7fab2814d3ead54bd2",
+  "source_bytes": 1114,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s3a_monocyte_clone_position_summary.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s3a_monocyte_clone_position_summary.csv",
+  "bytes": 961,
+  "sha256": "148e6d68c98dc5d4adbd2c92583d0742bb13f00206f3cd01be928ade762956e1",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "148e6d68c98dc5d4adbd2c92583d0742bb13f00206f3cd01be928ade762956e1",
+  "source_bytes": 961,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s3e_neutrophil_clone_position.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s3e_neutrophil_clone_position.csv",
+  "bytes": 21574,
+  "sha256": "0a6f2a64186ff501e28a4d8244bda2b3ee6f01ee9ae6174d421f496ffadc1b43",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "0a6f2a64186ff501e28a4d8244bda2b3ee6f01ee9ae6174d421f496ffadc1b43",
+  "source_bytes": 21574,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s3e_neutrophil_clone_position_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s3e_neutrophil_clone_position_significance.csv",
+  "bytes": 1193,
+  "sha256": "53012e216281b4b2ed70656836ba02a70d57b0cf4f19885faaae0c769a8910cb",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "53012e216281b4b2ed70656836ba02a70d57b0cf4f19885faaae0c769a8910cb",
+  "source_bytes": 1193,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s3e_neutrophil_clone_position_summary.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s3e_neutrophil_clone_position_summary.csv",
+  "bytes": 1178,
+  "sha256": "46eea2d3b00b291bbfbfa1cb1eb43207e19399b7922a00c4b0bd7bedffe35540",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "46eea2d3b00b291bbfbfa1cb1eb43207e19399b7922a00c4b0bd7bedffe35540",
+  "source_bytes": 1178,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s4b_monocyte_program_sensitivity.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s4b_monocyte_program_sensitivity.csv",
+  "bytes": 4076,
+  "sha256": "45fe87459452037f7f2c916dbc771619a858589a67dd7926cece32d228345a92",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "45fe87459452037f7f2c916dbc771619a858589a67dd7926cece32d228345a92",
+  "source_bytes": 4076,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s4d_multilineage_ifn_divergence_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s4d_multilineage_ifn_divergence_significance.csv",
+  "bytes": 629,
+  "sha256": "008923047dc0c2b1287f7de7fe134c2bea603bec5d85f9c823853d87de868774",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "008923047dc0c2b1287f7de7fe134c2bea603bec5d85f9c823853d87de868774",
+  "source_bytes": 629,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s4e_multilineage_ifn_convergence_significance.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s4e_multilineage_ifn_convergence_significance.csv",
+  "bytes": 633,
+  "sha256": "b614e5089ca79da0edd006b227d3debe815fb4759884e3430582cb7770e96a31",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "b614e5089ca79da0edd006b227d3debe815fb4759884e3430582cb7770e96a31",
+  "source_bytes": 633,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/figure_s4f_multilineage_ifn_sensitivity.csv",
+  "path": "analysis/weinreb/tables/v3_display/figure_s4f_multilineage_ifn_sensitivity.csv",
+  "bytes": 4003,
+  "sha256": "240378506128eb50db301e790daaaf6b4b8f7ddea1f4236451839dd8d31e765b",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "240378506128eb50db301e790daaaf6b4b8f7ddea1f4236451839dd8d31e765b",
+  "source_bytes": 4003,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/pseudotime_omnibus_clone_medians.csv",
+  "path": "analysis/weinreb/tables/v3_display/pseudotime_omnibus_clone_medians.csv",
+  "bytes": 64058,
+  "sha256": "b78cd4eda7bb062a2164f3d6fa0d08b56a8d0e0c8272f3ae7953e43766ccfd14",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "b78cd4eda7bb062a2164f3d6fa0d08b56a8d0e0c8272f3ae7953e43766ccfd14",
+  "source_bytes": 64058,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/tables/pseudotime_within_day_omnibus_tests.csv",
+  "path": "analysis/weinreb/tables/v3_display/pseudotime_within_day_omnibus_tests.csv",
+  "bytes": 4120,
+  "sha256": "59a701739bb197d2b312d58b7ab9f89ae92e628448e213bcc009524ec1b64f82",
+  "role": "retained Weinreb display and q12 registry",
+  "source_sha256": "59a701739bb197d2b312d58b7ab9f89ae92e628448e213bcc009524ec1b64f82",
+  "source_bytes": 4120,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/figure_2e_neutrophil_pseudotime_cells.csv",
+  "path": "analysis/weinreb/tables/v5_repair/figure_2e_neutrophil_pseudotime_cells.csv",
+  "bytes": 42897,
+  "sha256": "c6b3ed6e54f49d81c8f99a9202b720f49c4f5ab754e19127720d5d22b10fd76e",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "c6b3ed6e54f49d81c8f99a9202b720f49c4f5ab754e19127720d5d22b10fd76e",
+  "source_bytes": 42897,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/figure_2e_neutrophil_pseudotime_clone_medians.csv",
+  "path": "analysis/weinreb/tables/v5_repair/figure_2e_neutrophil_pseudotime_clone_medians.csv",
+  "bytes": 9654,
+  "sha256": "864c79cdf800a60bcbcbe4050730fd8289b26dc4ddcba8bd9b9017ebf1f8bad3",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "864c79cdf800a60bcbcbe4050730fd8289b26dc4ddcba8bd9b9017ebf1f8bad3",
+  "source_bytes": 9654,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/figure_2e_neutrophil_pseudotime_saved_median_checks.csv",
+  "path": "analysis/weinreb/tables/v5_repair/figure_2e_neutrophil_pseudotime_saved_median_checks.csv",
+  "bytes": 22417,
+  "sha256": "22f034dd121e0cadb764bcdb364d1515efe1a2f19d8bae8db6703f9f370c1698",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "22f034dd121e0cadb764bcdb364d1515efe1a2f19d8bae8db6703f9f370c1698",
+  "source_bytes": 22417,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/figure_2e_neutrophil_pseudotime_summary.csv",
+  "path": "analysis/weinreb/tables/v5_repair/figure_2e_neutrophil_pseudotime_summary.csv",
+  "bytes": 561,
+  "sha256": "44c85fe4d42bfdee1ea75d8f79507b945675fc2b7084ebdc32c5177a54de399b",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "44c85fe4d42bfdee1ea75d8f79507b945675fc2b7084ebdc32c5177a54de399b",
+  "source_bytes": 561,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/figure_2g_monocyte_cell_pseudotime_cells.csv",
+  "path": "analysis/weinreb/tables/v5_repair/figure_2g_monocyte_cell_pseudotime_cells.csv",
+  "bytes": 61625,
+  "sha256": "bbcecaed38ff72fcf19a03a9563699c1f43a4975a0cf6ccc32d183b9d359e18e",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "bbcecaed38ff72fcf19a03a9563699c1f43a4975a0cf6ccc32d183b9d359e18e",
+  "source_bytes": 61625,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/figure_2g_monocyte_cell_pseudotime_clone_medians.csv",
+  "path": "analysis/weinreb/tables/v5_repair/figure_2g_monocyte_cell_pseudotime_clone_medians.csv",
+  "bytes": 11126,
+  "sha256": "70258c15907ff135f4ef97cb2fcdf7a12e69ba88dfe822379b76ca8f289a05f3",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "70258c15907ff135f4ef97cb2fcdf7a12e69ba88dfe822379b76ca8f289a05f3",
+  "source_bytes": 11126,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/figure_2g_monocyte_cell_pseudotime_saved_median_checks.csv",
+  "path": "analysis/weinreb/tables/v5_repair/figure_2g_monocyte_cell_pseudotime_saved_median_checks.csv",
+  "bytes": 25630,
+  "sha256": "2529a2666f2dac1d1ff2f5c1b09dec9c12f82a6edd9e0046fa463e36e2a46ac2",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "2529a2666f2dac1d1ff2f5c1b09dec9c12f82a6edd9e0046fa463e36e2a46ac2",
+  "source_bytes": 25630,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/figure_2g_monocyte_cell_pseudotime_summary.csv",
+  "path": "analysis/weinreb/tables/v5_repair/figure_2g_monocyte_cell_pseudotime_summary.csv",
+  "bytes": 467,
+  "sha256": "08efb7e755fffc41c5c7046a94b0ab541d655e67ce3b0f76f028dfeb837d15f0",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "08efb7e755fffc41c5c7046a94b0ab541d655e67ce3b0f76f028dfeb837d15f0",
+  "source_bytes": 467,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/tables/unchanged_q12_tests.csv",
+  "path": "analysis/weinreb/tables/v5_repair/unchanged_q12_tests.csv",
+  "bytes": 4114,
+  "sha256": "4cb1113e3aafa4c34dbf1177361cd84fc8c67985bd0466224964f745587a5ab3",
+  "role": "manuscript-v5 branch-restricted cell/clone cohort",
+  "source_sha256": "4cb1113e3aafa4c34dbf1177361cd84fc8c67985bd0466224964f745587a5ab3",
+  "source_bytes": 4114,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_singh_clone_umap_comparison_20260911/tables/caption_wording.csv",
+  "path": "analysis/weinreb/tables/clone_embedding/caption_wording.csv",
+  "bytes": 938,
+  "sha256": "f20372898f05d0a9a45d49bb509d60266041fb57c4dccb409aa670fede349206",
+  "role": "saved clone geometry or joint provenance",
+  "source_sha256": "f20372898f05d0a9a45d49bb509d60266041fb57c4dccb409aa670fede349206",
+  "source_bytes": 938,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_singh_clone_umap_comparison_20260911/tables/embedding_feature_registry.csv",
+  "path": "analysis/weinreb/tables/clone_embedding/embedding_feature_registry.csv",
+  "bytes": 5347,
+  "sha256": "c727a856b0450830c52f89078ace5f488fa9dcf994293e56e9e208aed42a85d3",
+  "role": "saved clone geometry or joint provenance",
+  "source_sha256": "c727a856b0450830c52f89078ace5f488fa9dcf994293e56e9e208aed42a85d3",
+  "source_bytes": 5347,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_singh_clone_umap_comparison_20260911/tables/metaclone_clone_counts.csv",
+  "path": "analysis/weinreb/tables/clone_embedding/metaclone_clone_counts.csv",
+  "bytes": 494,
+  "sha256": "320acf32f0bd215dbde03011b7db4d33e0b21e5a9a138498045cdbe20409c667",
+  "role": "saved clone geometry or joint provenance",
+  "source_sha256": "320acf32f0bd215dbde03011b7db4d33e0b21e5a9a138498045cdbe20409c667",
+  "source_bytes": 494,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_singh_clone_umap_comparison_20260911/tables/weinreb_clone_umap_plot_data.csv",
+  "path": "analysis/weinreb/tables/clone_embedding/weinreb_clone_umap_plot_data.csv",
+  "bytes": 25472,
+  "sha256": "1f7aa95a432a4c1974e6adc3ec8c0a5183f9f85917b826f77b14e7b724a86d4e",
+  "role": "saved clone geometry or joint provenance",
+  "source_sha256": "1f7aa95a432a4c1974e6adc3ec8c0a5183f9f85917b826f77b14e7b724a86d4e",
+  "source_bytes": 25472,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2a_celltype_umap.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2a_celltype_umap.csv",
+  "bytes": 434639,
+  "sha256": "e1abdf2bbbf6651de260b6a8cb7e31f81876e61fcf273cab5118ce87f09fc3e2",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "e1abdf2bbbf6651de260b6a8cb7e31f81876e61fcf273cab5118ce87f09fc3e2",
+  "source_bytes": 434639,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2c_pseudotime_masks.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2c_pseudotime_masks.csv",
+  "bytes": 768750,
+  "sha256": "d24886790f06c7c62a3577cf6a626e6312d5623122242ac5435ff1e8cec0a78d",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "d24886790f06c7c62a3577cf6a626e6312d5623122242ac5435ff1e8cec0a78d",
+  "source_bytes": 768750,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2d_output_composition.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2d_output_composition.csv",
+  "bytes": 449,
+  "sha256": "4fd701e86733409e9f471bbb42e18bb165f0220e4f022b72fe254821a198af3c",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "4fd701e86733409e9f471bbb42e18bb165f0220e4f022b72fe254821a198af3c",
+  "source_bytes": 449,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2d_perday_kruskal.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2d_perday_kruskal.csv",
+  "bytes": 145,
+  "sha256": "2e2b84c1a61e0df2ff153ffd62e67b2c71eda9c85a7d7290b875edd91ac677b5",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "2e2b84c1a61e0df2ff153ffd62e67b2c71eda9c85a7d7290b875edd91ac677b5",
+  "source_bytes": 145,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2d_pseudotime_by_mc_day.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2d_pseudotime_by_mc_day.csv",
+  "bytes": 46025,
+  "sha256": "b308be25f765be25cf1bb969964689bdb02dd3a00d7af1e84a4893c0277dc74c",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "b308be25f765be25cf1bb969964689bdb02dd3a00d7af1e84a4893c0277dc74c",
+  "source_bytes": 46025,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2e_output_composition.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2e_output_composition.csv",
+  "bytes": 376,
+  "sha256": "2d00df36ddd3983a29dd08c2829148b4bbdd24e4cad3ba122d845b088d2c124d",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "2d00df36ddd3983a29dd08c2829148b4bbdd24e4cad3ba122d845b088d2c124d",
+  "source_bytes": 376,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2e_perday_kruskal.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2e_perday_kruskal.csv",
+  "bytes": 146,
+  "sha256": "23bcbb366405621439e8547a14b0fc639c0fe4b8619457444561f5656a5b6992",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "23bcbb366405621439e8547a14b0fc639c0fe4b8619457444561f5656a5b6992",
+  "source_bytes": 146,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2e_pseudotime_by_mc_day.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2e_pseudotime_by_mc_day.csv",
+  "bytes": 81777,
+  "sha256": "1767fb6b86317938ce1b03f025c50b0ff356a37a5a636afbc2c93f8b91048129",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "1767fb6b86317938ce1b03f025c50b0ff356a37a5a636afbc2c93f8b91048129",
+  "source_bytes": 81777,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2h_lineage_bias_map.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2h_lineage_bias_map.csv",
+  "bytes": 1611,
+  "sha256": "b4d1af7b481a9b1a26d781feb449fb88d300d770c20633054e152f213fa18eb6",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "b4d1af7b481a9b1a26d781feb449fb88d300d770c20633054e152f213fa18eb6",
+  "source_bytes": 1611,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2i_weinreb_clone_outcomes.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2i_weinreb_clone_outcomes.csv",
+  "bytes": 48768,
+  "sha256": "16e74ace05201e756f2d28c2e33808d9a11d0168912f0c58a2f9fbb6f772873c",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "16e74ace05201e756f2d28c2e33808d9a11d0168912f0c58a2f9fbb6f772873c",
+  "source_bytes": 48768,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "reference_workspace/Figure/fig2/data/fig2i_weinreb_metaclone_crosswalk.csv",
+  "path": "analysis/weinreb/inputs/reference_figure2/fig2i_weinreb_metaclone_crosswalk.csv",
+  "bytes": 5085,
+  "sha256": "71a25b8ab3fbcc20e0820b6ec47eab5085a7fbd1090a7623c53e8031eb163c99",
+  "role": "current source trajectory/composition/lineage-map table",
+  "source_sha256": "71a25b8ab3fbcc20e0820b6ec47eab5085a7fbd1090a7623c53e8031eb163c99",
+  "source_bytes": 5085,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_manuscript_panel_styling_20260907/tables/manuscript_metaclone_palette.csv",
+  "path": "analysis/weinreb/inputs/manuscript_metaclone_palette.csv",
+  "bytes": 630,
+  "sha256": "8606561063d2d1c0326d9084881c91f24700799211067238822676e9cff84433",
+  "role": "author approved metaclone colors",
+  "source_sha256": "8606561063d2d1c0326d9084881c91f24700799211067238822676e9cff84433",
+  "source_bytes": 630,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_clone_trajectory_umap_20260810/tables/weinreb_clone_trajectory_umap_locked_geometry.csv",
+  "path": "analysis/weinreb/inputs/clone_embedding/weinreb_clone_trajectory_umap_locked_geometry.csv",
+  "bytes": 19482,
+  "sha256": "fb63c00d895b11c0602d1e7a733d22a97bfa8ef80af12a9ffa1e2e1f3575012f",
+  "role": "locked original geometry/representation; never refit for display",
+  "source_sha256": "fb63c00d895b11c0602d1e7a733d22a97bfa8ef80af12a9ffa1e2e1f3575012f",
+  "source_bytes": 19482,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_clone_trajectory_umap_20260810/tables/weinreb_clone_trajectory_umap_metaclone_labeled_source.csv",
+  "path": "analysis/weinreb/inputs/clone_embedding/weinreb_clone_trajectory_umap_metaclone_labeled_source.csv",
+  "bytes": 94999,
+  "sha256": "a04f0f116436283fb1ce32488d060ab6abe5d2abb2035706a07211c03101f2dd",
+  "role": "locked original geometry/representation; never refit for display",
+  "source_sha256": "a04f0f116436283fb1ce32488d060ab6abe5d2abb2035706a07211c03101f2dd",
+  "source_bytes": 94999,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_clone_trajectory_umap_20260810/tables/weinreb_clone_trajectory_umap_metaclone_label_positions.csv",
+  "path": "analysis/weinreb/inputs/clone_embedding/weinreb_clone_trajectory_umap_metaclone_label_positions.csv",
+  "bytes": 3763,
+  "sha256": "b9508e8cd7a5cada87eeada5edccabfa7fa56403ec6d01ca58b488d5844eb6cb",
+  "role": "locked original geometry/representation; never refit for display",
+  "source_sha256": "b9508e8cd7a5cada87eeada5edccabfa7fa56403ec6d01ca58b488d5844eb6cb",
+  "source_bytes": 3763,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_clone_trajectory_umap_20260810/tables/weinreb_clone_trajectory_feature_matrix.csv",
+  "path": "analysis/weinreb/inputs/clone_embedding/weinreb_clone_trajectory_feature_matrix.csv",
+  "bytes": 121969,
+  "sha256": "f6dd8438799b7dd355300ad79cca48668f5cdb9f2109f90b9a36619eb2b76294",
+  "role": "locked original geometry/representation; never refit for display",
+  "source_sha256": "f6dd8438799b7dd355300ad79cca48668f5cdb9f2109f90b9a36619eb2b76294",
+  "source_bytes": 121969,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_clone_trajectory_umap_20260810/tables/weinreb_clone_trajectory_umap_parameters.csv",
+  "path": "analysis/weinreb/inputs/clone_embedding/weinreb_clone_trajectory_umap_parameters.csv",
+  "bytes": 1151,
+  "sha256": "a58fc8a6f47a8d783171668957d46d69625b7a6330a0e7a9c3deb9382cd2ee4c",
+  "role": "locked original geometry/representation; never refit for display",
+  "source_sha256": "591a3314fbf4b4f0fd5268cbe75fc85156213ff9656521866ed09ec6f35212f7",
+  "source_bytes": 1141,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/archive/analyses/weinreb_day2_hspc_metaclone_gene_programs_pre_targeted_20260903/tables/multilineage_program_output_correlations.csv",
+  "path": "analysis/weinreb/inputs/correlation_preservation_reference.csv",
+  "bytes": 442619,
+  "sha256": "65d68878418ee041d28eb7d944b4305713b09f778661a1f75bd1d6efad71d18d",
+  "role": "hash-preserved historical comparison required by current notebook",
+  "source_sha256": "65d68878418ee041d28eb7d944b4305713b09f778661a1f75bd1d6efad71d18d",
+  "source_bytes": 442619,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/paper_figures/metaclone_gene_analysis.py",
+  "path": "analysis/weinreb/current_source/programs/metaclone_gene_analysis.py",
+  "bytes": 39694,
+  "sha256": "21438bd1152dc1863068873883d33843fb9bb6eb2f9563bda90ade95114dabc1",
+  "role": "source-inspected method helper required by current notebook audit",
+  "source_sha256": "21438bd1152dc1863068873883d33843fb9bb6eb2f9563bda90ade95114dabc1",
+  "source_bytes": 39694,
+  "publication_adaptation": "payload unchanged"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_weinreb_v3_20260910/reports/panel_manifest.csv",
+  "path": "analysis/weinreb/provenance/v3_panel_sources.csv",
+  "bytes": 18153,
+  "sha256": "ac4aaf889f1be17fc0a4a13da6cdd8bcb0a18897fe0e15363436c0da57480880",
+  "role": "original display source register",
+  "source_sha256": "54aceea7dd923d8b1a50e78ac29cea594e37efa78d87d4aea730d0605dd3d315",
+  "source_bytes": 17938,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/manuscript/chronoclone_academic_revision_20260911/figure_repairs/reports/source_manifest.csv",
+  "path": "analysis/weinreb/provenance/v5_repair_sources.csv",
+  "bytes": 754,
+  "sha256": "788eb6208eb708074426ecd5d60c44f09ee65cb692d946fda628c751579c1161",
+  "role": "original display source register",
+  "source_sha256": "9aeee89221dc12629761c9df4a060b42fa0cb5abb741dfd68cffc4be7399d1a2",
+  "source_bytes": 734,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ },
+ {
+  "source_workspace_path": "analysis_workspace/weinreb/weinreb_singh_clone_umap_comparison_20260911/reports/source_manifest.csv",
+  "path": "analysis/weinreb/provenance/clone_embedding_sources.csv",
+  "bytes": 2190,
+  "sha256": "b5b5fca2e6c7861efa2c2d3bcdc16f32dc5b3a85c490f37e890fa8eb1c191e80",
+  "role": "original display source register",
+  "source_sha256": "a6f781171f1f51dcf4d1fe247ed31da9c34cbe4221b067a625697f3781d6d7d6",
+  "source_bytes": 2137,
+  "publication_adaptation": "paths and labels normalized; scientific values retained"
+ }
+]

@@ -1,0 +1,12 @@
+{
+  "complete_atlas_snapshots": 119,
+  "grid_figures": 15,
+  "same_cohort_counts": true,
+  "same_coordinates": true,
+  "same_density_estimates_and_common_scale": true,
+  "consistent_marker_proportions_across_grids": true,
+  "foreground_area_multiplier_over_figure2b": 2.0,
+  "day7_only_wt": true,
+  "no_new_inference": true,
+  "visual_review": "pending individual review"
+}

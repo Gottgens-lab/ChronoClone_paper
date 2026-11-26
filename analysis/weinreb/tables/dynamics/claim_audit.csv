@@ -1,0 +1,4 @@
+claim_scope,comparison,estimand,day4_distance,day6_distance,interpretation_rule,day6_minus_day4
+Fine-state composition,MC5 vs MC3,clone_balanced,0.40836455025073093,0.42888091678706497,larger distance means more different,0.02051636653633404
+Baso/Neu/Mono overlapping branch occupancy,MC3 vs MC18,pooled_cells,0.4146252006422286,0.17419398944422834,smaller distance means more similar occupancy,-0.24043121119800023
+Baso/Neu/Mono overlapping branch occupancy,MC5 vs MC3,pooled_cells,0.2500357542899549,0.3617744897617724,larger distance means more different occupancy,0.11173873547181751

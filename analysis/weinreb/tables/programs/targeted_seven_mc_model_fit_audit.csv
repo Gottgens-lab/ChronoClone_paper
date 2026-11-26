@@ -1,0 +1,2 @@
+model,design,n_clone_pseudobulks,n_genes,design_rank,design_columns,condition_number,reference_library_fraction,library_covariates,rank_dropped,warning_count,warnings
+seven_multilineage_metaclones,~ libfrac__LK_d2__multi_z + libfrac__LSK_d2_1__multi_z + libfrac__LSK_d2_2__multi_z + libfrac__d2_1__multi_z + libfrac__d2_2__multi_z + libfrac__d2_3__multi_z + multi_mc_group,217,9777,13,13,10.486875125329888,libfrac__LSK_d2_3,libfrac__LK_d2__multi_z|libfrac__LSK_d2_1__multi_z|libfrac__LSK_d2_2__multi_z|libfrac__d2_1__multi_z|libfrac__d2_2__multi_z|libfrac__d2_3__multi_z,,0,

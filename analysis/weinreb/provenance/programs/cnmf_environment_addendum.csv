@@ -1,0 +1,14 @@
+field,value
+environment_name,chronoclone
+environment_path,/path/to/ChronoClone/.runtime/chronoclone
+kernel,chronoclone
+python,3.11.15
+anndata,0.12.18
+numpy,2.4.6
+scipy,1.17.1
+scikit-learn,1.9.0
+statsmodels,0.14.6
+adjustText,1.4.0
+official_cnmf_package,not installed; not required
+implementation,sklearn random NMF + consensus clustering + scipy NNLS
+execution_command,/path/to/ChronoClone/.runtime/chronoclone/bin/jupyter-nbconvert --to notebook --execute --inplace --ExecutePreprocessor.kernel_name=chronoclone --ExecutePreprocessor.timeout=7200 /path/to/ChronoClone/analysis_workspace/analyses/weinreb_day2_hspc_metaclone_gene_programs_20260902/0001_weinreb_day2_hspc_metaclone_gene_programs.ipynb

@@ -1,0 +1,15 @@
+field,value
+environment_name,chronoclone
+manager,Existing Conda-compatible environment; reused without mutation
+path,/path/to/ChronoClone/.runtime/chronoclone
+kernel,chronoclone
+python,3.11.15
+execution_command,env OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 MPLCONFIGDIR=/private/tmp/weinreb_ancestry_mpl NUMBA_CACHE_DIR=/private/tmp/weinreb_ancestry_numba /path/to/ChronoClone/.runtime/chronoclone/bin/jupyter-nbconvert --to notebook --execute --inplace --ExecutePreprocessor.kernel_name=chronoclone --ExecutePreprocessor.timeout=7200 /path/to/ChronoClone/analysis_workspace/analyses/weinreb_metaclone_ancestry_worked_examples_20260910/0001_weinreb_metaclone_ancestry_worked_examples.ipynb
+version_numpy,2.4.6
+version_pandas,2.3.3
+version_scipy,1.17.1
+version_statsmodels,0.14.6
+version_anndata,0.12.18
+version_matplotlib,3.11.0
+version_nbformat,5.10.4
+version_pydeseq2,0.5.4

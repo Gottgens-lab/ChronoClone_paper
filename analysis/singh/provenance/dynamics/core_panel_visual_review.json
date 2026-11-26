@@ -1,0 +1,195 @@
+{
+  "review_date": "2026-09-11",
+  "reviewer": "research independent dynamics subagent",
+  "scope": "Six raw PNG panels individually; SVG text/frame metadata; captions 5A\u20135E and S6A against producing code and saved tables. S6C minimum-arm support caption verified.",
+  "environment": {
+    "environment": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "Python": "3.11.15",
+    "versions": {
+      "pandas": "2.3.3",
+      "pillow": "12.2.0",
+      "nbformat": "5.10.4"
+    },
+    "execution_command": "/path/to/ChronoClone/.runtime/chronoclone/bin/python /path/to/ChronoClone/analysis_workspace/manuscript/chronoclone_panel_revision_20260910/execute_notebook.py /path/to/ChronoClone/analysis_workspace/singh/singh_reference_response_20260911/dynamics/0003_core_panel_visual_review.ipynb"
+  },
+  "panels": [
+    {
+      "stem": "figure_5a_wt_reference_position",
+      "png_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5a_wt_reference_position.png",
+      "png_sha256": "8b848ff28c31bc54a43708296b774355224bc993db4de5c0b88ad172eca92c6f",
+      "png_size_px": [
+        1190,
+        1753
+      ],
+      "svg_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5a_wt_reference_position.svg",
+      "svg_sha256": "6d62532b909eefe0cb2e39c5453346d515dd06f34d685736792964a0ca180b7c",
+      "svg_viewbox": [
+        0.0,
+        0.0,
+        389.578541,
+        573.822652
+      ],
+      "editable_text_nodes": 28,
+      "minimum_font_px": 13.0,
+      "text_anchors_in_viewbox": true,
+      "embedded_raster_images": 2,
+      "individually_visually_inspected": true,
+      "frame_and_readability": "pass",
+      "caption_binding": "pass",
+      "visual": "Pass after root correction: missing Day27 cells are light gray, labels and colorbar inside frame; no panel title.",
+      "caption": "Within-sample family means then equal observed-sample averaging correctly stated. Gray missing-support description now matches image.",
+      "resolved_issue": "Initial image had transparent/white missing cells; root changed colormap bad color to light gray and reran core notebook."
+    },
+    {
+      "stem": "figure_5b_state_response",
+      "png_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5b_state_response.png",
+      "png_sha256": "ffcbee9be2fe34becda778bcb5a51164eb267a2d595efc4d47c6b9a846066f1d",
+      "png_size_px": [
+        1556,
+        1753
+      ],
+      "svg_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5b_state_response.svg",
+      "svg_sha256": "8c78deee17a30327f1e6062caa5ae9f848bb5947a649f37561452008bf17a6e7",
+      "svg_viewbox": [
+        0.0,
+        0.0,
+        509.481689,
+        573.852601
+      ],
+      "editable_text_nodes": 46,
+      "minimum_font_px": 13.0,
+      "text_anchors_in_viewbox": true,
+      "embedded_raster_images": 2,
+      "individually_visually_inspected": true,
+      "frame_and_readability": "pass",
+      "caption_binding": "pass",
+      "visual": "Pass: readable 17-row heatmap, four arm/day columns, visible star symbols, zero-centered scale, gray missing estimates.",
+      "caption": "Correctly distinguishes point support from inferential support; separate 68-test state BH, conditional family multiplier and star levels stated."
+    },
+    {
+      "stem": "figure_5c_composition_response",
+      "png_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5c_composition_response.png",
+      "png_sha256": "d55b658274c80253218e48a9943108c29ca7e4939a3ac7e6c9ec5a8e7bffddca",
+      "png_size_px": [
+        1545,
+        1753
+      ],
+      "svg_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5c_composition_response.svg",
+      "svg_sha256": "46787cfac58ec9d35f2db9da2a1463378e770e770f7bf3fc3f2e57f197941ff9",
+      "svg_viewbox": [
+        0.0,
+        0.0,
+        505.805111,
+        573.675688
+      ],
+      "editable_text_nodes": 51,
+      "minimum_font_px": 13.0,
+      "text_anchors_in_viewbox": true,
+      "embedded_raster_images": 2,
+      "individually_visually_inspected": true,
+      "frame_and_readability": "pass",
+      "caption_binding": "pass",
+      "visual": "Pass: readable 17-row heatmap, gray missing estimates and visible symbols; sequential TVD scale 0\u20131.",
+      "caption": "Correctly states weighted within-sample TVD display, sample-by-category maximum-standardized contrast-vector test, and separate 68-test composition BH; no scalar TVD-null claim."
+    },
+    {
+      "stem": "figure_5d_mc3_state_contrasts",
+      "png_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5d_mc3_state_contrasts.png",
+      "png_sha256": "cebef0f34d471bcea194de2563d43f1ca19cc46d2ea5ee75fc2f27c28dd08f47",
+      "png_size_px": [
+        1663,
+        873
+      ],
+      "svg_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5d_mc3_state_contrasts.svg",
+      "svg_sha256": "9a18eb2d0582215d5c30e3854b5a5174f5fe8e5c986e5619f0d2ad7ae9585d6b",
+      "svg_viewbox": [
+        0.0,
+        0.0,
+        544.524716,
+        285.771115
+      ],
+      "editable_text_nodes": 12,
+      "minimum_font_px": 13.0,
+      "text_anchors_in_viewbox": true,
+      "embedded_raster_images": 0,
+      "individually_visually_inspected": true,
+      "frame_and_readability": "pass",
+      "caption_binding": "pass",
+      "visual": "Pass: four estimates/intervals and two double-star labels, all labels inside frame; zero reference does not obscure marks.",
+      "caption": "Four contributing WT/mutant unique-family counts match effects.csv; pointwise intervals and full 68-test correction correctly distinguished."
+    },
+    {
+      "stem": "figure_5e_mc3_composition",
+      "png_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5e_mc3_composition.png",
+      "png_sha256": "d159e5030ab9ccd72f5c7c827810a03aab30bb3e3a09c31b7f8ac88f3ad1d80a",
+      "png_size_px": [
+        1665,
+        1027
+      ],
+      "svg_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_5e_mc3_composition.svg",
+      "svg_sha256": "737f9e949f51e2282cb53152f84fb8393ca8d85550024381c5b86d576c81bb2a",
+      "svg_viewbox": [
+        0.0,
+        0.0,
+        545.079529,
+        336.106702
+      ],
+      "editable_text_nodes": 18,
+      "minimum_font_px": 13.0,
+      "text_anchors_in_viewbox": true,
+      "embedded_raster_images": 0,
+      "individually_visually_inspected": true,
+      "frame_and_readability": "pass",
+      "caption_binding": "pass",
+      "visual": "Pass: three 100% stacked bars, large labels and full category legend inside exported frame; no panel prose.",
+      "caption": "Explicitly distinguishes equal-sample descriptive arm composition from minimum-arm-support weighted pairwise contrasts; pooling HSC+MPP to HSPC correctly stated."
+    },
+    {
+      "stem": "figure_s6a_mc3_paired_families",
+      "png_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_s6a_mc3_paired_families.png",
+      "png_sha256": "4aee705b392908974e2815ee8a8d592aabe4fcaa051c90b176be7fb32e8bcc47",
+      "png_size_px": [
+        1487,
+        873
+      ],
+      "svg_path": "analysis_workspace/singh/singh_reference_response_20260911/dynamics/panels/figure_s6a_mc3_paired_families.svg",
+      "svg_sha256": "17071456686793a5edd1054d70d7113f477d9c25a1cf08216df2e5f25e51b677",
+      "svg_viewbox": [
+        0.0,
+        0.0,
+        486.999073,
+        285.771115
+      ],
+      "editable_text_nodes": 15,
+      "minimum_font_px": 13.0,
+      "text_anchors_in_viewbox": true,
+      "embedded_raster_images": 0,
+      "individually_visually_inspected": true,
+      "frame_and_readability": "pass",
+      "caption_binding": "pass",
+      "visual": "Pass: six orange points below zero, readable numeric display indices 1\u20136 and axes; no clipping or prose.",
+      "caption": "Six matched families, at least two cells per arm/sample, one difference per family after averaging samples, raw P=.03125 and four-test q=.0625, and display indices versus barcodes correctly stated."
+    }
+  ],
+  "manuscript_path": "analysis_workspace/manuscript/chronoclone_v4_20260911/manuscript_source.md",
+  "manuscript_sha256": "07763c87d46f742fec1adf1264ad51230df3d410ab629c4a70ad9abfddb19788",
+  "captions_at_review": [
+    "**Figure 5A. WT reference behaviors in the Singh dataset.** Clone-balanced mean pseudotime for each of 17 WT-defined metaclones at Days 7, 14, and 27. Family means are averaged within sequencing sample and then equally across observed samples. Gray indicates absent support. Labels are specific to this dataset and are not matched to Weinreb metaclone numbers.",
+    "**Figure 5B. WT-relative developmental-state responses.** Mutant-minus-WT pseudotime differences use equal family weight within sample and fixed minimum-arm-support weights across samples. Gray indicates an unsupported point estimate, not zero response. Stars indicate conditional joint-family multiplier tests with BH correction across all 68 planned state comparisons. Double asterisks denote q < 0.05; a single asterisk denotes 0.05 \u2264 q < 0.10. Unstarred estimates can be non-significant or lack inferential support; exact support and status are supplied in Table S4.",
+    "**Figure 5C. WT-relative composition responses.** Color shows the support-weighted mean within-sample total variation distance (TVD) across seven HSPC-pooled cell categories. Stars test the supported sample-by-category contrast vector using a maximum-standardized-effect statistic; they are not tests of scalar TVD. BH correction covers a separate 68-comparison composition family, with the same star convention as Figure 5B. Gray denotes unsupported point estimation.",
+    "**Figure 5D. MC3 developmental-state contrasts.** Points and lines show mutant-minus-WT pseudotime differences and pointwise 95% family-cluster intervals. The contributing WT/mutant family counts are 104/48 and 104/27 at Day 14 for Dnmt3a and Npm1c, and 104/36 and 104/18 at Day 27. Related family records are linked across arms and samples. Stars retain the complete state-family correction from Figure 5B, rather than correcting only the displayed contrasts.",
+    "**Figure 5E. MC3 cellular composition at Day 27.** Family-level proportions are averaged within each sample and then equally across observed samples for each arm. HSPCs combine the source HSC and MPP annotations. This descriptive arm summary uses equal sample weights, whereas pair-specific contrasts in Figures 5B\u20135D use minimum-arm-support weights. Colors denote cellular categories, not metaclones.",
+    "**Figure 5F. MC3 branch-resolved state at Day 27.** Pseudotime contrasts and pointwise 95% family-cluster intervals are calculated separately within five recorded, overlapping lineage-compatibility masks. Stars use the complete 20-test family spanning both mutations, both later days, and all five branches. Overlapping masks are not exclusive fates, and separate branch tests do not establish differences between branches or mutations. Day-14 contrasts and unique-family support are provided in Figures S6B and S6C.",
+    "**Figure S6A. Shared-family sensitivity for MC3 at Day 27.** Each point is one pre-induction lineage family with at least two WT and two Npm1c cells in a matched sequencing sample. Repeated sample-specific differences are averaged within family. All six differences are negative; the Wilcoxon P value is 0.03125 and q = 0.0625 in the four-comparison sensitivity family. This selected subset does not estimate the all-observed MC3 contrast. Point order is by effect size, and numeric labels are display indices rather than original barcodes.",
+    "**Figure S6B. MC3 branch-resolved state at Day 14.** Matched conventions and the same complete 20-test correction as Figure 5F. A small pooled metaclone contrast does not imply that every lineage-compatible subset has the same response. Differences in significance among branches do not establish a branch interaction.",
+    "**Figure S6C. Unique-family support for the MC3 branch comparisons.** Each value is the smaller of the two contributing arm-specific unique-family counts. Complete WT, mutant, shared-family, and sample counts are in Table S4. The same family may contribute to several overlapping masks, arms, and samples; joint-family calculations preserve its dependence within each comparison. The analysis remains conditional on the pooled experiment."
+  ],
+  "limitations": [
+    "SVG text anchor check is not a glyph-bounding-box check; full-frame acceptance comes from individual PNG visual inspection.",
+    "Heatmap bodies and colorbars may contain embedded raster images; labels remain editable SVG text.",
+    "This register does not verify DOCX/Google page placement or claim independent experimental replication."
+  ],
+  "open_core_panel_defects": []
+}

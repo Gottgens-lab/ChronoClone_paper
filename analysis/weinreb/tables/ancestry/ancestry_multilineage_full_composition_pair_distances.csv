@@ -1,0 +1,13 @@
+cohort,annotation,metaclone_a,metaclone_b,day4_distance,day6_distance,distance_change,coordinate_system
+all_assigned,cell_type,5,3,0.3876000968546326,0.4423688085405925,0.054768711685959925,Euclidean distance in complete clone-balanced state composition
+all_assigned,cell_type,3,18,0.3033636481866615,0.5127886682559535,0.20942502006929198,Euclidean distance in complete clone-balanced state composition
+all_assigned,cell_type_weinreb,5,3,0.05485316571485391,0.40083230408764225,0.3459791383727884,Euclidean distance in complete clone-balanced state composition
+all_assigned,cell_type_weinreb,3,18,0.15577577758090563,0.5835467652546867,0.4277709876737811,Euclidean distance in complete clone-balanced state composition
+day2_hspc_linked,cell_type,5,3,0.3876000968546326,0.4423688085405925,0.054768711685959925,Euclidean distance in complete clone-balanced state composition
+day2_hspc_linked,cell_type,3,18,0.3033636481866615,0.5127886682559535,0.20942502006929198,Euclidean distance in complete clone-balanced state composition
+day2_hspc_linked,cell_type_weinreb,5,3,0.05485316571485391,0.40083230408764225,0.3459791383727884,Euclidean distance in complete clone-balanced state composition
+day2_hspc_linked,cell_type_weinreb,3,18,0.15577577758090563,0.5835467652546867,0.4277709876737811,Euclidean distance in complete clone-balanced state composition
+day2_linked_observed_both_later_days,cell_type,5,3,0.37441842926400176,0.4423688085405925,0.06795037927659076,Euclidean distance in complete clone-balanced state composition
+day2_linked_observed_both_later_days,cell_type,3,18,0.3263401469660256,0.5127886682559535,0.1864485212899279,Euclidean distance in complete clone-balanced state composition
+day2_linked_observed_both_later_days,cell_type_weinreb,5,3,0.051928406836425633,0.40083230408764225,0.3489038972512166,Euclidean distance in complete clone-balanced state composition
+day2_linked_observed_both_later_days,cell_type_weinreb,3,18,0.16545654700589155,0.5835467652546867,0.4180902182487952,Euclidean distance in complete clone-balanced state composition

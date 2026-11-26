@@ -1,0 +1,26 @@
+{
+  "retained_route": "resolved_cohort_rna_normalized_fixed_rank_refit",
+  "K": 8,
+  "fit_converged": true,
+  "refit_iterations": 1290,
+  "max_iter": 5000,
+  "tol": 1e-05,
+  "seed": 0,
+  "init": "nndsvd",
+  "solver": "cd",
+  "loss": "frobenius",
+  "refit_reconstruction_error": 798.009969477377,
+  "retained_reconstruction_error": 798.0099695372952,
+  "hvg_overlap": 1976,
+  "original_n_hvg": 2000,
+  "resolved_n_hvg": 2000,
+  "minimum_matched_cosine": 0.9605530890059274,
+  "identity_threshold": 0.8,
+  "warning_count": 0,
+  "total_features": 144976,
+  "post_exclusion_features": 20974,
+  "original_selected_non_rna_features": [
+    "GFP-47"
+  ],
+  "retained_selected_non_rna_features": []
+}

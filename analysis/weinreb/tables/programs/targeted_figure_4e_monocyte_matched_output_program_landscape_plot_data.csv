@@ -1,0 +1,49 @@
+program,metaclone,adjusted_score_sd,lineage_bias
+Reactive Oxygen Species Pathway,12,0.11437550800158092,Monocyte
+Inflammatory Response,12,0.4012775792156873,Monocyte
+Apical Surface,12,0.18532473695090063,Monocyte
+mTORC1 Signaling,12,0.31805454731699334,Monocyte
+Cholesterol Homeostasis,12,0.15099451977851286,Monocyte
+Myc Targets V2,12,0.4474319918924286,Monocyte
+Protein Secretion,12,0.1517996811534041,Monocyte
+KRAS Signaling Dn,12,-0.042867751633296536,Monocyte
+Glycolysis,12,0.23880241123983403,Monocyte
+Hypoxia,12,0.09834623427723826,Monocyte
+Fatty Acid Metabolism,12,0.21543281946998183,Monocyte
+PI3K/AKT/mTOR  Signaling,12,0.2570055884602235,Monocyte
+Reactive Oxygen Species Pathway,7,0.45298944265447144,Monocyte
+Inflammatory Response,7,0.24524607271939913,Monocyte
+Apical Surface,7,0.39459537999016436,Monocyte
+mTORC1 Signaling,7,0.5351387656837774,Monocyte
+Cholesterol Homeostasis,7,0.4689066634633553,Monocyte
+Myc Targets V2,7,0.5551113136353262,Monocyte
+Protein Secretion,7,0.3566374577758264,Monocyte
+KRAS Signaling Dn,7,0.24013756030900402,Monocyte
+Glycolysis,7,0.41948190325596196,Monocyte
+Hypoxia,7,0.25725081865631494,Monocyte
+Fatty Acid Metabolism,7,0.3673528954305477,Monocyte
+PI3K/AKT/mTOR  Signaling,7,0.20660786380598195,Monocyte
+Reactive Oxygen Species Pathway,8,-0.1345613609747216,Monocyte
+Inflammatory Response,8,-0.2012940879058744,Monocyte
+Apical Surface,8,-0.32536197217065044,Monocyte
+mTORC1 Signaling,8,-0.03742338444627302,Monocyte
+Cholesterol Homeostasis,8,-0.18187308919452616,Monocyte
+Myc Targets V2,8,-0.013920207998263767,Monocyte
+Protein Secretion,8,-0.2135035084831825,Monocyte
+KRAS Signaling Dn,8,0.10893289727542377,Monocyte
+Glycolysis,8,-0.17877148668269327,Monocyte
+Hypoxia,8,-0.3394886308425526,Monocyte
+Fatty Acid Metabolism,8,-0.08798793168860264,Monocyte
+PI3K/AKT/mTOR  Signaling,8,-0.08150355495257378,Monocyte
+Reactive Oxygen Species Pathway,6,-0.3682118778525686,Monocyte
+Inflammatory Response,6,-0.32091403591933365,Monocyte
+Apical Surface,6,-0.12706215945002053,Monocyte
+mTORC1 Signaling,6,-0.15882683195565162,Monocyte
+Cholesterol Homeostasis,6,0.0036024492796084273,Monocyte
+Myc Targets V2,6,-0.08587893708438532,Monocyte
+Protein Secretion,6,-0.28201253162266765,Monocyte
+KRAS Signaling Dn,6,-0.36315408802099297,Monocyte
+Glycolysis,6,-0.17935035305596259,Monocyte
+Hypoxia,6,-0.2791953332104113,Monocyte
+Fatty Acid Metabolism,6,-0.21438476054319688,Monocyte
+PI3K/AKT/mTOR  Signaling,6,-0.3130709199571242,Monocyte

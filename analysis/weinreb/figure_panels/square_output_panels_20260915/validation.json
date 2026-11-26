@@ -1,0 +1,18 @@
+[
+  {
+    "stem": "figure_2d_neutrophil_output",
+    "source": "ChronoClone_paper/analysis/weinreb/inputs/reference_figure2/fig2d_output_composition.csv",
+    "source_sha256": "4fd701e86733409e9f471bbb42e18bb165f0220e4f022b72fe254821a198af3c",
+    "change": "Square export; original height, vertical geometry, font sizes and proportions unchanged",
+    "svg_sha256": "576d41039a8422f1b82f546cf2fe118b8b89d562a6613d6f7c05f207d4bb9066",
+    "png_sha256": "7b08944c01b1952678a18f27380507bf17b30f1b44c2f32c23a63cae747e74f7"
+  },
+  {
+    "stem": "figure_2f_monocyte_output",
+    "source": "ChronoClone_paper/analysis/weinreb/inputs/reference_figure2/fig2e_output_composition.csv",
+    "source_sha256": "2d00df36ddd3983a29dd08c2829148b4bbdd24e4cad3ba122d845b088d2c124d",
+    "change": "Square export; original height, vertical geometry, font sizes and proportions unchanged",
+    "svg_sha256": "1286cdab793b7ba912be6cb95c9774b4fe74885d9240a140a64c4244098bc5a8",
+    "png_sha256": "abf58f45e3ee209fc856d35f52bf866ae544cc93130bf57af1bde1a635c0d752"
+  }
+]

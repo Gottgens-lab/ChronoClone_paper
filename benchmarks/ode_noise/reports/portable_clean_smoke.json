@@ -1,0 +1,108 @@
+{
+  "schema": "chronoclone_paper_bounded_smoke_v1",
+  "status": "pass",
+  "scope": "One condition, four manuscript estimators; no production shards created or replaced.",
+  "historical_aggregate_recomputed": false,
+  "repeat": 0,
+  "gaussian_pct": 0,
+  "uniform_pct": 0,
+  "gaussian_seed": 15623759289580903208,
+  "uniform_seed": 118676018126520032,
+  "input_clones": 517,
+  "eligible_clones": 517,
+  "t1_changed_entries": 0,
+  "postfit_retained_clones": 517,
+  "postfit_retention_fraction": 1.0,
+  "postfit_rule": "sample silhouette >= -0.1; no size filter, no refit",
+  "runtime": {
+    "python": "/path/to/ChronoClone/.runtime/chronoclone/bin/python",
+    "prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "versions": {
+      "anndata": "0.12.18",
+      "igraph": "1.0.0",
+      "ipykernel": "7.3.0",
+      "leidenalg": "0.12.0",
+      "llvmlite": "0.47.0",
+      "matplotlib": "3.11.0",
+      "nbclient": "0.11.0",
+      "nbconvert": "7.17.1",
+      "nbformat": "5.10.4",
+      "numba": "0.65.1",
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "pynndescent": "0.5.13",
+      "python": "3.11.15",
+      "scanpy": "1.11.5",
+      "scikit-learn": "1.9.0",
+      "scipy": "1.17.1",
+      "seaborn": "0.13.2",
+      "umap-learn": "0.5.12"
+    },
+    "historical_versions_match": true
+  },
+  "source_files": {
+    "corrected_core": {
+      "path": "benchmarks/frozen_runtime/production/corrected_core.py",
+      "sha256": "52c6925233945d0b450d123453141ab6583cb1d789576e6d7e81687eb2f237a4"
+    },
+    "low_level_core": {
+      "path": "benchmarks/frozen_runtime/native_20260803/benchmark_package/scripts/benchmark_core.py",
+      "sha256": "4641e28b317308473a65472fbf2ebf533db41e37f2954d9702991c110bdb5ca1"
+    },
+    "configuration": {
+      "path": "benchmarks/frozen_runtime/production/config/benchmark_config.json",
+      "sha256": "cb1d87ff5e0f0e6a280335449623a0808987185342ab1df05efaf65d0a2a0f96"
+    },
+    "reference_profiles": {
+      "path": "benchmarks/frozen_runtime/production/reference/deterministic_profiles.csv",
+      "sha256": "e4275d94c1513026dc684bcca44703135bba4af4694ec55cd714d3c0fa21bf6f"
+    },
+    "reference_manifest": {
+      "path": "benchmarks/frozen_runtime/production/reference/program_manifest.csv",
+      "sha256": "ba890ce14f052113d203904aa158cab79c36794c4edaf638ee0afd5b85063d11"
+    },
+    "normalization": {
+      "path": "benchmarks/frozen_runtime/normalization_runtime/chronoclone/normalization.py",
+      "sha256": "ea9626c444f3527505bd1d594e0fff2896eb34609769de108b86748f962ce9cb"
+    },
+    "runtime_initializer": {
+      "path": "benchmarks/frozen_runtime/normalization_runtime/chronoclone/__init__.py",
+      "sha256": "1199332fe6c10e81af55eec91d583ae6da245e39bab44d86cc4112705f8c7480"
+    }
+  },
+  "results": [
+    {
+      "method": "ChronoClone",
+      "ari": 1.0,
+      "nmi": 1.0,
+      "recovered_k": 12,
+      "selected_parameter": 0.01,
+      "label_sha256": "fae57691817e584c81ab8f68885baa337ae4a59e8cc84f6ffd4fdb9a44ba8c9b"
+    },
+    {
+      "method": "CLADES preprocessing",
+      "ari": 1.0,
+      "nmi": 1.0,
+      "recovered_k": 12,
+      "selected_parameter": 0.25,
+      "label_sha256": "bc38bc45b028b882109acdac2f58f7796a5e20e83007c6d28f0db2db185bb22f"
+    },
+    {
+      "method": "K-means",
+      "ari": 1.0,
+      "nmi": 1.0,
+      "recovered_k": 12,
+      "selected_parameter": 12.0,
+      "label_sha256": "955a013168247c889e00b67454b63984c4181d70fa7c6d1f93efed2229b1cb4f"
+    },
+    {
+      "method": "Ward",
+      "ari": 1.0,
+      "nmi": 1.0,
+      "recovered_k": 12,
+      "selected_parameter": 12.0,
+      "label_sha256": "02f339593eb5ae50f8653564ae69904d37a57d05e613dc5435b3844a222085d4"
+    }
+  ]
+}

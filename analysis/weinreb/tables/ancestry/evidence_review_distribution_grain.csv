@@ -1,0 +1,5 @@
+plot_table,unique_clones,display_rows,duplicate_score_max_error,source_score_max_error,same_clone_display_verified
+program_01_mono_1_pooled_and_metaclone_distribution_plot_data.csv,135,270,0.0,0.0,True
+program_02_mono_2_pooled_and_metaclone_distribution_plot_data.csv,135,270,0.0,0.0,True
+program_03_multi_divergence_pooled_and_metaclone_distribution_plot_data.csv,217,434,0.0,0.0,True
+program_04_multi_convergence_pooled_and_metaclone_distribution_plot_data.csv,217,434,0.0,0.0,True

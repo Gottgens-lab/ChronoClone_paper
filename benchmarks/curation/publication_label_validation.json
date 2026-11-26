@@ -1,0 +1,12 @@
+{
+  "status": "pass",
+  "forbidden_label_violations": 0,
+  "scientific_files_preserved": 63,
+  "scientific_cells_preserved": 37,
+  "publication_source_hashes_verified": 94,
+  "smoke": "pass",
+  "eligible_clones": 517,
+  "retained_clones": 517,
+  "runtime_prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+  "full_benchmark_rerun": false
+}

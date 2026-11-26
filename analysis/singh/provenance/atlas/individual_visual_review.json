@@ -1,0 +1,8 @@
+{
+  "maps_individually_inspected": 119,
+  "separate_density_key_inspected": true,
+  "no_contact_sheets": true,
+  "all_foreground_frame_clearance_checks_passed": true,
+  "remaining_visual_defects": [],
+  "review_note": "Dense overlaps are expected at the requested author marker/UMAP ratio. Three markers extend past invisible axes bounds but remain fully visible inside the figure. Affected and visually suspected maps were reopened after foreground unclipping."
+}

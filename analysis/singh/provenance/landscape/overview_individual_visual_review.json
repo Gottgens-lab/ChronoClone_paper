@@ -1,0 +1,57 @@
+{
+  "reviewer": "root",
+  "environment": {
+    "name": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "python": "3.11.15",
+    "versions": {
+      "nbformat": "5.10.4",
+      "nbclient": "0.11.0",
+      "pandas": "2.3.3"
+    },
+    "execution_command": "/path/to/ChronoClone/.runtime/chronoclone/bin/python /path/to/ChronoClone/analysis_workspace/manuscript/chronoclone_v4_landscape_expansion_20260911/qa/build_root_visual_record.py"
+  },
+  "panels": [
+    {
+      "stem": "singh_cell_type_landscape",
+      "svg_sha256": "9db2e6b7541733b355e2bf13d4827dba84aa446ac4e835a7bde740021d39363a",
+      "png_sha256": "2ab405effe41ee9f488c7cec5fc5d48023a47a1e2bec207c0b26c9d866448d68",
+      "status": "pass",
+      "individually_opened": true,
+      "notes": "Labels, scales, counts and marks readable; in frame; no added panel prose."
+    },
+    {
+      "stem": "singh_resolved_pseudotime_landscape",
+      "svg_sha256": "b0172dc801f9f3e2faa6e0361c65fd29cb6ffb683c2fdba8a6e3147edca0ff2b",
+      "png_sha256": "c49869455d1b521b72fe53cf87cfed04a1fb20be91ac7b7161c8f66d21c627d9",
+      "status": "pass",
+      "individually_opened": true,
+      "notes": "Labels, scales, counts and marks readable; in frame; no added panel prose."
+    },
+    {
+      "stem": "singh_wt_clone_trajectory_embedding",
+      "svg_sha256": "9c98f6e2be15c4e0035c05de6f7753942ec8c690c8a8e29f937d1abde8765938",
+      "png_sha256": "1e0cb427db933c34c0959d9b689c7a83e5f4bd11ec19ff0af997cc5370b5bf8d",
+      "status": "pass",
+      "individually_opened": true,
+      "notes": "Labels, scales, counts and marks readable; in frame; no added panel prose."
+    },
+    {
+      "stem": "singh_wt_all_metaclone_composition",
+      "svg_sha256": "c753d1039a22cb25c8b6ca5b24b79c8d9409cd4d5c80ec40fd4993f0a31fb8ad",
+      "png_sha256": "445c43f23640e7fc444980f2fa1d9217195e269bf09e6b9a3247738772e8457a",
+      "status": "pass",
+      "individually_opened": true,
+      "notes": "Labels, scales, counts and marks readable; in frame; no added panel prose."
+    },
+    {
+      "stem": "singh_all_metaclone_recovery",
+      "svg_sha256": "277e612662bf10441320e2b16ba6d07f16d7317844d55fd97ff38d67c9756dfe",
+      "png_sha256": "e653b7ceaf81ebf25effaf6205ecceb22dc6e836704fc5e770d770fd2277afca",
+      "status": "pass",
+      "individually_opened": true,
+      "notes": "Labels, scales, counts and marks readable; in frame; no added panel prose."
+    }
+  ]
+}

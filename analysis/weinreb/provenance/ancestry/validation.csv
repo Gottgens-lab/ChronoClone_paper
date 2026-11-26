@@ -1,0 +1,37 @@
+check,passed,detail
+one_primary_observation_per_clone,True,569
+all_source_scores_reproduced,True,3.1086244689504383e-15
+all_original_within_family_effects_reproduced,True,6.6058269965196814e-15
+all_original_within_family_pvalues_reproduced,True,1.9095836023552692e-14
+fixed_50_programs,True,50
+fixed_original_gene_universe,True,9777
+full_original_OVR_family,True,950
+full_original_pair_family,True,2000
+new_pace_family_declared_50,True,50
+all_sensitivity_variants_present,True,"['source_fraction_adjusted' 'without_library__LK_d2'
+ 'without_library__LSK_d2_1' 'without_library__LSK_d2_2'
+ 'without_library__LSK_d2_3' 'without_library__d2_1'
+ 'without_library__d2_2' 'without_library__d2_3' 'prog2_only'
+ 'nonmito_poscounts']"
+no_population_variable,True,True
+all_primary_effects_finite,True,3000
+example_selection_independent_of_q_threshold,True,4
+gene_contribution_sums_match_program_effects,True,4
+source_manifest_hashes_unchanged,True,11
+all_figures_have_png_companions,True,12
+all_svgs_editable_no_raster,True,12
+twelve_independent_figures,True,12
+one_figure_and_svg_per_plot_cell,True,12
+dynamics_day2_cell_register_exact,True,True
+dynamics_unique_clone_day_register,True,True
+dynamics_three_registered_days_per_clone,True,True
+dynamics_one_mc_per_clone,True,True
+dynamics_branch_occupancy_in_unit_interval,True,True
+dynamics_absent_branch_position_missing,True,True
+dynamics_clone_day_cell_totals_reconcile,True,True
+dynamics_common_later_cohort_has_identical_clone_ids,True,True
+dynamics_original_pooled_differentiated_fractions_reproduced,True,True
+dynamics_full_state_compositions_sum_to_one,True,True
+dynamics_clone_full_state_compositions_sum_to_one,True,True
+all_sensitivity_family_sizes_preserved,True,30000
+nonmitochondrial_normalization_omits_mitochondrial_genes,True,9053

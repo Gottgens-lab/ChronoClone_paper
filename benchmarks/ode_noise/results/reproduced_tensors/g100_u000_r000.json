@@ -1,0 +1,91 @@
+{
+  "schema": "chronoclone_reproduced_count_tensor_v1",
+  "gaussian_pct": 100,
+  "uniform_pct": 0,
+  "repeat": 0,
+  "master_seed": 20260729,
+  "gaussian_seed": 200219651973730645,
+  "uniform_seed": 2582925913250237028,
+  "shape": [
+    517,
+    4,
+    13
+  ],
+  "counts_dtype": "int64",
+  "counts_array_sha256": "bca49e4b6cbf1d72781a01cd0488e270fe59007ba86dbfd1fdd4fd8cb56d7484",
+  "input_clones": 517,
+  "eligible_clones": 507,
+  "ordered_eligible_clone_ids_sha256": "f15fde4244c50e1682aa6b9dc96b10edfac71b8ce319228c5fa26a9c75473779",
+  "method_input_clone_ids_sha256": {
+    "ChronoClone": "f15fde4244c50e1682aa6b9dc96b10edfac71b8ce319228c5fa26a9c75473779",
+    "CLADES preprocessing": "f15fde4244c50e1682aa6b9dc96b10edfac71b8ce319228c5fa26a9c75473779",
+    "Cyclone abundance-only": "f15fde4244c50e1682aa6b9dc96b10edfac71b8ce319228c5fa26a9c75473779",
+    "K-means": "f15fde4244c50e1682aa6b9dc96b10edfac71b8ce319228c5fa26a9c75473779",
+    "Ward": "f15fde4244c50e1682aa6b9dc96b10edfac71b8ce319228c5fa26a9c75473779"
+  },
+  "checks": {
+    "nonnegative_integer_counts": true,
+    "fixed_t1_after_gaussian": true,
+    "fixed_t1_after_uniform": true,
+    "gaussian_preserves_structural_zeros": true,
+    "uniform_preserves_clone_time_totals": true,
+    "uniform_preserves_eligibility": true
+  },
+  "source_files": {
+    "corrected_core": {
+      "path": "frozen_runtime/production/corrected_core.py",
+      "sha256": "52c6925233945d0b450d123453141ab6583cb1d789576e6d7e81687eb2f237a4",
+      "bytes": 20930
+    },
+    "low_level_core": {
+      "path": "frozen_runtime/native_20260803/benchmark_package/scripts/benchmark_core.py",
+      "sha256": "4641e28b317308473a65472fbf2ebf533db41e37f2954d9702991c110bdb5ca1",
+      "bytes": 38154
+    },
+    "configuration": {
+      "path": "frozen_runtime/production/config/benchmark_config.json",
+      "sha256": "cb1d87ff5e0f0e6a280335449623a0808987185342ab1df05efaf65d0a2a0f96",
+      "bytes": 3271
+    },
+    "reference_profiles": {
+      "path": "frozen_runtime/production/reference/deterministic_profiles.csv",
+      "sha256": "e4275d94c1513026dc684bcca44703135bba4af4694ec55cd714d3c0fa21bf6f",
+      "bytes": 5801
+    },
+    "reference_manifest": {
+      "path": "frozen_runtime/production/reference/program_manifest.csv",
+      "sha256": "ba890ce14f052113d203904aa158cab79c36794c4edaf638ee0afd5b85063d11",
+      "bytes": 458
+    }
+  },
+  "versions": {
+    "anndata": "0.12.18",
+    "igraph": "1.0.0",
+    "ipykernel": "7.3.0",
+    "leidenalg": "0.12.0",
+    "llvmlite": "0.47.0",
+    "matplotlib": "3.11.0",
+    "nbclient": "0.11.0",
+    "nbconvert": "7.17.1",
+    "nbformat": "5.10.4",
+    "numba": "0.65.1",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "pynndescent": "0.5.13",
+    "python": "3.11.15",
+    "scanpy": "1.11.5",
+    "scikit-learn": "1.9.0",
+    "scipy": "1.17.1",
+    "seaborn": "0.13.2",
+    "umap-learn": "0.5.12"
+  },
+  "first_timepoint_fixed": true,
+  "noise_order": "Gaussian then uniform redistribution at t2-t4",
+  "estimator_fits_performed": false,
+  "historical_aggregate_modified": false,
+  "truth_scope": "Simulation programs for inspection and evaluation only; never encoded in clone IDs.",
+  "runtime_scope": "Count generation uses only the unchanged frozen generation cores.",
+  "file": "g100_u000_r000.npz",
+  "file_bytes": 50593,
+  "file_sha256": "ba6c867089073af9b2556c4c005ce8a06af81229061eee257adfb4496951683e"
+}

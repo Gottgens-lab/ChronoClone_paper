@@ -1,0 +1,31 @@
+check,passed,detail
+dated_snapshot_present,True,analysis_workspace/archive/analyses/weinreb_day2_hspc_metaclone_gene_programs_pre_targeted_20260903
+targeted_clone_units,True,observed=217
+one_row_per_clone,True,unique=217
+seven_multilineage_metaclones,True,"[0, 2, 5, 3, 18, 4, 11]"
+exact_behavior_axis_pairs,True,True
+behavior_rules_reproduced,True,rows=28
+population_not_used,True,metadata and registry checked
+fixed_gene_universe,True,observed=9777
+fixed_hallmark_universe,True,observed=50
+primary_model_full_rank,True,~ libfrac__LK_d2__multi_z + libfrac__LSK_d2_1__multi_z + libfrac__LSK_d2_2__multi_z + libfrac__d2_1__multi_z + libfrac__d2_2__multi_z + libfrac__d2_3__multi_z + multi_mc_group
+all_targeted_contrasts_oriented,True,14/14 specs
+contrast_vectors_neutral,True,intercept/library weights cancel
+hallmark_combined_bh_family_200,True,200
+hallmark_conjunction_bh_family_200,True,200
+gene_combined_bh_family_39108,True,39108
+gene_conjunction_bh_family_39108,True,39108
+secondary_hallmark_family_100,True,100
+secondary_gene_family_19554,True,19554
+five_comparator_drops_per_axis,True,5 drops x 3 effects
+seven_true_library_loo_refits,True,7
+library_loo_removed_cells,True,15|59|62|76|21|28|29
+library_loo_reaggregated_clone_counts,True,204|178|181|163|203|203|202
+shared_gate_components_exported,True,program table
+broad_correlation_1450_immutable,True,max_error=0
+targeted_plot_cell_count,True,observed=12 expected=12
+targeted_plot_inline_contract,True,one inline plot/save/display/close per cell
+targeted_plot_triplets_complete,True,stems=12
+targeted_svg_editable,True,no embedded raster images
+all_active_svg_editable,True,no embedded raster images across 24 active SVGs
+input_landing_zone_empty,True,Input/ empty

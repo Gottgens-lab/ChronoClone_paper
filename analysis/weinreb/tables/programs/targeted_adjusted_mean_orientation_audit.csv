@@ -1,0 +1,15 @@
+axis_id,role,contrast_id,n_target_mcs,n_reference_mcs,n_programs,program_max_abs_error,n_genes,gene_max_abs_error
+baso_rich,combined,baso_rich__focal_pair_vs_other_five,2,5,50,8.326672684688674e-17,9777,1.0269562977782698e-15
+baso_rich,member,baso_rich__MC2_vs_other_five,1,5,50,1.1102230246251565e-16,9777,1.096345236817342e-15
+baso_rich,member,baso_rich__MC4_vs_other_five,1,5,50,6.245004513516506e-17,9777,1.0269562977782698e-15
+neu_rich,combined,neu_rich__focal_pair_vs_other_five,2,5,50,1.1102230246251565e-16,9777,1.106753577673203e-15
+neu_rich,member,neu_rich__MC0_vs_other_five,1,5,50,1.1102230246251565e-16,9777,9.992007221626409e-16
+neu_rich,member,neu_rich__MC5_vs_other_five,1,5,50,1.1102230246251565e-16,9777,1.1796119636642288e-15
+mono_rich,combined,mono_rich__focal_pair_vs_other_five,2,5,50,5.551115123125783e-17,9777,1.27675647831893e-15
+mono_rich,member,mono_rich__MC0_vs_other_five,1,5,50,1.1102230246251565e-16,9777,1.1657341758564144e-15
+mono_rich,member,mono_rich__MC3_vs_other_five,1,5,50,1.1102230246251565e-16,9777,1.3877787807814457e-15
+persistent_undifferentiated,combined,persistent_undifferentiated__focal_pair_vs_other_five,2,5,50,5.551115123125783e-17,9777,1.2871648191747909e-15
+persistent_undifferentiated,member,persistent_undifferentiated__MC11_vs_other_five,1,5,50,5.551115123125783e-17,9777,1.304512053934559e-15
+persistent_undifferentiated,member,persistent_undifferentiated__MC18_vs_other_five,1,5,50,1.1102230246251565e-16,9777,1.27675647831893e-15
+mc5_vs_mc3_divergence,secondary,MC5_vs_MC3,1,1,50,1.1102230246251565e-16,9777,7.771561172376096e-16
+mc3_vs_mc18_convergence,secondary,MC3_vs_MC18,1,1,50,1.1102230246251565e-16,9777,9.122477079293034e-16

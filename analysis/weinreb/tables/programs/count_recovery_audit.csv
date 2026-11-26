@@ -1,0 +1,9 @@
+check,value
+native_integer_layer,False
+integer_recovery_assumption,smallest positive value per cell represents one UMI
+max_integer_lattice_error,4.547473508864641e-13
+expm1_row_sum_min,2878.749000943043
+expm1_row_sum_max,2878.749000943047
+recovered_library_min,300
+recovered_library_median,2739.0
+recovered_library_max,19349

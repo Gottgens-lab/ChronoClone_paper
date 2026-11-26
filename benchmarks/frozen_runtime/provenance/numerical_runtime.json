@@ -1,0 +1,15 @@
+{
+  "schema": "chronoclone_benchmark_numerical_runtime_v1",
+  "historical_wheel_sha256": "2661c65f9137768fa107e59204f308dd001c501c1b503e0d82f4a6f6def499c4",
+  "historical_wheel_bytes": 29428,
+  "historical_wheel_distributed": false,
+  "numerical_module": "normalization_runtime/chronoclone/normalization.py",
+  "numerical_module_sha256": "ea9626c444f3527505bd1d594e0fff2896eb34609769de108b86748f962ce9cb",
+  "initializer_sha256": "1199332fe6c10e81af55eec91d583ae6da245e39bab44d86cc4112705f8c7480",
+  "license_sha256": "0da654efec79712f3159443ecbee36063934e4e7a84643a306081622375caf13",
+  "numerical_module_byte_identical_to_historical_wheel": true,
+  "package_functions_called_by_benchmark": [
+    "normalize_clone_table"
+  ],
+  "scope": "The intact original distribution is excluded. Only the unchanged numerical module required by the benchmark is included, with a minimal import entrypoint and original license. This is not an installable replacement package."
+}

@@ -1,0 +1,11 @@
+feature_audit_item,n_features
+all_features,25289
+synthetic_barcode_or_readout,0
+mitochondrial_excluded,13
+KEGG_ribosome_excluded,129
+nuclear_QC_Malat1_excluded,1
+sex_associated_retained_for_postfit_flagging,16
+hemoglobin_retained_for_postfit_flagging,10
+detected_in_at_least_10_cells,10208
+eligible_after_hard_filters,9061
+selected_HVG,2000

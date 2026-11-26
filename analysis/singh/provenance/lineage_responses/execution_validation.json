@@ -1,0 +1,32 @@
+{
+  "status": "pass",
+  "analysis_notebook": "analysis_workspace/singh/singh_lineage_state_responses_20260911/0001_lineage_state_responses.ipynb",
+  "analysis_notebook_sha256": "aa5e4e5ebf151ec3e1feb9d4e507f8d5f9b17eee06011eec839b169811b82d80",
+  "executed_code_cells": 14,
+  "errors": 0,
+  "stderr_streams": 0,
+  "source_hashes_verified": 11,
+  "output_hashes_verified": 41,
+  "individually_reviewed_panels": 7,
+  "review_json_sha256": "af219d94385f6f1aedae280f739856d4a1ebe0f8c47dff24e8a1b62c7bf0122b",
+  "handoff_sha256": "d75781790806628ad008e884702ba727b5140b1702c851cc00e96e08b05c2342",
+  "environment": {
+    "name": "chronoclone",
+    "path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone",
+    "Python": "3.11.15",
+    "versions": {
+      "nbformat": "5.10.4",
+      "nbclient": "0.11.0",
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "statsmodels": "0.14.6",
+      "matplotlib": "3.11.0"
+    },
+    "execution_command": "/path/to/ChronoClone/.runtime/chronoclone/bin/python /path/to/ChronoClone/analysis_workspace/singh/singh_lineage_state_responses_20260911/execute_notebook.py /path/to/ChronoClone/analysis_workspace/singh/singh_lineage_state_responses_20260911/0002_execution_validation.ipynb"
+  },
+  "historical_analysis_notebook_sha256": "0f07e21d2c81d730c604e670878ff4e740ceac555feb073b6e00d251608ce9cb",
+  "historical_review_json_sha256": "5840448f93f6ba52121d0180e85cba03e9509f1ca90ca7d3f96752bc7951111c",
+  "historical_handoff_sha256": "6d6553f8020b7a8555c07b7efeb3c118e03b5b8d12e2aa019a8107bc513a6fd1"
+}

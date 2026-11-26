@@ -1,0 +1,67 @@
+{
+  "umap_count": 51,
+  "wt_source_width_pt": 106.83757872607782,
+  "wt_source_height_pt": 119.52,
+  "every_umap_same_size": true,
+  "png_dimensions": {
+    "atlas_wt_row_01": [
+      3828,
+      1475
+    ],
+    "atlas_wt_row_02": [
+      3828,
+      1475
+    ]
+  },
+  "same_source_counts_density_and_scale": true,
+  "visual_review": "Both WT PNGs inspected separately; labels and density keys fit.",
+  "outputs": [
+    {
+      "stem": "atlas_wt_row_01",
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "days": [
+        "D7",
+        "D14",
+        "D27"
+      ],
+      "column_dimension": "mc",
+      "width_in": 15.950000000000001,
+      "height_in": 6.1499999999999995,
+      "svg_sha256": "007d2b61f54eb8a4a4d8ced9e6c82d3a423983c30efad883a107ada4481b4700",
+      "png_sha256": "956c521d134aee9057921156fb06aa5b9f5390397d6d787afb9b40492f77413d"
+    },
+    {
+      "stem": "atlas_wt_row_02",
+      "columns": [
+        10,
+        11,
+        12,
+        13,
+        15,
+        16,
+        17,
+        19
+      ],
+      "days": [
+        "D7",
+        "D14",
+        "D27"
+      ],
+      "column_dimension": "mc",
+      "width_in": 15.950000000000001,
+      "height_in": 6.1499999999999995,
+      "svg_sha256": "f3735f1906571a8d90265a574a64bf0ffee7ff04c188ad019644e9f6add649a5",
+      "png_sha256": "bc04650268271226d9dea928f3e7477fdb7a2fa3f21194a7ba626b85b0c927a3"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "environment_manager": "existing Conda environment",
+  "environment": "chronoclone",
+  "environment_path": "/path/to/ChronoClone/.runtime/chronoclone",
+  "kernel": "chronoclone",
+  "Python": "3.11.15",
+  "numpy": "2.4.6",
+  "pandas": "2.3.3",
+  "matplotlib": "3.11.0",
+  "anndata": "0.12.18",
+  "nbformat": "5.10.4",
+  "nbclient": "0.11.0"
+}

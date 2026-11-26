@@ -1,0 +1,21 @@
+check,passed,detail
+seven_multilineage_metaclones,True,"[0, 2, 5, 3, 18, 4, 11]"
+output_day_grid_complete,True,"(14, 7)"
+primary_output_grid_complete,True,"(140, 4)"
+mature_output_grid_complete,True,"(126, 4)"
+clone_balanced_fractions_sum_to_one,True,max_error=1.11e-16
+mature_fractions_sum_to_one,True,max_error=2.22e-16
+day2_program_grid_complete,True,"(7, 51)"
+primary_correlation_grid_complete,True,observed=1500 expected=1500
+exhaustive_permutation_grid,True,"(5040, 7)"
+exact_pvalue_grid,True,all finite exact P values are multiples of 1/5040
+probability_ranges,True,"all finite P/q values within [0,1]"
+global_association_grid,True,"(4, 8)"
+cell_level_analysis_absent,True,marker_hits=[]; tagged_cells=0; active_artifacts=[]
+correlation_plot_cell_count,True,observed=3 expected=3
+correlation_plot_inline_contract,True,one inline build/save/display/close per plot cell
+correlation_svg_outputs,True,expected=3
+correlation_png_outputs,True,expected=3
+correlation_svg_editable,True,all new SVGs are vector-only with no embedded image
+new_tables_exclude_population,True,checked=12
+input_landing_zone_empty,True,Input/ contains no registered-intake residue

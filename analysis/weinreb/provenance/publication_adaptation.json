@@ -1,0 +1,257 @@
+{
+ "scope": "Publication paths and labels; original embedded image payloads and scientific values retained",
+ "source_image_payloads_verified": 228,
+ "corrected_h5ad_unchanged": true,
+ "adapted_files": [
+  {
+   "path": "analysis/weinreb/README.md",
+   "source_sha256": "6c28dcd1ecca10e8886628caf5efc1de4dcb5bdc8dfffc695960f4d31c323342",
+   "publication_sha256": "02f205dcd23e29fd4a2085d7f2615d08822ce8afa20e5f23ccb204d8e4f07fe0"
+  },
+  {
+   "path": "analysis/weinreb/current_source/ancestry/0001_weinreb_metaclone_ancestry_worked_examples.ipynb",
+   "source_sha256": "6df2a07f29b4aa7b9811f3b5ad78aba573dbc130d7b674e8b4a82d2fd43f606e",
+   "publication_sha256": "acbe227bd6eda912390dad247255e1e71d908f35095066ca176a43616c8478d8"
+  },
+  {
+   "path": "analysis/weinreb/current_source/ancestry/0002_evidence_review.ipynb",
+   "source_sha256": "b386d7ec4b32395a843279a23b0c58f739b5b23405e70b20c9e7b8135ae9f33b",
+   "publication_sha256": "837235d72cbdf1af15707d108fc5ddd31815c708578988cbf48625b2f6b28334"
+  },
+  {
+   "path": "analysis/weinreb/current_source/ancestry/scripts/build_evidence_review_notebook.py",
+   "source_sha256": "45f19424c754c7c6d8ddb2c8a53fc2ceba84a4b8898b40de6a3bd50f711ab1de",
+   "publication_sha256": "ca7e5604e259750ff5f8a2a18723332cb6f687724f452ce586f255f2bfd55ff9"
+  },
+  {
+   "path": "analysis/weinreb/current_source/ancestry/scripts/build_manuscript_integration_notebook.py",
+   "source_sha256": "30a46969ba701b1a7f33b191745e3af3870dd482d00d82289bfc94eae67aa86e",
+   "publication_sha256": "07b1329729b09f6b8442d23614e17f23f5b62d5239d194bdddf2693f94a1c857"
+  },
+  {
+   "path": "analysis/weinreb/current_source/ancestry/scripts/build_notebook.py",
+   "source_sha256": "7cc211118644fdb48150dcf738dc70dcc5debf80fd4a60747cc0c3ee15a727eb",
+   "publication_sha256": "3e57c54c9b53c1f934deeea92419bd7a606baae3f5ed91aa6eab7ab6ca424000"
+  },
+  {
+   "path": "analysis/weinreb/current_source/ancestry/scripts/dynamics_cells.py",
+   "source_sha256": "9cf6b1a73c5926425b2250f938db4090e06a13bc737737fb488e994974679957",
+   "publication_sha256": "b271dc56717e590a2a4bd4321b7c622d91ba520782b4869d7152658125ee976f"
+  },
+  {
+   "path": "analysis/weinreb/current_source/clone_embedding/0001_saved_clone_umaps.ipynb",
+   "source_sha256": "81c0ba7639658dca02b7f8cfb67d0db25499894727c15c455f86f7980b159d91",
+   "publication_sha256": "f16d1daa0d86d9947a43c284f8f33d821a225dda9f35da8ffccc78e6306342a5"
+  },
+  {
+   "path": "analysis/weinreb/current_source/clone_embedding/build_notebook.py",
+   "source_sha256": "7bc4309529f7b00e1993574b390f6ad75f69dbe0dd9df0ca45025130e521ec79",
+   "publication_sha256": "92900c67cfa0f082b8e2f4f0458bcac66e0830faa827aee6767a57c6bdfab7f8"
+  },
+  {
+   "path": "analysis/weinreb/current_source/dynamics/0001_weinreb_multilineage_metaclone_dynamics.ipynb",
+   "source_sha256": "7d72c5154b84f616526509b6accaa11323dbb1036ee26f74710f5989c91afd17",
+   "publication_sha256": "518ea154f5e5d4fdb27575d0eff2a9c0c5385c24669f2b16eb8b76d595f39daf"
+  },
+  {
+   "path": "analysis/weinreb/current_source/dynamics/scripts/build_notebook.py",
+   "source_sha256": "80eff11c56589519052e1c860012e0a589c229daf54ab7081a537d8245460daa",
+   "publication_sha256": "45c88a5b1b38086b33d0c3b01be9c5acb0f5e998b117682acb2bc0f6419cbd4f"
+  },
+  {
+   "path": "analysis/weinreb/current_source/programs/0001_weinreb_day2_hspc_metaclone_gene_programs.ipynb",
+   "source_sha256": "49e197e2e537623b48bbf32a77d94f81e556f5ca1f206f597de47e702882a565",
+   "publication_sha256": "3c70a26f1d6b319fe9509563716eb5446d203db09f33e5de27b8b4e8058f8188"
+  },
+  {
+   "path": "analysis/weinreb/current_source/programs/scripts/build_notebook.py",
+   "source_sha256": "73e65b5d4d6e68be637b446c607325eed9c97676952789f39ca1594d65b1d606",
+   "publication_sha256": "e940bfa8463e72d2f142062d7d82c7b8f5cd71348b0eb5584745c019faeff0b4"
+  },
+  {
+   "path": "analysis/weinreb/current_source/programs/scripts/cnmf_append_cells.py",
+   "source_sha256": "877d6a0a2ee6c70efca80ca03e39e741c31b9b2237699eaff5a25133e516b85b",
+   "publication_sha256": "6511d445cd8c326c1d3e0f945cba4fe55f61fe273db1d5db5f3c15fa7a0e9c3a"
+  },
+  {
+   "path": "analysis/weinreb/current_source/upstream/0010_ChronoClone_Weinreb2020.ipynb",
+   "source_sha256": "6e8ac988969ac83c08e3d6be2c2dd2a434d81a81c5046349944f0f1aeb66df02",
+   "publication_sha256": "7813256f941beff479cf71a8db9334e5f974b8c7788beb3852cf90c531370056"
+  },
+  {
+   "path": "analysis/weinreb/current_source/upstream/Figure2_klein_pace.ipynb",
+   "source_sha256": "8f653511b3de1c38f044438f6dff00970cbecf47f6e619add63ee36a55935207",
+   "publication_sha256": "24214c78fc5c2b7c70415ae63c8af33d156a0307ca7ac8a1bb3a95b029223177"
+  },
+  {
+   "path": "analysis/weinreb/current_source/upstream/klein_palantir_trajectories.ipynb",
+   "source_sha256": "03579270ec06900924e1c8a327249c561ef1a1f48589a5d57d40094740f22365",
+   "publication_sha256": "d89bb250acdd130fe86d6d0cb4233fd6335b4d3268036ea338598679ed775207"
+  },
+  {
+   "path": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb",
+   "source_sha256": "9686f61e23849770489a563e7bc2abf83599535f28b38a092a83bd5262d61669",
+   "publication_sha256": "71a781127e3848097d03968bb2c78d5dac47c89092e144e0f09003a74592ce25"
+  },
+  {
+   "path": "analysis/weinreb/current_source/v3_display/build_revision_notebook.py",
+   "source_sha256": "2f1885675dd346bb5473703a4e154e460dfd4703fb5338860fdb44e981b34e7e",
+   "publication_sha256": "483bfca495a36d9bfd571e1887e151c216e9228a1354f7e67dc7cfdb288c7127"
+  },
+  {
+   "path": "analysis/weinreb/current_source/v3_display/revision_plot_cells.py",
+   "source_sha256": "73d36809a9500ff1fb999acf584ce6eafc779c143e42fd3c9ed010a8142f4f3b",
+   "publication_sha256": "d75500badafe062c91847132ca618518ff26d4c64386f39c39e4b0352f8af939"
+  },
+  {
+   "path": "analysis/weinreb/current_source/v5_repair/0001_branch_restricted_pseudotime.ipynb",
+   "source_sha256": "d520474d5c308d8c339841915e18187ed4f317efc5bc965587877d12c6345c90",
+   "publication_sha256": "17066121b0fa609e64fe3e34086b00601709ba0336652676e3f766bb75f96c33"
+  },
+  {
+   "path": "analysis/weinreb/current_source/v5_repair/build_notebook.py",
+   "source_sha256": "5f8296e1946bb76b89d6823b023eeba3b85650fe31350c2d08f7c22499c74e6e",
+   "publication_sha256": "82b2ff6c9735dc5f323bb0df3a077ce16abe54c4af613cf2136861eeba102cad"
+  },
+  {
+   "path": "analysis/weinreb/inputs/clone_embedding/weinreb_clone_trajectory_umap_parameters.csv",
+   "source_sha256": "591a3314fbf4b4f0fd5268cbe75fc85156213ff9656521866ed09ec6f35212f7",
+   "publication_sha256": "a58fc8a6f47a8d783171668957d46d69625b7a6330a0e7a9c3deb9382cd2ee4c"
+  },
+  {
+   "path": "analysis/weinreb/notebooks/01_v5_evidence_and_figures.ipynb",
+   "source_sha256": "2784a8ff6f82587f9ef8e648e488794540613021b7b60bd80e03eae54a2a850f",
+   "publication_sha256": "19c60c49e01fd38d6d15a9e8192722912e57de75cd9e8ff95c12bd463923550a"
+  },
+  {
+   "path": "analysis/weinreb/provenance/ancestry/environment.csv",
+   "source_sha256": "e57c148eded1e9dea31200cdb432c9ed9df0f8f043fbad0657b23d81108d4a93",
+   "publication_sha256": "f219fedd780ff7e755ebb590635ec6102e1519d1d2137192872e94364ca32dfa"
+  },
+  {
+   "path": "analysis/weinreb/provenance/ancestry/evidence_review_environment.csv",
+   "source_sha256": "c15fd2cb075daac071722721a46969397e6fcff4ef44fd23dd0e09431a9c7985",
+   "publication_sha256": "54e22da8fd5c1a78e5a6510ddb3d5dcbc30c05db756dfc2f91a1efd74cb57afd"
+  },
+  {
+   "path": "analysis/weinreb/provenance/ancestry/evidence_review_main_notebook_provenance.csv",
+   "source_sha256": "85a32fb7c1685b49fc7cdb89ce3897f1b4e34ec455f5f1c082d5b8eec9576ef6",
+   "publication_sha256": "1707f9ddfe04470421669931970f2ff98ddab772617bbc62a87debb6a45f69dd"
+  },
+  {
+   "path": "analysis/weinreb/provenance/ancestry/evidence_review_manual_visual_QA.csv",
+   "source_sha256": "df1b689b55eaf5d678dddad3adc1782aa18bf74c1b9011dc4353fcb3a55c96ee",
+   "publication_sha256": "bc9ea88c9e55c64daaa6861b51bf791e7127e63b212b6697bdf9a4722f0647a1"
+  },
+  {
+   "path": "analysis/weinreb/provenance/ancestry/evidence_review_source_hash_audit.csv",
+   "source_sha256": "272e89eaa0075af834df1ad8e0ef73c4222b681b39e43b42f28aa2ef4fe05244",
+   "publication_sha256": "fb7682077c9b4754be6b3d0822d61f2b7cf7e7e673bafc7e3bb18b23bf23b370"
+  },
+  {
+   "path": "analysis/weinreb/provenance/ancestry/evidence_review_validation.csv",
+   "source_sha256": "282769903847763b65f3ceffbad5b834268f923997cd07ac0a496e31f2683708",
+   "publication_sha256": "c55e78f260e7f6605987f4faec95325b7d72c2200922ac919a0d3580bb363257"
+  },
+  {
+   "path": "analysis/weinreb/provenance/ancestry/original_source_manifest.csv",
+   "source_sha256": "031212f18de5c2824701fa0aae7dd252fb4f17d503813e19bcd4f179a117e46f",
+   "publication_sha256": "bbde3c6843ad385b66aa0ad762019e3b93d38b47f1e2ff1400f8b13d5f0f0a79"
+  },
+  {
+   "path": "analysis/weinreb/provenance/ancestry/plot_runtime_audit.csv",
+   "source_sha256": "7a1422ac874c474fd4e50b2ced7f07f8c2a2ab52fdaa3ecb8bb38a72dbabc404",
+   "publication_sha256": "53f4854baf7f867cc359acb225f56c63e1c7d9df7f2c84eb9b3db75ce407b015"
+  },
+  {
+   "path": "analysis/weinreb/provenance/clone_embedding_sources.csv",
+   "source_sha256": "a6f781171f1f51dcf4d1fe247ed31da9c34cbe4221b067a625697f3781d6d7d6",
+   "publication_sha256": "b5b5fca2e6c7861efa2c2d3bcdc16f32dc5b3a85c490f37e890fa8eb1c191e80"
+  },
+  {
+   "path": "analysis/weinreb/provenance/excluded_workspace_outputs.json",
+   "source_sha256": "f1fb8f0eb829fca784811f4ac03608ca898719aff9517271a4eb2d95024cae80",
+   "publication_sha256": "16679573d4784077903411c5f0344905ad973c8176b2217b5c67309c14403b9a"
+  },
+  {
+   "path": "analysis/weinreb/provenance/external_inputs.json",
+   "source_sha256": "88f9ca50c5bf7ebe67e615056f8c322bde2a0ed12fc42604ac9fff146035f602",
+   "publication_sha256": "948eb800bb2c3897b9ff7dbc0b9ee648b9588b8c26416e8b5662bace5b41647b"
+  },
+  {
+   "path": "analysis/weinreb/provenance/manuscript_figure_map.csv",
+   "source_sha256": "e9ab96198510748f99e4fcf245d693c65d826a487e46bff8551837a46fea4e7b",
+   "publication_sha256": "6b81eea73ed1899fb364ef7c981f1a2b8c074e65c5172d2f7d9acb5f2a9c99ec"
+  },
+  {
+   "path": "analysis/weinreb/provenance/programs/cnmf_curated_hematopoietic_resource_audit.csv",
+   "source_sha256": "8dcd1242d5dcb232981dc5c02a168378d157ed50cbb4ef621b97607340c57f21",
+   "publication_sha256": "638f4b547ec6aeda77d7f10241ddcf67bf9efa1c873d954d09bc3377e04158ba"
+  },
+  {
+   "path": "analysis/weinreb/provenance/programs/cnmf_environment_addendum.csv",
+   "source_sha256": "4998bec9ead29d19b82a3674145fa1185e8cdc0fc9d8c1745c645b23c073a203",
+   "publication_sha256": "6a60090c1debf1de623dbe48402892ef7941e96d6fbc0850b7f3f63186219837"
+  },
+  {
+   "path": "analysis/weinreb/provenance/programs/environment.csv",
+   "source_sha256": "cee9d687555ea8c0c53e1e0f1fe197b5340d72c39d3130a8e84963044beb6874",
+   "publication_sha256": "0ec1505d23253ba6b3875055a78ffa9bb02dffaf934294ceab39ded009a4e57d"
+  },
+  {
+   "path": "analysis/weinreb/provenance/programs/hallmark_resource_audit.csv",
+   "source_sha256": "11f72bb7fdfd42e01ec744aa1e5a882b625d1bf578df88a5f9b7b140907e1501",
+   "publication_sha256": "24d75c35b1e0998a6e111d187a6b3f81bee41021c377b29e512196a4bf18951d"
+  },
+  {
+   "path": "analysis/weinreb/provenance/programs/targeted_correlation_immutability_audit.csv",
+   "source_sha256": "43151d42175799840f04ac280b2b3283272c774f1af19aeb64037571463ba3e8",
+   "publication_sha256": "80db08752fe3b18389a9adf4b12b4df4c10a4b38d60259308d1361a4dd060c3a"
+  },
+  {
+   "path": "analysis/weinreb/provenance/programs/targeted_metaclonal_signature_validation.csv",
+   "source_sha256": "45bbcecfb0c1df5b688a2fb35a57de733d14430f568f01f48e9b804f8c59b18e",
+   "publication_sha256": "3ce45667561e95c769028202d2bd349f23a29dce7ffa633879dc9f77fbd767f7"
+  },
+  {
+   "path": "analysis/weinreb/provenance/release_input_map.json",
+   "source_sha256": "feae2b1c9e761809691db42bb6a106c6880a2e418af1456ea41043fafe5c0cd2",
+   "publication_sha256": "ebcdcfb92765390d189b2be3973f58d27e4e0a26e49eba71b87c63260e2e2449"
+  },
+  {
+   "path": "analysis/weinreb/provenance/source_file_map.json",
+   "source_sha256": "1df9f1978f6fbe5028e20e51af92a3152539660273b69c141ff9db38197337d3",
+   "publication_sha256": "ccca30433bc2bc7102e3830307e8c7b8c632cc3d57774d4dad27ca5f22e86978"
+  },
+  {
+   "path": "analysis/weinreb/provenance/v3_panel_sources.csv",
+   "source_sha256": "54aceea7dd923d8b1a50e78ac29cea594e37efa78d87d4aea730d0605dd3d315",
+   "publication_sha256": "ac4aaf889f1be17fc0a4a13da6cdd8bcb0a18897fe0e15363436c0da57480880"
+  },
+  {
+   "path": "analysis/weinreb/provenance/v5_repair_sources.csv",
+   "source_sha256": "9aeee89221dc12629761c9df4a060b42fa0cb5abb741dfd68cffc4be7399d1a2",
+   "publication_sha256": "788eb6208eb708074426ecd5d60c44f09ee65cb692d946fda628c751579c1161"
+  },
+  {
+   "path": "analysis/weinreb/resources/curated_hematopoietic_program_membership_20260909.csv",
+   "source_sha256": "0d817dde02e312463676ba3fda02a65af33746b9a91cf5409221a146e806ff59",
+   "publication_sha256": "9e087238578814f299509b56f305a34ac42387b9181d4e6359ac6c300659e728"
+  },
+  {
+   "path": "analysis/weinreb/tables/programs/input_provenance_and_scope_audit.csv",
+   "source_sha256": "7545abe9ab7b652096754e6a6387eebc8062b70eb46c712d22dcf907dd43c3b7",
+   "publication_sha256": "932df5cd1e8331f10cac031fb171bf87204e5f63578b5d0586b079c064d5d973"
+  }
+ ],
+ "source_path_semantics": "Neutral logical source-layout namespaces; historical original locations remain in private curation records.",
+ "historical_audits": "Nested original scientific audit tables retain the historical hashes they recorded. Current publication file hashes are in source_file_map.json.",
+ "verification": {
+  "source_embedded_image_payloads": 228,
+  "all_decoded_image_bytes_identical": true,
+  "all_current_file_map_hashes_match": true,
+  "portable_notebook_executed_cells": 7,
+  "portable_notebook_saved_errors": 0,
+  "manuscript_2e_2g_png_bytes_identical": true
+ }
+}

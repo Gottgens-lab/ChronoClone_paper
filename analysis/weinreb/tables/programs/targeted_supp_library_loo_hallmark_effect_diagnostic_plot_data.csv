@@ -1,0 +1,57 @@
+omitted_library,axis_id,axis_label,role,member_mc,program,program_label,effect_sd,primary_effect_sd
+LK_d2,baso_rich,Baso-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,-0.38584326917866274,-0.38624090972101544
+LK_d2,baso_rich,Baso-rich,combined,,Notch Signaling,Notch Signaling,-0.3882152307381728,-0.42123788962792325
+LK_d2,neu_rich,Neu-rich,combined,,Adipogenesis,Adipogenesis,0.6094401265166928,0.5860922021916647
+LK_d2,neu_rich,Neu-rich,combined,,Myc Targets V1,Myc Targets V1,0.5456593547999244,0.5575907789072154
+LK_d2,mono_rich,Mono-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,0.5393143652326363,0.5322814409250824
+LK_d2,mono_rich,Mono-rich,combined,,Fatty Acid Metabolism,Fatty Acid Metabolism,0.37597603803162216,0.3720249555943889
+LK_d2,persistent_undifferentiated,Persistent-undifferentiated,combined,,mTORC1 Signaling,Mtorc1 Signaling,-0.3436184998075761,-0.3332966674712498
+LK_d2,persistent_undifferentiated,Persistent-undifferentiated,combined,,Reactive Oxygen Species Pathway,Reactive Oxygen Species Pathway,-0.38009417126206085,-0.3721121710484571
+LSK_d2_1,baso_rich,Baso-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,-0.19633988424755625,-0.38624090972101544
+LSK_d2_1,baso_rich,Baso-rich,combined,,Notch Signaling,Notch Signaling,-0.37857831842985284,-0.42123788962792325
+LSK_d2_1,neu_rich,Neu-rich,combined,,Adipogenesis,Adipogenesis,0.5348646908759442,0.5860922021916647
+LSK_d2_1,neu_rich,Neu-rich,combined,,Myc Targets V1,Myc Targets V1,0.5595178164477255,0.5575907789072154
+LSK_d2_1,mono_rich,Mono-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,0.48437687110242517,0.5322814409250824
+LSK_d2_1,mono_rich,Mono-rich,combined,,Fatty Acid Metabolism,Fatty Acid Metabolism,0.3141835690762646,0.3720249555943889
+LSK_d2_1,persistent_undifferentiated,Persistent-undifferentiated,combined,,mTORC1 Signaling,Mtorc1 Signaling,-0.35188331101391296,-0.3332966674712498
+LSK_d2_1,persistent_undifferentiated,Persistent-undifferentiated,combined,,Reactive Oxygen Species Pathway,Reactive Oxygen Species Pathway,-0.4584262074978071,-0.3721121710484571
+LSK_d2_2,baso_rich,Baso-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,-0.34753416006912796,-0.38624090972101544
+LSK_d2_2,baso_rich,Baso-rich,combined,,Notch Signaling,Notch Signaling,-0.42860080074001633,-0.42123788962792325
+LSK_d2_2,neu_rich,Neu-rich,combined,,Adipogenesis,Adipogenesis,0.5176233045935417,0.5860922021916647
+LSK_d2_2,neu_rich,Neu-rich,combined,,Myc Targets V1,Myc Targets V1,0.4720692082202263,0.5575907789072154
+LSK_d2_2,mono_rich,Mono-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,0.3910829748606006,0.5322814409250824
+LSK_d2_2,mono_rich,Mono-rich,combined,,Fatty Acid Metabolism,Fatty Acid Metabolism,0.31149351271485637,0.3720249555943889
+LSK_d2_2,persistent_undifferentiated,Persistent-undifferentiated,combined,,mTORC1 Signaling,Mtorc1 Signaling,-0.33128840131472975,-0.3332966674712498
+LSK_d2_2,persistent_undifferentiated,Persistent-undifferentiated,combined,,Reactive Oxygen Species Pathway,Reactive Oxygen Species Pathway,-0.3185562549066868,-0.3721121710484571
+LSK_d2_3,baso_rich,Baso-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,-0.32473121501104757,-0.38624090972101544
+LSK_d2_3,baso_rich,Baso-rich,combined,,Notch Signaling,Notch Signaling,-0.5187829718154641,-0.42123788962792325
+LSK_d2_3,neu_rich,Neu-rich,combined,,Adipogenesis,Adipogenesis,0.5381186258396419,0.5860922021916647
+LSK_d2_3,neu_rich,Neu-rich,combined,,Myc Targets V1,Myc Targets V1,0.5077983948896575,0.5575907789072154
+LSK_d2_3,mono_rich,Mono-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,0.5681754032333936,0.5322814409250824
+LSK_d2_3,mono_rich,Mono-rich,combined,,Fatty Acid Metabolism,Fatty Acid Metabolism,0.3381126606742641,0.3720249555943889
+LSK_d2_3,persistent_undifferentiated,Persistent-undifferentiated,combined,,mTORC1 Signaling,Mtorc1 Signaling,-0.34642573535748444,-0.3332966674712498
+LSK_d2_3,persistent_undifferentiated,Persistent-undifferentiated,combined,,Reactive Oxygen Species Pathway,Reactive Oxygen Species Pathway,-0.2904492647296695,-0.3721121710484571
+d2_1,baso_rich,Baso-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,-0.43076445202978303,-0.38624090972101544
+d2_1,baso_rich,Baso-rich,combined,,Notch Signaling,Notch Signaling,-0.42068355624515413,-0.42123788962792325
+d2_1,neu_rich,Neu-rich,combined,,Adipogenesis,Adipogenesis,0.6109060602161812,0.5860922021916647
+d2_1,neu_rich,Neu-rich,combined,,Myc Targets V1,Myc Targets V1,0.5249531765759193,0.5575907789072154
+d2_1,mono_rich,Mono-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,0.5157561776978898,0.5322814409250824
+d2_1,mono_rich,Mono-rich,combined,,Fatty Acid Metabolism,Fatty Acid Metabolism,0.4119213360924267,0.3720249555943889
+d2_1,persistent_undifferentiated,Persistent-undifferentiated,combined,,mTORC1 Signaling,Mtorc1 Signaling,-0.33857938769839957,-0.3332966674712498
+d2_1,persistent_undifferentiated,Persistent-undifferentiated,combined,,Reactive Oxygen Species Pathway,Reactive Oxygen Species Pathway,-0.3867458237386562,-0.3721121710484571
+d2_2,baso_rich,Baso-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,-0.3699466915434623,-0.38624090972101544
+d2_2,baso_rich,Baso-rich,combined,,Notch Signaling,Notch Signaling,-0.48250395549063513,-0.42123788962792325
+d2_2,neu_rich,Neu-rich,combined,,Adipogenesis,Adipogenesis,0.6393949702239673,0.5860922021916647
+d2_2,neu_rich,Neu-rich,combined,,Myc Targets V1,Myc Targets V1,0.6291380158172126,0.5575907789072154
+d2_2,mono_rich,Mono-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,0.48681676483053177,0.5322814409250824
+d2_2,mono_rich,Mono-rich,combined,,Fatty Acid Metabolism,Fatty Acid Metabolism,0.4270084059772443,0.3720249555943889
+d2_2,persistent_undifferentiated,Persistent-undifferentiated,combined,,mTORC1 Signaling,Mtorc1 Signaling,-0.3456767900609884,-0.3332966674712498
+d2_2,persistent_undifferentiated,Persistent-undifferentiated,combined,,Reactive Oxygen Species Pathway,Reactive Oxygen Species Pathway,-0.39156398151597055,-0.3721121710484571
+d2_3,baso_rich,Baso-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,-0.48848185400404337,-0.38624090972101544
+d2_3,baso_rich,Baso-rich,combined,,Notch Signaling,Notch Signaling,-0.3513416709862384,-0.42123788962792325
+d2_3,neu_rich,Neu-rich,combined,,Adipogenesis,Adipogenesis,0.5820772172916642,0.5860922021916647
+d2_3,neu_rich,Neu-rich,combined,,Myc Targets V1,Myc Targets V1,0.5900921514906027,0.5575907789072154
+d2_3,mono_rich,Mono-rich,combined,,TNF-alpha Signaling via NF-kB,Tnf-Alpha Signaling Via Nf-Kb,0.5893254251600275,0.5322814409250824
+d2_3,mono_rich,Mono-rich,combined,,Fatty Acid Metabolism,Fatty Acid Metabolism,0.35578479343671915,0.3720249555943889
+d2_3,persistent_undifferentiated,Persistent-undifferentiated,combined,,mTORC1 Signaling,Mtorc1 Signaling,-0.32252962039898664,-0.3332966674712498
+d2_3,persistent_undifferentiated,Persistent-undifferentiated,combined,,Reactive Oxygen Species Pathway,Reactive Oxygen Species Pathway,-0.39355911861212867,-0.3721121710484571

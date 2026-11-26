@@ -1,0 +1,445 @@
+{
+ "schema_version": 1,
+ "date": "2026-10-19",
+ "scope": "Figure sources created after the manuscript-v5 snapshot that produce manuscript v9 panels. Publication labels adapted as in provenance/publication_adaptation.json; numerical content and decoded images preserved.",
+ "folders": [
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915",
+   "figure_role": "Figure S5C"
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021",
+   "figure_role": "Figure 4E (grid) (added 2026-11-13)"
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021",
+   "figure_role": "Figure 4E (density key) (added 2026-11-13)"
+  }
+ ],
+ "files": [
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/panels/atlas_dnmt3a_row_01.png",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_dnmt3a_row_01.png",
+   "role": "Figure S5C",
+   "bytes": 658935,
+   "sha256": "953d250522f0b6d252d7b5c32e293b727cfe53b0090b020b16449a3e47fb5769",
+   "historical_source_bytes": 658935,
+   "historical_source_sha256": "953d250522f0b6d252d7b5c32e293b727cfe53b0090b020b16449a3e47fb5769",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/panels/atlas_dnmt3a_row_01.svg",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_dnmt3a_row_01.svg",
+   "role": "Figure S5C",
+   "bytes": 508625,
+   "sha256": "06aec845ee07afaf4ccc2d08a52f388bb0ae573f18e6913a9dcec983dea1ef14",
+   "historical_source_bytes": 508625,
+   "historical_source_sha256": "06aec845ee07afaf4ccc2d08a52f388bb0ae573f18e6913a9dcec983dea1ef14",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/panels/atlas_dnmt3a_row_02.png",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_dnmt3a_row_02.png",
+   "role": "Figure S5C",
+   "bytes": 564237,
+   "sha256": "34022d39831ba5315a9e5e79aa8fce47a6d84c68130c070b6281b61868ebdd2d",
+   "historical_source_bytes": 564237,
+   "historical_source_sha256": "34022d39831ba5315a9e5e79aa8fce47a6d84c68130c070b6281b61868ebdd2d",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/panels/atlas_dnmt3a_row_02.svg",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_dnmt3a_row_02.svg",
+   "role": "Figure S5C",
+   "bytes": 448533,
+   "sha256": "6e81abb9c4d5f8ff7d425d3958e8e2bc85323c366555e40786845f640a381da5",
+   "historical_source_bytes": 448533,
+   "historical_source_sha256": "6e81abb9c4d5f8ff7d425d3958e8e2bc85323c366555e40786845f640a381da5",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/panels/atlas_npm1c_row_01.png",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_npm1c_row_01.png",
+   "role": "Figure S5C",
+   "bytes": 677285,
+   "sha256": "11ff30630bc98fb6825b41650f88916987f8dbd6b7b188eeb791e0a61136f11d",
+   "historical_source_bytes": 677285,
+   "historical_source_sha256": "11ff30630bc98fb6825b41650f88916987f8dbd6b7b188eeb791e0a61136f11d",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/panels/atlas_npm1c_row_01.svg",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_npm1c_row_01.svg",
+   "role": "Figure S5C",
+   "bytes": 762171,
+   "sha256": "a9930e458867a5e64aebd49c222549febf1d8b188b09d0417565856109aa0970",
+   "historical_source_bytes": 762171,
+   "historical_source_sha256": "a9930e458867a5e64aebd49c222549febf1d8b188b09d0417565856109aa0970",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/panels/atlas_npm1c_row_02.png",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_npm1c_row_02.png",
+   "role": "Figure S5C",
+   "bytes": 399983,
+   "sha256": "5e5909c8b41778b2c444d3b7fccf77ead2ec3c891f8c1c080179f8719b06c6b6",
+   "historical_source_bytes": 399983,
+   "historical_source_sha256": "5e5909c8b41778b2c444d3b7fccf77ead2ec3c891f8c1c080179f8719b06c6b6",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/panels/atlas_npm1c_row_02.svg",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/panels/atlas_npm1c_row_02.svg",
+   "role": "Figure S5C",
+   "bytes": 368596,
+   "sha256": "f920a2cd615b712b2a3bcfb16857cf610f0b1b9f8e60fe491031aa2acbcaf7ce",
+   "historical_source_bytes": 368596,
+   "historical_source_sha256": "f920a2cd615b712b2a3bcfb16857cf610f0b1b9f8e60fe491031aa2acbcaf7ce",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/reports/design.json",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/reports/design.json",
+   "role": "Figure S5C",
+   "bytes": 1580,
+   "sha256": "f547a51846d475741c3d8882f1eaf776e71431c0b58ce0a390abd782dae9676f",
+   "historical_source_bytes": 1580,
+   "historical_source_sha256": "f547a51846d475741c3d8882f1eaf776e71431c0b58ce0a390abd782dae9676f",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/reports/validation.json",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/reports/validation.json",
+   "role": "Figure S5C",
+   "bytes": 2555,
+   "sha256": "b93aac9a21e0918b362e16c332eda428e9b419c66a20c103c544ebb185b7c679",
+   "historical_source_bytes": 2555,
+   "historical_source_sha256": "b93aac9a21e0918b362e16c332eda428e9b419c66a20c103c544ebb185b7c679",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/s6b_equal_umap.ipynb",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/s6b_equal_umap.ipynb",
+   "role": "Figure S5C",
+   "bytes": 1810598,
+   "sha256": "b04940ff0e8803739c2d18e4570fd2b6b51dff94ace29bc0f8f9d2a8a436867d",
+   "historical_source_bytes": 1810745,
+   "historical_source_sha256": "9766149dafaf24c60352cb3a966493cefb093ae30675c2ffc15982a336f7ca26",
+   "adapted": true
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/tables/snapshot_validation.csv",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/tables/snapshot_validation.csv",
+   "role": "Figure S5C",
+   "bytes": 5982,
+   "sha256": "02cb13d8d024e5393f455550e61ab9f8395314291253b5e3b26516879ac466a3",
+   "historical_source_bytes": 5982,
+   "historical_source_sha256": "02cb13d8d024e5393f455550e61ab9f8395314291253b5e3b26516879ac466a3",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/tables/source_manifest.csv",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/tables/source_manifest.csv",
+   "role": "Figure S5C",
+   "bytes": 406,
+   "sha256": "ec904458e2ec0fe2ad6a4240633c8d8ce64167dd4921afa458017489dac05e0b",
+   "historical_source_bytes": 396,
+   "historical_source_sha256": "a03cd3f0097490534e25757941725405b54dfaa022c67ebedab67dc162236f66",
+   "adapted": true
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/tables/umap_dimensions.csv",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/tables/umap_dimensions.csv",
+   "role": "Figure S5C",
+   "bytes": 4369,
+   "sha256": "8a495bb9b30b1c0dc8785c2a3686da8f3944a1ed2b450d395416c689b9641c17",
+   "historical_source_bytes": 4369,
+   "historical_source_sha256": "8a495bb9b30b1c0dc8785c2a3686da8f3944a1ed2b450d395416c689b9641c17",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/panels/atlas_wt_row_01.png",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/panels/atlas_wt_row_01.png",
+   "role": "Figure S5C",
+   "bytes": 1058383,
+   "sha256": "956c521d134aee9057921156fb06aa5b9f5390397d6d787afb9b40492f77413d",
+   "historical_source_bytes": 1058383,
+   "historical_source_sha256": "956c521d134aee9057921156fb06aa5b9f5390397d6d787afb9b40492f77413d",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/panels/atlas_wt_row_01.svg",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/panels/atlas_wt_row_01.svg",
+   "role": "Figure S5C",
+   "bytes": 1220882,
+   "sha256": "007d2b61f54eb8a4a4d8ced9e6c82d3a423983c30efad883a107ada4481b4700",
+   "historical_source_bytes": 1220882,
+   "historical_source_sha256": "007d2b61f54eb8a4a4d8ced9e6c82d3a423983c30efad883a107ada4481b4700",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/panels/atlas_wt_row_02.png",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/panels/atlas_wt_row_02.png",
+   "role": "Figure S5C",
+   "bytes": 721746,
+   "sha256": "bc04650268271226d9dea928f3e7477fdb7a2fa3f21194a7ba626b85b0c927a3",
+   "historical_source_bytes": 721746,
+   "historical_source_sha256": "bc04650268271226d9dea928f3e7477fdb7a2fa3f21194a7ba626b85b0c927a3",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/panels/atlas_wt_row_02.svg",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/panels/atlas_wt_row_02.svg",
+   "role": "Figure S5C",
+   "bytes": 582473,
+   "sha256": "f3735f1906571a8d90265a574a64bf0ffee7ff04c188ad019644e9f6add649a5",
+   "historical_source_bytes": 582473,
+   "historical_source_sha256": "f3735f1906571a8d90265a574a64bf0ffee7ff04c188ad019644e9f6add649a5",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/reports/design.json",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/reports/design.json",
+   "role": "Figure S5C",
+   "bytes": 1580,
+   "sha256": "f547a51846d475741c3d8882f1eaf776e71431c0b58ce0a390abd782dae9676f",
+   "historical_source_bytes": 1580,
+   "historical_source_sha256": "f547a51846d475741c3d8882f1eaf776e71431c0b58ce0a390abd782dae9676f",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/reports/validation.json",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/reports/validation.json",
+   "role": "Figure S5C",
+   "bytes": 1465,
+   "sha256": "3628fe0f4f2056d60a58af228c476d899e6c0ca772136ab9d19efc82408594f6",
+   "historical_source_bytes": 1465,
+   "historical_source_sha256": "3628fe0f4f2056d60a58af228c476d899e6c0ca772136ab9d19efc82408594f6",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/s6b_wt_equal_umap.ipynb",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/s6b_wt_equal_umap.ipynb",
+   "role": "Figure S5C",
+   "bytes": 1371941,
+   "sha256": "af1188c8575090a2bc6320512a74594a34795fc85ec16b5b2d0e44b84828a0e8",
+   "historical_source_bytes": 1372065,
+   "historical_source_sha256": "54f22bb5a3f117989a17214b1610fbd3b9acbd59d9f01a01cbbaefdef812a0d9",
+   "adapted": true
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/tables/snapshot_validation.csv",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/tables/snapshot_validation.csv",
+   "role": "Figure S5C",
+   "bytes": 4321,
+   "sha256": "b09214f8e55f4d1f8d4888b997664dc7e209c6fbe7e163e891d5df1946d4fedf",
+   "historical_source_bytes": 4321,
+   "historical_source_sha256": "b09214f8e55f4d1f8d4888b997664dc7e209c6fbe7e163e891d5df1946d4fedf",
+   "adapted": false
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/tables/source_manifest.csv",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/tables/source_manifest.csv",
+   "role": "Figure S5C",
+   "bytes": 406,
+   "sha256": "ec904458e2ec0fe2ad6a4240633c8d8ce64167dd4921afa458017489dac05e0b",
+   "historical_source_bytes": 396,
+   "historical_source_sha256": "a03cd3f0097490534e25757941725405b54dfaa022c67ebedab67dc162236f66",
+   "adapted": true
+  },
+  {
+   "source": "analysis_workspace/singh/20260915_s6b_equal_umap/wt/tables/umap_dimensions.csv",
+   "destination": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/tables/umap_dimensions.csv",
+   "role": "Figure S5C",
+   "bytes": 3086,
+   "sha256": "a084fbcb37b40f4bbc897826647fd9b54d4b8090a680c8ec21b7d9661505b488",
+   "historical_source_bytes": 3086,
+   "historical_source_sha256": "a084fbcb37b40f4bbc897826647fd9b54d4b8090a680c8ec21b7d9661505b488",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/build_notebook.py",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/build_notebook.py",
+   "role": "Figure 4E (grid)",
+   "bytes": 9067,
+   "sha256": "dd48533f6d7389d229004dcfe5bb000910ca6870de8711219330ffaa7b9acdd1",
+   "historical_source_sha256": "cac7d7364d8cc08c3be9a12c1762d5b8744f735527466ae661c266c961885fbf",
+   "adapted": true
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/mc0_mc3_mc7_condition_grid_flipped.ipynb",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/mc0_mc3_mc7_condition_grid_flipped.ipynb",
+   "role": "Figure 4E (grid)",
+   "bytes": 883504,
+   "sha256": "9ec32f90752f41b8f4fe5061933491adfe46927a17cc2a8cd15b50e74c8a496f",
+   "historical_source_sha256": "6d6dc2d19adf16843976404892315ffd5ec18698dda977e69ff299717d680c66",
+   "adapted": true
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/panels/mc0_mc3_mc7_condition_grid_flipped.png",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/panels/mc0_mc3_mc7_condition_grid_flipped.png",
+   "role": "Figure 4E (grid)",
+   "bytes": 1119124,
+   "sha256": "fd7ce89740a82654c0ba33ce5b8a6c07b7ea6920dc9ecd92b17c534d5a224390",
+   "historical_source_sha256": "fd7ce89740a82654c0ba33ce5b8a6c07b7ea6920dc9ecd92b17c534d5a224390",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/panels/mc0_mc3_mc7_condition_grid_flipped.svg",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/panels/mc0_mc3_mc7_condition_grid_flipped.svg",
+   "role": "Figure 4E (grid)",
+   "bytes": 1229062,
+   "sha256": "1806d3121ccfefc9241505bc24cf934df597cd953f70cec5decb3a20c04f63b5",
+   "historical_source_sha256": "1806d3121ccfefc9241505bc24cf934df597cd953f70cec5decb3a20c04f63b5",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/reports/design.json",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/reports/design.json",
+   "role": "Figure 4E (grid)",
+   "bytes": 2074,
+   "sha256": "741e2dcbf8765bdddac8c003f41f45869646b30e28c4ae62ca0036c8dcc0fd4e",
+   "historical_source_sha256": "741e2dcbf8765bdddac8c003f41f45869646b30e28c4ae62ca0036c8dcc0fd4e",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/tables/atlas_cell_coordinates.csv.gz",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/tables/atlas_cell_coordinates.csv.gz",
+   "role": "Figure 4E (grid)",
+   "bytes": 449214,
+   "sha256": "8ad34b71bdb48b2e185fb7befa33455ec7bbc046153176bccaa4a4cf04080365",
+   "historical_source_sha256": "8ad34b71bdb48b2e185fb7befa33455ec7bbc046153176bccaa4a4cf04080365",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/tables/condition_grid_flipped_support.csv",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/tables/condition_grid_flipped_support.csv",
+   "role": "Figure 4E (grid)",
+   "bytes": 2075,
+   "sha256": "8c07cb3a4711ae442f1ff58f4ef9f78d44b47604cbdc831dc7f3a42655a8c261",
+   "historical_source_sha256": "8c07cb3a4711ae442f1ff58f4ef9f78d44b47604cbdc831dc7f3a42655a8c261",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/tables/snapshot_support_and_density_scale.csv",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/tables/snapshot_support_and_density_scale.csv",
+   "role": "Figure 4E (grid)",
+   "bytes": 6885,
+   "sha256": "e9d1ad586e600e831ff32cac86f3dd34e50f862d4c8004a12882678f895deed8",
+   "historical_source_sha256": "e9d1ad586e600e831ff32cac86f3dd34e50f862d4c8004a12882678f895deed8",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/tables/source_manifest.csv",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/tables/source_manifest.csv",
+   "role": "Figure 4E (grid)",
+   "bytes": 536,
+   "sha256": "6fb0a355e9c5f8592c0a354badb47473ac32161ef4a0912a9f02659da338f210",
+   "historical_source_sha256": "cc11580adfaaaff3a1e2e7f83184297471055ea0c370ac9337166be73202578b",
+   "adapted": true
+  },
+  {
+   "source": "reference_workspace/Figure/singh_mc_condition_grid_flipped_20261021/tables/style_source_manifest.csv",
+   "destination": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/tables/style_source_manifest.csv",
+   "role": "Figure 4E (grid)",
+   "bytes": 625,
+   "sha256": "b553ef4d64363400aa034867839287a885c57554cdbb7db97ec5a3d7f714674e",
+   "historical_source_sha256": "ec5fa7542a929b46d3d07e2f48c029a01e084aa73aa9d7fe67c0b51ce03149ea",
+   "adapted": true
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/build_notebook.py",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/build_notebook.py",
+   "role": "Figure 4E (density key)",
+   "bytes": 9495,
+   "sha256": "4b128b887606c7dedd84f8106ad00fc0311ccaf359b13f9d6765793e210a0c17",
+   "historical_source_sha256": "e9c4153c4c3d16ff7e6e98845103f530926390a6833757a66459307a16840568",
+   "adapted": true
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/figure_6c_condition_grid_flipped.ipynb",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/figure_6c_condition_grid_flipped.ipynb",
+   "role": "Figure 4E (density key)",
+   "bytes": 631779,
+   "sha256": "5c9ebc583679dfbf20347076c7b26c5f5eef013e867bb188e6792e6d0c28cb4a",
+   "historical_source_sha256": "9434844594b672f780114200c451778718339afebda9afc23b69cc9ed807c238",
+   "adapted": true
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/panels/figure_6c_density_key_horizontal.png",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/panels/figure_6c_density_key_horizontal.png",
+   "role": "Figure 4E (density key)",
+   "bytes": 8021,
+   "sha256": "80d9f12a3b394afa8b8b5cefaf3e53a3a171ae3c242334d46972a279fea21e97",
+   "historical_source_sha256": "80d9f12a3b394afa8b8b5cefaf3e53a3a171ae3c242334d46972a279fea21e97",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/panels/figure_6c_density_key_horizontal.svg",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/panels/figure_6c_density_key_horizontal.svg",
+   "role": "Figure 4E (density key)",
+   "bytes": 2663,
+   "sha256": "c9cda4fcb0ff5d255b82fcb68a64bce1bf519550f6d59a325471e158594a57c1",
+   "historical_source_sha256": "c9cda4fcb0ff5d255b82fcb68a64bce1bf519550f6d59a325471e158594a57c1",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/reports/design.json",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/reports/design.json",
+   "role": "Figure 4E (density key)",
+   "bytes": 2074,
+   "sha256": "741e2dcbf8765bdddac8c003f41f45869646b30e28c4ae62ca0036c8dcc0fd4e",
+   "historical_source_sha256": "741e2dcbf8765bdddac8c003f41f45869646b30e28c4ae62ca0036c8dcc0fd4e",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/tables/atlas_cell_coordinates.csv.gz",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/tables/atlas_cell_coordinates.csv.gz",
+   "role": "Figure 4E (density key)",
+   "bytes": 449214,
+   "sha256": "3f3ac76b144041f06a35862499ec8b6e80553b71ed973a3e5e53fd45d76a786b",
+   "historical_source_sha256": "3f3ac76b144041f06a35862499ec8b6e80553b71ed973a3e5e53fd45d76a786b",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/tables/figure_6c_condition_grid_flipped_support.csv",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/tables/figure_6c_condition_grid_flipped_support.csv",
+   "role": "Figure 4E (density key)",
+   "bytes": 1739,
+   "sha256": "7b5f9cd60c72cd6506f0c01c4dd06a00ba71a39e60549d600362f722cb60b3d5",
+   "historical_source_sha256": "7b5f9cd60c72cd6506f0c01c4dd06a00ba71a39e60549d600362f722cb60b3d5",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/tables/snapshot_support_and_density_scale.csv",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/tables/snapshot_support_and_density_scale.csv",
+   "role": "Figure 4E (density key)",
+   "bytes": 6885,
+   "sha256": "e9d1ad586e600e831ff32cac86f3dd34e50f862d4c8004a12882678f895deed8",
+   "historical_source_sha256": "e9d1ad586e600e831ff32cac86f3dd34e50f862d4c8004a12882678f895deed8",
+   "adapted": false
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/tables/source_manifest.csv",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/tables/source_manifest.csv",
+   "role": "Figure 4E (density key)",
+   "bytes": 536,
+   "sha256": "6fb0a355e9c5f8592c0a354badb47473ac32161ef4a0912a9f02659da338f210",
+   "historical_source_sha256": "cc11580adfaaaff3a1e2e7f83184297471055ea0c370ac9337166be73202578b",
+   "adapted": true
+  },
+  {
+   "source": "reference_workspace/Figure/singh_condition_grid_flipped_20261021/tables/style_source_manifest.csv",
+   "destination": "analysis/singh/figure_panels/condition_grid_flipped_20261021/tables/style_source_manifest.csv",
+   "role": "Figure 4E (density key)",
+   "bytes": 622,
+   "sha256": "d3108ce839da94ebb8e96e02b37e1b167f93e058fcac3af102785a1abd0a4e6f",
+   "historical_source_sha256": "4047e6b96e9781e0034e92b82ca29bae09a8cf1393c9643bceda5f29b2af9171",
+   "adapted": true
+  }
+ ],
+ "updated": "2026-11-13: folders for panels no longer in the paper removed; Figure 3A (MC11 order) and Figure 4E sources added."
+}

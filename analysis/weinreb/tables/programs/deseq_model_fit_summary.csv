@@ -1,0 +1,3 @@
+model,factor,design,n_clone_units,n_genes,design_rank,design_columns,condition_number,warning_count,warnings
+20_metaclones,mc_group,~ libfrac__LK_d2__z + libfrac__LSK_d2_1__z + libfrac__LSK_d2_3__z + libfrac__d2_1__z + libfrac__d2_2__z + libfrac__d2_3__z + mc_group,569,9777,26,26,24.9534580955182,0,
+5_lineage_bias_families,lineage_bias_key,~ libfrac__LK_d2__z + libfrac__LSK_d2_1__z + libfrac__LSK_d2_3__z + libfrac__d2_1__z + libfrac__d2_2__z + libfrac__d2_3__z + lineage_bias_key,569,9777,11,11,6.812021288211192,0,

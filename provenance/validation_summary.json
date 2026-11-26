@@ -1,0 +1,368 @@
+{
+  "checks": 3782,
+  "passed": 3782,
+  "failed": [],
+  "files": 1129,
+  "bytes": 322713361,
+  "figure_panels": 43,
+  "supplementary_tables": 9,
+  "publication_labels": {
+    "files_checked": 1131,
+    "directories_checked": 206,
+    "archive_members_checked": 534,
+    "restricted_label_matches": 0,
+    "failures": []
+  },
+  "notebooks": [
+    {
+      "path": "analysis/singh/0001_validate_published_evidence.ipynb",
+      "code_cells": 4,
+      "executed_cells": 4,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/singh/0002_prepare_compact_rna_input.ipynb",
+      "code_cells": 3,
+      "executed_cells": 3,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/singh/figure_panels/condition_grid_flipped_20261021/figure_6c_condition_grid_flipped.ipynb",
+      "code_cells": 6,
+      "executed_cells": 6,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/singh/figure_panels/mc_condition_grid_flipped_20261021/mc0_mc3_mc7_condition_grid_flipped.ipynb",
+      "code_cells": 6,
+      "executed_cells": 6,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/s6b_equal_umap.ipynb",
+      "code_cells": 8,
+      "executed_cells": 8,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/singh/figure_panels/s5_equal_umap_atlas_20260915/wt/s6b_wt_equal_umap.ipynb",
+      "code_cells": 6,
+      "executed_cells": 6,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/singh/source_notebooks/atlas/0001_singh_weinreb_style_umaps.ipynb",
+      "code_cells": 124,
+      "executed_cells": 124,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/atlas/0002_style_validation_and_browser.ipynb",
+      "code_cells": 3,
+      "executed_cells": 3,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/clone_embedding/0001_saved_clone_umaps.ipynb",
+      "code_cells": 5,
+      "executed_cells": 5,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/dynamics/0001_family_aware_responses.ipynb",
+      "code_cells": 11,
+      "executed_cells": 11,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/dynamics/0002_mc3_branch_responses.ipynb",
+      "code_cells": 7,
+      "executed_cells": 7,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/dynamics/0003_core_panel_visual_review.ipynb",
+      "code_cells": 2,
+      "executed_cells": 2,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/grid_layout/0001_figure2b_grid_layout.ipynb",
+      "code_cells": 20,
+      "executed_cells": 20,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/landscape/0001_reference_story_audit.ipynb",
+      "code_cells": 4,
+      "executed_cells": 4,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/landscape/0001_singh_landscape_and_reference.ipynb",
+      "code_cells": 8,
+      "executed_cells": 8,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/lineage_responses/0001_lineage_state_responses.ipynb",
+      "code_cells": 14,
+      "executed_cells": 14,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/lineage_responses/0002_execution_validation.ipynb",
+      "code_cells": 1,
+      "executed_cells": 1,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/program_annotations/0001_gene_grounded_program_annotations.ipynb",
+      "code_cells": 15,
+      "executed_cells": 15,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/program_annotations/0002_annotation_delivery_checks.ipynb",
+      "code_cells": 1,
+      "executed_cells": 1,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/source_notebooks/programs/0002_rna_normalized_day7_programs.ipynb",
+      "code_cells": 9,
+      "executed_cells": 9,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/supporting_inputs/analysis_workspace/singh/singh_landscape_expansion_20260911/atlas/0001_metaclone_spatial_atlas.ipynb",
+      "code_cells": 124,
+      "executed_cells": 124,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/singh/supporting_inputs/reference_workspace/notebooks/Figure2_klein_pace.ipynb",
+      "code_cells": 40,
+      "executed_cells": 35,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/ancestry/0001_weinreb_metaclone_ancestry_worked_examples.ipynb",
+      "code_cells": 22,
+      "executed_cells": 22,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/ancestry/0002_evidence_review.ipynb",
+      "code_cells": 6,
+      "executed_cells": 6,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/clone_embedding/0001_saved_clone_umaps.ipynb",
+      "code_cells": 5,
+      "executed_cells": 5,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/dynamics/0001_weinreb_multilineage_metaclone_dynamics.ipynb",
+      "code_cells": 13,
+      "executed_cells": 13,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/programs/0001_weinreb_day2_hspc_metaclone_gene_programs.ipynb",
+      "code_cells": 75,
+      "executed_cells": 75,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/upstream/0010_ChronoClone_Weinreb2020.ipynb",
+      "code_cells": 34,
+      "executed_cells": 26,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/upstream/Figure2_klein_pace.ipynb",
+      "code_cells": 40,
+      "executed_cells": 35,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/upstream/klein_palantir_trajectories.ipynb",
+      "code_cells": 10,
+      "executed_cells": 10,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/v3_display/0001_manuscript_panels_and_evidence.ipynb",
+      "code_cells": 48,
+      "executed_cells": 48,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/current_source/v5_repair/0001_branch_restricted_pseudotime.ipynb",
+      "code_cells": 5,
+      "executed_cells": 5,
+      "saved_errors": 0,
+      "historical_source": true
+    },
+    {
+      "path": "analysis/weinreb/figure_panels/complete_metaclone_overview_20260916/complete_overview_and_analysis.ipynb",
+      "code_cells": 15,
+      "executed_cells": 15,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/weinreb/figure_panels/fast_slow_clone_size_20261113/0001_fast_slow_clone_size_panel.ipynb",
+      "code_cells": 2,
+      "executed_cells": 2,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/weinreb/figure_panels/figure3a_mc11_order_20261113/figure_3a_mc11_order.ipynb",
+      "code_cells": 2,
+      "executed_cells": 2,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/weinreb/figure_panels/figure4_uniform_labels_20260918/figure4_uniform_labels.ipynb",
+      "code_cells": 6,
+      "executed_cells": 6,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/weinreb/figure_panels/pseudotime_branch_panels_20260917/pseudotime_branch_panels.ipynb",
+      "code_cells": 5,
+      "executed_cells": 5,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/weinreb/figure_panels/square_output_panels_20260915/square_output_panels.ipynb",
+      "code_cells": 4,
+      "executed_cells": 4,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "analysis/weinreb/notebooks/01_v5_evidence_and_figures.ipynb",
+      "code_cells": 7,
+      "executed_cells": 7,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/curation/0001_curate_benchmark.ipynb",
+      "code_cells": 4,
+      "executed_cells": 4,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/curation/0002_preservation_checks.ipynb",
+      "code_cells": 3,
+      "executed_cells": 3,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/curation/0003_publication_preservation.ipynb",
+      "code_cells": 3,
+      "executed_cells": 3,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/ode_noise/notebooks/0001_simulation.ipynb",
+      "code_cells": 14,
+      "executed_cells": 14,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/ode_noise/notebooks/0002_noise_generation.ipynb",
+      "code_cells": 10,
+      "executed_cells": 10,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/ode_noise/notebooks/0003_t1_locked_method_noise_results.ipynb",
+      "code_cells": 20,
+      "executed_cells": 20,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/ode_noise/notebooks/0004_cyclone_applicability_diagnostic.ipynb",
+      "code_cells": 8,
+      "executed_cells": 8,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/ode_noise/notebooks/0005_t1_locked_four_method_noise_results.ipynb",
+      "code_cells": 19,
+      "executed_cells": 19,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/ode_noise/notebooks/0006_benchmark_evidence_and_smoke.ipynb",
+      "code_cells": 5,
+      "executed_cells": 5,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/ode_noise/provenance/artwork/0002_figure1_conceptual_panel_reflow.ipynb",
+      "code_cells": 5,
+      "executed_cells": 5,
+      "saved_errors": 0,
+      "historical_source": false
+    },
+    {
+      "path": "benchmarks/ode_noise/provenance/locked_diagnostic_notebook/0004_cyclone_applicability_diagnostic.ipynb",
+      "code_cells": 8,
+      "executed_cells": 8,
+      "saved_errors": 0,
+      "historical_source": false
+    }
+  ]
+}

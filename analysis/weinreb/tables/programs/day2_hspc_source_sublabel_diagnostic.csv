@@ -1,0 +1,32 @@
+lineage_bias,metaclone,cell_type,n_cells,n_clones
+Basophil,13,prog_1,3,3
+Basophil,13,prog_2,44,35
+Erythroid / Mk,10,prog_1,17,16
+Erythroid / Mk,10,prog_2,19,16
+Erythroid / Mk,17,prog_1,1,1
+Erythroid / Mk,17,prog_2,38,21
+Erythroid / Mk,23,prog_1,26,23
+Monocyte,6,prog_1,1,1
+Monocyte,6,prog_2,36,33
+Monocyte,7,prog_2,37,23
+Monocyte,8,prog_1,4,4
+Monocyte,8,prog_2,48,38
+Monocyte,12,prog_1,1,1
+Monocyte,12,prog_2,57,41
+Multi-lineage,0,prog_2,55,35
+Multi-lineage,2,prog_1,23,20
+Multi-lineage,3,prog_1,60,50
+Multi-lineage,3,prog_2,3,3
+Multi-lineage,4,prog_1,2,1
+Multi-lineage,4,prog_2,28,21
+Multi-lineage,5,prog_1,2,2
+Multi-lineage,5,prog_2,32,25
+Multi-lineage,11,prog_1,33,28
+Multi-lineage,11,prog_2,2,2
+Multi-lineage,18,prog_1,2,2
+Multi-lineage,18,prog_2,48,38
+Neutrophil,1,prog_1,17,17
+Neutrophil,9,prog_2,51,29
+Neutrophil,14,prog_2,41,26
+Neutrophil,16,prog_2,27,20
+Neutrophil,22,prog_2,17,17

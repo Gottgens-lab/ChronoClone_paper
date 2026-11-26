@@ -1,0 +1,37 @@
+program,metaclone,adjusted_score_sd,lineage_bias
+Interferon Alpha Response,10,0.30892180723214974,Erythroid / Mk
+Interferon Gamma Response,10,0.2103914688256084,Erythroid / Mk
+Fatty Acid Metabolism,10,-0.3328148276767796,Erythroid / Mk
+G2-M Checkpoint,10,-0.40901161961801574,Erythroid / Mk
+E2F Targets,10,-0.4750967240783241,Erythroid / Mk
+Cholesterol Homeostasis,10,-0.0025060210553340956,Erythroid / Mk
+mTORC1 Signaling,10,-0.3023583885261627,Erythroid / Mk
+Myc Targets V2,10,-0.4275083258673551,Erythroid / Mk
+Pperoxisome,10,-0.17701762582918723,Erythroid / Mk
+Androgen Response,10,0.05783423666300069,Erythroid / Mk
+Xenobiotic Metabolism,10,-0.2477200073588508,Erythroid / Mk
+Coagulation,10,0.3661066999961006,Erythroid / Mk
+Interferon Alpha Response,17,-0.0899865054870774,Erythroid / Mk
+Interferon Gamma Response,17,-0.05206752332374265,Erythroid / Mk
+Fatty Acid Metabolism,17,0.35282231227628436,Erythroid / Mk
+G2-M Checkpoint,17,0.28115774333448057,Erythroid / Mk
+E2F Targets,17,0.14667105016905563,Erythroid / Mk
+Cholesterol Homeostasis,17,0.009150679744720142,Erythroid / Mk
+mTORC1 Signaling,17,0.1360884772476708,Erythroid / Mk
+Myc Targets V2,17,0.1336590985848506,Erythroid / Mk
+Pperoxisome,17,0.12963296974536648,Erythroid / Mk
+Androgen Response,17,0.3468789221641936,Erythroid / Mk
+Xenobiotic Metabolism,17,0.3072709396036922,Erythroid / Mk
+Coagulation,17,-0.1798013728431801,Erythroid / Mk
+Interferon Alpha Response,23,0.8584366980781009,Erythroid / Mk
+Interferon Gamma Response,23,0.8235773674556295,Erythroid / Mk
+Fatty Acid Metabolism,23,-0.3630662841970932,Erythroid / Mk
+G2-M Checkpoint,23,-0.27118879878875884,Erythroid / Mk
+E2F Targets,23,-0.3064552992520478,Erythroid / Mk
+Cholesterol Homeostasis,23,-0.6126027185615994,Erythroid / Mk
+mTORC1 Signaling,23,-0.4702775202901195,Erythroid / Mk
+Myc Targets V2,23,-0.44724406591911015,Erythroid / Mk
+Pperoxisome,23,-0.4416955912907492,Erythroid / Mk
+Androgen Response,23,-0.2137305144100915,Erythroid / Mk
+Xenobiotic Metabolism,23,-0.2533190790494957,Erythroid / Mk
+Coagulation,23,-0.17278072781378095,Erythroid / Mk

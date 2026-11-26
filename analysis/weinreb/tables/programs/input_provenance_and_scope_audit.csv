@@ -1,0 +1,10 @@
+check,value
+input_path,/path/to/ChronoClone/reference_workspace/data/klein_metaclone_palantir_trajectories.h5ad
+input_sha256,4cb08c12dc70f5c3789a75a09a6399db06b3f6efe18147b9f2cca0908ba93911
+lineage_map_path,/path/to/ChronoClone/reference_workspace/Figure/fig2/data/fig2h_lineage_bias_map.csv
+lineage_map_sha256,b4d1af7b481a9b1a26d781feb449fb88d300d770c20633054e152f213fa18eb6
+shape,9714 x 25289
+population_removed_before_analysis,True
+n_current_metaclones,20
+n_current_lineage_families,5
+legacy_threshold_disagreements,2

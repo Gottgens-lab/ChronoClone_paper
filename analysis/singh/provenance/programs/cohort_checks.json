@@ -1,0 +1,18 @@
+{
+  "resolved_cells": 2713,
+  "resolved_families": 1514,
+  "removed_cells": 6,
+  "old_cells": 2719,
+  "old_original_ids": 1516,
+  "shared_registry_exact_match": true,
+  "source_uns_keys": [
+    "cellType_colors",
+    "cell_type_2_colors",
+    "cell_type_colors",
+    "diffmap_evals",
+    "iroot",
+    "log1p",
+    "neighbors",
+    "palantir_fates_colors"
+  ]
+}

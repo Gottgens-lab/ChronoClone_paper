@@ -1,0 +1,18 @@
+OBSERVED EVIDENCE
+- Day-2 prog_1 + prog_2 contained 1,041 cells; 775 cells from 569 assigned LARRY clones entered the 20-metaclone analysis.
+- Metaclone support ranged from 17 to 50 clone pseudobulks.
+- all_metaclones_ovr: 20 contrasts, 133 of 1000 Hallmark tests passed tier-wide FDR < 0.05.
+- lineage_bias_ovr: 5 contrasts, 41 of 250 Hallmark tests passed tier-wide FDR < 0.05.
+- lineage_bias_pairwise: 10 contrasts, 70 of 500 Hallmark tests passed tier-wide FDR < 0.05.
+- within_lineage_ovr: 19 contrasts, 91 of 950 Hallmark tests passed tier-wide FDR < 0.05.
+- within_lineage_pairwise: 40 contrasts, 204 of 2000 Hallmark tests passed tier-wide FDR < 0.05.
+- Largest significant all-metaclone program effects: MC9 vs equal-MC mean of other 19: Glycolysis (+0.93 SD, q=1.4e-08); MC23 vs equal-MC mean of other 19: Interferon Alpha Response (+0.91 SD, q=0.034); MC11 vs equal-MC mean of other 19: Interferon Alpha Response (+0.91 SD, q=0.0087).
+- Largest significant lineage-family program effects: Erythroid / Mk vs equal-family mean of other 4: Interferon Alpha Response (+0.46 SD, q=0.017); Monocyte vs equal-family mean of other 4: Interferon Alpha Response (-0.44 SD, q=7.8e-05); Erythroid / Mk vs equal-family mean of other 4: Interferon Gamma Response (+0.43 SD, q=0.019).
+- Largest significant within-family program effects: MC1 vs equal-MC mean of Neutrophil peers: Interferon Alpha Response (+0.97 SD, q=0.03); MC11 vs equal-MC mean of Multi-lineage peers: Interferon Alpha Response (+0.85 SD, q=0.028); MC11 vs equal-MC mean of Multi-lineage peers: Interferon Gamma Response (+0.76 SD, q=0.02).
+
+INTERPRETATION BOUNDARIES
+- 36 of 40 within-family metaclone pairs met the shared-library support gate; unsupported estimates remain visible and flagged.
+- Program associations may reflect early maturation state or technical library composition despite adjustment.
+- Lineage-bias families are outcome-informed, nested partitions; pooled-family effects are clone-weighted in this dataset.
+- MC13 is the only Basophil metaclone, so no within-Basophil comparison is estimable.
+- MC0 and MC5 follow the current manual Figure-2 map (Multi-lineage); an older threshold rule would differ.

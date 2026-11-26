@@ -1,0 +1,19 @@
+{
+  "libraries": [
+    "GO_Biological_Process_2023",
+    "GO_Molecular_Function_2023",
+    "KEGG_2019_Mouse",
+    "MSigDB_Hallmark_2020",
+    "Reactome_2022",
+    "WikiPathways_2019_Mouse"
+  ],
+  "eligible_terms_per_query": 1914,
+  "programs": 8,
+  "query_types": 2,
+  "total_tests": 30624,
+  "q05_tests": 1204,
+  "displayed_labels_q05": 8,
+  "background_unique_uppercase_genes": 2000,
+  "zero_hit_tests": 14091,
+  "one_hit_tests": 8431
+}

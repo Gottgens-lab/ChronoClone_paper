@@ -1,0 +1,32 @@
+{
+  "schema": "chronoclone_paper_benchmark_evidence_v1",
+  "status": "pass",
+  "summary_rows": 13005,
+  "grid_coordinates": 2601,
+  "historical_method_condition_rows": 1300500,
+  "historical_method_failures": 248166,
+  "summary_hashes_verified": 7,
+  "bounded_smoke_status": "pass",
+  "full_aggregate_verified_here": true,
+  "full_benchmark_rerun": false,
+  "runtime": {
+    "manager": "existing micromamba-compatible environment, reused without modification",
+    "name": "chronoclone",
+    "absolute_macbook_path": "/path/to/ChronoClone/.runtime/chronoclone",
+    "kernel": "chronoclone-paper",
+    "current_prefix": "/path/to/ChronoClone/.runtime/chronoclone",
+    "current_executable": "/path/to/ChronoClone/.runtime/chronoclone/bin/python",
+    "python": "3.11.15",
+    "versions": {
+      "numpy": "2.4.6",
+      "pandas": "2.3.3",
+      "scipy": "1.17.1",
+      "scikit-learn": "1.9.0",
+      "scanpy": "1.11.5",
+      "matplotlib": "3.11.0",
+      "nbformat": "5.10.4",
+      "nbclient": "0.11.0"
+    },
+    "execution_command": "python benchmarks/run_notebook.py benchmarks/ode_noise/notebooks/0006_benchmark_evidence_and_smoke.ipynb --kernel chronoclone-paper"
+  }
+}

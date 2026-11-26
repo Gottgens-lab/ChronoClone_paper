@@ -1,0 +1,8 @@
+check,value
+source_path,/path/to/ChronoClone/reference_workspace/data/gene_sets/MSigDB_Hallmark_2020.gmt
+local_checkpoint,/path/to/ChronoClone/analysis_workspace/analyses/weinreb_day2_hspc_metaclone_gene_programs_20260902/resources/MSigDB_Hallmark_2020.gmt
+sha256,4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81
+programs,50
+minimum_mapped_genes,12
+median_mapped_genes,96.0
+maximum_mapped_genes,189

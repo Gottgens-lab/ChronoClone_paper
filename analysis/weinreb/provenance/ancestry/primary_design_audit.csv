@@ -1,0 +1,2 @@
+n_fit_clones,n_fit_metaclones,reference_library_fraction,covariates,rank_dropped,rank,condition_number,source_adjustment_estimable,removed_small_group_clones
+569,20,libfrac__LSK_d2_2,libfrac__LK_d2|libfrac__LSK_d2_1|libfrac__LSK_d2_3|libfrac__d2_1|libfrac__d2_2|libfrac__d2_3,,26,7.0667038308111945,True,0

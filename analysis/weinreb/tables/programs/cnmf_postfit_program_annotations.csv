@@ -1,0 +1,14 @@
+program,cell_cycle_flag,mitochondrial_flag,ribosomal_flag,sex_associated_flag,hemoglobin_context_flag,nuclear_qc_malat1_flag,stress_immediate_early_flag,library_associated_flag,qc_associated_flag,any_technical_or_context_flag,best_reference_type,best_reference_program,best_reference_overlap_n,best_reference_global_fdr,postfit_annotation
+Weinreb_D2_cNMF_K13_P01,False,False,False,False,False,False,False,False,False,False,Hallmark,UV Response Up,4,0.569008494891185,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P02,False,False,False,False,False,False,False,False,False,False,Hallmark,Estrogen Response Early,4,0.569008494891185,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P03,False,False,False,False,False,False,False,False,False,False,Hallmark,IL-6/JAK/STAT3 Signaling,3,0.569008494891185,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P04,False,False,False,False,False,False,False,False,False,False,Hallmark,Protein Secretion,3,0.569008494891185,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P05,False,False,False,False,False,False,False,False,False,False,Hallmark,Myc Targets V2,3,0.569008494891185,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P06,False,False,False,False,False,False,False,False,False,False,Hallmark,TGF-beta Signaling,2,0.7548185523611421,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P07,False,False,False,False,False,False,False,True,False,True,Hallmark,TNF-alpha Signaling via NF-kB,5,0.569008494891185,Flagged: library_associated
+Weinreb_D2_cNMF_K13_P08,False,False,False,False,False,False,False,True,False,True,Hallmark,E2F Targets,5,0.569008494891185,Flagged: library_associated
+Weinreb_D2_cNMF_K13_P09,False,False,False,False,False,False,False,False,False,False,Hallmark,Apoptosis,4,0.569008494891185,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P10,False,False,False,False,False,False,False,False,False,False,Curated_hematopoietic,KEGG::Hematopoietic_cell_lineage,3,0.569008494891185,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P11,True,False,False,False,False,False,False,False,False,True,Hallmark,E2F Targets,10,0.00019253075094735308,Flagged: cell_cycle
+Weinreb_D2_cNMF_K13_P12,False,False,False,False,False,False,False,False,False,False,Hallmark,Unfolded Protein Response,3,0.569008494891185,Unannotated by fixed references
+Weinreb_D2_cNMF_K13_P13,False,False,False,False,False,False,False,False,False,False,Hallmark,mTORC1 Signaling,5,0.569008494891185,Unannotated by fixed references
